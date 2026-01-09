@@ -1,0 +1,1067 @@
+﻿line_number,cleaned_line,char_length,word_count,sentiment,compound,dominant_topic,topic_keywords,topic_confidence,cluster
+1,"Good luck, Chihiro",18,3,positive,0.7096,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.7233536734203065,2
+2,Chihiro? Chihiro!,17,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249835180973121,2
+3,Were almost there.,18,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248321855263712,0
+4,This really is the middle of nowhere.,37,7,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+5,Ill have to shop in the next town.,34,8,negative,-0.4215,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6864423381207034,1
+6,Well just have to make do.,26,6,positive,0.2732,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6248745815773661,6
+7,"Look, theres the elementary school.",35,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.521573190735667,5
+8,"Thats your new school, Chihiro.",31,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.42891000296882764,5
+9,"Why, it looks very nice.",24,5,positive,0.4754,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6890748123245383,2
+10,I liked my old school.,22,5,positive,0.4215,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6246955194939082,6
+11,"Mom, my flowers got bent.",25,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.40003992424990237,3
+12,"No wonder,",10,2,negative,-0.296,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6246569121323668,2
+13,A little water,14,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.41270806348910105,4
+14,"My first bouquet,",17,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6247049542143498,0
+15,What about the rose,19,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6246647269791674,1
+16,One rose?,9,2,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6868619936611537,1
+17,You dropped the card.,21,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6247142705724471,1
+18,Now pull yourself together.,27,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6890282550196036,0
+19,SPIRITED AWAY,13,2,positive,0.3182,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249134767765087,6
+20,Wait a minute.,14,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.42217829562832104,3
+21,I dont get it.,14,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6888216709141686,6
+22,That must be it up there.,25,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.624884608399532,2
+23,The blue one on the end.,24,6,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6869224422480676,1
+24,Thats it.,9,2,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249593929351108,6
+25,I guess I turned off too soon.,30,7,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.5169129234112105,3
+26,Maybe if we go straight?,24,5,positive,0.2263,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6247878794551874,2
+27,"Oh, please.",11,2,positive,0.3182,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249704751153283,1
+28,Lets just see whats up here.,28,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.5079899173024864,3
+29,- What are those things?,24,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+30,"Dad, are you sure?",18,4,positive,0.3182,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6888003043874311,6
+31,"Dont worry, weve got 4-wheel drive.",35,7,positive,0.3412,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.5939624920157079,6
+32,"Sit down, Chihiro.",18,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6865610803623451,2
+33,What are you doing? Slow down!,30,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+34,Theres a tunnel.,16,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.42107764201873704,4
+35,Whats this building?,20,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6877443414720548,2
+36,It looks like a gate.,21,5,positive,0.3612,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6246689271258514,2
+37,"Honey, I think we should go back.",33,7,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6860362586709493,6
+38,Chihiro!,8,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249835180973121,2
+39,Honestly...,11,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+40,"Look at this, its just plaster.",31,6,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249604403162062,6
+41,This things pretty new.,23,4,positive,0.4939,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6890166399015909,1
+42,The airs blowing in.,20,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+43,What is it?,11,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+44,Lets see whats on the other side.,33,7,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.5079899173024864,3
+45,"Its creepy, Dad.",16,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249614924984975,6
+46,Dont be such a chicken.,23,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249812413154204,6
+47,The movers will be there soon.,30,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249022866434125,2
+48,So? Theyve got the keys.,24,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249529729038811,2
+49,"I know, but...",14,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249351226226786,2
+50,No! I wont go.,14,4,negative,-0.3595,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248116564983632,0
+51,"Dad, lets go.",13,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6892154800464525,6
+52,"Come on, itll be fun.",21,5,positive,0.5106,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.44410756760029935,4
+53,Im staying here!,16,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6247044766576,0
+54,"Chihiro, you wait in the car.",29,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6889553823466934,2
+55,Mom...,6,1,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249630723584787,6
+56,Wait up!,8,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249570095743268,2
+57,Watch your step.,16,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6892768743136276,0
+58,"Chihiro, dont cling.",20,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.5529038915826799,2
+59,- What is this?,15,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+60,- A train.,10,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.624862033791092,0
+61,Lets find out.,14,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6886374602477993,6
+62,"Houses, way out here?",21,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.624970355450435,0
+63,I knew it.,10,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6248249079714704,2
+64,Its an abandoned theme park.,28,5,negative,-0.4588,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.624753903688754,0
+65,They built lots of them,23,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6247929836227943,0
+66,But they went bust,18,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248956304634925,1
+67,This must be one of them.,25,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.4208535253474665,4
+68,"Wait, where are we going?",25,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.689257263227855,2
+69,"Lets go back, Dad.",18,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.7251808985597342,6
+70,Please!,7,1,positive,0.3802,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249704751153283,1
+71,"Mom, that buildings moaning.",28,4,negative,-0.1027,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249630723584787,6
+72,Its just the wind.,18,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6246327000058087,6
+73,What a lovely spot.,19,4,positive,0.5859,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6246201233943545,1
+74,This wouldve been a river.,26,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248433697876608,1
+75,Do you smell something?,23,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6248617070586894,2
+76,- Something smells good.,24,3,positive,0.4404,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6871656038547589,2
+77,Maybe theyre open,17,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6892658725841014,0
+78,"Hurry up, Chihiro.",18,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6887933001772044,2
+79,Wait for me!,12,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249570095743268,2
+80,This way.,9,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.624970355450435,0
+81,Can you believe it?,19,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+82,Theres nobody here.,19,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249046165662007,1
+83,Over there.,11,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+84,Come on!,8,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249747545866372,2
+85,Come take a look.,17,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.49967009309114263,3
+86,This is amazing.,16,3,positive,0.5859,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+87,"Hello, is anybody here?",23,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+88,"Come on, Chihiro.",17,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6892992947739359,2
+89,You got customers!,18,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.4353976167940039,4
+90,Dont worry.,11,2,positive,0.3412,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6864543393367001,6
+91,Youre right.,12,2,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6893153043981369,1
+92,What kind of bird is this?,26,6,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248495032646271,0
+93,"Its delicious! Chihiro, try some.",33,5,positive,0.6114,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.43632837371859984,4
+94,I dont want any.,16,4,negative,-0.0572,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6881911852195273,6
+95,Cant we go?,11,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249629498492011,2
+96,"Dont worry, your fathers here.",30,5,positive,0.3412,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6864543393367001,6
+97,Ive got credit cards and cash.,30,6,positive,0.3818,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6888564896011423,2
+98,"Have some, Chihiro.",19,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249835180973121,2
+99,- Mustard.,10,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+100,Mom! Dad!,9,2,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6892821803322838,6
+101,What a weird building.,22,4,negative,-0.1779,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6246834841640385,2
+102,A train!,8,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.624862033791092,0
+103,You cant be here.,17,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249629498492011,2
+104,Its almost sundown.,19,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248321855263712,0
+105,Theyre lighting the lamps.,26,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249167666305279,0
+106,Ill hold them off.,18,4,negative,-0.4215,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.687129264695346,1
+107,Whats his problem?,18,3,negative,-0.4019,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6882247402439116,2
+108,Dad?,4,1,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249614924984975,6
+109,"Dad, lets go home.",18,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.7251207397925246,6
+110,"Lets go, Dad!",13,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6892154800464525,6
+111,Dad!,4,1,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249614924984975,6
+112,Mom!,4,1,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249630723584787,6
+113,Mommy!,6,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+114,Water!,6,1,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248718114772234,1
+115,No...,5,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+116,Its just a dream.,17,4,positive,0.25,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248925028655299,0
+117,"Wake up, wake up.",17,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6247811552545067,1
+118,Please wake up.,15,3,positive,0.3182,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.686532418884908,1
+119,"Its just a dream, a stupid dream.",33,7,negative,-0.1027,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6813856348102949,0
+120,"Go away, disappear.",19,3,negative,-0.2263,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6768144997959412,6
+121,Disappear.,10,1,negative,-0.2263,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6186814750892207,0
+122,Im fading away!,15,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249134767765087,6
+123,This has to be a dream.,23,6,positive,0.25,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248925028655299,0
+124,Dont be afraid.,15,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6848846861197856,6
+125,"No, no, no!",11,3,negative,-0.7088,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+126,Open your mouth. Eat this.,26,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.7251610854160768,0
+127,Unless you eat something,24,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249395054603643,0
+129,Dont worry.,11,2,positive,0.3412,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6864543393367001,6
+130,Chew it and swallow.,20,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6247449929223776,2
+131,"Good, now youll be fine.",24,5,positive,0.5719,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.7234060653533181,2
+132,See for yourself.,17,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249610243685011,2
+133,I can touch you.,16,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+134,Of course.,10,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6247925850140987,0
+135,Wheres Mom and Dad?,19,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.7247753048393245,6
+136,"You cant see them now,",22,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6892664668259466,2
+137,Quiet!,6,1,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248913463394082,0
+138,Its looking for you.,20,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6246189572688514,6
+139,I cant stand up.,16,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6807779389168254,2
+140,- My legs dont work.,20,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.7206330293092961,6
+141,In the name of the wind and,27,7,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.687424660229357,6
+142,Stand up!,9,2,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6140755851057024,1
+143,Dont breathe while were on the bridge.,38,7,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.7217515625007627,6
+144,One tiny breath will break my spell.,36,7,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.5951164513821328,2
+145,Im scared.,10,2,negative,-0.4404,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+146,Be calm.,8,2,positive,0.3182,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6247449635123163,2
+147,"Welcome, your presence honors us.",33,5,positive,0.743,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6149106757378355,1
+148,"Greetings, welcome.",19,2,positive,0.7003,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6833351501249031,6
+149,- Ive finished my rounds.,25,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6886381806023408,2
+150,Take a deep breath.,19,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6880795947978205,2
+151,Hold it.,8,2,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248081056546236,1
+152,Welcome back.,13,2,positive,0.4588,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6800570999036664,6
+153,Just a little further.,22,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249542245366261,0
+154,Master Haku!,12,2,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.44848780479944184,5
+155,Where have you...,17,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+156,A human?,8,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249216885730127,0
+157,Run!,4,1,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6247221624026339,1
+158,"Master Haku, Master Haku!",25,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.44848780479944184,5
+159,I smell something.,18,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6248617070586894,2
+160,I smell humans!,15,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6891545206639819,2
+161,- They know youre here.,23,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.4180826442424285,4
+162,"No, Chihiro, you did very well.",31,6,neutral,0.0498,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249835180973121,2
+163,Now listen.,11,2,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248840159966761,1
+164,"If you stay here, theyll find you.",34,7,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6891447785257866,6
+165,Ill distract them while you get away.,37,7,negative,-0.6124,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.5274883483865368,5
+166,"No, dont go!",12,3,negative,-0.3595,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249812413154204,6
+167,"You have no choice,",19,4,negative,-0.296,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+168,"and save your parents, too.",27,5,positive,0.4939,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6886422001273235,0
+169,So I wasnt dreaming.,20,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+170,Listen carefully.,17,2,positive,0.128,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248840159966761,1
+171,"After Im gone,",14,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.624921173255951,1
+172,Take the stairs,15,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249564640689766,2
+173,Youll find,10,2,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6828984691909719,6
+174,they stoke the fires.,21,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6245803842130748,6
+175,Look for Kamaji.,16,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.40485023968867945,3
+176,Kamaji?,7,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249533416211954,2
+177,Ask him for work.,17,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6850830151265412,6
+178,"If he refuses, keep asking.",27,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6887252654986445,1
+179,"If you dont work,",17,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6873310718412374,6
+180,Yubaba?,7,1,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249586916075769,1
+181,Shes the sorceress who rules our world.,39,7,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.7431591088327245,6
+182,Shell try to trick you into leaving...,38,7,negative,-0.0516,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248679088082058,1
+183,but keep asking for work.,25,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.7179709559436052,1
+184,"The works hard, but it will protect you.",40,8,positive,0.4939,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248199061907278,0
+185,"Master Haku, Master Haku!",25,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.44848780479944184,5
+186,I have to go.,13,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+187,"- Remember Im your friend, Chihiro.",35,5,positive,0.4939,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.7231595810427282,2
+188,You told me long ago.,21,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.5256336979171606,0
+189,My name is Haku.,16,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.688155729965345,6
+190,Here I am!,10,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+191,"Master Haku, Yubabas waiting.",29,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.45557445089677673,0
+192,"I know, Ive been searching too.",31,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6892043618178924,2
+193,Um...,5,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+194,Excuse me.,10,2,positive,0.0772,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6247486577259893,6
+195,Um...,5,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+196,Are you Kamaji?,15,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249533416211954,2
+197,Haku sent me.,13,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249827369555452,6
+198,"What, all at once?",18,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+199,"Get to work, you little runts!",30,6,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.5815783670334007,6
+200,"I am Kamaji, slave to the boilers",33,7,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249533416211954,2
+201,"Step on it, boys!",17,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6891773305330158,0
+202,Please let me work here.,24,5,positive,0.3182,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.7177537043672374,1
+203,Ive got all the help I need.,28,7,positive,0.4019,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.7496740565759357,2
+204,Ill never run out of help.,26,6,neutral,-0.0258,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.426275219584846,4
+205,"Oh, Im sorry.",13,3,negative,-0.0772,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249255959828995,0
+206,Wait a second.,14,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249570095743268,2
+207,Out of the way.,15,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.624970355450435,0
+208,"Wait, what do I do with this?",29,7,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249570095743268,2
+209,Do I leave it here?,19,5,negative,-0.0516,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248187088774673,1
+210,Finish what you start.,22,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6246937247150828,1
+211,"Get to work, runts!",19,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.7219964691867109,6
+212,"And you, better watch it.",25,5,positive,0.4404,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6890244875805982,0
+213,"If they dont work,",18,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6873310718412374,6
+214,Theres no work for you here.,28,6,negative,-0.296,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.674169146944652,1
+215,You sootballs got a problem?,28,5,negative,-0.4019,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6878488574657535,2
+216,Get to work!,12,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6878269554266909,6
+217,Chow time!,10,2,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248929667695764,1
+218,"What, you guys at it again?",27,6,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6246985557631506,6
+219,Give it a rest.,15,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249505704102412,0
+220,I keep telling you to leave it out.,35,8,negative,-0.0516,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6891549337843297,1
+221,Foods here.,11,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+222,The human! Youre gonna catch it.,32,6,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.5078707961158215,1
+223,Theyre having a fit about it upstairs.,38,7,positive,0.3612,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6887914317634082,0
+224,Shes my granddaughter.,22,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6875810619379492,0
+225,Your granddaughter!,19,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6247412208771537,0
+226,"She says she wants work,",24,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.7178336130062354,1
+227,Could you take her,18,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6866784067953147,2
+228,This girl can handle herself.,29,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248873093318602,0
+229,Not a chance.,13,3,negative,-0.1877,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6247797460717314,0
+230,Not even for this?,18,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6248502780693764,2
+231,"If you want work, you have to",29,7,positive,0.0772,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.687693874714227,6
+232,Might as well try your luck.,28,6,positive,0.6249,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.5170612247182484,1
+233,Fine!,5,1,positive,0.2714,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249447061589181,2
+234,What about,10,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+235,"Yes, maam.",10,2,positive,0.4019,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6890946452594278,2
+236,What a klutz.,13,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6247913281106977,2
+237,"Yes, maam.",10,2,positive,0.4019,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6890946452594278,2
+238,Leave the shoes.,16,3,negative,-0.0516,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6889726380457339,1
+239,Yesm.,5,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+240,Arent you going to thank Kamaji?,32,6,positive,0.3612,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.5927108953970848,2
+241,Thank you very much.,20,4,positive,0.3612,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249654244346415,1
+242,Good luck.,10,2,positive,0.7096,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6876739378987241,2
+243,Yubaba lives on,15,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249586916075769,1
+244,"Move it, will you?",18,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+245,Youll lose your nose.,21,4,negative,-0.4019,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6159331314384899,2
+246,- One more elevator after this.,31,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6868665983969736,1
+247,Were here.,10,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+248,"Welcome, sir!",13,2,positive,0.5093,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6801026163147285,1
+249,This elevator stops here.,25,4,negative,-0.1531,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6246748666678364,1
+250,- Hes following us.,19,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.688346690806896,1
+251,Here we are.,12,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+252,Your room is on the right.,26,6,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249736551218553,1
+253,- Lin?,6,1,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249641987589858,0
+254,Something smells.,17,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6246916254475882,2
+255,Its human.,10,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249216885730127,0
+256,Is that so?,11,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+257,"I smell it, I do.",17,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6248617070586894,2
+258,Youre hiding something.,23,3,negative,-0.296,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249679681922922,1
+259,Tell me the truth.,18,4,positive,0.3182,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249168218826381,0
+260,Maybe its this.,15,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+261,Roasted newt? Give it here!,27,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249505704102412,0
+262,Not a chance.,13,3,negative,-0.1877,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6247797460717314,0
+263,Im begging you.,15,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+264,"Pull the lever to go up, sir.",29,7,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6804246473993529,0
+265,Cant you even knock?,20,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6885895312541642,2
+266,What a plain little girl.,25,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6889558746581368,0
+267,"Now, come.",10,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249747545866372,2
+268,"I said, come!",13,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6874733249714425,2
+269,Ow...,5,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+270,What a racket.,14,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.624730371620015,1
+271,Please...,9,1,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249704751153283,1
+272,Let me work here.,17,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6739780876209258,1
+273,Stop your babbling.,19,3,negative,-0.296,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6248790032512778,6
+274,Why do I need,13,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249083029032315,2
+275,"Besides, this is no place for humans.",37,7,negative,-0.296,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.689045464383701,2
+276,Millions of spirits come here...,32,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249747545866372,2
+277,to purge themselves of toil and care.,37,7,positive,0.4939,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6776982007147229,6
+278,"Your parents, my goodness!",26,4,positive,0.5093,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6889466841329057,0
+279,Gobbling our guests food,24,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+280,"Just deserts, Id say.",21,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6248386070406359,6
+281,"And as for you, youll never",27,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6862743235461005,2
+282,Youd make a lovely piglet.,26,5,positive,0.5859,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.5376085024708488,1
+283,Or perhaps a lump of coal?,26,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+284,"Trembling, arent you?",21,3,negative,-0.3612,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6248896131446205,2
+285,"Still, Im impressed",19,3,positive,0.4767,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249445622573795,0
+286,Someone mustve helped you.,26,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6891141322833059,0
+287,I must thank your friend.,25,5,positive,0.6908,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.540478755693398,2
+288,"Just who was it, my dear?",25,6,positive,0.3818,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.62491737136315,0
+289,Please let me work here!,24,5,positive,0.3802,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.7177537043672374,1
+290,Not that again!,15,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+291,I want to work here!,20,5,positive,0.1511,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.687693874714227,6
+292,Shut your mouth!,16,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248658452713473,0
+293,Why on earth should I hire you?,31,7,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+294,Anyone can see youre,20,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.40190988688385476,4
+295,What job would I possibly have,30,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6840105044689118,2
+296,Youre wasting your time.,24,4,negative,-0.4019,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.688325600067649,1
+297,Or maybe Ill give you,21,5,negative,-0.4215,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.4126352019607661,4
+298,and work you night and day...,29,6,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6857432586649773,6
+299,until you breathe your very last breath!,40,7,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.3992071179209884,3
+300,"Now, now.",9,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+301,Im coming.,10,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249278078795584,0
+302,Are you still here?,19,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249445622573795,0
+303,I want to work here!,20,5,positive,0.1511,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.687693874714227,6
+304,Keep your voice down.,21,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6890405777297719,1
+305,"Ill be right there, just be patient.",36,7,negative,-0.4215,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6893146274093438,1
+306,Thats a good baby.,18,4,positive,0.4404,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.5362019816617248,3
+307,Please give me a job!,21,5,positive,0.3802,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.5439170149957384,0
+308,"All right, just pipe down.",26,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249736551218553,1
+309,"There, there, good baby.",24,4,positive,0.4404,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6877203218863693,2
+310,Thats your contract.,20,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.4362621549837701,5
+311,Sign on the bottom line.,24,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6891187792680308,0
+312,Ill put you to work.,20,5,negative,-0.4215,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.7165234309425083,1
+313,But one peep out of you,23,6,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6868324477656833,1
+314,and Ill turn you into a piglet.,31,7,negative,-0.4215,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.7234068238226864,1
+315,Should I sign here?,19,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6247425425345016,0
+316,Where else?,11,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+317,Unbelievable.,13,1,positive,0.2023,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+318,What a ridiculous oath I took.,30,6,negative,-0.3612,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248225964095137,0
+319,Im bound to give work,21,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.41421795242241255,4
+320,- Finished?,11,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6246919695723823,2
+321,"- Chihiro, thats your name?",27,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.526148846469863,3
+322,Quite a fancy name.,19,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6873980508852805,6
+323,"From now on, your name is Sen.",30,7,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.4207117998182969,5
+324,Understand? Sen.,16,2,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6862438495662253,1
+325,"Answer me, Sen!",15,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.624979379491085,1
+326,I understand.,13,2,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248530526121671,1
+327,Yes maam?,9,2,positive,0.4019,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6890946452594278,2
+328,"- See to her, shes starting work today.",39,7,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6439784080243992,6
+329,What is your name?,18,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249480216206046,6
+330,"Chi... I mean, Sen.",19,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.624979379491085,1
+331,"Then follow me, Sen.",20,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.4564410996675216,5
+332,"Haku, I...",10,2,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249827369555452,6
+333,No idle chatter.,16,3,negative,-0.296,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+334,Call me Master Haku.,20,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.44848780479944184,5
+335,Im afraid even Yubaba,21,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.321174736161087,4
+336,Humans arent allowed here.,26,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.7250505007185228,2
+337,She signed the contract.,24,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6890767667159298,1
+338,- What!,7,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+339,- Dont send her to us.,22,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6800197914026506,6
+340,She wont stink,14,3,positive,0.3089,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6891832688482186,0
+341,"If she doesnt measure up,",25,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+342,Now go back to work.,20,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6878021001595478,6
+343,"What, youre dumping her on me?",30,6,negative,-0.3182,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249679681922922,1
+344,You wanted an assistant.,24,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6246433182915906,1
+345,Thats right! Lins just perfect.,31,5,positive,0.6114,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.3989686487431613,5
+346,"Go, Sen.",8,2,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.624979379491085,1
+347,Yes sir.,8,2,positive,0.4019,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.67666899717962,2
+348,What a pain.,12,3,negative,-0.5106,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+349,Off you go.,11,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+350,Come on.,8,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249747545866372,2
+351,You pulled it off!,18,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+352,"Youre so thick, I was worried.",30,6,negative,-0.3535,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6863378811735669,1
+353,Keep your wits about you.,25,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.624880794974795,1
+354,Whats wrong?,12,2,negative,-0.4767,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6877367611031868,2
+355,My legs are shaking.,20,4,negative,-0.1779,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.624629709477838,6
+356,This is where we live.,22,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+357,"Eat, sleep and youll be fine.",29,6,positive,0.2023,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.4230432525478593,4
+358,Your apron.,11,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+359,Trousers.,9,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+360,Youre so puny.,14,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249679681922922,1
+361,Too big.,8,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249185240060838,0
+362,"Lin, are there...",17,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249641987589858,0
+363,What?,5,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+364,Are there two Hakus here?,25,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.4067793174928818,4
+365,Two of that one?,16,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6878733882912853,1
+366,Still too big.,14,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.689216020977394,0
+367,Hes Yubabas apprentice.,23,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.5168206103114026,1
+368,Now where was that...,21,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+369,"All right, here we go.",22,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249736551218553,1
+370,"Hey, are you okay?",18,4,positive,0.2263,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249334749959369,6
+371,"Whats all the noise, Lin?",25,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.3980944107490696,4
+372,New girl.,9,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.40091253546067734,4
+373,Meet me at the bridge.,22,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6891234171806888,6
+374,My shoes are gone.,18,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6888885774546775,1
+375,Thank you.,10,2,positive,0.3612,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249654244346415,1
+376,Follow me.,10,2,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6246460209444522,6
+377,"Dad, Mom, its me!",17,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6892821803322838,6
+378,Its Sen.,8,2,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.624979379491085,1
+379,Mom! Dad!,9,2,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6892821803322838,6
+380,Are they sick? Are they hurt?,29,6,negative,-0.7941,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6892583049077623,0
+381,Theyre just sleeping.,21,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6887938545988778,0
+382,They dont remember,18,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.4384820013554615,3
+383,Listen to me!,13,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248840159966761,1
+384,Dont get too fat,16,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.7222392744780173,6
+385,Hide these.,11,2,negative,-0.1779,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.624734427243752,1
+386,I thought they were gone.,25,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6888873160808163,1
+387,For when you go home.,21,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249315504494137,6
+388,This was a farewell card.,25,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6247142705724471,1
+389,Chihiro?,8,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249835180973121,2
+390,Chihiro...,10,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249835180973121,2
+391,Yubaba controls us,18,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249586916075769,1
+392,Youre Sen here.,15,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6891418828886896,1
+393,She almost got my name.,23,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.33672599493958266,4
+394,"Without your real name,",23,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6887646242968428,6
+395,I no longer remember mine.,26,5,negative,-0.296,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6887154609994625,2
+396,Your real name?,15,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6887646242968428,6
+397,"But its strange,",16,3,negative,-0.296,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+398,"Better eat, you must be hungry.",31,6,positive,0.4404,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.5957607920612386,0
+399,I dont want to.,15,4,negative,-0.0572,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6881911852195273,6
+400,I put a spell on them,21,6,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6795276451847092,1
+401,Youve had a rough time.,23,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6890876067233888,1
+402,You know the way back.,22,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.3191446895705247,4
+403,Thanks Haku.,12,2,positive,0.4404,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.686872715544753,6
+404,Where were you? I was worried.,30,6,negative,-0.296,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6246915427206384,1
+405,Sorry.,6,1,negative,-0.0772,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249255959828995,0
+406,Out of the way.,15,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.624970355450435,0
+407,"Come on,",8,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249747545866372,2
+408,"Starting today, you two",23,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.5243618027752541,5
+409,What? Thats Frog work!,22,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6878266102448456,6
+410,Orders from the top.,20,4,positive,0.2023,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+411,Arent you getting wet?,22,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6892356572007827,2
+412,"Sen, come on!",13,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.40928967704771374,4
+413,Coming!,7,1,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249278078795584,0
+414,Ill leave this open.,20,4,negative,-0.4588,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.5067308242065365,1
+415,"- On the big tub, Lin?",22,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.7249008075266918,0
+416,Just look at this.,18,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249604403162062,6
+417,The big tub is reserved,23,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.689110548577553,0
+418,Its caked with sludge.,22,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+419,Lin! Sen!,9,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.4226273583926177,4
+420,All right already!,18,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6879182851894408,1
+421,"Man, this is pure harassment.",29,5,negative,-0.5423,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6247483447276024,2
+422,Go get a tag,12,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6753427245653411,6
+423,A tag?,6,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6179262630660888,0
+424,For an herbal bath.,19,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6848902451999724,0
+425,Right.,6,1,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249736551218553,1
+426,"Lin, whats a foreman?",21,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.31906757506940825,4
+427,Somethings coming.,18,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249278078795584,0
+428,Is some good-for-nothing,24,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6811335112836152,2
+429,"Absolutely not,",15,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+430,Good morning!,13,2,positive,0.4926,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6871571259291471,2
+431,Feeling refreshed?,18,2,positive,0.128,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+432,For Kasuga.,11,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+433,One deluxe sulfur bath.,23,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6814262004429982,1
+434,No point standing there.,24,4,negative,-0.296,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+435,Scrub it with your hands.,25,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248103190184799,1
+436,Good morning!,13,2,positive,0.4926,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6871571259291471,2
+437,Your bare hands.,16,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248103190184799,1
+438,But she said,12,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6248308599338471,2
+439,You just dont get it.,21,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6888216709141686,6
+440,"Mugwort, right?",15,2,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249736551218553,1
+441,Relax and enjoy.,16,3,positive,0.7269,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+442,Foreman.,8,1,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6238506798059035,1
+443,Thank you!,10,2,positive,0.4199,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249654244346415,1
+444,But thats not...,16,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249593929351108,6
+445,"Hey you, wait!",14,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249570095743268,2
+446,Whats the trouble?,18,3,negative,-0.4019,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249487322100405,2
+447,"Oh, nothing at all.",19,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6121895187060569,6
+448,We have an intruder.,20,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+449,A human?,8,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249216885730127,0
+450,You figure it out.,18,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+451,"Wow, you got a really good one.",31,7,positive,0.7902,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.5999904880797836,2
+452,This goes straight to Kamaji.,29,5,positive,0.2263,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6881058765688904,2
+453,Water should be right up.,25,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6879301643553519,1
+454,Yank this for hot water.,24,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.682200898362423,1
+455,Youre really are a klutz.,25,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.4401412829579714,4
+456,Look at that color.,19,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249604403162062,6
+457,This one has dried worm salts.,30,6,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249387683062925,1
+458,"With water this murky,",22,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248718114772234,1
+459,Yank it again,13,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6149854423695109,6
+460,You can let go now.,19,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249242191342173,1
+461,Okay.,5,1,positive,0.2263,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249334749959369,6
+462,Ouch!,5,1,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6247555887904771,0
+463,Um...,5,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+464,So many...,10,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+465,Theyre for me?,14,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249167666305279,0
+466,But I dont need them.,21,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.44360008737314,3
+467,"No, you gave me one already.",28,6,negative,-0.296,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.7241944391391197,1
+468,Madam!,6,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+469,- Its a Stink Spirit.,21,4,negative,-0.25,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6890842560557774,0
+470,Its headed straight for the bridge!,35,6,positive,0.2942,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.3977702734538649,3
+471,Please turn back.,17,3,positive,0.3182,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.5361435912643193,1
+472,Please go!,10,2,positive,0.3802,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249704751153283,1
+473,"Please withdraw, please!",24,3,positive,0.5983,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249704751153283,1
+474,Stinky!,7,1,negative,-0.4199,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+475,Thats odd.,10,2,negative,-0.3182,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249593929351108,6
+476,"Well, now that its here,",24,5,positive,0.2732,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+477,All we can do,13,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+478,"Everyone, please return to your rooms!",38,6,positive,0.3802,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6880180626787221,1
+479,Please hurry.,13,2,positive,0.3182,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.41869085039926185,4
+480,"Lin and Sen, Yubaba wants you.",30,6,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.5865231812246048,1
+481,Yes sir!,8,2,positive,0.4574,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.67666899717962,2
+482,"Pay attention, this is your debut.",34,6,negative,-0.1027,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6247740743548558,6
+483,Show the customer to the big tub.,33,7,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.7252859192311227,0
+484,"Remember, one peep",18,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.5190038181238184,1
+485,- Got it?,9,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249529729038811,2
+486,"No, thats not polite!",21,4,negative,-0.3595,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249593929351108,6
+487,Welgum to our bazz.,19,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+488,Oh...,5,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+489,"Hurry Sen, take it!",19,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.5405228674656851,2
+490,Yez maam.,9,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6248767228853325,2
+491,Wud are you wading for?,23,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+492,Diz way...,10,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.624970355450435,0
+493,Sen!,4,1,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.624979379491085,1
+494,Horrible!,9,1,negative,-0.5848,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+495,Breakfast!,10,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+496,"Open the windows, all of em!",28,6,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249228812712083,0
+497,What? Just a minute.,20,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6248005472338599,6
+498,- Thats really filthy.,22,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.686702117016217,6
+499,What will she do?,17,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+500,"Ah, shes going to refill the tub.",33,7,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.5287457693241497,0
+501,"Oh dear, shes soiling the walls",31,6,positive,0.3818,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6881016877274955,0
+502,Did you give Sen new tags?,26,6,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.5080643089749401,1
+503,"Never, what a waste!",20,4,positive,0.3867,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6248641422125681,2
+504,All that precious herbal essence!,33,5,positive,0.6114,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6891020689481364,0
+505,"Sen! Sen, where are you?",24,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.624979379491085,1
+506,- Lin!,6,1,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249641987589858,0
+507,I asked Kamaji to help us out.,30,7,positive,0.4019,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6889884290110597,2
+508,Hes sending his,15,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.624943930950777,1
+509,Thanks. Theres a thorn,22,4,positive,0.4404,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.5241461066572116,5
+510,A thorn?,8,2,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6247748650514191,6
+511,I cant pull it out.,19,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.4247725911353442,4
+512,A thorn? Hmm...,15,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6247748650514191,6
+513,Get everyone downstairs!,24,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.4234837739073129,5
+514,Hurry!,6,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249725764855618,2
+515,Sen and Lin!,12,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.4226273583926177,4
+516,Our guest is no Stink Spirit.,29,6,negative,-0.4939,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.7211412741896209,0
+517,Use this rope.,14,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6248230720283116,2
+518,Yes maam!,9,2,positive,0.4574,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6890946452594278,2
+519,Tie it good and tight!,22,5,positive,0.4926,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6871478212296149,2
+520,Hurry up!,9,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249725764855618,2
+521,Its tied!,9,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+522,Everyone ready? All together now!,33,5,positive,0.4199,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.4162609489653198,4
+523,Heave!,6,1,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249040299197651,0
+524,And heave!,10,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249040299197651,0
+525,Heave!,6,1,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249040299197651,0
+526,A bicycle?,10,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+527,I knew it.,10,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6248249079714704,2
+528,Heave!,6,1,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249040299197651,0
+529,"Sen, are you all right?",23,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6891070640797272,1
+530,Well done.,10,2,positive,0.2732,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+531,Gold! Its gold!,15,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249300939624359,1
+532,Hands off! Thats company property.,34,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.4368024860039228,5
+533,Quiet! Our guest is still with us.,34,7,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.7206746969655498,0
+534,"Sen, youre in the way.",22,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.49633802227140045,1
+535,Open the main gates!,20,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249228812712083,0
+536,"Sen, youre a wonder!",20,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.45770841329962964,4
+537,That was the guardian,21,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.62474577821491,1
+538,"Everyone, learn from Sen!",25,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.7234360096317235,1
+539,Sake on the house tonight.,26,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248906109733721,0
+540,Now hand over all,17,4,positive,0.4939,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248263350776834,0
+541,Want some? I swiped them.,25,5,positive,0.0772,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249434547571492,6
+542,Thanks.,7,1,positive,0.4404,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249341267225018,6
+543,What a day.,11,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6247559842837553,6
+544,Haku missed the whole thing.,28,5,negative,-0.296,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6837464063427119,6
+545,Not Haku again!,15,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249827369555452,6
+546,Sometimes he just disappears.,29,4,negative,-0.34,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+547,They say Yubaba makes,21,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.4203546627997799,5
+548,Really?,7,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+549,"Lights out, Lin.",16,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6876229783079039,0
+550,Okay.,5,1,positive,0.2263,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249334749959369,6
+551,Theres a town.,14,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6884657033644768,1
+552,What did you expect,19,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+553,Im gonna get there someday.,27,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.44204967789099936,5
+554,Whats wrong?,12,2,negative,-0.4767,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6877367611031868,2
+555,Gold!,5,1,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249300939624359,1
+556,Who are you? Youre no customer.,31,6,negative,-0.296,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.43604855849238433,4
+557,Youre not allowed in there.,27,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.4442988732844246,4
+558,"Hey, its gold! For me?",22,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249300939624359,1
+559,You can make gold?,18,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.4012468230433872,5
+560,Gimme!,6,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+561,Whos down here?,15,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6246892270721605,1
+562,Its way past lights out.,24,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.687477509948632,0
+563,"Hey boss, Im hungry.",20,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6247192332788297,0
+564,"Starved, in fact.",17,3,negative,-0.5574,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+565,That voice...,13,2,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248137632124198,1
+566,"There, Ill pay you now.",23,5,negative,-0.4939,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.4388977202451644,5
+567,Im a customer.,14,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248681431135962,0
+568,Wake everyone up!,17,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6889418519408674,1
+569,"Mom and Dad, the river guardian",31,6,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.4495887912979103,5
+570,"If you take it,",15,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249564640689766,2
+571,"Dad, Mom, where are you?",24,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6892821803322838,6
+572,Daddy!,6,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+573,What an awful dream.,20,4,negative,-0.25,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248925028655299,0
+574,Lin?,4,1,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249641987589858,0
+575,Where is everybody?,19,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+576,"Wow, it really did",18,4,positive,0.5859,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6246776377811228,2
+577,I can see where Mom and,23,6,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.40477720506079995,3
+578,Kamaji lit the fires already.,29,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.32495010344205427,4
+579,Did I sleep that long?,22,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6891754095967886,0
+580,The customers waiting.,22,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6890762246964394,0
+581,"Serve everything youve got,",27,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.5447359617229658,1
+582,Sen!,4,1,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.624979379491085,1
+583,Lin?,4,1,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249641987589858,0
+584,I was just coming,17,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249278078795584,0
+585,Gold! He gave me real gold.,27,6,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.5625512060218076,1
+586,Weve got a real high roller.,28,6,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.5428496362706241,3
+587,"Please, sir, try this!",22,4,positive,0.3802,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.7207927054503875,1
+588,Throw us some gold!,19,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249300939624359,1
+589,"Im starving, bring it all!",26,5,negative,-0.4753,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6246532099683,6
+590,Whos this guest?,16,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6866945534509105,1
+591,"Come on, Yubabas still asleep.",30,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.5396718996797785,0
+592,Im going to see Kamaji.,23,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.7253080785270388,2
+593,I wouldnt go there now.,23,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.62470123251017,2
+594,Hes angry because they woke him up.,35,7,negative,-0.5106,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.624943930950777,1
+595,"Lin, lets go back for more.",27,6,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.508616793005286,6
+596,What if I cant recognize my parents?,36,7,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.5410034076296372,0
+597,I hope Dad hasnt gotten too fat.,32,7,positive,0.4404,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.7463427831658797,6
+598,Thats the dragon I saw.,23,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6866860501455195,6
+599,Its coming this way.,20,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6888066919033401,0
+600,Those arent birds!,18,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6248896131446205,2
+601,"Haku, dont give up.",19,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.4762898758610004,6
+602,Haku!,5,1,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249827369555452,6
+603,Its just paper.,15,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+604,"Haku? It is you, isnt it?",25,6,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6837439881204588,6
+605,Are you hurt?,13,3,negative,-0.5267,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249083986270111,0
+606,Youre safe now.,15,3,positive,0.4404,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6863204705094013,1
+607,Hes going to Yubaba.,20,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.5100876651960385,1
+608,What should I do? Hell die!,27,6,negative,-0.8687,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6889612826584887,6
+609,Now the richest man,19,4,positive,0.5267,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6247483447276024,2
+610,has come to grace us,20,5,positive,0.4215,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249747545866372,2
+611,Greetings!,10,1,positive,0.4753,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6246424522368532,6
+612,Now let us appeal,17,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249242191342173,1
+613,"Please, sir! Over here.",23,4,positive,0.3802,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.681392434883869,1
+614,I hope I get some.,18,5,positive,0.4404,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6865344282327113,6
+615,They say gold,13,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.4109237893534076,5
+616,"Toss some this way, sir!",24,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6790262510732996,0
+617,What are you doing?,19,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+618,Going upstairs.,15,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.42653825613809454,4
+619,No you dont.,12,3,negative,-0.296,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249812413154204,6
+620,Blood!,6,1,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6247864835977105,6
+621,"Out of the way,",15,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.624970355450435,0
+622,Thank you for your help.,24,5,positive,0.6369,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.41399710593576455,4
+623,Get out of the way!,19,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.40591670469700597,4
+624,I dont need it.,15,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.44360008737314,3
+625,"Im busy, please excuse me.",26,5,positive,0.3818,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.5604677944356612,6
+626,Quiet! Quiet down.,18,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248913463394082,0
+627,"Back, get back!",15,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6805222256551051,6
+628,Please excuse her manners.,26,4,positive,0.3818,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.44419609877844846,5
+629,The girl is new and a human.,28,7,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.5186910149646985,0
+630,Whats so funny?,15,3,positive,0.4927,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249487322100405,2
+631,"Why, I would never...",21,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6891990441359948,2
+632,He ate them!,12,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+633,Yubaba!,7,1,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249586916075769,1
+634,Were in a fine mess now.,24,6,negative,-0.1779,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249447061589181,2
+635,Hes a No Face.,14,4,negative,-0.296,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6886446379833324,1
+636,"Thats right, a No Face!",23,5,negative,-0.3595,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.5310882153763041,1
+637,Your greed attracted quite a guest.,35,6,neutral,0.0258,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.41186267535359167,5
+638,Dont do anything stupid,23,4,positive,0.4168,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.4618098605777885,0
+639,Just look at this carpet.,25,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249604403162062,6
+640,Get Haku out of here.,21,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6887092651003526,6
+641,Hes useless to me now.,22,5,negative,-0.4215,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.624943930950777,1
+642,"Bo, sleeping outside",20,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6891083674176862,0
+643,"Oh Im sorry, you were",21,5,negative,-0.0772,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249255959828995,0
+644,Baba still has work to do.,26,6,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.5125864136019539,6
+645,"Go back to sleep now,",21,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.44267493250372075,0
+646,"Ouch, let me go!",16,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.42276922784798643,4
+647,"Oh, thanks for helping me.",26,5,positive,0.6249,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249341267225018,6
+648,"But Im in a hurry,",18,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249725764855618,2
+649,You came to make me sick.,25,6,negative,-0.5106,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.5329468135774772,0
+650,The outside has bad germs.,26,5,negative,-0.5423,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6891129392473262,0
+651,Im a human.,11,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249216885730127,0
+652,Youll get sick out there.,25,5,negative,-0.5106,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.4846695902396904,6
+653,Stay here and play with me.,27,6,positive,0.34,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.684140190558825,6
+654,Are you sick?,13,3,negative,-0.5106,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248824610807843,0
+655,Im in here cause,16,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+656,Staying inside will make you sick!,34,6,negative,-0.5562,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6000026162061348,0
+657,"You see, someone I really",25,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.43985784785176024,4
+658,Ive got to go right now.,24,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.5319091295163542,2
+659,Please let me go.,17,4,positive,0.3182,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6883935449390773,1
+660,"If you go, Ill start crying.",28,6,negative,-0.7096,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6864707907349019,1
+661,Ill break your little arm.,26,5,negative,-0.4215,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.3346207235118554,4
+662,Youre hurting me!,17,3,negative,-0.4574,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249679681922922,1
+663,"Please, Ill come play with you later.",37,7,positive,0.2263,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.5916339482469397,1
+664,"No, I wanna play now!",21,5,positive,0.126,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6127492975387181,1
+665,Blood! See? Its blood!,22,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.5177527729041591,3
+666,Haku!,5,1,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249827369555452,6
+667,Go away!,8,2,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249134767765087,6
+668,"Its you, isnt it?",17,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6246862463765552,6
+669,Hang on!,8,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+670,Be quiet!,9,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248913463394082,0
+671,Haku!,5,1,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249827369555452,6
+672,Go away!,8,2,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249134767765087,6
+674,Im not afraid of blood.,23,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6891417669088057,6
+675,Please be a good boy and wait.,30,7,positive,0.6369,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.5992943064698869,2
+676,If you dont play,16,4,negative,-0.2584,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6791662564210189,6
+677,"Please, wait!",13,2,positive,0.3802,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.41468193811133086,4
+678,What a racket.,14,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.624730371620015,1
+679,"Youre a little butterball, arent you?",37,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.32470295078414435,4
+680,I am a bit transparent here.,28,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+681,Baba...,7,1,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6248555208841582,6
+682,"Oh dear, cant you even tell",27,6,positive,0.3818,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.4286118719970044,4
+683,"There, that gives you",21,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+684,Lets see now.,13,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.40845371400030156,3
+685,This is our little secret.,26,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249542245366261,0
+686,Ill do the same to you.,23,6,negative,-0.4215,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249616980741242,1
+687,Who are you?,12,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+688,Yubabas older twin sister.,26,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6890493241622245,0
+689,Thanks to you Ive had,21,5,positive,0.4404,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.39905673344043435,3
+690,Now hand over the dragon.,25,5,positive,0.4939,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.3985870915441554,4
+691,What are you going to do?,25,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249322269124928,2
+692,That dragons a thief.,21,4,negative,-0.5267,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6824757419849633,6
+693,He stole a valuable seal from my house.,39,8,positive,0.4767,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.5177101743505,1
+694,Haku would never do that.,25,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.565843358781058,2
+695,All dragons are kind.,21,4,positive,0.5267,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.685971282405347,0
+696,and eager to learn,18,4,positive,0.3612,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248477170748933,1
+697,This boy will do anything,25,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6195452240549564,0
+698,Now step aside.,15,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.624919144731969,0
+699,Its too late for him anyway.,28,6,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6247636703770505,0
+700,The thing he stole,18,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6247591241872787,1
+701,Now the thief will die.,23,5,negative,-0.8074,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6889600157242799,6
+702,"No, dont!",9,2,negative,-0.3595,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249812413154204,6
+703,What are you up to now?,23,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+704,"All right, thats enough.",24,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.5384753269137542,5
+705,"Oh dear, that was careless...",29,5,positive,0.3818,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.62491737136315,0
+706,"Haku, no!",9,2,negative,-0.3595,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249827369555452,6
+707,Haku!,5,1,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249827369555452,6
+708,What is this?,13,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+709,Hold on there!,14,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248081056546236,1
+710,Haku!,5,1,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249827369555452,6
+711,Does it hurt?,13,3,negative,-0.5267,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249083986270111,0
+712,This is serious.,16,3,negative,-0.0772,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6247452795342839,1
+713,"Haku, dont give up.",19,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.4762898758610004,6
+714,What can we do? Hell die!,25,6,negative,-0.8687,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6889612826584887,6
+715,Something inside him,20,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249367460667565,0
+716,Inside him?,11,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249367460667565,0
+717,Its a strong spell.,19,4,positive,0.5106,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.619039479457874,2
+718,"Haku, the river guardian gave me this.",38,7,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6302249351850908,1
+719,"Eat it, maybe it will help.",27,6,positive,0.4019,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.4038134181356567,4
+720,"Haku, open your mouth.",22,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.5634688077512218,0
+721,"Please Haku, eat it.",20,4,positive,0.3182,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.3371039608135721,4
+722,"See, its safe.",14,3,positive,0.4404,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.4394589221046419,4
+723,Is it some kind of medicine?,28,6,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248495032646271,0
+724,Open your mouth.,16,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.689122867538567,0
+725,Thats it.,9,2,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249593929351108,6
+726,Swallow it.,11,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6247449929223776,2
+727,He spit something out.,22,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+728,The seal!,9,2,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6216268360727997,1
+729,Its getting away.,17,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.4061277890862587,3
+730,"Sen, we have to purge the spell.",32,7,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.714638402033137,1
+731,Begone!,7,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+732,Haku took this from Yubabas sister.,35,6,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6298186058780832,0
+733,From Zeniba? Thats a witchs seal.,33,6,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.7106858962338732,6
+734,"Precious loot, Id say.",22,4,positive,0.5719,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.4056999769071834,4
+735,I knew it was Haku.,19,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.45983141736311833,3
+736,"Kamaji, its Haku!",17,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.4305943088141825,3
+737,Haku!,5,1,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249827369555452,6
+738,"Haku, Haku!",11,2,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249827369555452,6
+739,"Kamaji, hes not breathing.",26,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.40024267259981083,4
+740,"He is, but hes still",20,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.400988347356346,4
+741,That should calm him some.,26,5,positive,0.3182,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6247449635123163,2
+742,"Haku turned up one day,",23,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.5968964959143159,6
+743,He said he wanted to learn magic.,33,7,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.5211022887321207,1
+744,I tried to warn him.,20,5,negative,-0.1027,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+745,Becoming a sorcerers apprentice,31,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6246578280678587,1
+746,But he wouldnt listen.,22,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.4100302145233194,4
+747,that hed lost his home.,23,5,negative,-0.3182,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6886436015326108,6
+748,So he signed up to be,21,6,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6246828389284101,1
+749,He got paler and paler,22,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249529729038811,2
+750,and got a sharp,15,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249529729038811,2
+751,"Kamaji, Im going to give",24,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.5137745590280143,2
+752,"Give it back, apologize,",24,4,positive,0.1027,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.5482574734085075,0
+753,Tell me how to get there.,25,6,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.4302539991106608,0
+754,To Zenibas house?,17,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248906109733721,0
+755,Thats one scary sorceress.,26,4,negative,-0.4939,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.5330225115144376,5
+756,Please.,7,1,positive,0.3182,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249704751153283,1
+757,Haku helped me.,15,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.46447327930904037,0
+758,"Well, getting there is one thing.",33,6,positive,0.2732,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.4276013364467807,4
+759,Getting backs the problem.,26,4,negative,-0.4404,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6891125839337066,2
+760,Wait a minute.,14,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.42217829562832104,3
+761,"Lets see now,",13,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.40845371400030156,3
+762,"Everyone, I need",16,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.3965628557314228,4
+763,Sen! Ive been hunting,21,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.43783651653072286,4
+764,Lin...,6,1,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249641987589858,0
+765,Haku? What happened here?,25,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.683687106136747,6
+766,Who are those guys?,19,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6246985557631506,6
+767,My new friends.,15,3,positive,0.4767,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248552247059902,1
+768,Right?,6,1,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249736551218553,1
+769,Yubabas looking for you.,24,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.41200384541373486,4
+770,That big tipper turned out,26,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6829609997660919,0
+771,Yubaba says you let him in.,27,6,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.7241132880443722,1
+772,She might be right.,19,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6871064608931085,1
+773,"What, are you serious?",22,4,negative,-0.0772,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6247452795342839,1
+774,I thought he was a customer.,28,6,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.4037059238202535,4
+775,Hes already swallowed,21,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6888505350143816,1
+776,Found them.,11,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+777,"Were busy, gramps.",18,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6246427891297621,6
+778,You can use these.,18,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6248230720283116,2
+779,Train tickets?,14,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.624862033791092,0
+780,Leftovers from 40 years ago.,28,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6247350987218171,0
+781,"You get off at the sixth stop,",30,7,negative,-0.296,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.7236316408025053,6
+782,Swamp Bottom?,13,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6891009279885377,0
+783,"Thats right, the sixth stop.",28,5,negative,-0.296,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6080715755763634,6
+784,Six.,4,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+785,Make sure you get it right.,27,6,positive,0.3182,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.598975485870317,6
+786,but these days its one way only.,32,7,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.40308840641569266,4
+787,Still want to go?,17,4,positive,0.0772,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.40490854027740003,4
+788,"Yes, Ill walk back along the tracks.",36,7,neutral,-0.0258,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.43551382732118,4
+789,What about Yubaba?,18,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249586916075769,1
+790,Ill talk to her now.,20,5,negative,-0.4215,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6798635772891584,1
+791,"Haku, I promise Ill be back.",28,6,negative,-0.128,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.45731347209211487,5
+792,Whats going on here?,20,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6892748666588208,2
+793,Dont you understand? Its love.,30,5,positive,0.6369,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.5562794849938468,1
+794,It just keeps getting bigger!,29,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.624880497633358,2
+795,- Dont let it eat me!,21,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.32337951371137014,4
+796,"Thank goodness, Sen!",20,3,positive,0.6996,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.46963754491880844,1
+797,Yubaba cant control him.,24,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.5331429827756543,2
+798,Theres no need to get upset.,28,6,negative,-0.5859,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.3169781607011408,4
+799,Wheres Sen? I want Sen!,23,5,positive,0.1511,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.44796479610628426,5
+800,Now hurry!,10,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249725764855618,2
+801,"Yubaba, its Sen.",16,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6886663212547425,1
+802,Where were you?,15,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+803,"Sen is here, honored guest.",27,5,positive,0.5859,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6838374200767399,1
+804,What took you so long?,22,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6891866580517695,0
+805,Win him over,12,3,positive,0.5859,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+806,Whats this filthy rat?,22,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.4293906351518852,3
+807,Dont you recognize him?,23,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.46239899280751734,0
+808,Of course not.,14,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6247925850140987,0
+809,Now in you go.,14,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+810,Have a nice time.,17,4,positive,0.4215,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.4113873068137158,4
+811,Will she be all right?,22,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249736551218553,1
+812,Want to take her place?,23,5,positive,0.0772,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.5325494950647698,3
+813,"Try this, its yummy.",20,4,positive,0.5267,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248679088082058,1
+814,Want some gold?,15,3,positive,0.0772,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.4044129693737032,5
+815,Come over here.,15,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249747545866372,2
+816,What do you want?,17,4,positive,0.0772,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249434547571492,6
+817,Where did you come from?,24,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249747545866372,2
+818,Theres someplace,16,2,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249046165662007,1
+819,You should go home.,19,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249315504494137,6
+820,You cant give me what I want.,29,7,positive,0.0772,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.30759039085299444,4
+821,Wheres your home?,17,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6892153247460839,6
+822,No... No...,11,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+823,Im lonely... So lonely...,25,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+824,Are you lost?,13,3,negative,-0.3182,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6246761978595511,6
+825,Sen... I want Sen.,18,4,positive,0.0772,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.4675975662892059,5
+826,Take the gold.,14,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.40464407976517025,4
+827,Would you eat me?,17,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.41426036832032787,4
+828,Take it.,8,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249564640689766,2
+829,Take it!,8,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249564640689766,2
+830,"Before you eat me, eat this first.",34,7,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6842280762797219,0
+831,"I was saving it for my parents,",31,7,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249178431921066,0
+832,Sen!,4,1,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.624979379491085,1
+833,You little wench!,17,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249542245366261,0
+834,Watch out!,10,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249193593758238,0
+835,Not in my house!,16,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248906109733721,0
+836,Im over here!,13,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+837,Here!,5,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+838,Youll pay for this!,19,4,negative,-0.1759,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6828314761177795,6
+839,"Sen, down here!",15,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.624979379491085,1
+840,Over here!,10,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+841,We dont need him.,17,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.44360008737314,3
+842,He needs to get out of there.,29,7,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249560118543929,6
+843,But where do we take him?,25,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249564640689766,2
+844,I dont know.,12,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.4362093168943937,3
+845,Dont know?,10,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.4362093168943937,3
+846,"Great, now hes following us.",28,5,positive,0.6249,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.688346690806896,1
+847,- From here you walk.,21,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6246671747263596,1
+848,Youll find the station.,23,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6828984691909719,6
+849,Thanks.,7,1,positive,0.4404,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249341267225018,6
+850,Be sure to come back!,21,5,positive,0.3802,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.5276613067375815,3
+851,I will.,7,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+852,Sen! I said you were a klutz.,29,7,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.5628223982080508,2
+853,I take it back!,15,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.41243011705680604,3
+854,"No Face, hurt her",17,4,negative,-0.6808,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.39941231046993225,4
+855,There it is.,12,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+856,"The trains coming, lets hurry.",30,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.3180444990147098,4
+857,"To Swamp Bottom, please.",24,4,positive,0.3182,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.5608377402262721,0
+858,You want to come too?,21,5,positive,0.0772,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.40972065305444516,3
+859,"One more, please.",17,3,positive,0.3804,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6891926910982685,1
+860,Sit down.,9,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6248339198155582,2
+861,"Behave yourself, okay?",22,3,positive,0.2263,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249334749959369,6
+862,Kamaji.,7,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249533416211954,2
+863,"Oh, Haku.",9,2,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249827369555452,6
+864,"Kamaji, wheres Sen?",19,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.33770815128175685,3
+865,What happened? Please tell me.,30,5,positive,0.3182,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.3319111036678922,4
+866,Dont you remember anything?,27,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.4384820013554615,3
+867,Just fragments.,15,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+868,Chihiro kept calling my name,28,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.4126174712293617,3
+869,I followed her voice,20,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248137632124198,1
+870,Chihiro?,8,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249835180973121,2
+871,Wonderful... Its the power of love.,35,6,positive,0.6369,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6195029704107458,0
+872,This gold will hardly cover the damage.,39,7,negative,-0.4472,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249300939624359,1
+873,"That fool, Sen!",15,3,negative,-0.4926,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.624979379491085,1
+874,"But we were saved, thanks to her.",33,7,positive,0.8201,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249341267225018,6
+875,Silence!,8,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6247690588445148,2
+876,She started the whole thing.,28,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6246911338112906,6
+877,Now shes run away.,18,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.4688141608310906,5
+878,Abandoned her own parents!,26,4,negative,-0.5093,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6886711917662918,0
+879,They must be fat enough.,24,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.5315866684769832,3
+880,"No, wait.",9,2,negative,-0.296,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249570095743268,2
+881,Master Haku!,12,2,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.44848780479944184,5
+882,"What, youre still alive?",24,4,positive,0.3818,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.5475765516914844,0
+883,You still dont see it?,22,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.33046634816685583,4
+884,Youve gotten pretty fresh.,26,4,positive,0.6705,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.7233733191409122,1
+885,Since when do you talk that way?,32,7,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6833437609254287,0
+888,Pebbles!,8,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+890,"Where are you, Bo?",18,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+891,Please come out.,16,3,positive,0.3182,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.4012689089133308,4
+894,"Why, you little...",18,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249542245366261,0
+895,Out with it!,12,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+896,Where did you hide my Bo?,25,6,negative,-0.1779,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.624734427243752,1
+897,Hes with Zeniba.,16,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.4056253001732573,5
+898,Zeniba?,7,1,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249059330235495,6
+899,Now I understand.,17,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248530526121671,1
+900,She thinks shes beaten me.,26,5,negative,-0.4215,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6217023491549584,0
+901,"So, whats your plan?",20,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249487322100405,2
+902,Ill bring him back.,19,4,negative,-0.4215,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.5365408673440151,5
+903,But you must send Sen and,25,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.5520421872225897,2
+904,And what about you?,19,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+905,Maybe Ill send them back,24,5,negative,-0.4215,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.526314572993742,5
+906,I think this is right.,22,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.4430727772184576,5
+907,Come on.,8,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249747545866372,2
+908,You can ride on my shoulder.,28,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+909,Come in.,8,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249747545866372,2
+910,Thank you.,10,2,positive,0.3612,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249654244346415,1
+911,"Well, hurry up then.",20,4,positive,0.2732,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249725764855618,2
+912,Come on.,8,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249747545866372,2
+913,So you all made it.,19,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+914,- I...,6,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+915,Ill make some tea.,18,4,negative,-0.4215,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.42127705091457646,5
+916,"Zeniba, Haku stole this.",24,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.47408271944845454,5
+917,Do you know what this is?,25,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249351226226786,2
+918,"No, but I know its very precious.",33,7,positive,0.7086,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.419414865901972,4
+919,Im here to apologize for him.,29,6,positive,0.1027,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.624764847293855,0
+920,You held this,13,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+921,What?,5,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+922,"Wait, the protection spell is gone.",35,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.4373063778823336,4
+923,Im sorry.,9,2,negative,-0.0772,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249255959828995,0
+924,I squashed it.,14,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248795530680896,0
+925,Squashed it!,12,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248795530680896,0
+926,My sister snuck,15,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248330760991184,0
+927,so she could control him.,25,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6878371391925132,2
+928,And you squashed it!,20,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248795530680896,0
+929,"Now then, sit down.",19,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6248339198155582,2
+930,You must be No Face.,20,5,negative,-0.296,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.4069036746754914,4
+931,Please turn them back into themselves.,38,6,positive,0.3182,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.5361435912643193,1
+932,"Why my dear, the spells long broken.",36,7,negative,-0.128,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6891830772721228,0
+933,They can change back any time.,30,6,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.4280171036537562,5
+934,Yubaba and I are two halves of,30,7,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.688316072042026,1
+935,You know what bad taste she has.,32,7,negative,-0.5423,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.4243907623671452,4
+936,Sorceress twins are,19,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6247404383022852,6
+937,"Id like to help you dear,",25,6,positive,0.7783,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.4002123095433431,4
+938,Its one of our rules here.,26,6,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6802880443969521,1
+939,Youll have to save your parents,31,6,positive,0.4939,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.5334992538318305,0
+940,all by yourself.,16,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+941,But cant you,12,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249629498492011,2
+942,I feel like Haku and I met,26,7,positive,0.3612,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249827369555452,6
+943,In that case its easy.,22,5,positive,0.4404,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+944,Everything that happens,23,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248760431481458,1
+945,even if you cant remember it.,29,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.7249889584112249,2
+946,Its already late.,17,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.4113370419254988,4
+947,You boys give me a hand.,24,6,positive,0.4939,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.7246693193123601,0
+948,"Come on, keep at it.",20,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.42847203597773026,4
+949,See? You have a talent for this.,32,7,positive,0.4215,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249610243685011,2
+950,Youre a big help.,17,4,positive,0.4019,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.3169172900985153,4
+951,Its not the same,16,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+952,Pull it through there.,22,4,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248736762705154,0
+953,"Zeniba, Im going back after all.",32,6,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.5079635237881746,3
+954,Haku could die while Im sitting here.,37,7,negative,-0.5994,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.7099846404946724,6
+955,And they might eat,18,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.41829047892413423,4
+956,Wait just a little longer.,26,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.524211287934196,2
+957,There we are.,13,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+958,Use it to tie back your hair.,29,7,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.5590275708554852,2
+959,Its pretty.,11,2,positive,0.4939,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6247783879003468,1
+960,Itll protect you.,17,3,positive,0.3818,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.39883434788970656,4
+961,Thank you.,10,2,positive,0.3612,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249654244346415,1
+962,What good timing.,17,3,positive,0.4404,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6871538518552797,2
+963,Sure.,5,1,positive,0.3182,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249282382881116,6
+964,Haku!,5,1,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249827369555452,6
+965,Haku...,7,1,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249827369555452,6
+966,Im so glad to see you.,22,6,positive,0.5095,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249610243685011,2
+967,Are you okay?,13,3,positive,0.2263,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249334749959369,6
+968,Thank goodness.,15,2,positive,0.6705,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.4285225075355563,4
+969,"Good timing, Id say.",20,4,positive,0.4404,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.5101510996423461,3
+970,"Zeniba, Hakus alive.",20,3,positive,0.3818,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.5378088622285074,0
+971,"Haku, I no longer blame",23,5,negative,-0.5574,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.45954594559302575,3
+972,But be sure to protect this girl.,33,7,positive,0.7469,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.5258227936705068,0
+973,"Okay boys, time you went home.",30,6,positive,0.2263,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.3594599023555496,5
+974,Come see me again soon.,23,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.7239765647022847,2
+975,You stay with me,16,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6247701106413361,6
+976,Zeniba!,7,1,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249059330235495,6
+977,"Thank you, Im going now.",24,5,positive,0.3612,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.404067399107811,4
+978,"Dont worry, Im sure",19,4,positive,0.1139,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.7233947013336742,6
+979,My real name is Chihiro.,24,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.539136966078835,3
+980,Chihiro? What a nice name.,26,5,positive,0.4215,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.5237995538679395,3
+981,Take good care of it.,21,5,positive,0.7269,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.7215215431638571,2
+982,I will!,7,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+983,Now off you go.,15,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+984,"Thank you, Zeniba.",18,3,positive,0.3612,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.41108251713454896,5
+985,"Haku, listen.",13,2,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.451983758096785,5
+986,"I dont remember this,",21,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.4384820013554615,3
+987,"Once when I was little,",23,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249542245366261,0
+988,Now its all built over.,23,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6247929836227943,0
+989,But I just remembered.,22,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+990,The river was called...,23,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6888677185358937,1
+991,it was called the Kohaku River.,31,6,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.7224621473134969,1
+992,Your real name is Kohaku.,25,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.7215728904311532,6
+993,"Chihiro, thank you!",19,3,positive,0.4199,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.41274724632981485,4
+994,My name is,10,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249480216206046,6
+995,- Nigihayami?,13,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+996,What a name!,12,3,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249480216206046,6
+997,I remember how,14,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249247087488828,2
+998,You were chasing your shoe.,27,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+999,"Yes, and you carried me",23,5,positive,0.4019,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249300368490633,2
+1000,Im so happy...,14,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+1001,Theyre back!,12,2,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.43142781700130617,0
+1002,You brought Bo back with you?,29,6,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6812512583210936,6
+1003,Baba!,5,1,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6248555208841582,6
+1004,Bo! Youre not hurt?,19,4,positive,0.471,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.43241075394432477,4
+1005,"Bo, when did you learn",22,5,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248477170748933,1
+1006,"Yubaba, remember your promise.",30,4,positive,0.3182,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.5199866971324878,1
+1007,Send Chihiro and her parents,28,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.498444382200981,2
+1008,"Sorry, but its not that simple.",31,6,neutral,-0.0387,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249255959828995,0
+1009,"This world has rules, you know.",31,6,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.5341646011062295,3
+1010,Silence!,8,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6247690588445148,2
+1011,"Just do it, Baba.",17,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6248555208841582,6
+1012,Baby had such a good time.,26,6,positive,0.4404,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.5132067049167325,2
+1013,But Im just following the rule.,31,6,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6854717754492509,1
+1014,Otherwise I cant break the spell.,33,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.7234082590549025,2
+1015,"If you make Sen cry,",20,5,negative,-0.4767,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.4347741619345712,5
+1016,But...,6,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+1017,Granny!,7,1,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248639666559874,0
+1018,Granny?,7,1,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6248639666559874,0
+1019,Ill do as you ask.,18,5,negative,-0.4215,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.4432801449463879,5
+1020,Haku told me about the rule.,28,6,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.7180691733169093,6
+1021,"Well, youve got guts.",21,4,positive,0.2732,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.42577691646521015,4
+1022,I brought your contract.,24,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.684109204366212,1
+1023,"This wont take a minute, Bo.",28,6,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.32015101084520126,4
+1024,Dont worry.,11,2,positive,0.3412,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6864543393367001,6
+1025,See if you can pick out,23,6,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6779523653462209,2
+1026,You get one guess.,18,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.5345475624447864,5
+1027,Pick them out,13,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6165558004490085,0
+1028,"Granny, I cant do it.",21,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.42951107615092726,4
+1029,Not here?,9,2,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+1030,Yes.,4,1,positive,0.4019,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249300368490633,2
+1031,Youre right!,12,2,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6893153043981369,1
+1032,Attagirl! Good for you.,23,4,positive,0.4926,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.624962938548235,2
+1033,Thank you everyone.,19,3,positive,0.3612,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6889415136153253,1
+1034,All right!,10,2,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249736551218553,1
+1035,Thanks for everything.,22,3,positive,0.4404,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.4150325483529183,5
+1036,Goodbye.,8,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+1037,Thank you.,10,2,positive,0.3612,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6249654244346415,1
+1038,See you soon.,13,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6879328507136616,2
+1039,- Haku!,7,1,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249827369555452,6
+1040,Wheres Mom and Dad?,19,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.7247753048393245,6
+1041,They went on ahead.,19,4,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248956304634925,1
+1042,The waters gone.,16,3,neutral,0.0,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.624921173255951,1
+1043,I cant go any further.,22,5,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249629498492011,2
+1044,Go back the way you came.,25,6,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.5462933857394678,0
+1045,But dont look back,18,4,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.7242864855987949,6
+1046,But what about you?,19,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+1047,Ill tell Yubaba,15,3,negative,-0.4215,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.48455126714546637,1
+1048,Im fine now.,12,3,positive,0.2023,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249447061589181,2
+1049,Now I can go home too.,22,6,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249315504494137,6
+1050,Will we meet again somewhere?,29,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6248650012710334,6
+1051,- Im sure of it.,16,4,positive,0.3182,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249282382881116,6
+1052,Promise.,8,1,positive,0.3182,1,"sen, right, please, youre, thank, ill, yubaba, one, hes, gold",0.6248944748518026,1
+1053,"Now go, and dont look back.",27,6,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.7242864855987949,6
+1054,Chihiro!,8,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249835180973121,2
+1055,Where have you been?,20,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+1056,Mom! Dad!,9,2,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6892821803322838,6
+1057,Dont go running off like that.,30,6,positive,0.3612,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249812413154204,6
+1058,Lets go.,8,2,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249446145035357,6
+1059,"Mom, are you really okay?",25,5,positive,0.2944,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6890104177158843,6
+1060,"Hurry, the moving van",21,4,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249725764855618,2
+1061,"Hurry up, Chihiro.",18,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6887933001772044,2
+1062,Watch your step.,16,3,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6892768743136276,0
+1063,"Chihiro, dont cling.",20,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.5529038915826799,2
+1064,The end of the tunnel.,22,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.397617105771002,4
+1065,Hey!,4,1,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+1066,What is it?,11,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+1067,Will you look at that.,22,5,neutral,0.0,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6249604403162062,6
+1068,"Its all dusty inside, too.",26,5,neutral,0.0,3,"way, lin, little, give, still, eat, inside, coming, tell, sorry",0.6249367460667565,0
+1069,- Is this somebodys joke?,25,4,positive,0.296,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.25,4
+1070,I told you not to stop here.,28,7,positive,0.2235,2,"haku, dont, back, mom, thats, dad, look, get, name, lets",0.6891410672590258,6
+1071,"Thats it, youre fine.",21,4,positive,0.2023,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.33388773605011857,4
+1072,"Were off, Chihiro.",18,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6249835180973121,2
+1073,Chihiro! Hurry up!,18,3,neutral,0.0,0,"chihiro, come, hurry, see, cant, good, wait, take, got, kamaji",0.6887933001772044,2

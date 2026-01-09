@@ -1,0 +1,1073 @@
+﻿line_number,cleaned_line,char_length,word_count,sentiment,compound,dominant_topic,topic_keywords,topic_confidence,cluster
+1,"Tokuma Shoten, Nippon Television Network,",41,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+2,In ancient times the land,25,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6890875915976693,2
+3,Here dwelt the spirits,22,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+4,PRINCESS MONONOKE,17,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6892267599312442,1
+5,Yakul!,6,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249623998702142,3
+6,Ashitaka!,9,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249844193068635,3
+7,Oracle says to get back to the village.,39,8,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4558690512277928,5
+8,"The Old Man, too.",17,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6869209199654271,1
+9,- Somethings wrong.,19,2,negative,-0.4767,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6891780481751749,2
+10,The animals too.,16,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+11,Ill go to him. Youd better go now.,34,8,neutral,0.0258,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.685712632613986,1
+12,Somethings coming.,18,2,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6888427412994579,2
+13,- What is it?,13,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+14,Oracle summoned everyone,24,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6890194486309282,1
+15,There!,6,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+16,A demon god!,12,3,positive,0.3382,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4368405816649029,6
+17,"Yakul, run!",11,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.689038511282694,3
+18,Itll attack the village!,24,4,negative,-0.5255,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6891067774253322,1
+19,Ashitaka!,9,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249844193068635,3
+20,Dont touch it!,14,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6847099003043363,0
+21,Yakul!,6,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249623998702142,3
+22,"Quiet your rage, I beg you!",27,6,negative,-0.5983,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7252009854711627,2
+23,O forest god who cannot be,26,6,positive,0.2732,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.47630269004029513,2
+24,- A monster!,12,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+25,Stop! Leave our village in peace!,33,6,positive,0.3987,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6050265200848436,1
+26,Stop! Still your rage!,22,4,negative,-0.7494,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5306001888945832,2
+27,Get up!,7,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249505758831088,0
+28,- Its down!,11,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+29,Bring Oracle!,13,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4071816365104622,6
+30,Stoke the fire!,15,3,negative,-0.4003,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6883737735105574,3
+31,Ashitaka.,9,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249844193068635,3
+32,Dont touch it.,14,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6847099003043363,0
+33,Hes hurt! Wheres Oracle?,24,4,negative,-0.5707,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.5643595144292257,1
+34,"All of you, stay back!",22,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6853196852532824,0
+35,Oracle!,7,1,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248689909689938,1
+36,"Pour this water on it, slowly.",30,6,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6890033043457056,0
+37,O raging god unknown to us...,29,6,negative,-0.3182,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249778366535346,2
+38,...I bow before you.,20,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6203635621177787,3
+39,"Where you have fallen, we will",30,6,negative,-0.3612,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+40,Bear us no hate. Be at peace.,29,7,negative,-0.34,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6892198757700059,1
+41,"Hear me, loathsome humans!",26,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.41276685339420083,4
+42,You shall know,14,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249340480808768,0
+43,"This is very, very bad.",23,5,negative,-0.6214,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6246772278786481,0
+44,The boar-spirit came from far to the west.,42,9,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.5999252150015841,0
+45,"A poison within him goaded him on,",34,7,negative,-0.5423,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.3970912135895929,5
+46,"...drawing evil as he ran,",26,5,negative,-0.6597,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+47,Prince Ashitaka...,18,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249844193068635,3
+48,show us your right arm.,23,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7251299565402051,1
+49,Oracle!,7,1,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248689909689938,1
+50,"Ashitaka, are you",17,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249844193068635,3
+51,Yes. I was resolved,19,4,positive,0.5267,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.624874379620429,2
+52,The poison will seep into,25,5,negative,-0.5423,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6247924864910492,1
+53,Can nothing be done?!,21,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4076781830101363,6
+54,He fought for the women,23,5,negative,-0.3182,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6248872659220107,2
+55,To simply wait for death...,27,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.5101143112665129,5
+56,We cannot change our fate.,26,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6889050728031044,3
+57,But we can rise to meet it.,27,7,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6247783502385771,3
+58,Look.,5,1,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249655990556803,0
+59,This was deep in the boars body.,32,7,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7247163466333276,2
+60,His suffering was terrible.,27,4,negative,-0.7351,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.624729868912921,0
+61,The iron shattered his bones,28,5,negative,-0.4767,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.7242928508262573,0
+62,What else could have,20,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248543377165796,1
+63,Something sinister waits,24,3,negative,-0.5994,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+64,If you journey there and,24,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.620732883482965,3
+65,you might find,14,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248700468415104,1
+66,More than 500 years have passed...,34,6,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+67,since the Emperor,17,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248613478476606,3
+68,Now we hear how his power fades...,34,7,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6889439471410831,3
+69,and the fangs,13,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6246221798067033,1
+70,But the blood of our tribe,26,6,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6887046508911732,3
+71,"And now, bitter fate...",23,4,negative,-0.4215,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6889765718699461,3
+72,must journey far to the west.,29,6,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.5917150766494701,0
+73,The Law forbids us,18,4,negative,-0.3182,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+74,- Ashitaka.,11,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249844193068635,3
+75,I dont care.,12,3,negative,-0.3875,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6834297029607751,0
+76,Your jewel dagger.,18,3,positive,0.3612,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+77,It will protect you.,20,4,positive,0.3818,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6247162126356289,3
+78,Youll always be in my heart.,28,6,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6889386380402042,2
+79,"And you in mine, Kaya.",22,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249026454304152,3
+80,Fighting?,9,1,negative,-0.3612,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248510183096353,3
+81,Head them off!,14,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249494476303976,1
+82,"Theres one, get him!",20,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5305902330695812,2
+83,His head is mine!,17,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.411814454393234,4
+84,Stop!,5,1,negative,-0.3595,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249636046075172,3
+85,My arm!,7,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248094351790422,1
+86,Dont let him get away.,22,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.5521132415411854,0
+87,Stay back. Let me pass!,23,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.7477201700444933,0
+88,A demon!,8,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248852678592383,1
+89,The mark is getting darker.,27,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6246626280509702,0
+90,This gruel tastes like hot water.,33,6,positive,0.3612,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.689042594205537,0
+91,There he is!,12,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+92,Is this enough?,15,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6247603406667385,2
+93,This isnt money.,16,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6841039033717993,0
+94,Give me back my rice!,21,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4583957279027694,4
+95,"Here, let me take a look.",25,6,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.5044797712098765,0
+96,"Woman, this is pure gold!",25,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6247816619955331,2
+97,If its coins,12,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+98,Give me this.,13,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249628572359281,3
+99,"Listen, is there",16,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248765630829921,3
+101,"Im a simple priest, but Id say",30,7,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248191167279448,1
+102,"Hey, wait!",10,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249532928591672,1
+103,"Thats mine, give it back!",25,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.49332134967166297,3
+104,"Wait, dont be in such a hurry.",30,7,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7145468687168969,1
+105,No need to thank me.,20,5,positive,0.0772,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6888717639536475,3
+106,I saw how you dealt,19,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248361346180212,3
+107,You fight like one possessed.,29,5,neutral,-0.0258,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.689208500092959,2
+108,You see them too?,17,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249118920100621,0
+109,Hearts have grown hard,22,4,negative,-0.1027,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248591539954136,3
+110,Theyll rob you in your sleep.,29,6,negative,-0.5574,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6890438734596794,2
+111,So the boar became a demon...,29,6,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.5339447171533795,6
+112,"I followed its tracks,",22,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+113,Im not surprised.,17,3,negative,-0.1695,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+114,Look around you.,16,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249655990556803,0
+115,This used to be,15,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248367180462938,0
+116,"There was a flood, maybe,",25,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+117,The land teems with bitter ghosts...,36,6,negative,-0.4215,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.40600333736461625,4
+118,"...dead from war, sick or starved",33,6,negative,-0.8957,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249346167010053,3
+119,"A curse, you say? This world is a curse.",40,9,negative,-0.7906,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7119922520104075,1
+120,"Ah, this is good!",17,4,positive,0.4926,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6248936978161826,2
+121,I shouldnt have gotten into,27,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+122,You helped me escape.,21,4,positive,0.1779,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6889811035347082,1
+123,Give me your bowl.,18,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6877735180958972,3
+124,Everyone dies.,14,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6247718684778236,1
+125,"Some now, some later.",21,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+126,"Hmm, an elegant bowl.",21,4,positive,0.4767,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6247328223977794,3
+127,You remind me of,16,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+128,A brave people,14,3,positive,0.5267,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6247693620295026,0
+129,who used stone arrowheads,25,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248367180462938,0
+130,The trick is to,15,4,negative,-0.0516,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6247879459068849,3
+131,Or so my master used to say.,28,7,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.5249191187395447,5
+132,"Eat, my boy. Its your rice.",27,6,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7248737972946661,2
+133,Look at this.,13,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249655990556803,0
+134,What is it?,11,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+135,It was in the body of the giant boar.,37,9,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7247063790770711,2
+136,This is what killed him.,24,5,negative,-0.6705,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6248256057157902,2
+137,"Far to the west,",16,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6890521670692424,0
+138,is a forest,11,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249596356089524,2
+139,- The forest of the Deer God.,29,6,positive,0.2732,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7251537632771817,2
+140,They say the beasts there,25,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6879402680983767,1
+141,I knew hed go...,16,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248340994010382,3
+142,Its not far now.,16,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248326262691236,0
+143,Theyre coming.,14,2,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6891838592889777,2
+144,The wolves!,11,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.624930000562233,0
+145,Calm the oxen. Dont rush.,25,5,positive,0.3182,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.7252940072298859,3
+146,Keep your powder dry!,21,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249034605046957,1
+147,Wait until theyre close.,24,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.5289231883202646,6
+148,"Number One, fire!",17,3,negative,-0.3382,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.5320190364865574,3
+149,"Number Two, fire!",17,3,negative,-0.3382,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.7173026924796587,3
+150,That was too easy.,18,4,positive,0.4404,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6247396719047684,3
+151,Those were just the pups.,25,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+152,Its Moro.,9,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249104929914141,3
+153,"Come on, Moro!",14,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6887964857960105,3
+154,Got her!,8,2,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6248793129558903,2
+155,Shes immortal.,14,2,positive,0.25,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249482982988901,0
+156,She did some real damage.,25,5,negative,-0.4939,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+157,Lets get going.,15,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.7248485148870933,0
+158,What about those who fell?,26,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+159,Form ranks and move out.,24,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248345598475574,1
+160,Hes breathing.,14,2,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.624940100246196,2
+161,Hang on!,8,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248918101702449,0
+162,My name is Ashitaka!,20,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6863546332898515,3
+163,Are you ancient gods,20,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6891337713805924,2
+164,Leave!,6,1,negative,-0.126,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248733463003097,1
+165,"A kodama? Are they here, too?",29,6,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+166,Dont move. Youre hurt.,22,4,positive,0.4168,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.742622491108983,1
+167,They wont harm you.,19,4,positive,0.431,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249058995294019,3
+168,Theyll bring the Deer God.,26,5,positive,0.2732,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7477388509204372,2
+169,The Deer God? The giant wolf?,29,6,positive,0.3527,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5717212932791848,2
+170,"No, far bigger. The mother of all beasts.",41,8,negative,-0.296,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.7130384687529434,0
+171,Its gone!,9,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248617937677376,0
+172,Yakuls not afraid.,18,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6248335545790465,2
+173,Please let us pass,18,4,positive,0.3182,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.7247100315301678,0
+174,Lets go back. Please!,21,4,positive,0.3802,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.7222875131844834,0
+175,Theres a trail across the river.,32,6,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6881902478614317,2
+176,The currents too strong to cross.,33,6,positive,0.5106,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+177,"If we dont get help soon,",25,6,negative,-0.3089,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.7471830619835813,0
+178,Are you guiding us,18,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6246607953431405,1
+179,"Sir, these sprites",18,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249393112819088,1
+180,There are more of them!,23,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+181,What a magnificent tree.,24,4,positive,0.5994,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+182,That girl and the wolves...,27,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.40808489250125884,5
+183,"Were getting in deeper, sir.",28,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.4303717848260911,5
+184,"Yes, lets take a rest.",22,5,positive,0.4019,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.421129737406179,4
+185,Footprints.,11,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+186,Three toes... still fresh.,26,4,positive,0.3182,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249439880153025,2
+187,"Whats wrong, sir?",17,3,negative,-0.4767,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4652689436476021,6
+188,Are you all right?,18,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249210065805533,1
+189,I told you!,11,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6247923474071676,0
+190,Did you see something?,22,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249118920100621,0
+191,"No, forget it.",14,3,negative,-0.4767,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.624752230282762,3
+192,Hang on a little longer.,24,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.3994659559146338,4
+193,Im sorry.,9,2,negative,-0.0772,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248530279043226,1
+194,Its gone.,9,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248617937677376,0
+195,What is this? I feel much stronger.,35,7,positive,0.3818,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6833491476783188,3
+196,Hey! It doesnt hurt.,20,4,positive,0.471,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4184107442316189,6
+197,"Im cured! No, its broken.",25,5,negative,-0.68,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+198,"Sir, youre a genius.",20,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6891227670086268,1
+199,- Its a castle.,15,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+200,They melt sand into iron.,25,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6880199602852968,0
+201,Hey!,4,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+202,- Someones coming from the woods!,33,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6890129706938896,2
+203,"Its me, Koroku the ox-driver!",29,6,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.624868172568613,2
+204,"Its true, hes crossing the lake!",32,6,positive,0.4753,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.688119470391867,2
+205,Whats all this noise?,21,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6209971233055108,1
+206,Korokus back from the dead!,27,5,negative,-0.68,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6714970073665485,3
+207,What?,5,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+208,Youre not a ghost.,18,4,positive,0.2411,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249604358432216,1
+209,- Where are the others?,23,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6247414672991688,0
+210,Only we were saved.,19,4,positive,0.4215,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6246365711426561,1
+211,The guards never get killed.,28,5,positive,0.5559,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5447100782761135,2
+212,Step aside.,11,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6891477778161301,0
+213,"Whos the man in the hood, sir?",30,7,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7236413240056374,1
+214,An outsider.,12,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+215,"Riflemen, listen! This gentleman",32,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248765630829921,3
+216,Show some gratitude.,20,3,positive,0.5106,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248092880023688,1
+217,Ouch! Dont grab me there.,25,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6207883597801896,0
+218,You! Wait there!,16,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249532928591672,1
+219,"First, I thank you",18,4,positive,0.3612,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6885928723538499,3
+220,But something bothers me.,25,4,negative,-0.296,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+221,You got here in less than,25,6,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6248793129558903,2
+222,"...through the Deer Gods forest,",32,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7237575175293718,2
+223,Koroku! Youre alive!,20,3,positive,0.4912,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5470501506098139,2
+224,Toki!,5,1,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249138989684333,2
+225,You fool! How can you drive,27,6,negative,-0.4926,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6246966909373889,0
+226,But...,6,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+227,Scaring me half to death!,25,5,negative,-0.7959,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6888728806965807,0
+228,Then I could find a better man.,31,7,positive,0.4404,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7482818782050523,1
+229,"Dont be so hard on me, Toki.",28,7,negative,-0.2183,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.39095089621583157,4
+230,"Toki, take your lovers",22,4,positive,0.5267,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6892670945285464,2
+231,"And you, leaving them to die!",29,6,negative,-0.636,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.686444604967072,1
+232,Some guard you are.,19,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6246919238326952,2
+233,"When theres trouble, do something!",34,5,negative,-0.4574,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249128055151817,2
+234,It couldnt be helped...,23,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6890018825052296,1
+235,"Thank you. My husbands an idiot,",32,6,negative,-0.2023,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249513970085363,3
+236,Good. I was afraid maybe,24,5,positive,0.4404,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6890990928209361,2
+237,You seem very handsome.,23,4,positive,0.5413,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248770465133715,0
+238,Gonza.,6,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6247331890909701,3
+239,I would like to thank the traveler.,35,7,positive,0.6124,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.72500748013287,3
+240,Koroku.,7,1,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.624868172568613,2
+241,Its good youre back. I apologize.,33,6,positive,0.5106,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5168990147633238,6
+242,"Dont say that, Lady Eboshi.",27,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7422566711660032,1
+243,"Forgive me, Toki.",17,3,positive,0.2732,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6883377238628506,2
+244,"My lady, if you",15,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249691479029486,1
+245,theyd all be cavorting inside,29,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6890239635034393,0
+246,"Traveler, please stop and rest.",31,5,neutral,0.0258,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.4296145717788434,4
+247,Hey! You are handsome!,22,4,positive,0.5837,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248770465133715,0
+248,We had to fight off Moro,24,6,negative,-0.3818,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.40302136494129054,4
+249,Dish it out!,12,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+250,Where?,6,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+251,Is that him?,12,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+252,Toki was right!,15,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.3964527108530926,6
+253,- He is handsome!,17,3,positive,0.5411,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248770465133715,0
+254,That never stopped you before.,30,5,positive,0.1695,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6890578201917666,2
+255,Quiet out there. We lost two men.,33,7,negative,-0.3182,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.597470317327664,2
+256,There are plenty of handsome men here.,38,7,positive,0.4939,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6890175116914153,0
+257,Cowherds!,9,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+258,"Come to our place, traveler!",28,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.7242165767791553,3
+259,Watch your mouth! We risked our lives,37,7,negative,-0.2942,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6889673300372127,1
+260,Who made the iron,17,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4214372100367868,5
+261,We work those bellows all night long.,37,7,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.7425553620514767,3
+262,"Id like to see where you work,",30,7,positive,0.3612,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.40303232043432957,4
+263,Really?,7,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+264,Well have to work in makeup.,28,6,positive,0.2732,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248664125183422,3
+265,Even rouge!,11,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249419143300443,3
+266,"Dont forget, well be waiting.",29,5,neutral,-0.0382,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.5402407531940193,3
+267,"Dont mind them, sir.",20,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6615378558851821,1
+268,Lady Eboshi spoils them.,24,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6893114434300672,1
+269,A good village has happy women.,31,6,positive,0.765,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5071002491359309,6
+270,But women working the bellows,29,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7239514669041869,2
+271,Their presence defiles the iron.,32,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249215683415178,0
+272,"When she finds girls sold as slaves,",36,7,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+273,"Shes kind, thats all.",21,4,positive,0.5267,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.7243432817918597,0
+274,"Theres rice on your face, old man.",34,7,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5030797424795904,6
+275,But shes not afraid,19,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4189291264694493,4
+276,"Or of wolves, either.",21,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.624930000562233,0
+277,You shouldve seen her,21,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6230461346919306,3
+278,Nago?,5,1,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6213076531464664,1
+279,A huge boar-god. He ruled,25,6,positive,0.3182,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7225705435128443,2
+280,We couldnt go into the mountains.,33,6,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6246604029556662,1
+281,All we could do was,19,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248543377165796,1
+282,We used up the iron,19,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6887485982691632,0
+283,Many people had their eye on this,33,7,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6890806398258434,0
+284,"To get sand, we have to",23,6,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6867197372530862,0
+285,Nago went wild.,15,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7114135870177581,2
+286,There they go again!,20,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+287,Then Lady Eboshi came along,27,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.47936768629269216,5
+288,Sir? Whats wrong?,17,3,negative,-0.5362,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4652689436476021,6
+289,Does your arm hurt?,19,4,negative,-0.5267,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6890191222866489,1
+290,I was thinking about that boar.,31,6,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249297164240312,2
+291,He must have died full of hate.,31,7,negative,-0.8074,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6889278928769788,1
+292,Im sorry I kept you,19,5,negative,-0.0772,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248530279043226,1
+293,Thats good iron.,16,3,positive,0.4404,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.507543980486632,0
+294,We had to make,14,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6247443901777633,3
+295,Lets rest now. Tell the others.,31,6,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.7493915637746371,0
+296,Some think youre spying,23,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249604358432216,1
+297,There are many,14,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6246741868292525,0
+298,May I ask why youre here?,25,6,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.5468838651054331,0
+299,You must recognize this.,24,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249209731597629,1
+300,"It shattered the bones of a giant boar,",39,8,negative,-0.4767,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.4340916272731929,4
+301,"When I tried to stop him, I was left",36,9,negative,-0.296,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.7241537265418866,3
+302,Where is your land? Ive never seen,34,7,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7347791164995724,2
+303,Between north and east.,23,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+304,"Why, you! Answer her",20,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6247908612661229,3
+305,And when you find,17,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248700468415104,1
+306,"I will see with eyes unclouded,",31,6,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.5295373544588129,5
+307,Eyes unclouded?,15,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6889536145779209,1
+308,I see.,6,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249118920100621,0
+309,Ill show you my secret. Come.,29,6,negative,-0.4215,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.5289462737911433,1
+310,Lady Eboshi!,12,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6893114434300672,1
+311,"Take over, Gonza.",17,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.42496437996933223,4
+312,No one dares enter this garden.,31,6,negative,-0.296,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.624925510431765,2
+313,"Come, if you would",18,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6892356140261349,3
+314,Were coming in.,15,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249312706992844,2
+315,We just finished.,17,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248035341178225,3
+316,Its still heavy.,16,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6881052802935556,2
+317,Its light in your hands.,24,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6247989334377235,1
+318,If the barrels,14,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+319,Its not just for me.,20,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+320,Wont that be a sight!,21,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6890461762036635,3
+321,This is the new musket,22,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.39988667492234514,4
+322,Chinese muskets are too heavy.,30,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.624789134974324,2
+323,This will kill monsters,23,4,negative,-0.6908,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.4243583345843468,5
+324,Watch out. Lady Eboshi,22,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7223500551043684,1
+325,Im sorry to rush you.,21,5,negative,-0.0772,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.40954326880121894,4
+326,Wont that be nice!,18,4,negative,-0.3867,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249058995294019,3
+327,You stole the boars woods,25,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6890828191303392,2
+328,Will you breed new hatred,25,5,negative,-0.6369,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6890019317281378,1
+329,Im sorry you suffer.,20,4,negative,-0.5859,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6888739184076126,1
+330,The musket ball you found is mine.,34,7,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6890244570924895,3
+331,That hapless boar,17,3,negative,-0.34,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249297164240312,2
+332,Your right hand wants to kill me?,33,7,negative,-0.3612,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7340612306699723,1
+333,Perhaps that would lift this curse.,35,6,negative,-0.628,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.5363295762145618,1
+334,But my hand would not be stayed.,32,7,positive,0.6486,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.7240723371345201,3
+335,Must it kill us all to find peace?,34,8,negative,-0.296,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7494858146813838,1
+336,"My lady, Osa wants",18,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.49942067019344744,5
+337,"Lady Eboshi, do not scorn",25,5,positive,0.3089,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6893114434300672,1
+338,"Young man, I too am cursed.",27,6,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6879951926611051,1
+339,I understand your rage and grief...,35,6,negative,-0.5574,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.4054187147525272,4
+340,but I beg you,13,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6246328509046499,2
+341,She is the only person,22,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+342,She did not fear our disease.,29,6,positive,0.3875,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6247528470194668,0
+343,She washed and bandaged our flesh.,34,6,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248651752247236,3
+344,- Osa...,8,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6198722785997687,3
+345,This world and its people are,29,6,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.687043765853406,0
+346,Forgive my foolish babbling.,28,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6246765116712126,2
+347,Theyre back.,12,2,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6786524822909932,2
+348,They come at night to plant trees,33,7,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.7488316262741993,3
+349,"Ashitaka, will you stay,",24,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.4114449486587048,4
+350,Would you seize even,20,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6891794884474801,3
+351,"Without the ancient gods,",25,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6891337713805924,2
+352,"With the forest and wolves gone,",32,6,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.5350122283860386,0
+353,Even Princess Mononoke,22,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.5081502711272932,1
+354,Princess Mononoke?,18,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6892267599312442,1
+355,The wild girl whose soul,24,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7225123314318405,1
+356,She lives to kill me.,21,5,negative,-0.6908,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6883240016647069,1
+357,The blood of the Deer God,25,6,positive,0.2732,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4614442395873109,4
+358,Perhaps it could cure,21,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.688845059042299,1
+359,Lady Eboshi!,12,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6893114434300672,1
+360,How does it handle?,19,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+361,Very well made.,15,3,positive,0.3384,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6247773094524615,1
+362,- But still a bit heavy.,24,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6881052802935556,2
+363,Look whos here!,15,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.43585082757409527,5
+364,"Toki, let me try the bellows.",29,6,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.41601858155864413,4
+365,Wait!,5,1,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249532928591672,1
+366,May I try?,10,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.688826367046701,0
+367,Let him see what its like.,26,6,positive,0.3612,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6889939350444425,0
+368,What strength!,14,2,positive,0.5411,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248498076022024,0
+369,You really came!,16,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248807395993862,0
+370,I told you hes an handsome man.,31,7,positive,0.4939,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.4523492423746836,5
+371,"Look, shes fixing her kimono!",29,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6892186998243202,0
+372,"Youll never keep up that pace, traveler.",40,7,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.42668883791884954,6
+373,Its hard work.,14,3,negative,-0.1027,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6892136167129482,3
+374,"Yes, we work four days straight.",32,6,positive,0.5574,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5201134604591152,2
+375,Is life hard here?,18,4,negative,-0.1027,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6891273414227497,3
+376,"Yes, but its better than",24,5,positive,0.6908,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6782506265692195,2
+377,We eat our fill,15,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249404368853981,2
+378,I see.,6,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249118920100621,0
+379,- Youre leaving tomorrow?,25,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6865798657362476,1
+380,You can help us.,16,4,positive,0.4019,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249455409875865,0
+381,"Thank you, but there is",23,5,positive,0.1901,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249513970085363,3
+382,Shes here.,10,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249482982988901,0
+383,Princess Mononoke!,18,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6892267599312442,1
+384,Its her!,8,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+385,Stop!,5,1,negative,-0.3595,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249636046075172,3
+386,I dont want to fight you!,25,6,positive,0.308,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5522860396730028,2
+387,Shes after the Lady!,20,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.41497893355700266,5
+388,Stoke the fires.,16,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6247431891394656,3
+389,Steady at your posts!,21,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+390,Shes up on the roof.,20,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6878817927994929,0
+391,Dont get excited. Keep working.,31,5,negative,-0.2584,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.35100732672860796,4
+392,We must keep the fire going.,28,6,negative,-0.34,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.41027237246941245,5
+393,- Is she alone?,15,3,negative,-0.25,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+394,She came for you.,17,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248807395993862,0
+395,"All right, lets go.",19,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.40099157769316,5
+396,"Can you hear me,",16,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.624929422350352,3
+397,You wish to avenge your tribe.,30,6,positive,0.4019,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249419079255774,3
+398,There are some here who seek,28,6,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6246252628325075,1
+399,killed by your wolves.,22,4,negative,-0.6705,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.412156872198471,4
+400,Come out!,9,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249594993682512,3
+401,There she is!,13,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+402,"Surrender, Princess Mononoke!",29,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6892267599312442,1
+403,Stay out of the line of fire!,29,7,negative,-0.4003,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.5358600726799103,3
+404,Its a trap. Stop!,17,4,negative,-0.5848,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6880023011345103,3
+405,"Wolf princess,",14,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6892585842533963,1
+406,Dont die for nothing.,21,4,positive,0.4847,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7137321391249263,1
+407,I knew it!,10,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248340994010382,3
+408,Let him do as he likes.,23,6,positive,0.4215,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.62494090439802,0
+409,Got her! Shes falling.,22,4,negative,-0.2244,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5379295149106406,2
+410,Dont move.,10,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6647034270673331,1
+411,A wolfs severed head,20,4,negative,-0.3612,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249494476303976,1
+412,Aim where she falls.,20,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+413,Fire!,5,1,negative,-0.4003,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249352707751439,3
+414,Stay back!,10,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6853196852532824,0
+415,Wake up!,8,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+417,Get her!,8,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249505758831088,0
+418,Dont let her go.,16,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6867614296948988,0
+419,Kill her!,9,2,negative,-0.7177,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249425273804027,1
+420,"Are you all right, sir?",23,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6892002712143414,1
+421,Dont worry about me. Go!,24,5,positive,0.4015,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6777159479905354,0
+422,Villain! Youre one of them too.,31,6,negative,-0.5983,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4131757524542429,6
+423,Halt!,5,1,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248361824627292,0
+424,Step aside.,11,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6891477778161301,0
+425,"What are you doing, Ashitaka?",29,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249844193068635,3
+426,Her life is mine.,17,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6892674515257614,3
+427,Will you marry the wolf princess?,33,6,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6892585842533963,1
+428,There is a demon inside you.,28,6,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.4158457634619139,5
+429,Look! This is the hatred,24,5,negative,-0.6696,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4360337227422174,5
+430,It rots my flesh,16,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248651752247236,3
+431,You cannot yield to it.,23,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248942046569435,3
+432,Enough talk of your curse.,26,5,negative,-0.5423,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4049692521727088,6
+433,Ill cut that arm off!,21,5,negative,-0.636,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7242950390483456,1
+434,Lady Eboshi!,12,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6893114434300672,1
+435,Someone help me.,16,3,positive,0.4019,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6874962885977629,0
+436,Dont worry. Shell recover.,26,4,positive,0.3412,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6364733200712942,3
+437,I will take the girl!,21,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.41077298851520283,6
+438,Wait! You hurt Lady Eboshi!,27,5,negative,-0.6103,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7493531344277868,1
+439,Dont move!,10,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6647034270673331,1
+440,"Kiyo, no!",9,2,negative,-0.3595,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+441,He still lives...,17,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.42258869520721454,6
+442,- And Lady Eboshi?,18,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6893114434300672,1
+443,Bring me my musket.,19,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.4193123700627919,4
+444,They wont get away.,19,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.3184932617506667,4
+445,"Toki, quick!",12,2,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6892344567917579,2
+446,Youre...,8,1,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249604358432216,1
+447,"Sir, you may not pass.",22,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.5361536379151595,5
+448,The gate may not be,19,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248568933564037,0
+449,Please turn back.,17,3,positive,0.3182,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.721601589187474,0
+450,You helped us.,14,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248258040369253,1
+451,"I will leave as I came,",23,6,negative,-0.0516,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.39639386458772874,5
+452,No... it takes ten men,22,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249169882968135,0
+453,"Sir, no! Youll die!",19,4,negative,-0.7707,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4382111084118982,6
+454,Its moving...,13,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248623866028813,1
+455,Out of the way!,15,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249139633968394,3
+456,Wolves!,7,1,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.624930000562233,0
+457,Flint! Flint!,13,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+458,Stop. Your princess is safe!,28,5,positive,0.2481,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.5354310495846683,1
+459,Were coming.,12,2,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249312706992844,2
+460,"Yakul, lets go.",15,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.39905990327491075,4
+461,Thank you.,10,2,positive,0.3612,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249513970085363,3
+462,Hes gone.,9,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.4190080277161294,4
+463,Wait!,5,1,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249532928591672,1
+464,Hes mine.,9,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.41578957617436024,4
+465,Did they shoot you?,19,4,negative,-0.34,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248615586265479,1
+466,Why did you stop me?,20,5,negative,-0.296,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249636046075172,3
+467,I didnt want you to die.,24,6,negative,-0.6276,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7144523551886557,1
+468,Im not afraid to die,20,5,positive,0.4847,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6777501526851132,2
+469,I knew that when I first saw you.,33,8,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.7253529712353636,3
+470,Youve wasted your life,22,4,negative,-0.4939,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6886844455681103,3
+471,Ill cut your throat!,20,4,negative,-0.636,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6875471876110034,1
+472,Live...,7,1,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249392569081174,0
+473,I dont listen to humans!,24,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.45591853172470453,4
+474,Youre beautiful...,18,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6872446583887445,1
+475,"Whats wrong, San?",17,3,negative,-0.4767,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7151247447091713,2
+476,Its the apes.,13,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.624852762766659,2
+477,Apes! Do you insult,19,4,negative,-0.5562,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.624852762766659,2
+478,This forest ours.,17,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249596356089524,2
+479,Give us man.,12,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.405262568670736,4
+480,Give us man and go.,19,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.405262568670736,4
+481,Be gone before my fangs find you.,33,7,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.5207229945105343,5
+483,We eat man.,11,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.40914808284448123,6
+484,We eat him.,11,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249404368853981,2
+485,Let us eat man.,15,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.3119731824119458,4
+486,Why would the tribe of the apes...,34,7,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.49766842201314965,3
+487,...want to eat a man?,21,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.49633614359772976,6
+488,We eat man. We get his strength.,32,7,positive,0.4939,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.4287854898282735,5
+489,We get strength,15,3,positive,0.4939,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6878003680112377,0
+490,You wont get that power,23,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.5466509112116508,3
+491,All that will do is defile you,30,7,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+492,We plant trees. Humans kill them.,33,6,negative,-0.6908,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.45685084697445705,3
+493,Forest not come back.,21,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.42697881479854416,4
+494,The Deer God is with us.,24,6,positive,0.2732,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6892817424628859,2
+495,Moros tribe is fighting for you!,32,6,negative,-0.4199,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.7251586803074428,3
+496,Deer God not fight. We die.,27,6,positive,0.7529,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7449590259705782,2
+497,Wolf girl not care. Wolf girl human.,36,7,negative,-0.3875,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6267448192743984,1
+498,Monkey! Ill break your neck!,28,5,negative,-0.5242,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249156820688787,1
+499,Stop it!,8,2,negative,-0.3595,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249636046075172,3
+500,Its all right.,14,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249210065805533,1
+501,You go ahead.,13,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6248340691911285,2
+502,What about him?,15,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+503,Can we eat him?,15,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249404368853981,2
+504,"No, you cant. Now go on.",24,6,negative,-0.296,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249495876295725,1
+505,Come here. Lets be friends.,27,5,positive,0.4767,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.4040030956329105,4
+506,Help me carry your master.,26,5,positive,0.4019,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.7238893776815439,0
+507,Youre smart. You know,21,4,positive,0.4019,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.41547678120608234,5
+508,That human stench.,18,3,negative,-0.5106,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6855431607388927,0
+509,Go where you will. Youre free.,30,6,positive,0.5106,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6872270834159931,1
+510,There he is!,12,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+511,"At last, the Nightwalker!",25,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.39647880363025,6
+512,"Quick, come and look.",21,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.32160109320883035,4
+513,Thats why weve been sitting,27,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6889208670206616,0
+514,"Dont look, youll go blind!",26,5,negative,-0.4574,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.5638737249615495,0
+515,And you call yourselves hunters?,32,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6860396231216811,3
+516,This decree from the Emperor...,31,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248613478476606,3
+517,...allows us to subdue the Deer God!,36,7,positive,0.3382,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6892817424628859,2
+518,Now hes the Nightwalker.,24,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4230205059732602,6
+519,"When day begins,",16,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+520,Hes going in. There!,20,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.4155550134895727,4
+521,- Jiko!,7,1,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.62490119317665,1
+522,Over there.,11,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+523,There must be hundreds of them.,31,6,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249209731597629,1
+524,Theyre not from these woods.,28,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6885877202172879,2
+525,Theyre lords of some other forest.,34,6,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6892929948078929,2
+526,Its Okkoto!,11,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249538484429805,0
+527,He swam across the straits?,27,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6246883328556857,2
+528,No other boar has those tusks.,30,6,negative,-0.296,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249297164240312,2
+529,He brought his whole tribe.,27,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249419079255774,3
+530,He knows were here. Run!,24,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.40917386983495235,4
+531,"Come on, jump!",14,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6874388711105844,3
+532,Theres no wound.,16,3,negative,-0.296,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6885794237523382,2
+533,Yakul...,8,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249623998702142,3
+534,"If youre awake, thank Yakul.",28,5,positive,0.3612,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.5327497084785066,3
+535,You know his name?,18,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.42438524571434644,4
+536,"He told me all about you,",25,6,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6247923474071676,0
+537,"Ill help you, because",21,4,neutral,-0.0258,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.39814049592656764,5
+538,I had a dream... a golden deer...,33,7,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6857115859725043,2
+539,Eat this.,9,2,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249404368853981,2
+540,Chew.,5,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+541,Were here to kill humans,24,5,negative,-0.6908,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.3983640075156577,5
+542,Why are humans here?,20,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.624952516949152,0
+543,"She is San, my daughter.",24,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.4296606535068812,4
+544,There are humans everywhere.,28,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.624952516949152,0
+545,Go back to your homeland,24,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6133818900061067,0
+546,We kill for the forest,22,5,negative,-0.6908,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.39960502596882613,6
+547,Why is the man here?,20,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.624947838266731,1
+548,The Deer God healed him.,24,5,positive,0.2732,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7215782298517659,2
+549,The Deer God saved him?,23,5,positive,0.5994,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4551459065180297,6
+550,Why did he not save Nago?,25,6,negative,-0.3875,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.687800660204382,1
+551,Does the Deer God not protect,29,6,neutral,-0.0217,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4540210144080795,4
+552,The Deer God gives life,23,5,positive,0.2732,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4750009977375713,2
+553,Have you boars forgotten that?,30,5,negative,-0.2263,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249232677594991,2
+554,You begrudge us,15,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+555,You did nothing to help Nago!,29,6,negative,-0.3716,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.5331259951002951,5
+556,"He feared death, as do I.",25,6,negative,-0.7964,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.624894247430958,0
+557,I also carry within me,22,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.7251817079456414,0
+558,Nago fled. I will stay,22,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4097981027125979,5
+559,Ask the Deer God for help.,26,6,positive,0.5859,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.45527300813166677,4
+560,"I have lived long enough, San.",30,6,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.721283325982671,2
+561,The Deer God would,18,4,positive,0.2732,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4860746545259269,2
+562,"No, Mother!",11,2,negative,-0.3595,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248718295311534,0
+563,You lie!,8,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+564,Our brother would never run.,28,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.5121047263253683,3
+565,You wolves ate him!,19,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.624930000562233,0
+566,Silence! You slander my mother!,31,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6891181993944672,0
+567,"Hear me, all of you.",20,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.624929422350352,3
+568,It was I who killed Nago.,25,6,negative,-0.6705,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6673930078029151,2
+569,He became a demon,17,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6885823719185635,1
+570,A huge boar. Here is my proof.,30,7,positive,0.3182,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7243865477181001,2
+571,I came to this land to ask,26,7,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.5135870177575775,0
+572,"He healed my wound,",19,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6890552763768673,2
+573,I must suffer until,19,4,negative,-0.5423,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6883162107773588,1
+574,"Ah, its Okkoto.",15,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249538484429805,0
+575,"Okkoto, wait!",13,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.3964566816996585,5
+576,You mustnt eat him.,19,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249404368853981,2
+577,You are Moros daughter.,23,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6892315683183331,3
+578,Your eyes...,12,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.624825989554557,1
+579,Stand back. I will not eat him.,31,7,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7185469310679319,2
+580,Wolf Princess...,16,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6892585842533963,1
+581,Fear not. I tell of Nagos end.,30,7,negative,-0.4939,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.7497336922005289,0
+582,"My thanks to you, young one.",28,6,positive,0.4404,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5066634638391108,6
+583,It grieves us that our tribe,28,6,negative,-0.4767,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249419079255774,3
+584,"Lord Okkoto,",12,2,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4226763384644588,4
+585,Leave this forest.,18,3,negative,-0.0516,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4202927110084774,6
+586,"If we meet again,",17,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6247783502385771,3
+587,You cannot win against,22,4,negative,-0.4717,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248942046569435,3
+588,"Look on my tribe, Moro.",23,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.533453882685634,3
+589,Soon we will be nothing more...,31,6,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.40720192857201404,5
+590,...than game,12,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+591,"If you stake everything on one battle,",38,7,negative,-0.3818,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.722086698423283,2
+592,I seek no help from wolves.,27,6,positive,0.128,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.48553754991596854,5
+593,"Even if we all fall in battle,",30,7,negative,-0.3818,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.5232165252959888,0
+594,The Deer God...,15,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6892817424628859,2
+595,Keep the oxen together!,23,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.5445949810554381,3
+596,Hold your fire. Let them come.,30,6,negative,-0.34,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.5930462967850488,3
+597,Fire!,5,1,negative,-0.4003,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249352707751439,3
+598,Reload! Quick!,14,2,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249027714354586,2
+599,That damned Eboshis fighting,28,4,negative,-0.6249,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6851642113475299,3
+600,Go on ahead and hide.,21,5,negative,-0.1779,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6248340691911285,2
+601,Its them! Theyve returned.,26,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.624757931849421,3
+602,- Jiko!,7,1,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.62490119317665,1
+603,Were moving out. Tell the others.,33,6,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.5215573212110852,5
+604,"Hello, Jiko.",12,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.62490119317665,1
+605,His Majesty is impatient.,25,4,negative,-0.296,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+606,This is no time for sport,25,6,negative,-0.296,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6248569393926651,2
+607,Lord Asano sends them against me.,33,6,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.39686310421996296,4
+608,Asano? Hes a powerful man.,26,5,positive,0.4215,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.3323538556765051,4
+609,He wants half my iron.,22,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.7234257998122482,0
+610,How greedy of him.,18,4,negative,-0.3182,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+611,This is no time to fight men.,29,7,negative,-0.5859,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5231970247670551,2
+612,The boars are gathering,23,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6883260713538571,2
+613,Give Asano all your iron.,25,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.5237288071629647,3
+614,Keep your promise to,20,4,positive,0.3182,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6880043649547892,1
+615,"Quick, Lady Eboshi!",19,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.48241272069988533,6
+616,Speak of the devil. A messenger.,32,6,negative,-0.6597,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6247482086366258,0
+617,An envoy approaches.,20,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+618,Welcome home!,13,2,positive,0.5093,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+619,Arent you going to receive him?,31,6,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248813643952423,0
+620,Mistress Eboshi,15,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249735839792577,1
+621,I bring a message from my lord.,31,7,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.688842368211816,2
+622,We can hear you from there.,27,6,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.624929422350352,3
+623,Our lady took this mountain,27,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6861996540069107,1
+624,Now its worth something,23,4,positive,0.2263,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+625,On your way!,12,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249139633968394,3
+626,"You are impudent, woman!",24,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6751000504727654,2
+627,Impudent?,9,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6125080679622754,3
+628,Weve been impudent,18,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6755955616854767,0
+629,You want iron? Take some!,25,5,positive,0.1511,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5158775956875609,2
+630,Eboshis women are quite impressive!,35,5,positive,0.5974,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6830133649500745,2
+631,"Samurai or monsters, they dont care.",36,6,negative,-0.3875,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.7470306550598175,0
+632,They certainly dont lack for courage.,37,6,positive,0.1862,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6207883597801896,0
+633,What good is this paper?,24,5,positive,0.4404,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6248936978161826,2
+634,Its helped me get,17,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4319379357563627,5
+635,"Were after a god, not just beasts.",34,7,positive,0.2732,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.44704180327928295,6
+636,"Yes, my lady?",13,3,positive,0.4019,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4297191629237232,6
+637,Do you know who this comes from?,32,7,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6882756930653702,0
+638,- The Son of Heaven.,20,4,positive,0.5106,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6247995263129306,3
+639,The Emperor.,12,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248613478476606,3
+640,"Oh, its nothing special.",24,4,negative,-0.3089,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248862440063109,1
+641,Off you go.,11,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+642,"The more we make iron,",22,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.4273182653203725,4
+643,We lose fewer lives.,20,4,negative,-0.4019,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6889435246670673,1
+644,Weve spent too much time and money.,35,7,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.5928703670671335,0
+645,We didnt send 40 sharpshooters,30,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7252057419627045,1
+646,At least thats what,19,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248965830744729,0
+647,Surely he doesnt believe that the,33,6,positive,0.4404,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4039888750853197,4
+648,Im not privy to his thoughts.,29,6,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+649,Ill keep my promise.,20,4,negative,-0.128,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7240764152238973,1
+650,Boars are easier to deal with,29,6,positive,0.4215,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249232677594991,2
+651,You can summon that shady bunch,31,6,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6200805865921066,3
+652,"You saw them, did you?",22,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248361346180212,3
+653,One more thing...,17,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.624925510431765,2
+654,Did a young man,15,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6879951926611051,1
+655,"A strange youth, riding a red elk.",34,7,negative,-0.2023,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+656,He left.,8,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248261486694898,3
+657,They look frightening.,22,3,negative,-0.4939,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249655990556803,0
+658,Theyre not ordinary hunters.,28,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.4340118029615623,4
+659,Let us go with you.,19,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.62494090439802,0
+660,Dont trust those men!,21,4,negative,-0.4577,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6861480876201085,0
+661,We cant help you from here,26,6,negative,-0.3089,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.40217267641592575,5
+662,We know how to shoot.,21,5,negative,-0.34,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4149460106014354,5
+663,Thats why I need you here.,26,6,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.41318064633607526,4
+664,I fear humans more than monsters.,33,6,negative,-0.4939,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.7245822330326201,0
+665,"With the Deer God dead,",23,5,negative,-0.4939,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4752528691633231,2
+666,Is the Deer Gods head,21,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5154122697894005,6
+667,We may have to fight,20,5,negative,-0.3818,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.40598564772089063,4
+668,Men cant be trusted.,20,4,negative,-0.3724,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.40072756702091444,5
+669,Dont worry about Lady Eboshi.,29,5,positive,0.3412,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4357262784864038,5
+670,- I wonder.,11,2,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6246516050115087,2
+671,Id believe that,15,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249125703506392,0
+672,Are you suffering?,18,3,negative,-0.4767,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.624729868912921,0
+673,You could simply jump,21,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.5107283549676314,1
+674,"When your strength returns,",27,4,positive,0.4939,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248498076022024,0
+675,I feel like Ive slept for days.,31,7,positive,0.3612,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7218377974790963,2
+676,I dreamed San,13,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249744787087044,2
+677,I hoped you would cry out in your,33,8,negative,-0.128,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249423542920948,3
+678,These woods are beautiful.,26,4,positive,0.5994,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4050128140738977,6
+679,Are the boars moving yet?,25,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4084429969050567,6
+680,"Go back into the cave, boy.",27,6,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6783549960208652,2
+681,The forest crying out,21,4,negative,-0.4767,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6871370739521996,2
+682,I hear the forest crying and,28,6,negative,-0.4767,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.514882972438627,2
+683,and I wait for that woman.,26,6,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.42712778186101935,6
+684,I dream of crushing,19,4,negative,-0.128,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6247146001990179,2
+685,Cant humans and,15,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.40025105939202366,5
+686,Cant this be stopped?,21,4,positive,0.1695,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4243753734182256,6
+687,The humans are gathering.,25,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.43164870308412273,4
+688,"Were not safe, even here.",25,5,negative,-0.3412,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4133123583313159,4
+689,And San? Will you force her,27,6,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249744787087044,2
+690,How like a human.,17,4,positive,0.3612,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6151849457169277,0
+691,She is a daughter of our tribe.,31,7,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6891083824868882,3
+692,Set her free! Shes human.,25,5,positive,0.5562,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4160723142797694,5
+693,"Silence, boy!",13,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.40495296860687857,4
+694,What can you do for her?,24,6,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+695,The humans who violated the forest,34,6,negative,-0.5267,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.40157477478385506,4
+696,Now she is neither human nor wolf.,34,7,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7216671886418973,1
+697,"My poor, ugly, lovely daughter.",31,5,negative,-0.3818,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248988179123641,3
+698,Can you save her?,17,4,positive,0.4939,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6247970575156621,1
+699,"I dont know,",12,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6861558496856816,0
+700,How? Will you join San,22,5,positive,0.296,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249744787087044,2
+701,No. That will only,18,4,negative,-0.296,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+702,There is nothing you can do.,28,6,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248862440063109,1
+703,Soon Nagos curse will kill you.,31,6,negative,-0.8481,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.44070887179705687,5
+704,Leave this place at sunrise.,28,5,negative,-0.0516,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.4134124832077912,4
+705,Can you walk?,13,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+706,"Yes, thanks to you",18,4,positive,0.6808,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6891613733117616,2
+707,Yakul! Did you worry?,21,4,negative,-0.4926,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6846378233538166,3
+708,My legs are still weak.,23,5,negative,-0.4404,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249439880153025,2
+709,Its too quiet.,14,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6248362203024812,2
+710,I can smell the ironworks.,26,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6873108885670685,0
+711,Thank you for guiding me.,25,5,positive,0.3612,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.42323781651441383,4
+712,Give this to San.,17,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.4092611429675024,4
+713,Lets go.,8,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249401993824775,0
+714,What a stench! I cant breathe.,30,6,negative,-0.5562,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.4280371285698374,5
+715,Thats trackers smoke.,21,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.7245738469364769,0
+716,Its her.,8,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+717,- She knows were here.,22,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6246803827641072,0
+718,Trap?,5,1,negative,-0.3182,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248253064462789,3
+719,They want to lure the boars,27,6,positive,0.0772,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6880081397631216,2
+720,Everything has been planned.,28,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6247740917859819,2
+721,Weve got to warn them.,22,5,negative,-0.1027,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.4035974515928799,4
+722,Theyll die!,11,2,negative,-0.636,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6778220743192783,2
+723,Okkoto is no fool.,18,4,negative,-0.6249,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6876056424505402,0
+724,"The boars know its a trap,",26,6,negative,-0.3182,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.3244166659667754,4
+725,They are a proud race.,22,5,positive,0.4767,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+726,The last one alive,18,4,positive,0.3818,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7249761407662045,2
+727,Theyre cutting trees.,21,3,negative,-0.128,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.4286234941036847,4
+728,Another provocation.,20,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+729,"Mother, this is farewell.",25,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248718295311534,0
+730,The smoke will blind Okkoto.,28,5,negative,-0.4019,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.724015000592204,0
+731,Ill be his eyes.,16,4,negative,-0.4215,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6884281090788897,1
+732,"As you like, San.",17,4,positive,0.3612,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249744787087044,2
+733,But there is a life for you,27,7,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249413511452888,3
+734,I hate humans!,14,3,negative,-0.6114,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.42232682397070587,5
+735,From Ashitaka... for me?,24,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249844193068635,3
+736,Its beautiful.,14,2,positive,0.5994,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.624789024006888,1
+737,You two go with San.,20,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6854622337012461,2
+738,I will stay with the Deer God.,30,7,positive,0.2732,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.490387207910423,2
+739,Lets go.,8,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249401993824775,0
+740,The tribe of Moro fights with you!,34,7,negative,-0.4574,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6891974910813852,3
+741,Thank you!,10,2,positive,0.4199,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249513970085363,3
+742,Its coming from the ironworks.,30,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.671541859623721,2
+743,Lets go.,8,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249401993824775,0
+744,Halt!,5,1,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248361824627292,0
+745,Samurai!,8,1,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6247610780699723,0
+746,Halt!,5,1,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248361824627292,0
+747,Let me pass!,12,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6884239068074154,0
+748,I dont believe it.,18,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6842673974455665,0
+749,Hes fending them off.,21,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.624940100246196,2
+750,Dont waste your arrows.,23,4,positive,0.3252,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6827847667057243,0
+751,Quick!,6,1,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249027714354586,2
+752,"- Youre right, it is him.",25,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6887866760419759,1
+753,Ashitaka!,9,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249844193068635,3
+754,Toki! Are you all right?,24,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.3964527108530926,6
+755,Of course!,10,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6247993903450245,3
+756,They thought theyd catch us,27,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.683725579106653,0
+757,We showed em!,13,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+758,- They thought wed be easy.,27,5,positive,0.4404,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6855741156928108,3
+759,She took every man,18,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.687010350414372,1
+760,Were trapped here and,21,4,negative,-0.5267,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248022859895827,3
+761,The Deer God?,13,3,positive,0.2732,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6892817424628859,2
+762,"Sir, Ive still got your bow.",28,6,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.640543378629793,2
+763,What about his saddle and cloak?,32,6,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+764,- I forgot.,11,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+765,"Koroku, thanks!",15,2,positive,0.4926,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6892069514109833,2
+766,Ill bring help. Can you hold on?,32,7,neutral,-0.0258,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4321394021942436,6
+767,Well pour hot iron,18,4,positive,0.2732,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.724534490728968,0
+768,"- Hurry, Ashitaka!",18,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4313438776838637,1
+769,Missed!,7,1,negative,-0.3595,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+770,Theyre bringing boats. Hurry!,29,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.420684830290092,6
+771,"Summon Lady Eboshi. Well fight, too!",36,6,negative,-0.2003,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.5653556631860619,1
+772,Ill be back. Keep fighting!,27,5,negative,-0.68,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.41167952406355146,4
+773,Well be here!,13,3,positive,0.3382,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+774,Kill that man!,14,3,negative,-0.7177,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6892714245449306,1
+775,"Theyre after us, Yakul!",23,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.40679723955216807,4
+776,Burning flesh...,16,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248651752247236,3
+777,Yakul!,6,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249623998702142,3
+778,Stay back!,10,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6853196852532824,0
+779,Show me the wound.,18,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4008731410793694,6
+780,Wait here. Ill be back.,23,5,negative,-0.4215,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.5293425663155366,5
+781,"Stay, I said!",13,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249432984891047,0
+782,Were almost there.,18,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248021103256894,3
+783,Who goes there?,15,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.62471091846782,0
+784,Youre not allowed here.,23,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249604358432216,1
+785,Im indebted to these men.,25,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249169882968135,0
+786,Shes not here.,14,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249482982988901,0
+787,I will speak to her.,20,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6247482086366258,0
+788,"Ashitaka, you made it after all!",32,6,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4395156724881076,1
+789,Youve suffered badly.,21,3,negative,-0.743,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6247629830584324,3
+790,Some men are still buried.,26,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.40425137724115484,4
+791,It was horrible.,16,3,negative,-0.5423,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6246806875713827,1
+792,The ironworks are under attack.,31,5,negative,-0.4767,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4082787101645003,5
+793,Theres still time. The women are,32,6,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7497153544011733,2
+794,This cannot stand!,18,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4078052656146982,4
+795,Asano waited until we left.,27,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6891821037982743,3
+796,Wheres Lady Eboshi?,19,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7207365968520151,1
+797,She went after the Deer God.,28,6,positive,0.2732,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7215674365232339,2
+798,Call her back. Theres no time!,30,6,negative,-0.3595,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7425888793123412,2
+799,"If youre finished, get moving.",30,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4118232084750732,5
+800,And the ironworks?,18,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6206567900294674,0
+801,Now wait a minute!,18,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249532928591672,1
+802,Theyre ready to sacrifice us all.,33,6,positive,0.3612,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.681169137937886,2
+803,- Theres no time to lose.,25,5,negative,-0.5994,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4978414942004601,6
+804,Shes deep in the woods.,23,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5384018439995346,2
+805,"Send one of your trackers, then.",32,6,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.3157446269632321,5
+806,Theyre using Lady Eboshi.,25,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.5006568799319686,6
+807,Were there any wolves with the boars?,37,7,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.3964679047342726,4
+808,Have you seen Princess Mononoke?,32,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.49627007925616395,1
+809,It was pitch black,18,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+810,She was there.,14,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+811,We were on the front line...,28,6,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6247440704400152,3
+812,And?,4,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+813,"I dont know. All of a sudden,",29,7,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6861558496856816,0
+814,The scouts put us there,23,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248203465810789,0
+815,There were mines underneath us...,33,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+816,and grenades from above.,24,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+817,Wheres San?,11,2,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6804100246787746,2
+818,"Be still, I want to help you.",29,7,positive,0.4588,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5191011562675684,2
+819,A wolf! Theres a wolf,21,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4916216079185343,6
+820,"Sir, what are you...",20,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249393112819088,1
+821,Sir!,4,1,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249393112819088,1
+822,"What are you doing, boy?",24,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6248680644523606,2
+823,Hell take me to Eboshi.,23,5,negative,-0.6808,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.515094112406891,6
+824,"So youre with them, are you?",28,6,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249604358432216,1
+825,Step aside.,11,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6891477778161301,0
+826,Would you sacrifice,19,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6839580715479805,3
+827,Poison darts!,13,2,negative,-0.5848,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6247924864910492,1
+828,Stop!,5,1,negative,-0.3595,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249636046075172,3
+829,Give me a hand!,15,4,positive,0.5411,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6872969511485956,3
+830,Hes free!,9,2,positive,0.5562,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4270276529614097,6
+831,Go through the swamp,20,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+832,They have sharpshooters.,24,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6246660042175581,1
+833,Take this. My last arrow broke.,31,6,negative,-0.4215,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6888464930614471,2
+834,Go with them.,13,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+835,Look after him!,15,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249655990556803,0
+836,Find San. Thats where Eboshi is.,32,6,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.41951035803449455,5
+837,Keep up with the scouts.,24,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.42194971526615255,5
+838,Jiko!,5,1,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.62490119317665,1
+839,Well? How does it look?,23,5,positive,0.3527,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249655990556803,0
+840,Okkotos hurt. He and the girl,29,6,negative,-0.5267,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6891404616930332,1
+841,So theyre going to ask him,26,6,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.5372648157720064,0
+842,Keep out of sight,17,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.4219735665885376,4
+843,Of course.,10,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6247993903450245,3
+844,Was that boar blood on his face?,32,7,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5056806773407568,2
+845,Its a scout trick.,18,4,negative,-0.0516,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6247879459068849,3
+846,Were almost at,14,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248021103256894,3
+847,Somethings coming!,18,2,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6888427412994579,2
+848,"Somethings wrong, Okkoto!",25,3,negative,-0.5255,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5375783654296842,2
+849,Something bad is coming.,24,4,negative,-0.5423,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.42417360449855196,4
+850,I cant smell it.,16,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.4281214165771135,5
+851,Apes!,5,1,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.624852762766659,2
+852,You did this.,13,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+853,Your fault. Forest die.,23,4,negative,-0.765,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6759493983587804,2
+854,Is this how you thank those,27,6,positive,0.3612,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249513970085363,3
+855,You bring monsters.,19,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.4144879995349964,4
+856,Not animal! Not human!,22,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6812781760458865,0
+857,Neither animal nor human?,25,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.716828697077518,1
+858,- Theyre here!,14,2,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249508879595186,2
+859,Scouts?,7,1,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248203465810789,0
+860,Theyre here!,12,2,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249508879595186,2
+861,My warriors have returned,25,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.679641166218982,3
+862,"Forward, my warriors!",21,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.60486674599691,1
+863,"Okkoto, no! Your warriors",25,4,negative,-0.3595,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6764240393519321,0
+864,The boar skins,14,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249297164240312,2
+865,Humans!,7,1,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.624952516949152,0
+866,Stop! They want us to,21,5,negative,-0.2942,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.40257646792444085,4
+867,"Come out, Deer God!",19,4,positive,0.3382,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.49395711908004547,2
+868,"If you are lord of this forest,",31,7,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.688116320839137,2
+869,Okkoto! Still your heart!,25,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5321126146970853,2
+870,Were surrounded! Hes done for.,30,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.724278521411594,2
+871,No! Hell become a demon!,24,5,negative,-0.8118,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6889184956505255,1
+872,Tell Mother its the Deer God,28,6,positive,0.2732,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.46857796345861685,0
+873,Shell know what to do.,22,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.4241265394142936,4
+874,We cant let our kind die out!,29,7,negative,-0.7887,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.431683209855802,5
+876,"Ill kill the first one who moves,",33,7,negative,-0.8176,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.3960129819089218,6
+877,Ashitaka?,9,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249844193068635,3
+878,Get back!,9,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6854246487771549,0
+879,I burn! A flame bursts from within me.,38,8,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6890781372916431,0
+881,"No, Okkoto! Dont turn into a demon!",35,7,negative,-0.4184,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.5622408859783523,0
+882,Okkoto!,7,1,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249538484429805,0
+883,An answer!,10,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6247908612661229,3
+884,- What is it?,13,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+885,Lets go!,8,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249401993824775,0
+886,Its hot!,8,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6247777995975636,0
+887,No! I dont want,15,4,negative,-0.4047,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4330045497053458,4
+888,Okkoto!,7,1,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249538484429805,0
+889,Too slow. Get on.,17,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249505758831088,0
+890,A wolf!,7,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249260354488211,1
+891,Eboshi...,9,1,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249735839792577,1
+892,Go on ahead!,12,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6248340691911285,2
+893,"Eboshi, listen to me!",21,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.4395219276852822,3
+894,- Cease fire!,13,2,negative,-0.4003,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249352707751439,3
+895,The ironworks are under attack.,31,5,negative,-0.4767,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4082787101645003,5
+896,The women need help.,20,4,positive,0.4019,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.32213773398695567,4
+897,Your men are on their way.,26,6,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.41139041300188456,4
+898,What proof do you have?,23,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6246774399446804,2
+899,None! I would have stayed,25,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6880490653913294,3
+900,You want me to kill samurai,27,6,negative,-0.6597,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4608927845172242,5
+901,No! Cant the forest,19,4,negative,-0.3595,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4054022539852158,6
+902,- Whose side is he on?,22,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6890413309658912,1
+903,The women can hold their own.,29,6,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6815180143179922,2
+904,Theres the pond. Hes close!,27,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4946864993627099,6
+905,Its now or never. Stay alert.,29,6,negative,-0.2235,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.41328948968746776,4
+906,Do we need her?,15,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248679052579682,3
+907,Were hunting a god.,19,4,positive,0.2732,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249778366535346,2
+908,Moro! Are you dead?,19,4,negative,-0.68,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6892679463271841,3
+909,San!,4,1,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249744787087044,2
+910,Where are you?,14,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+911,San!,4,1,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249744787087044,2
+912,Ashitaka!,9,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249844193068635,3
+913,Okkoto...,9,1,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249538484429805,0
+914,"Leave, boy.",11,2,negative,-0.0516,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.40008142078341485,6
+915,"If we fight, the god wont come.",31,7,negative,-0.128,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.4325458032350727,4
+916,Okkoto! Be still!,17,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.39650458734777133,4
+917,Give me Princess Mononoke.,26,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.52185570978686,1
+918,"San, can you hear me?",21,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.4232268830387667,4
+919,San!,4,1,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249744787087044,2
+920,Silence him!,12,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6247969670651174,0
+921,Shoot him down!,15,3,negative,-0.4003,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248615586265479,1
+922,San!,4,1,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249744787087044,2
+923,Ashitaka!,9,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249844193068635,3
+924,San!,4,1,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249744787087044,2
+925,Ashitaka!,9,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249844193068635,3
+926,And here I was saving my last,29,7,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6248379606318685,2
+927,Close up!,9,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6247918247617591,1
+928,Stay away from him.,19,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.41623918500140306,4
+929,The curse will fall on you.,27,6,negative,-0.5423,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.4047545290031916,5
+930,Have you lost even the power of speech?,39,8,negative,-0.3182,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.7235847668514009,3
+931,Well done. Fall back,20,4,positive,0.2732,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.4394138964450517,4
+932,A horrible sight.,17,3,negative,-0.5423,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4008250612563667,4
+933,There he is.,12,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+934,Give me back my daughter!,25,5,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.7163214170765515,3
+935,Ashitaka...,11,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249844193068635,3
+936,Can you save San?,17,4,positive,0.4939,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.43758335438758544,6
+937,The Deer God...,15,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6892817424628859,2
+938,Dont shoot!,11,2,positive,0.3244,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6647419135266686,1
+939,Eboshi! Your enemy is not,25,5,negative,-0.5848,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249735839792577,1
+940,Guns cant hurt him...,21,4,positive,0.4168,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6891900570712851,1
+941,Only through the head...,24,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249494476303976,1
+942,San!,4,1,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249744787087044,2
+943,Dont die!,9,2,positive,0.5327,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6602471704381354,1
+944,"They wanted life,",17,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249413511452888,3
+945,- Its the Nightwalker!,22,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248538295571531,1
+946,This is how you kill a god.,27,7,negative,-0.5574,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4197378178976229,6
+947,This is also the god of death.,30,7,negative,-0.4215,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.5624853649806509,0
+948,Stay close behind me.,21,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4208466960834828,5
+949,Stop!,5,1,negative,-0.3595,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249636046075172,3
+950,Eboshi!,7,1,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249735839792577,1
+951,Damn you!,9,2,negative,-0.4574,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+952,Got him! Get the head!,22,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.3242177707630002,4
+953,Jiko! Bring the box!,20,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4074416492946827,6
+954,The porters are dead! Quick!,28,5,negative,-0.7081,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.39679479087792685,4
+955,Dont touch the body!,20,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.4816990085194681,0
+956,Take it! The head is yours.,27,6,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4005543204484514,6
+957,Lady Eboshi!,12,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6893114434300672,1
+958,Moros head... it moved by itself!,33,6,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.4193255483091619,4
+959,"Come on, hurry! Run!",20,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.5045883650409909,3
+960,Run!,4,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248872417716469,3
+961,To the island!,14,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+962,- I cant swim!,14,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249495876295725,1
+963,Bring her here. Ill kill her!,29,6,negative,-0.8313,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.5056477620802162,6
+964,Moros had her revenge.,22,4,negative,-0.5267,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.624873062594574,3
+965,- Lady Eboshi!,14,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6893114434300672,1
+966,Dont waste your sympathy.,25,4,positive,0.0572,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6827847667057243,0
+967,I promised Toki Id bring you back.,34,7,positive,0.3612,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7199346251820115,2
+968,Its searching for its head.,27,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249494476303976,1
+969,San!,4,1,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6249744787087044,2
+970,Help me.,8,2,positive,0.4019,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249455409875865,0
+971,No! Youre on their side!,24,5,negative,-0.4184,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6865972073675861,1
+972,Take her and go away!,21,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6889910380560564,2
+973,Keep away! I hate humans!,25,5,negative,-0.6467,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.42377230537877764,6
+974,I am human. So are you.,23,6,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6151849457169277,0
+975,Shut up!,8,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+976,Im a wolf!,10,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249260354488211,1
+977,Dont touch me!,14,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6847099003043363,0
+978,Im sorry. I tried to stop it.,29,7,negative,-0.3612,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.5119528644269005,3
+979,Everything is finished.,23,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.3971504542603981,4
+980,No its not.,11,3,negative,-0.296,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+981,Wait! Help us!,14,3,positive,0.508,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.3983116832511506,5
+982,A little danger and theyre useless.,35,6,negative,-0.7102,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6874242064159879,2
+983,Dont stop!,10,2,positive,0.2914,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.4881527432438653,3
+984,The heads moving!,17,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248623866028813,1
+985,Its calling him!,16,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+986,That will fix it.,17,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+987,Thanks.,7,1,positive,0.4404,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6248405850794126,2
+988,- Its too quiet.,16,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6248362203024812,2
+989,I wonder if that young man,26,6,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.49143572410821645,6
+990,Im sure he did.,15,4,positive,0.3182,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+991,"Look at that face. Hey, Koroku!",31,6,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5437570571932577,2
+992,Let him sleep for now.,22,5,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.43153136057932645,4
+993,What is it? It sounds unearthly.,32,6,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+994,The Nightwalker!,16,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248538295571531,1
+995,Hold your positions!,20,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6166796244344104,3
+996,- Its coming this way.,22,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.4114257482922598,4
+997,We guard the ironworks!,23,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6744178533471434,2
+998,Its him! Ashitaka!,18,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249844193068635,3
+999,"Everyone, escape!",17,2,positive,0.2481,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6890556702232851,1
+1000,The Deer God,12,3,positive,0.2732,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6892817424628859,2
+1001,Touch that muck and youre dead!,31,6,negative,-0.68,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.32121394296044914,4
+1002,Go to the lake.,15,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6248249361164796,2
+1003,Lady Eboshi and the men,23,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4905213618781657,5
+1004,We must return the head!,24,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7250130342253237,1
+1005,Hurry!,6,1,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248569420473365,1
+1006,Its here.,9,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+1007,What do we do?,14,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+1008,Dont panic.,11,2,positive,0.4023,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6207883597801896,0
+1009,To the lake!,12,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6248249361164796,2
+1010,Stay calm! Help the injured.,28,5,positive,0.3802,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.7219423209870806,0
+1011,Not that way!,13,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249139633968394,3
+1012,There goes the roof...,22,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6890900689271399,0
+1013,"Once the forge starts to burn,",30,6,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6247151880753974,0
+1014,"No, it isnt. Were still alive.",30,6,negative,-0.5242,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.7218931514259572,2
+1015,There they are!,15,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+1017,Wait!,5,1,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249532928591672,1
+1018,Youre still alive? Thats good.,30,5,positive,0.6705,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5100923423073098,2
+1019,Ill return the head.,20,4,negative,-0.4215,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7247900646283322,1
+1020,Give it back now? Its too late.,31,7,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.7155592025440874,3
+1021,"Look! A brainless,",18,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249655990556803,0
+1022,Hell vanish with the sun.,25,5,negative,-0.6808,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6891329343408256,1
+1023,"Hes coming, Jiko. Quick!",24,4,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.5753229803499822,2
+1024,The thirst to possess heaven and earth,38,7,positive,0.5106,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6247995263129306,3
+1025,I dont want to kill you.,24,6,positive,0.5448,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7038098112670169,1
+1026,"Oh, dear.",9,2,positive,0.3818,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+1027,Dont look so serious.,21,4,negative,-0.188,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6870756330539675,0
+1028,Get going!,10,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6883622950840583,0
+1029,Ashitaka!,9,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249844193068635,3
+1030,Trapped.,8,1,negative,-0.5267,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6248022859895827,3
+1031,Were surrounded!,16,2,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6248631079799503,2
+1032,"- Sun, come quickly!",20,3,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.43463770679027314,1
+1033,Dont you understand? Its too late.,34,6,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6958826165421427,3
+1034,"Ashitaka, talking with humans",29,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.40961922466211514,4
+1035,Human hands must return it.,27,5,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.7474992233466327,1
+1036,I warned you.,13,3,negative,-0.2732,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+1037,O Deer God...,13,3,neutral,0.0,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6892817424628859,2
+1038,We return your head!,20,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6886844213938588,1
+1039,Be at peace!,12,3,positive,0.5848,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6248909211235623,1
+1040,Here it comes!,14,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248692353260784,0
+1041,- It stopped.,13,2,negative,-0.2263,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6248881045369133,2
+1042,Lady Eboshi!,12,2,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6893114434300672,1
+1043,"Careful, shes hurt.",19,3,negative,-0.4215,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.4057200767076975,5
+1044,Its falling!,12,2,negative,-0.2244,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.6248607863954625,2
+1045,Hang on tight!,14,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6248918101702449,0
+1046,I didnt know the Deer God,25,6,positive,0.2732,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.3699443211983842,6
+1047,"San, look!",10,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.40222183731593847,4
+1048,"Even restored, these are not",28,5,positive,0.34,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249419143300443,3
+1049,The Deer God is dead.,21,5,negative,-0.4939,3,"god, san, deer, forest, theyre, still, hes, eat, boar, bring",0.4752528691633231,2
+1050,He cant die.,12,3,positive,0.4847,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6875005675885867,1
+1051,He is both life and death.,26,6,negative,-0.5994,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.4027121456264071,4
+1052,He is telling us we should live.,32,7,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249392569081174,0
+1053,"I love you, Ashitaka.",21,4,positive,0.6369,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249844193068635,3
+1054,"Then live in the forest,",24,5,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.42868198045059913,4
+1055,"Together, well live.",20,3,positive,0.2732,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.4064675428836721,4
+1056,Yakul and I will visit you.,27,6,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249623998702142,3
+1057,Can you believe it?,19,4,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249125703506392,0
+1058,Someone bring Ashitaka.,23,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.34162295865004405,4
+1059,Well start over.,16,3,positive,0.2732,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+1060,I give up.,10,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.6249628572359281,3
+1061,VOICES,6,1,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+1062,Yoji Matsuda,12,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+1063,Yuko Tanaka,11,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+1064,Masahiko Nishimura,18,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+1065,Akihiro Miwa,12,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+1066,Hisaya Morishige,16,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+1067,Chief Executive Producer,24,3,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6825137272983464,0
+1068,Executive Producers,19,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.6249050065919579,0
+1069,Original Story and Screenplay by,32,5,positive,0.3182,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+1070,Music by Joe Hisaishi,21,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+1071,Theme Song Mononoke Hime,24,4,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6249339697922646,1
+1072,Performed by,12,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+1073,Dialogue adaptation by,22,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+1074,Subtitles by Aura,17,3,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+1075,A Studio Ghibli Film,20,4,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+1076,Producer,8,1,neutral,0.0,2,"eboshi, lady, youre, wait, head, cant, man, kill, sir, ill",0.6162025057353072,1
+1077,Directed by,11,2,neutral,0.0,0,"ashitaka, stop, give, yakul, come, thank, even, would, life, tribe",0.25,4
+1078,The End,7,2,neutral,0.0,1,"dont, look, get, humans, okkoto, shes, help, stay, let, live",0.624858552507619,0

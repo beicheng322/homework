@@ -1,0 +1,900 @@
+﻿line_number,cleaned_line,char_length,word_count,sentiment,compound,dominant_topic,topic_keywords,topic_confidence,cluster
+1,Yeah?,5,1,positive,0.296,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.624908502083869,3
+2,Porco Rosso!,12,2,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6873599664419414,2
+3,The Mamma Aiutos?,17,3,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6891578213859555,3
+4,Theyre after a mines payroll,28,5,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249301606442306,2
+5,- Is that all?,14,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+6,Theres a school tour group aboard.,34,6,neutral,0.0258,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.7148480852664262,2
+7,Thatll cost you.,16,3,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6245855571159608,5
+8,Well pay top dollar.,20,4,positive,0.3612,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249063930139944,3
+9,And a bonus too.,16,4,positive,0.5423,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+10,Stop!,5,1,negative,-0.3595,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6248889291583096,5
+11,Stop or we sink you.,20,5,negative,-0.296,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6826886858570653,5
+12,"Wow, pirates!",13,2,positive,0.6239,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6248906540801357,3
+13,Not just pirates. Air pirates!,30,5,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6771887247033712,3
+14,Time for an overhaul.,21,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6249407597835509,0
+15,Are you bad guys?,17,4,negative,-0.5423,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.689125994613758,5
+16,Yep.,4,1,positive,0.296,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+17,And were hostages?,18,3,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6246229356261103,2
+18,- Right.,8,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6249641298943358,0
+19,Smart girl.,11,2,positive,0.4019,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6879245862037081,3
+20,A skull!,8,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+21,- And very well-drawn.,22,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+22,"Come on, hurry up!",18,4,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.4335394782116978,6
+23,Theres 15 of them. Do we take them all?,39,9,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6891172452345113,2
+24,We cant leave anyone out.,25,5,neutral,0.0382,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.4065919105646479,4
+25,Too late!,9,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+26,They took the girls and the money.,34,7,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6790245020504426,0
+27,Bring them back!,16,3,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6877680225466407,3
+28,They went that way.,19,4,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6888771740276599,5
+29,"No, not that way!",17,4,negative,-0.3595,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6248975549345769,5
+30,I know what those cheapskates are up to.,40,8,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.62493517729729,0
+31,Theyll change course for the nearest,36,6,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6246978209988489,5
+32,They cant waste gas.,20,4,positive,0.3252,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6879649741625277,3
+33,Uh-oh.,6,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+34,Come on!,8,2,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249684300486482,3
+35,I dont have much time.,22,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.5563454244500299,0
+36,Gotcha!,7,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6247750732230551,0
+37,"What, its just a tour group.",28,6,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6819709764064584,3
+38,"Hey, its a pig. A pig!",22,6,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6203146639817728,2
+39,"Hey, piggy! Hes so cute!",24,5,positive,0.6652,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6878294054553759,0
+40,Be careful or the pirates will get you.,39,8,positive,0.1531,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6867602302811984,3
+41,Hes so cool!,12,3,positive,0.4376,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.687855547722707,0
+42,Will you all shut up?,21,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.624946690719783,0
+43,- Were flying!,14,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+44,"Hey, cut that out!",18,4,negative,-0.3382,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+45,"Be quiet, will you?",19,4,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6247893664539952,5
+46,Do something!,13,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+47,Youre the one who said to bring them all.,41,9,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6102129081195736,3
+48,Just for a second.,18,4,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6246713651507272,2
+49,"Its beautiful. Hey, look!",25,4,positive,0.636,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6892596241563813,5
+50,A red plane!,12,3,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6883511831037309,2
+51,Where? Where?,13,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+52,"- We saw it, didnt we?",22,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6889404701841005,0
+53,Thats as far as you go.,23,6,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6736226446640413,3
+54,Here he comes!,14,3,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6248560943693614,2
+55,- Its Porco!,12,2,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249753081213054,2
+56,"Oh, no!",7,2,negative,-0.3595,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+57,- It stopped.,13,2,negative,-0.2263,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+58,"No, weve got another engine.",28,5,negative,-0.296,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7465181786288173,0
+59,What are you doing? Shoot him down!,35,7,negative,-0.4003,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6184255787537154,2
+60,That red planes tough.,22,4,negative,-0.128,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.7250184269418684,2
+61,- Missed!,9,1,negative,-0.3595,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.624692491948073,2
+62,Message from the pig.,21,4,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6848526719986532,2
+63,Shut up!,8,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.624946690719783,0
+64,Hes coming. Get down!,21,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7172118554061601,0
+65,- Where did he go?,18,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+66,We crashed. Were going to sink!,31,6,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.682570787180615,2
+67,No we wont. This is a seaplane.,31,7,negative,-0.296,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6867615542316806,0
+68,Oh no!,6,2,negative,-0.3595,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+69,Were sinking.,13,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+70,"- Hey, stop that!",17,3,negative,-0.3595,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6248889291583096,5
+71,Halt! Youre hostages.,21,3,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6859883943721451,2
+72,Dont worry. Were on the swim team.,34,7,positive,0.3412,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6865815337368549,5
+73,- Thats not the point!,22,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.67362082608744,3
+74,Another message.,16,2,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6846135136387056,2
+75,You can keep half the money.,28,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7230892137839893,0
+76,Or Ill kill you all.,20,5,negative,-0.8176,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249616366555371,3
+77,- Thats it.,11,2,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6210597076340335,2
+78,"Shut up! Come on, you swine.",28,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.41872274366610995,4
+79,Eat lead!,9,2,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6247587764075944,3
+80,It jammed!,10,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6248971437658519,0
+81,We surrender!,13,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6247713200644208,0
+82,We surrender!,13,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6247713200644208,0
+83,Bye-bye!,8,2,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6246924908351249,2
+84,Farewell!,9,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6247338328142229,0
+85,He left us money for repairs.,29,6,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.5323534040728888,2
+86,Dont be such a sap.,19,5,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6249708575328503,5
+87,"Be quiet, will you?",19,4,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6247893664539952,5
+88,"Dont pull on that, youll break it.",34,7,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.48884431812686735,5
+89,Stay away from the propeller.,29,5,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6892250434026398,3
+90,Got to pee? Do it over there.,29,7,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.624960956445204,0
+91,PORCO ROSSO SINGS HIS VICTORY SONG,34,6,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6873599664419414,2
+92,So the Mamma Aiutos cant come tonight.,38,7,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.766909577605898,3
+93,And that filthy pig,19,4,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6203146639817728,2
+94,"But this young kids an American, right?",39,7,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7235898398155796,0
+95,"The air pirates of the Adriatic,",32,6,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7250547361842782,3
+96,His grandmother was part Italian.,33,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+97,And hell finish Porco for us.,29,6,negative,-0.6808,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.5666414206710828,0
+98,But ten percent is outrageous.,30,5,negative,-0.6124,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6246906762515004,2
+99,Beautiful.,10,1,positive,0.5994,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6249230415197125,5
+100,Hes here.,9,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6249492914630816,0
+101,"With his snout in the air, as always.",37,8,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.689142735164861,3
+102,Mr. Porco Rosso? Im from The Neptune.,37,7,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6873599664419414,2
+103,We hear you put,15,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.41290287280715543,4
+104,Do you think that will affect,29,6,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6248466555683262,2
+105,"Hey, put me down!",17,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249206934831177,3
+106,Listen to the music.,20,4,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6247577929123365,5
+107,Shes quite a woman.,19,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7247942683917995,0
+108,Even American pilots know,25,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7465345601276562,0
+109,Thats why we all leave,22,5,negative,-0.0516,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6784969581762428,2
+110,Is that your Curtiss out front?,31,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6890936186342199,0
+111,The Rattlesnake.,16,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+112,You took the Schneider Cup,26,5,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6177066710479107,2
+113,"Shes unbeatable in a dogfight, too.",35,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6882937479068436,0
+114,But I hear theres this Porco Rosso,34,7,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.5631519548467434,2
+115,Better watch your back,22,4,positive,0.4404,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.5411701983122605,6
+116,"Theyre poor, cheap, and dirty.",30,5,negative,-0.7184,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.5095930322968791,6
+117,- Thats true.,13,2,positive,0.4215,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6210597076340335,2
+118,Quite a distinguished gathering!,32,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6247095353687355,0
+119,As usual.,9,2,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6246634686971299,5
+120,"Always glad to see you,",23,5,positive,0.4588,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7237036548994776,3
+121,"We know, Gina. We never work",28,6,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.43472090233329697,1
+122,Were even nice to the pig.,26,6,positive,0.4215,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7178929048905209,3
+123,Thats my boys.,14,3,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6210597076340335,2
+124,See you again.,14,3,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249577589657118,3
+125,"Porco, tell us a war story.",27,6,negative,-0.5994,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.611715351399226,5
+126,Next time were alone.,21,4,negative,-0.25,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7249645328591161,0
+127,That American is so funny.,26,5,positive,0.5777,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.413030750165668,4
+128,He took one look and said marry me.,35,8,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.3798968377535761,6
+129,I told him Id lost,18,5,negative,-0.3182,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6247882504335056,2
+130,"One in combat, one in the Atlantic.",35,7,negative,-0.34,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249619247447752,3
+131,They found him?,15,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6247820772161179,0
+132,I got a call today.,19,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6877798843922489,0
+133,I waited three years.,21,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6248988937493763,0
+134,The good guys always get killed.,32,6,negative,-0.3818,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.4227343210358409,1
+135,"Thanks, Marco. Youre always here for me.",40,7,positive,0.4404,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6036085878187357,3
+136,Youre the only one left,23,5,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.5257118654504305,6
+137,One thing I dont like about this place...,41,8,negative,-0.2755,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.5234875495731351,1
+138,is that picture.,16,3,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6247444218541155,3
+139,Dont touch it. Its the only one,31,7,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.41755164418848734,1
+140,I wish I could release you,26,6,positive,0.4019,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6248408164649076,0
+141,That Yank knows how to fly.,27,6,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6788385446874421,5
+142,Must be nice to make that much money.,37,8,positive,0.4215,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.4167315922704529,4
+143,This months payment.,20,3,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6245817367332379,2
+144,That pays off your loan.,24,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+145,How about helping the people out,32,6,positive,0.296,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+146,Do I look like a person?,24,6,positive,0.3612,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6877278100467488,5
+147,"All ready for you, Mr. Porco Rosso.",35,7,positive,0.3612,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.7235750757956273,2
+148,- Ill take some ammo too.,25,5,negative,-0.4215,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.5224325650815909,6
+149,The streets are packed.,23,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+150,Yeah? Maybe the government,26,4,positive,0.296,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6888000916996365,3
+151,Theyll pass a law against you guys.,35,7,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6890772119652895,5
+152,Laws dont apply to pigs.,24,5,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6869725289062261,5
+153,Thats for sure. Or moles like me.,33,7,positive,0.5859,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6848551138034491,2
+154,Just regular ammo?,18,3,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6876818075228507,3
+155,"Were not fighting a war out there, kid.",39,8,positive,0.6435,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6890680357094663,5
+156,See you.,8,2,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249577589657118,3
+157,Thank you!,10,2,positive,0.4199,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6248906481268808,0
+158,"Hey, Boss. How is war",21,5,negative,-0.5994,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6890752095467696,5
+159,War profiteers are villains.,28,4,negative,-0.8316,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6248898728407646,5
+160,Were air pirates.,17,3,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6890521788673681,3
+161,What else can we do?,20,5,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6247046948461729,3
+162,These repairs were expensive.,29,4,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6246803361629961,2
+163,Pirate Federation planes!,25,3,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.5248104062343599,1
+164,Why do we have to fly,21,6,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6248778052544066,5
+165,Its all the pigs fault.,23,5,negative,-0.4019,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6886350482044923,5
+166,Cant those Mamma Aiutos,23,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7249338416784383,3
+167,That is so shabby.,18,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+168,It looks like everyones here.,29,5,positive,0.3612,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.622456324775048,2
+169,"Hey, is the American here yet?",30,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6891567933432645,0
+170,Hes up in the sun.,18,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6249492914630816,0
+171,Right where he should be.,25,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6249641298943358,0
+172,Sighted target The Mediterranean Queen.,39,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6247924796941101,0
+173,Were taking a ship that big?,28,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.3981612689347202,4
+174,Thats why we all got together.,30,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.4085369614604227,4
+175,Having engine trouble. Go first.,32,5,negative,-0.4019,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.3090620219773346,4
+176,Thats a dirty trick! We follow the plan.,40,8,negative,-0.5255,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.7626890967279226,2
+177,Then we share repair costs!,27,5,positive,0.3595,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6136306382883614,5
+178,You gutless wonder! We pay,26,5,negative,-0.1759,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249063930139944,3
+179,- Even if we get bombed?,24,5,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6842403020983646,3
+180,- We settled all this before!,29,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+181,- Im leaving!,13,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+182,"All of you, shut up!",20,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.624946690719783,0
+183,Attention! We are under attack,30,5,negative,-0.5255,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+184,There is no need for alarm.,27,6,negative,-0.5574,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6247749930208951,2
+185,We carry two advanced fighter aircraft.,39,6,positive,0.3818,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6857957165922629,0
+186,We will now introduce our pilots.,33,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6249454860236214,0
+187,"The Black Stallion, Signor Valleta.",35,5,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6174030615185939,3
+188,"And the Wolf of the Tiber,",26,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+189,- They brought muscle!,22,3,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6245790389212574,2
+190,"Aw, what a mess.",16,4,negative,-0.3612,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+191,"Get away from me, Curtis!",25,5,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7230438865753378,3
+192,"All right, lets go!",19,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6755453035575472,0
+193,Thats not good.,15,3,negative,-0.3412,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.39670830790304856,1
+194,Guess I have to go to Milan.,28,7,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6888213962475929,5
+195,"Both pilots were shot down,",27,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6249454860236214,0
+196,The Pirate Federation looted,28,4,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6890720349836172,5
+197,Youre next!,11,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.4346583515944802,4
+198,"Come and get us, pig!",21,5,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7183081831697852,3
+199,We repeat...,12,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+200,About this incident...,22,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+201,"Way to go, turkeys.",19,4,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6248975549345769,5
+202,Im afraid Im on vacation.,25,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.624718173924369,0
+203,"White sheets, beautiful women.",30,4,positive,0.5994,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.7246108759251143,5
+204,"Just get me to Milan, little engine.",36,7,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.5781654703690556,0
+205,I dont like this weather.,25,5,negative,-0.2755,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6249708575328503,5
+206,"Come on, you can do it!",23,6,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249684300486482,3
+207,Thats right. Good girl!,23,4,positive,0.4926,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.41055546634846973,4
+208,Pig!,4,1,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6203146639817728,2
+209,Its one on one!,15,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249619247447752,3
+210,Not now!,8,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+211,Ill tell everyone you ran.,26,5,negative,-0.4215,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.5185831703212218,3
+212,"Catch you later, Yank!",22,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6816338325505246,3
+213,"Damn, lost my cover.",20,4,negative,-0.6124,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.68913448262521,2
+214,Uh-oh.,6,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+215,Gotcha!,7,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6247750732230551,0
+216,No you didnt. My engine quit.,29,6,negative,-0.296,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6890866330156897,0
+217,Yes! Now Ill be famous too. Yahoo!,34,7,negative,-0.1739,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7234871675090302,3
+218,I cant go back empty-handed.,28,6,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7238585910646453,3
+219,There!,6,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+220,That stupid red color. No mistake.,34,6,negative,-0.7906,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6814902915790825,2
+221,A souvenir for my mama in Alabama.,34,7,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+222,Please hurry.,13,2,positive,0.3182,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6891821296713787,2
+223,Madame Gina!,12,2,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249140828561348,2
+224,Theres a phone call.,20,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.5407970722136836,0
+225,What?,5,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+226,Use the phone at the front desk.,32,7,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7252244299432339,0
+227,Marco? Are you all right?,25,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6866287310964571,0
+228,Oh? Good!,9,2,positive,0.4926,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.624981256996185,5
+229,Ive lost weight.,16,3,negative,-0.3182,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.4092318766355537,4
+230,Im taking the plane to Milan for repairs.,41,8,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.4305059610163839,1
+231,"If the Yank comes in,",21,5,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6797984965946714,2
+232,Hey! Im not a messenger.,24,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+233,"I worry about you pilots,",25,5,negative,-0.4404,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.4098405815496337,4
+234,"Marco, youll end up roasted.",28,5,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.5241821601000604,5
+235,A pigs gotta fly.,17,4,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6891837719671754,5
+236,Idiot!,6,1,negative,-0.5562,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6247456224468402,0
+237,THE RED WINGS HAVE BEEN BROKEN,30,6,negative,-0.4767,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.7208487511661464,2
+238,I figured youd show up tonight.,31,6,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7218299119691999,3
+239,I need your help.,17,4,positive,0.4019,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.4013924710211644,6
+240,Looks pretty bad.,17,3,negative,-0.0772,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.705992817283502,5
+241,Why not just get a new plane?,29,7,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.41270930595396765,6
+242,I like this one.,16,4,positive,0.3612,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249619247447752,3
+243,I know how you feel.,20,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.62493517729729,0
+244,Look out. Ill back her in.,26,6,negative,-0.4215,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.5031034562481075,3
+245,Whos the cutie?,15,3,positive,0.3612,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6245090608828887,5
+246,"My granddaughter, back from the States.",39,6,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7193983763831834,3
+247,"Keep coming, keep coming.",25,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6889307494608509,0
+248,"What a beautiful plane, Grandpa!",32,5,positive,0.636,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.5338059266785297,1
+249,They dont make them like that anymore.,38,7,negative,-0.2755,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.4330560504557257,1
+250,I cant see it.,14,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6892278040285922,3
+251,Shes really your granddaughter?,31,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6852937037195266,0
+252,Hands off.,10,2,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249082782484944,3
+253,"Fio, lock up.",13,3,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.624941864936261,3
+254,Okay.,5,1,positive,0.2263,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6248674600862858,3
+255,Im going up against Curtis.,27,5,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6562356941370731,2
+256,Curtis? I hadnt heard,21,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.4290921058087032,4
+257,Well?,5,1,positive,0.2732,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+258,Where did you get a Folgore?,28,6,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6215361548901654,3
+259,Dont ask.,9,2,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6846314049457218,5
+260,The plane Curtis beat in 1927,29,6,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.7148831396766775,2
+261,But it wasnt the engines fault.,31,6,positive,0.438,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.7070773598631848,5
+262,I can hardly wait.,18,4,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249215945905279,2
+263,Dont over-tune her. Its not a race.,35,8,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6249708575328503,5
+264,Tell me about it!,17,4,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6249783977042356,5
+265,Youre cleaning me out.,22,4,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249529261099991,2
+266,These days moneys not worth,27,5,negative,-0.1695,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6249777047401394,5
+267,Empty your pockets.,19,3,negative,-0.2023,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.624672643130387,3
+268,Thats for hotel and meals!,26,5,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6848175428143484,2
+269,Stay here. Ill put you up cheap.,32,7,negative,-0.4215,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7484481804122515,3
+270,Where are your sons? Are they good?,35,7,positive,0.504,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6760041036243107,5
+271,They left to find work.,23,5,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.41043728523160333,1
+272,- So wholl do the design?,25,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+273,Fio? That little girl?,22,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7143497090670662,3
+274,"Shes young, but shes got",24,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7150245740417236,0
+275,"Ive known you a long time,",26,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7251162151116539,0
+276,Wait!,5,1,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249215945905279,2
+277,It is because Im a girl?,24,6,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249291983387998,3
+278,"Both, actually.",15,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+279,"Well, I can understand that.",28,5,positive,0.2732,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6246353955392656,5
+280,"Tell me, whats the main thing",29,6,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6890623640923236,5
+281,Experience?,11,1,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6168099671557893,5
+282,No. Inspiration.,16,2,positive,0.296,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+283,Im glad you didnt say experience.,33,6,positive,0.4588,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7404203497479545,0
+284,Grandpa says you were very young,32,6,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.7135560963886952,5
+285,You were good from the start.,29,6,positive,0.4404,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6872165201355543,5
+286,That was 1910. I was 17.,24,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+287,Im 17 too!,10,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+288,"I cant help being a girl,",25,6,negative,-0.3089,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7246683875607081,3
+289,"If its no good, you dont have to pay.",37,9,positive,0.2491,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.4765558771997338,1
+290,Shell do fine.,14,3,positive,0.2023,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.4012283347060552,6
+291,I was overhauling engines when I was 12.,40,8,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6245517073384134,5
+292,Sleep on it.,12,3,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6248682511980101,5
+293,Showers hot. Towels on the rack.,32,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+294,"Youre short, but were friends.",30,5,positive,0.631,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6859697409438228,2
+295,FLEXIBILITY,11,1,positive,0.34,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+296,Good morning. Sleep okay?,25,4,positive,0.5859,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.5752429606395592,5
+297,Did you work all night?,23,5,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6887481882597909,5
+298,Just a rough idea.,18,4,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6247379267510156,2
+299,Same wing plan,14,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.39755956185919467,4
+300,That should give us five knots.,31,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6891092448565174,0
+301,The original plans are amazing.,31,5,positive,0.7269,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+302,Ive never seen anything like it.,32,6,negative,-0.2755,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.4046688022502586,4
+303,Whoever designed this wing,26,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6248107908460124,0
+304,Im so impressed.,16,3,positive,0.5256,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+305,They only built one.,20,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249619247447752,3
+306,Found it in a warehouse.,24,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6247820772161179,0
+307,Lucky you.,10,2,positive,0.4215,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+308,"With this wing sweep,",21,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6868822346593961,0
+309,Takeoffs and landings are tricky.,33,5,negative,-0.1531,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+310,Sweep the wings half a degree more.,35,7,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.7138859032665998,2
+311,The rest is fine.,17,4,positive,0.2023,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6248137892535225,2
+312,So youll let me do it?,22,6,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6890747631145693,5
+313,But on one condition.,21,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249619247447752,3
+314,Dont work all night.,20,4,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.7230195886146846,5
+315,"And to look good, too.",22,5,positive,0.4404,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6889008652882209,5
+316,All right.,10,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6249641298943358,0
+317,"Actually, I was so nervous",26,5,negative,-0.4101,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+318,"To tell the truth, I was afraid",31,7,positive,0.3182,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.5438977068693526,0
+319,Im so happy! Ill make some coffee.,34,7,positive,0.2975,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6886752428335668,3
+320,I hope shes not going,21,5,positive,0.4404,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.4113039880249429,4
+321,- Good morning.,15,2,positive,0.4404,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6859274796010829,5
+322,- My niece Monica will do the drawings.,39,7,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+323,"My nephews wife, the finishing.",31,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+324,"My cousins daughters, Sophia,",29,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+325,Fios sister Giliola. Sandras her cousin.,40,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6247334136868427,0
+326,"My sons wives Maria, Tina, Anna,",32,6,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6170024231235531,3
+327,Porcelino!,10,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+328,Grandma!,8,1,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6247975746556211,2
+329,The angels havent come for you yet?,35,7,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.4341418291870574,4
+330,Youve grown into a fine man!,28,6,positive,0.2714,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.7062542378957098,2
+331,"You all work here, too?",23,5,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6248417979837211,5
+332,To buy things for our great-grandchildren.,42,7,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6248559360099399,3
+333,Not a single man.,17,4,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.41762761058154135,1
+334,Theyre all family?,18,3,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249301606442306,2
+335,Yeah. Theres no work here.,26,5,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.30643377206137196,1
+336,The men are all away working.,29,6,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6890727433407846,3
+337,This depression...,18,2,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6246916597911916,3
+338,Dont worry. The women,21,4,positive,0.3412,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.7224038339926997,5
+339,Were not making pancakes here.,30,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+340,Our Lord who art in Heaven...,29,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6247295314669582,0
+341,We thank Thee for giving,24,5,positive,0.5994,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6248906481268808,0
+342,Forgive us for using womens hands,33,6,positive,0.2732,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249082782484944,3
+343,Amen.,5,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+344,Lets eat up and get to work!,28,7,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.5881563588675908,3
+345,Hear that? Shes perfect.,24,4,positive,0.5719,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7248003871008964,0
+346,How do you like them RPMs?,26,6,positive,0.3612,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+347,Watch out or youll blow the shed away.,38,8,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.304447209705574,1
+348,Curtis doesnt stand a chance.,29,5,negative,-0.1877,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.7091238369620183,2
+349,SECOND BLUEPRINT,16,2,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6246713651507272,2
+350,WE DO NOT OFFER CREDIT,22,5,negative,-0.2924,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6890321080442576,3
+351,"Yeah, its a good idea.",22,5,positive,0.6249,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.3336511561212144,1
+352,So can I do it?,15,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+353,"Well, this is going to cost",27,6,positive,0.2732,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.4362612777299631,1
+354,Were way over budget already.,29,5,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6885769778689531,5
+355,Ask our sponsor.,16,3,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6849319304090207,5
+356,Porco...,8,1,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249753081213054,2
+357,Dont look at me like that.,26,6,positive,0.3612,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6883115949906293,5
+358,Great! Ill tell the workshop,28,5,positive,0.3802,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.516229833082191,3
+359,"Porco, I love you!",18,4,positive,0.6696,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.43454670142532986,6
+360,WE DO NOT OFFER CREDIT,22,5,negative,-0.2924,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6890321080442576,3
+361,I can wait three months.,24,5,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.5181192075094142,2
+362,Maybe Ill become a pirate.,26,5,negative,-0.4215,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.4389684822466894,1
+363,"Shes a good kid, huh?",21,5,positive,0.4404,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.5106770495855046,5
+364,Hands off.,10,2,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249082782484944,3
+365,Thats the furthest thing from my mind.,38,7,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6847602231744915,2
+366,So you made Squadron Leader.,28,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6248159708809536,0
+367,Why did you come back?,22,5,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6892418764909821,3
+368,"I go where I want, Ferrarin.",28,6,positive,0.0772,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.4105586642802611,6
+369,The authorities dont like it.,29,5,negative,-0.2755,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6249708575328503,5
+370,- Yeah!,7,1,positive,0.3595,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.624908502083869,3
+371,There are warrants out on you,29,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+372,"pornography, and being a lazy pig.",34,6,negative,-0.3612,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6203146639817728,2
+373,Its not funny!,14,3,negative,-0.4015,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6246616627276,3
+374,"They want to seize your plane, too.",35,7,positive,0.0772,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6890672838230584,2
+375,This is a lousy film.,21,5,negative,-0.5423,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6246197058111499,5
+376,"Come back to the Air Force, Marco.",34,7,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7637301164778303,3
+377,Better a pig than a Fascist.,28,6,negative,-0.1779,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.7227026447565909,2
+378,Freelance daredevils are finished.,34,4,positive,0.296,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6248055911975642,3
+379,"To fly now, you need a government",33,7,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.3147098491076347,1
+380,I only fly for myself.,22,5,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6248778052544066,5
+381,"Wherever you fly, youre still a pig.",36,7,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.546652152860286,2
+382,"Thanks, Ferrarin. Say hello to the guys.",40,7,positive,0.4404,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.4911291479219509,1
+383,This is a good film.,20,5,positive,0.4404,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6859961220994578,5
+384,Watch your back.,16,3,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.4262021194004831,6
+385,I know.,7,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.62493517729729,0
+386,"See you, buddy.",15,3,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6873381596393027,3
+387,Want a ride?,12,3,positive,0.0772,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6887798807843042,2
+388,Good timing.,12,2,positive,0.4404,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.624981256996185,5
+389,I borrowed this to take the plane,33,7,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.689277616583113,2
+390,No tests. Ive got no time.,26,6,negative,-0.5267,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7252227603408857,0
+391,Dont be stupid!,15,3,positive,0.471,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6835070018218732,5
+392,We can take it apart,20,5,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249460991159745,2
+393,I said theres no time.,22,5,negative,-0.296,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.31627680686543863,4
+394,The Fascist Secret Police.,26,4,negative,-0.5574,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.7183470921808067,2
+395,They followed you.,18,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+396,Me? Why?,8,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+397,Because theyre following me.,28,4,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249301606442306,2
+398,"Porco, are you a spy?",21,5,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6858494056026121,2
+399,"Me, a spy?",10,3,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6244525976017858,2
+400,I dont work hard enough to be a spy.,36,9,positive,0.0762,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.4908121120816674,1
+401,But you were a war hero.,24,6,negative,-0.1154,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6248898728407646,5
+402,Why follow an innocent man?,27,5,positive,0.34,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6883472870021846,2
+403,My thoughts exactly.,20,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+404,Whoops! Wrong way.,18,3,negative,-0.5255,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6888974943631604,5
+405,And youre telling me,20,4,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6859802310636455,2
+406,Time to get busy.,17,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6688795460923,0
+407,Its ready to fly.,17,4,positive,0.3612,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.41038636752099233,1
+408,There are two men out back,26,6,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.4993947256919849,3
+409,This is so exciting!,20,4,positive,0.6606,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+410,"Settle down, Grandma.",21,3,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6834364683336406,2
+411,- Ill see you.,14,3,negative,-0.4215,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6891809670612165,3
+412,What are you doing?,19,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+413,Im coming with you. Give me five minutes.,41,8,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7495774324039917,0
+414,What are you talking about?,27,5,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6246963178042285,2
+415,Shh! Dont shout.,16,3,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6249708575328503,5
+416,"Listen to me, Fio.",18,4,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.42385518527720417,1
+417,Youre a respectable woman.,26,4,positive,0.4404,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.43856761191110866,4
+418,Hold this.,10,2,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6248744042507771,3
+419,Thanks. I just finished this.,29,5,positive,0.4404,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6889192620643739,3
+420,Perfect!,8,1,positive,0.6114,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6247339524972342,0
+421,"Hold that, will you?",20,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6248744042507771,3
+422,"Look, Im a bounty hunter.",25,5,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.62492882697126,5
+423,I want to get my first job right.,33,8,positive,0.0772,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.3987666716451423,6
+424,Im taking off from the canal.,29,6,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.62466764644872,5
+425,All the more reason to take me.,31,7,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249460991159745,2
+426,Im a man. Well be all alone,27,7,neutral,0.0258,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.41537258282448,4
+427,Great. I love camping.,22,4,positive,0.8519,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6891026687019289,3
+428,Thats not the point.,20,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.67362082608744,3
+429,"Take her along. If you dont beat Curtis,",40,8,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6056143575523008,2
+430,"If you dont pay, we go broke.",29,7,negative,-0.362,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.4385918500774046,1
+431,Youre her grandfather!,22,3,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249529261099991,2
+432,Ill give you a break on her salary,34,8,negative,-0.4215,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.5494438154909864,0
+433,Theyll put a price on her head.,31,7,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.5219563751746925,1
+434,No. Ill be your hostage.,24,5,negative,-0.6124,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249616366555371,3
+435,Well tell the police you forced us,34,7,negative,-0.2263,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6845550812910068,5
+436,Please take me with you.,24,5,positive,0.3182,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6881614374995817,2
+437,Take out the right machine gun.,31,6,negative,-0.34,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.5368908075307498,2
+438,"I dont care how small your bottom is,",37,8,negative,-0.3875,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6249708575328503,5
+439,Okay! My hips are bigger,24,5,positive,0.2942,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6888650206786984,3
+440,We better leave before Grandma,30,5,positive,0.4019,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.7220791251600589,2
+441,"Hey, thats an idea!",19,4,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.685521804684291,2
+442,"Grandma, quick!",15,2,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6889742594650456,2
+443,"No souvenirs, please.",21,3,neutral,0.0258,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6248345197913853,2
+444,Contact!,8,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+445,Open up!,8,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6247257218396371,0
+446,Let go!,7,2,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6246926789633513,5
+447,Kidnapper! Pay us our money!,28,5,negative,-0.2462,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.4020810796862408,4
+448,"Hows the rudder, Porco?",23,4,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249753081213054,2
+449,"A handful, just like you.",25,5,positive,0.3612,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+450,Stop and Ill fix it.,20,5,negative,-0.6124,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.4222087342909185,1
+451,No time. Ive got to get her up.,31,8,negative,-0.296,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7447472620404041,0
+452,This waters like glue!,22,4,positive,0.4199,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+453,Barge ahead!,12,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+454,Here we go!,11,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+455,"Come on, baby!",14,3,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249684300486482,3
+456,The flaps are in the water. Use your tabs.,42,9,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6841941532008059,0
+457,- Tabs?,7,1,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6119096582797539,2
+458,Quick!,6,1,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6246369658181731,2
+459,Thats right. Now youre behaving.,32,5,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.5047306016544078,2
+460,Beautiful. The world is so beautiful.,37,6,positive,0.8718,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6842921727393619,5
+461,Are they after us?,18,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+462,Hes not stalking us.,20,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6249492914630816,0
+463,But thats an Air Force plane.,29,6,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.4998934889487538,6
+464,Its Ferrarin.,13,2,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6248313066658854,3
+465,You know him?,13,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.62493517729729,0
+466,The Air Force is waiting for us.,32,7,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7245296997935647,3
+467,He says to fly low to the Adriatic.,35,8,negative,-0.2732,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.42713007718396767,1
+468,"Thanks, buddy!",14,2,positive,0.4926,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6885880246832001,3
+469,Thank you!,10,2,positive,0.4199,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6248906481268808,0
+470,He saw you and signaled,23,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6248244135769104,0
+471,Beautiful.,10,1,positive,0.5994,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6249230415197125,5
+472,A single rose blooming in a secret garden.,42,8,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.7225645983275504,5
+473,Naughty boy. This is a private garden.,38,7,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6891076539426283,5
+474,Youve got to read this.,23,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6867712882906577,0
+475,Its from Hollywood.,19,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6245993762096943,0
+476,Regarding your starring,23,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+477,"Im going to be a star, Im sure of it.",37,10,positive,0.3182,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.7197158217076773,2
+478,The movies called Flower of the Adriatic.,41,7,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6248030325121888,3
+479,- Nice name.,12,2,positive,0.4215,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.624748920779487,3
+480,"Gina, come to Hollywood with me.",32,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.33671324122280444,4
+481,Being a hired gun,17,4,negative,-0.34,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6246148256494741,2
+482,The next rung is Hollywood star.,32,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7231114554743022,0
+483,And then?,9,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+484,President!,10,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6247111960706436,0
+485,Im serious. Ill make you,24,5,negative,-0.4767,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.723464311446942,3
+486,Gina!,5,1,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249140828561348,2
+487,Youre a dreamer. I like that in a man.,38,9,positive,0.3612,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6883674609630536,2
+488,Really?,7,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+489,But I cant go.,14,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.624935867107679,3
+490,I bet myself a certain man,26,6,positive,0.2732,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6890680856087519,2
+491,and Ill tell him I love him.,28,7,positive,0.34,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.5104472638998319,3
+492,But the fool only comes,23,5,negative,-0.5927,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6890910950205184,2
+493,He never comes out in daylight.,31,6,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.39722355774303464,1
+494,That jerk is back!,18,4,negative,-0.4003,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6877531716910417,3
+495,You fool.,9,2,negative,-0.4404,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6247574721498389,2
+496,He kept going. I lost again.,28,6,negative,-0.3182,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.7206816545542569,2
+497,You mean youre betting on that jerk?,36,7,negative,-0.34,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.4974721732470164,6
+498,Why not?,8,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+499,Life here is more complicated,29,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+500,"Romance is easy, but...",23,4,positive,0.7579,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+501,"Good luck in Hollywood, kid.",28,5,positive,0.7096,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.5069918097459143,5
+502,Kid?,4,1,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6247801796935967,5
+503,I bumped my head when you did that roll.,40,9,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6869677460975173,0
+504,Just saying hello to a friend.,30,6,positive,0.4939,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6888991273395375,5
+505,Gina of the Hotel Adriano?,26,5,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6871433616625287,2
+506,The woman in white on the terrace?,34,7,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.3975601071542407,4
+507,All the pilots in the Adriatic,30,6,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.4142444991513829,4
+508,Hes got a big mouth.,20,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7485410240150673,0
+509,Whats she like?,15,3,positive,0.3612,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.624858187330428,5
+510,Im putting down.,16,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+511,Wait. Hey!,10,2,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249215945905279,2
+512,A girl in a fighter plane!,26,6,positive,0.2244,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.5276203116790149,6
+513,Wheres Porco?,13,2,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249753081213054,2
+514,Talking politics with my dad.,29,5,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6246963178042285,2
+515,Its not just the caretaker government.,38,6,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6247761886118904,3
+516,They want to link up,20,5,positive,0.0772,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249031674483466,2
+517,Theres no money,15,3,negative,-0.296,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.39946443670119813,4
+518,- There.,8,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+519,All this talk about a depression!,33,6,negative,-0.6114,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.689103743967675,3
+520,You ought to sell,17,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+521,A good pilot can make good money.,33,7,positive,0.7003,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.38400881979561396,4
+522,Got any smokes?,15,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.624960956445204,0
+523,Curtis will go back to the States soon.,39,8,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7231497696461635,3
+524,Were the ones who should go to America.,39,8,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6245932303152254,2
+525,Farewell to days of fun,23,5,positive,0.5106,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.40029699408626923,4
+526,Is that Byron?,14,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+527,"- No, its me. See you.",22,5,negative,-0.296,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249577589657118,3
+528,"Porco, its terrible!",20,3,negative,-0.5255,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249753081213054,2
+529,Their fuel costs three times,28,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7219361078701605,0
+530,Give us a break.,16,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6892100210445946,0
+531,We dont dilute our gas here.,28,6,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.4578922176455115,1
+532,"Talk to her, will you?",22,5,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6247027254234517,3
+533,"Pay him, Fio.",13,3,negative,-0.1027,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6891016449659921,3
+534,Then stuff your bigger-than-it-looks,36,7,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.4037229146373909,6
+535,Were off.,9,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+536,The fuel goes on your bill!,27,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6890838911889949,0
+537,He wasnt gouging us. Its give and take.,39,8,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.542924545822307,0
+538,"Its pretty around here,",23,4,positive,0.4939,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6832540666907332,5
+539,Theres the island.,18,3,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6248958085095146,2
+540,Its beautiful!,14,2,positive,0.636,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6249230415197125,5
+541,What a great hideout.,21,4,positive,0.6249,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6248559360099399,3
+542,Agh! My butts gone to sleep.,28,6,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6883520848904077,5
+543,Dont move!,10,2,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6249708575328503,5
+544,Look at you silly idiots.,25,5,neutral,0.0258,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.62492882697126,5
+545,Boss! We got him!,17,4,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.4262875405620507,4
+546,Watch who youre stepping on!,28,5,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6872072553395188,2
+547,Out of my way!,14,4,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6248975549345769,5
+548,"Weve been waiting, pig.",23,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7106978559548933,3
+549,We knew you were coming.,24,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6249368161780912,0
+550,Weve got scores to settle.,26,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7207869701957872,0
+551,Look at this! He brought a girl!,32,7,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.3332464311647988,1
+552,Shes pretty.,12,2,positive,0.4939,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.40762979374126385,4
+553,Shut up! So what?,17,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.624946690719783,0
+554,Thats not just any girl.,24,5,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6731799964751576,3
+555,This cute little thing?,23,4,positive,0.4588,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6877524400549974,0
+556,Are you sure?,13,3,positive,0.3182,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6208901701270528,2
+557,My planes a lot better than it was.,35,8,positive,0.4404,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.7199677219036187,2
+558,"Really, Porco?",14,2,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249753081213054,2
+559,I never lie about planes.,25,5,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.39929996537968065,1
+560,Shes here to make sure I pay the bill.,38,9,positive,0.2263,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.4768097875147143,3
+561,"Youre in debt, too? Serves you right!",37,7,negative,-0.4199,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.4051356929302288,4
+562,"Bust that plane up so bad,",26,6,negative,-0.6696,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.42317835381989666,1
+563,Youre going to take an axe,26,6,negative,-0.1027,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.7253216534726488,2
+564,A plane as beautiful as that?,29,6,positive,0.5994,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.4049918873090108,1
+565,"Its a long story, miss.",23,5,negative,-0.1531,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.31127732572572525,4
+566,- Ill bet!,10,2,negative,-0.4753,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.43711687872524374,6
+567,And you call yourselves pilots?,31,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6885719207357014,0
+568,Where are my shoes?,19,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+569,I was raised on stories,23,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+570,My grandpa always said,22,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.5092994667729556,3
+571,Their hearts are washed clean,29,5,positive,0.4019,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6193228352110386,2
+572,So theyre braver than sailors...,32,5,positive,0.5688,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249301606442306,2
+573,and prouder than regular pilots.,32,5,positive,0.4939,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.4232058736726134,4
+574,Thats right. Thats us seaplane pilots!,38,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.5109724742273283,0
+575,The most precious thing to them,31,6,positive,0.6115,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+576,"- Yeah! Thats right, miss!",26,4,positive,0.2924,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.5901122446758947,3
+577,Hurray for seaplane pilots!,27,4,positive,0.6114,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6885628675411158,0
+578,Played them like a fiddle.,26,5,positive,0.5994,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+579,All right. We wont take our axes,32,7,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.5238948788189647,0
+580,But honor wont let us,21,5,positive,0.6486,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.5066185440945165,3
+581,Mince the pig!,14,3,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6203146639817728,2
+582,Yeah! Turn him into a baconburger!,34,6,positive,0.4184,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6884500555575042,3
+583,Dont be so pigheaded!,21,4,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6249708575328503,5
+584,You dont understand!,20,3,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.684676913173099,5
+585,You need that American to save you?,35,7,positive,0.4939,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.40304300804634546,4
+586,Your mothers would weep.,24,4,negative,-0.5719,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.61772077039178,5
+587,Porcos come back to go,22,5,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6892418764909821,3
+588,for the honor,13,3,positive,0.4939,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6245342317664421,3
+589,A man without honor or scruples,31,6,negative,-0.3875,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.408006690519786,6
+590,I always said,13,3,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6891665414607666,3
+591,Stop trying to weasel out.,26,5,negative,-0.296,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6884262483873033,5
+592,"- What do we do, Boss?",22,5,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.624797909655166,5
+593,We could lose face here.,24,5,negative,-0.4019,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6892045663795996,0
+594,Get him to fight the pig again?,31,7,negative,-0.3818,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7178664923066784,3
+595,But the contracts expired.,26,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+596,This is embarrassing!,21,3,negative,-0.4389,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+597,Its Curtiss!,12,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6247460919394742,0
+598,"Hey, its Curtis!",16,3,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6217105091655972,3
+599,I heard you! I dont run and I dont hide!,40,10,positive,0.2737,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.5385157961082945,5
+600,What idiot put a path up there?,31,7,negative,-0.5106,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.42330858093049156,4
+601,Hold this for me.,17,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6248744042507771,3
+602,So you want a return match?,27,6,positive,0.1477,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249031674483466,2
+603,But I already won once.,23,5,positive,0.7227,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6246179000921056,5
+604,So what do you want?,20,5,positive,0.0772,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249031674483466,2
+605,Beautiful!,10,1,positive,0.636,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6249230415197125,5
+606,Will you marry me if I win?,27,7,positive,0.5859,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6890995401480008,2
+607,Im serious.,11,2,negative,-0.0772,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6246936591249248,3
+608,"All right. But if Porco wins,",29,6,positive,0.7227,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.5466769648953657,0
+609,"Wait, Fio!",10,2,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.400765892715428,6
+610,You keep out of it.,19,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6248387369084631,0
+611,- Stay out of it!,17,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6248597134856491,3
+612,"Speak now or hold your peace, Fio.",34,7,positive,0.5423,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6886320223300173,3
+613,Its up to him.,14,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+614,Its a lot of money.,19,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6857953097156391,0
+615,Its a bargain!,14,3,positive,0.2714,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+616,Yes or no?,10,3,positive,0.128,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.624859094217323,3
+617,Ill gladly fight for the woman I love!,38,8,positive,0.3595,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.5693664432283972,3
+618,Good!,5,1,positive,0.4926,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.624981256996185,5
+619,"Listen, all of you!",19,4,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6247577929123365,5
+620,The Mamma Aiutos will sponsor this fight!,41,7,negative,-0.5093,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7478300620258859,3
+621,Count the Federation in!,24,4,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6889162660982517,5
+622,"See you later, Miss Fio!",24,5,negative,-0.2244,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7487655568769689,3
+623,Morons!,7,1,negative,-0.3802,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+624,"Dont forget to show up, pig!",28,6,positive,0.2401,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6145847912056424,3
+625,Shut up and get out of here!,28,7,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6693477305584256,0
+626,See ya!,7,2,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249577589657118,3
+627,Look what youve gone and gotten me into!,40,8,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.5067917853741669,5
+628,Dont be angry. I know it was stupid.,36,8,negative,-0.1774,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.49725159760550713,5
+629,Fio?,4,1,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.624941864936261,3
+630,Ive got to thank you anyway.,28,6,positive,0.3612,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7247330231178165,0
+631,You got me an opportunity.,26,5,positive,0.4215,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.624960956445204,0
+632,Thanks. I guess fate meant,26,5,positive,0.4404,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.5339812925802678,1
+633,So were partners?,17,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+634,My chances are only 50-50.,26,6,positive,0.2023,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+635,I believe in you.,17,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+636,"I hate that word, but it sounds",31,7,negative,-0.3291,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6246394774499823,5
+637,Whats the matter?,17,3,neutral,0.0258,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6886754950911733,5
+638,Im fine.,8,2,positive,0.2023,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6248137892535225,2
+639,My heart started beating,24,4,negative,-0.4588,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+640,I was really scared.,20,4,negative,-0.4927,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+641,My knees are all wobbly!,24,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+642,Hey!,4,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+643,Im going swimming.,18,3,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249375495658702,2
+644,"Porco, we screwed up!",21,4,negative,-0.5411,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249753081213054,2
+645,How?,4,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+646,We didnt pad the bill.,22,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6889230566275583,0
+647,We blew it!,11,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+648,Youre right!,12,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.4051356929302288,4
+649,Porco?,6,1,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249753081213054,2
+650,What? Cant you sleep?,21,4,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.40286535657837375,1
+651,I couldve sworn...,18,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+652,Or was I dreaming?,18,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+653,Go back to sleep.,17,4,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.4126902719135326,1
+654,Porco?,6,1,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249753081213054,2
+655,Why did you turn into a pig?,28,7,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6762320097160954,3
+656,Its a long story.,17,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.4082935082596948,4
+657,My father was in the same unit,30,7,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+658,I used to love the story,24,6,positive,0.6369,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.39695464806138037,1
+659,to rescue an enemy pilot.,25,5,negative,-0.0516,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6890690906493129,0
+660,Porco! Shall I kiss you?,24,5,positive,0.4753,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249753081213054,2
+661,Like the princess who turned,28,5,positive,0.3612,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+662,Dont be stupid.,15,3,positive,0.4168,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6835070018218732,5
+663,Maybe Im not the one.,21,5,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249619247447752,3
+664,Youre a good girl.,18,4,positive,0.4404,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.3238853371770539,1
+665,You make me think,17,4,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.40860463146524956,6
+666,Now be good and go to sleep.,28,7,positive,0.4404,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6883659471257564,5
+667,"Tell me a story, then Ill sleep.",32,7,negative,-0.4215,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6040114855589698,5
+668,A story?,8,2,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6248584806211279,5
+669,Lets see.,9,2,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6854725747120034,3
+670,It was the last summer of the war.,34,8,negative,-0.5994,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6248898728407646,5
+671,We were on our usual patrol,27,6,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6246634686971299,5
+672,heading for Istria.,19,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+673,Berlini was my wingman.,23,4,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6236642945537132,2
+674,"An old friend,",14,3,positive,0.4939,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6891459229201953,5
+675,I was best man at his wedding.,30,7,positive,0.6369,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6248952196484884,2
+676,"But we couldnt get leave,",25,5,positive,0.0572,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7083598902639024,0
+677,"Planes were dropping like flies,",32,5,positive,0.3612,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6248658383977106,2
+678,There were three of them on my tail.,36,8,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.689031104638074,0
+679,I had my hands full.,20,5,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249082782484944,3
+680,Then I was the only one left on our side.,41,10,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.427858186690986,6
+681,The enemy kept on coming.,25,5,negative,-0.5423,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.722575950041357,0
+682,"I was numb, I couldnt see.",26,6,negative,-0.34,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6827635126582816,3
+683,Suddenly everything went white,30,4,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6891045715823084,5
+684,White?,6,1,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6247836834337561,5
+685,Like I was in pure light.,25,6,positive,0.3612,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6246880014515639,5
+686,But a light so strange,22,5,negative,-0.4677,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6246880014515639,5
+687,I didnt even have the strength,30,6,positive,0.4939,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6784011962429796,0
+688,But the plane flew itself.,26,5,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249306122174049,2
+689,A world above the clouds?,25,5,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6245657012938973,5
+690,"Yeah, and dead quiet.",21,4,negative,-0.4767,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.5322086211572432,1
+691,with this one long contrail,27,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.42864050553666,4
+692,"Berlini, youre okay!",20,3,positive,0.2942,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.4981140960615804,6
+693,"Berlini, wait! Where are you going?",35,6,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.7243886539948955,2
+694,"Berlini, stop! What about Gina?",31,5,negative,-0.3595,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.5011109367938492,2
+695,Ill go instead!,15,3,negative,-0.4753,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249616366555371,3
+696,"When I came to, I was all alone,",32,8,negative,-0.25,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6879586661205341,0
+697,Heaven wasnt ready for you.,27,5,positive,0.2937,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.5251590467279291,0
+698,I think God was telling me,26,6,positive,0.2732,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6888510665875089,2
+699,"No, Porco! Youre a good person!",31,6,positive,0.3147,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.4511715668768057,1
+700,The good ones are all dead.,27,6,negative,-0.34,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.4920385954400553,1
+701,End of story. Go to sleep.,26,6,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.7251017525412046,5
+702,That junkyard sold me rusty ammo.,33,6,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6214438986923485,3
+703,Im glad you came back alive.,28,6,positive,0.6808,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7109522272316772,3
+704,Good night!,11,2,positive,0.4926,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6867066846845371,5
+705,- Place your bets here!,23,4,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6889806375355252,5
+706,"If youre real men, put your money",33,7,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.44451042738894836,6
+707,Come get ice cream!,19,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6880645218769109,3
+708,Youd think it was a carnival!,29,6,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6855476579284894,2
+709,Theyre all air pirates?,23,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.5194505886899072,6
+710,The scum of the Mediterranean.,30,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6247924796941101,0
+711,"spies, undercover cops,",23,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+712,This is going to make me even more famous!,42,9,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.604999733390032,3
+713,Ten minutes to start!,21,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.30647728646252065,4
+714,The showdown between Porco Rosso,32,5,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6873599664419414,2
+715,Theres no rules. The first one,30,6,negative,-0.296,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.5164886464107895,6
+716,Shut up! We came here for a dogfight.,37,8,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7240470316930416,0
+717,Were not here for a lecture!,28,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+718,Shut up! Open your mouth and we shoot you!,42,9,negative,-0.4559,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7465179301060282,0
+719,A ten-ton bomb would be better.,31,7,negative,-0.0772,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.7204267151111055,2
+720,This fight decides the fate,27,5,negative,-0.3818,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.4101574476431267,1
+721,who needs no introduction!,26,4,negative,-0.3595,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+722,Know what I mean?,17,4,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.4162269090373209,4
+723,Get on with it!,15,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6215361548901654,3
+724,Quiet! There are formalities to observe!,40,6,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.7250876907005582,5
+725,Both sides will place their wagers!,35,6,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6247327730082524,5
+726,- Please sit down.,18,3,positive,0.3182,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6248345197913853,2
+727,Put it down!,12,3,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249206934831177,3
+728,"No complaints? All right, shake hands",37,6,negative,-0.6808,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.4228281361303207,4
+729,Forget it. Ill keep my hands clean.,35,7,negative,-0.25,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6240364591200522,3
+730,Thats not very friendly.,24,4,negative,-0.43,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6210597076340335,2
+731,Well go straight to the church!,31,6,positive,0.5093,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+732,Dont worry. My mother says,26,5,positive,0.3412,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.7228552079081344,5
+733,- May we have a picture?,24,5,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6247444218541155,3
+734,"Smile, everyone!",16,2,positive,0.4199,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6796287751534397,3
+735,Smile!,6,1,positive,0.4199,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6182272056799134,0
+736,Ready...,8,1,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6247714875902535,2
+737,"Here, here!",11,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+738,Black wins if its over in three minutes!,40,8,positive,0.6114,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7468500340178865,0
+739,Maybe we could get them,23,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6703361304682199,0
+740,15 seconds to start.,20,4,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6818605722965723,5
+741,That is so cool!,16,4,positive,0.5079,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6247629938123623,0
+742,Five seconds... Four...,23,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6860800351448786,0
+743,Three... Two...,15,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6890229175578808,0
+744,One... Zero!,12,2,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249619247447752,3
+745,Curtis is up first!,19,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6877215279028182,3
+746,Its all Curtis so far!,22,5,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6867754256591325,3
+747,Gimme!,6,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+748,"Come on, Porco! Get above him!",30,6,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.5212789990905846,6
+749,Hes smart to stay low.,22,5,positive,0.1531,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6073142157688065,3
+750,Hes harder to hit.,18,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6878295356992151,0
+751,Dont worry! Ive got lots of ammo.,33,7,positive,0.4015,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.4823937965689543,5
+752,- A barrel roll. The pigs on his tail!,38,8,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.532471313261536,0
+753,That trick made him,19,4,negative,-0.0516,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.687548784007255,0
+754,Damn!,5,1,negative,-0.4574,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6247586282049378,2
+755,Now!,4,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+756,- He didnt shoot!,17,3,positive,0.3244,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6799554185367839,0
+757,Hes not going to shoot,22,5,positive,0.2584,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.4529870457293078,4
+758,What?,5,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+759,The pigs not a killer.,22,5,positive,0.5334,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6248350127939462,5
+760,Now! Shoot!,11,2,negative,-0.4559,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6184255787537154,2
+761,He didnt fire. What did I tell you?,35,8,positive,0.2584,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.4065984790263382,4
+762,"If he shoots now, hell hit the American.",40,8,negative,-0.6808,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7249658433679771,0
+763,Hes going to wait till he can put,33,8,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.4117312063040434,6
+764,The damn fool!,14,3,negative,-0.7088,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6891511983476638,2
+765,Porco...,8,1,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249753081213054,2
+766,Whats wrong with you? Shoot!,28,5,negative,-0.6996,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.5229234825698115,1
+767,Or are your guns jammed? Too bad.,33,7,negative,-0.5423,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.3985954964960251,4
+768,Here they come!,15,3,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249684300486482,3
+769,"Come on, fight like a pig!",26,6,negative,-0.1007,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7188010772846788,3
+770,Not this way! No!,17,4,positive,0.3553,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6248975549345769,5
+771,Hes coming around!,18,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7226046743866598,0
+772,Get down!,9,2,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6215361548901654,3
+773,Go fight somewhere else!,24,4,negative,-0.4389,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6887571765894414,3
+774,Look at those vapor trails!,27,5,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.62492882697126,5
+775,You only see this once in a lifetime!,37,8,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249577589657118,3
+776,This is so moving!,18,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+777,If she doesnt hurry shell miss it.,34,7,positive,0.1139,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.41920807202258265,6
+778,She wont come out of her room.,30,7,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6781435475651824,3
+779,Are we going or not? I want to see it too!,42,11,negative,-0.1316,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.5211119651588718,6
+780,F to Gina. Warn pig.,20,5,negative,-0.1027,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6875659143482847,2
+781,Stop fooling around. Air Force is coming.,41,7,negative,-0.5994,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.34834011467385223,4
+782,F? Thats Ferrarin.,18,3,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6736848060496535,3
+783,Time to go!,11,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6249407597835509,0
+784,Theyre both really tough.,25,4,negative,-0.2006,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6880744814712807,2
+785,Theyre just getting warmed up.,30,5,positive,0.2732,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249301606442306,2
+786,"Go, Porco!",10,2,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249753081213054,2
+787,You stupid pig!,15,3,negative,-0.5707,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6770378689145178,2
+788,You think you can have Fio?,27,6,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.41537264081185127,6
+789,Now the pigs got his tail!,26,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.5128386259025515,0
+790,The finale!,11,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+791,Huh?,4,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+792,Its jammed.,11,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6248971437658519,0
+793,Youre finished!,15,2,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.4432270340301259,6
+794,What?,5,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+795,Jammed!,7,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6248971437658519,0
+796,"Whats the matter, out of ammo?",30,6,neutral,0.0258,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.7159999450209772,5
+797,Its broken. Fios big butt!,26,5,negative,-0.5255,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.7238245192538485,0
+798,No ties in this game!,21,5,negative,-0.3595,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+799,This isnt a western!,20,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6247997373229105,0
+800,You jerk!,9,2,negative,-0.4003,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6247519606272247,3
+801,Whats that going to do? Hi-ho Silver!,37,8,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.4195315553661543,1
+802,You rotten pig!,15,3,negative,-0.5562,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6203146639817728,2
+803,Missed!,7,1,negative,-0.3595,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.624692491948073,2
+804,Chicken!,8,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+805,You ducked!,11,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+806,You dont love her.,18,4,negative,-0.5216,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.4385332069524539,1
+807,"Shut up, pig!",13,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.4204090397413931,4
+808,Somethings wrong.,17,2,negative,-0.4767,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6247370037226935,5
+809,Theyre coming down!,19,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.3991910336874588,4
+810,Theyre back!,12,2,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.40847932436863327,6
+811,Wait! The prizes stay here!,27,5,positive,0.555,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.4114323978782838,6
+812,"All right, wait for me!",23,5,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.4113842529199769,4
+813,You eat too much!,17,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.3964550527820172,4
+814,Cowboy!,7,1,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+815,Put em up.,10,3,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249206934831177,3
+816,Go punch a cow!,15,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6187737999280849,0
+817,"Come on, Porco!",15,3,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.4074264973764299,6
+818,"Get up, pig.",12,3,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6735311607497627,3
+819,Thats dirty!,12,2,negative,-0.4926,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6854842639263019,2
+820,Uppercut! Block!,16,2,negative,-0.5399,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+821,Yes! Yes!,9,2,positive,0.717,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.624859094217323,3
+822,Yes! The Federation can take bets.,34,6,positive,0.4574,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.44205874492547126,1
+823,Somebody bring a bell!,22,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6247856885406315,3
+824,Cant you go faster?,19,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.624935867107679,3
+825,No. Shell overheat.,19,3,negative,-0.296,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6247715886833262,3
+826,Pilots are all crazy!,21,4,negative,-0.4003,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6249454860236214,0
+827,Fio! Did you see that punch?,28,6,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7176911981919317,3
+828,Ill finish you in the next round.,33,7,negative,-0.4215,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.55359768532736,0
+829,Ill make sure,13,3,negative,-0.128,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7160159427307172,3
+830,- I take you out.,17,4,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249460991159745,2
+831,"Im gonna flatten you, pig.",26,5,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6203146639817728,2
+832,"Come on, pretty boy!",20,4,positive,0.5411,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.549423680609789,5
+833,Youre the pretty boy here!,26,5,positive,0.5411,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.5530771813265037,5
+834,Chasing every girl you see!,27,5,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7217526096412558,3
+835,What about you?,15,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+836,"Whos it going to be, Fio or Gina?",33,8,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.39134270752586087,1
+837,What was that?,14,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+838,You only get one!,17,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6879820273149506,3
+839,Gina...,7,1,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249140828561348,2
+840,Miss Gina to you!,17,4,negative,-0.2244,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.4223460006090498,6
+841,Ginas in love with you!,23,5,positive,0.6696,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6854540159709269,3
+842,She sits in that garden...,26,5,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6247242268620531,5
+843,and waits...,12,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+844,for you to come!,16,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249684300486482,3
+845,- Porco!,8,1,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249753081213054,2
+846,Start the count!,16,3,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6889277952275399,5
+847,Look at him!,12,3,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.62492882697126,5
+848,The Air Force isnt here yet.,28,6,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.43607436820312245,4
+849,"Trying to psyche me out, huh?",29,6,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.624642897084213,5
+850,I dont get you.,15,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.40322522929861987,1
+851,Its the truth!,14,3,positive,0.3802,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6247449290419443,0
+852,You cant have Fio!,18,4,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6892869143502337,3
+853,Thats Gina!,11,2,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6877696721427117,2
+854,Theres trouble!,15,2,negative,-0.4574,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.4231049566366524,1
+855,First one to stand wins!,24,5,positive,0.6114,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.5740128998735538,3
+856,Coming through!,15,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.6249368161780912,0
+857,"Gina, stop!",11,2,negative,-0.3595,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.4155190647574276,1
+858,"Marco, can you hear me?",23,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.687784017614997,0
+859,Are you going to break,22,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.42761436538449343,4
+860,Porco!,6,1,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249753081213054,2
+861,- Porco!,8,1,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249753081213054,2
+862,It was nothing.,15,3,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+863,"Okay, the partys over.",22,4,positive,0.2263,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6248674600862858,3
+864,"Get out of here, everyone.",26,5,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6855753540895938,3
+865,Come to the club. Drinks are on the house!,42,9,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6249684300486482,3
+866,Were out of here!,17,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+867,Its over.,9,2,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+868,Boss! Hurry!,12,2,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.39657580922981006,1
+869,There are formalities to observe!,33,5,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6889470440127838,5
+870,"I hate the pig, but I like you.",31,8,positive,0.2263,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.44534453494880194,1
+871,Bye!,4,1,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6246924908351249,2
+872,Thanks. Take a bath sometime!,29,5,positive,0.4926,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.416482760945436,6
+873,"Thanks, Mr. Curtis!",19,3,positive,0.4926,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6879646733829798,3
+874,Next time it wont be a bet.,27,7,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.573428946899584,0
+875,Sure. But Ive made up my mind.,30,7,positive,0.1655,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.4183290948471158,4
+876,You ride in Ginas plane.,24,5,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.7200546306909575,2
+878,I ride in your plane!,21,5,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6880063581454059,2
+879,"Gina, take this girl",20,4,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.5053510143030215,6
+880,You always do this. Its not fair.,33,7,negative,-0.2411,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6248945540089883,3
+881,Sorry. Off you go.,18,4,negative,-0.0772,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+882,Take her up.,12,3,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6249460991159745,2
+883,Here comes the cavalry.,23,4,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6248560943693614,2
+884,Help me draw them away.,23,5,positive,0.4019,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.6890821029171217,3
+885,"Hey, your face! Wait!",21,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.420547047475057,4
+886,Show me your face!,18,4,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.39829460332217104,4
+887,- Your planes over there!,25,4,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6248658383977106,2
+888,"I never saw Porco again,",24,5,neutral,0.0,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.3337453770763843,4
+889,even after the Air Force gave up...,35,7,neutral,0.0,3,"come, ill, one, get, see, back, fio, cant, girl, put",0.7240809140133939,3
+890,and I went back to Milan.,25,6,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.5447621904987525,5
+891,But Gina and I became good friends.,35,7,positive,0.8402,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.5437904165072904,2
+892,"And we still are, throughout the war",36,7,negative,-0.5994,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.673771575138212,5
+893,and all the turmoil.,20,4,negative,-0.3612,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.25,4
+894,"Now I run Piccolo Co.,",22,5,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6245684182342655,5
+895,but I still spend my summers,28,6,neutral,0.0,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.6199693865283746,2
+896,"Gina is more beautiful every year,",34,6,positive,0.6361,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.5347661441913556,1
+897,"Oh, yes. Mr. Curtis isnt President yet,",39,7,positive,0.4019,0,"right, got, hes, shut, pilots, time, coming, know, shes, money",0.5140284604524893,0
+898,to tell us how he misses the good old days,42,10,positive,0.25,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.748179153276896,5
+899,And did Gina win her bet?,25,6,positive,0.5859,2,"gina, win, bet, porco, youre, thats, pig, take, going, plane",0.7241649819622382,2
+900,THE END,7,2,neutral,0.0,1,"end, good, old, days, tell, dont, look, beautiful, way, stop",0.6249880472853535,5

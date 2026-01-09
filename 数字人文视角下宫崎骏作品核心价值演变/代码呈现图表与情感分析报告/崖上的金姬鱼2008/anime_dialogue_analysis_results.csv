@@ -1,0 +1,822 @@
+﻿line_number,cleaned_line,char_length,word_count,sentiment,compound,dominant_topic,topic_keywords,topic_confidence,cluster
+1,A Team Nanban Release,21,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7548547245820063,1
+2,The Beginning,13,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+3,PONYO ON THE CLIFF BY THE SEA,29,7,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.4914025710380733,4
+4,Producer Toshio Suzuki,22,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+5,Animation Katsuya Kondo,23,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+6,Color design Michiyo Yasuda,27,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6651583122098392,2
+7,Music Joe Hisaishi,18,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+8,Songs performed by,18,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+9,Voices,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+10,Yuki Amami,10,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+11,Yuria Nara Rumi Hiiragi,23,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+12,Kazuko Yoshiyuki,16,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+13,Written and Directed by,23,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+14,"Sosuke, come right back!",24,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.4784792947387161,0
+15,Okay.,5,1,positive,0.2263,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6664360399659711,2
+16,A goldfish...,13,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.666272664770826,2
+17,Its stuck.,10,2,negative,-0.25,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+18,That was weird.,15,3,negative,-0.1779,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+20,Is it dead?,11,3,negative,-0.6486,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6651523099383804,3
+21,It licked me... its alive.,26,5,positive,0.3818,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7227747910988238,2
+22,"Sosuke, were leaving!",21,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.5108356464172054,4
+23,"Lisa, I caught a goldfish!",26,5,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.5935634949826558,2
+24,This wind feels strange...,26,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7218534651002442,1
+25,Did you find her?,17,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6651215902324692,1
+26,"What, captured by a human?",26,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.666037014277909,1
+27,This is bad... very bad.,24,5,negative,-0.5849,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6660600926697026,3
+28,Are you dead?,13,3,negative,-0.6486,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6651523099383804,3
+29,Youre alive!,12,2,positive,0.4389,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.44803916131327925,4
+30,Sosuke! Im going to be late!,28,6,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.48824282314141293,5
+31,Lisa! I caught a goldfish.,26,5,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.5935634949826558,2
+32,A goldfish?,11,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.666272664770826,2
+33,Down by the rocks.,18,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+34,"Im sorry, but you cant",22,5,neutral,-0.0387,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.722795555483953,1
+35,Heavens no! This is pure sea water.,35,7,positive,0.2003,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.5624824739502329,4
+36,As long as,10,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6644063660049226,1
+37,Good day!,9,2,positive,0.4926,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6665253486277573,2
+38,This is very bad.,17,4,negative,-0.5849,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6660600926697026,3
+39,What a creepy guy.,18,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+40,But dont you say that,21,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663874833286577,3
+41,I wont.,7,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6657369648585184,3
+42,Are you taking,14,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+43,Wont the teacher complain?,26,4,positive,0.2755,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.4337347797392598,0
+44,"Dont worry,",11,2,positive,0.3412,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7220034973015352,3
+45,Shes cute!,10,2,positive,0.5093,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.47179715294947594,5
+46,Theyre using the dry dock.,26,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7222091534620227,3
+47,"Here, eat this",14,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6658456014361266,3
+48,Maybe shes hungry.,18,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6662678817476121,3
+49,Want some?,10,2,positive,0.0772,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6662418078755316,1
+50,"Hey, my cut is gone!",20,5,negative,-0.3382,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.436732512128352,4
+51,Im going to call her Ponyo.,27,6,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.49348582376218786,5
+52,Shes really special!,20,3,positive,0.5081,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6662678817476121,3
+53,She fixed my cut.,17,4,negative,-0.2732,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6657464027757846,2
+54,Want some ham?,14,3,positive,0.0772,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7235015761425904,1
+55,"- Ponyo likes ham, Lisa!",24,4,positive,0.4753,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7531355882251041,1
+56,Oh no...,8,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+57,Disgusting!,11,1,negative,-0.5707,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+58,"Hurry, Lisa!",12,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7183672214762895,1
+59,Such filth! Intolerable!,24,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+60,Good morning!,13,2,positive,0.4926,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7227849839423072,2
+61,"Look, Ponyo.",12,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7207431949158962,1
+62,- Ill drop you here.,20,4,negative,-0.5994,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663147145964057,3
+63,Have fun.,9,2,positive,0.5106,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6655461825658058,2
+64,See you.,8,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6663195805211961,2
+65,Morning.,8,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6661835805895842,2
+66,Could you get,13,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.708933163372054,2
+67,"Good morning, Sosuke.",21,3,positive,0.4404,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.594528012977637,2
+68,"Im busy, Yoshie.",16,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.436271300992836,4
+70,"Hello, Sosuke.",14,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7184111989729959,1
+71,"Cant talk now, Toki.",20,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7231200616898401,1
+72,Maybe the teacher,17,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6654301762762582,2
+73,I know!,7,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6660600567387859,3
+74,Wait here.,10,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6658883499734827,3
+75,What if a cat comes?,20,5,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6659516453206663,2
+76,"Stay here, Ill be right back.",29,6,negative,-0.4215,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6197446545505619,3
+77,See you later.,14,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7225314889164922,2
+78,Its all right.,14,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6664364860456579,2
+79,"Okay, thanks. Bye-bye.",22,4,positive,0.5859,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7411611941394795,2
+80,"Good morning, teacher.",22,3,positive,0.4404,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7544247675327229,2
+81,Hello Sosuke.,13,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7184111989729959,1
+82,How are you?,12,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+83,- Sosuke!,9,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+84,Like my dress?,14,3,positive,0.3612,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+85,Oh...,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+86,"Lets play, Sosuke!",18,3,positive,0.4003,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.4827638149126062,5
+87,Not now. Im busy.,17,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6651231392959646,1
+88,How come?,9,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663942807069066,3
+89,"- I told you, Im busy.",22,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6651231392959646,1
+90,Yeah!,5,1,positive,0.3595,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+91,Ponyo!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+92,Sosuke!,7,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+93,Kumiko...,9,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.665355548423789,2
+94,Whats that?,11,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6658096361755713,3
+95,Youre not supposed to,21,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7220031162384128,1
+96,But these trees,15,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+97,Show me.,8,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6654652249591202,2
+98,"Oh, a goldfish.",15,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.666272664770826,2
+99,Its not a goldfish.,19,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.666272664770826,2
+100,Ponyo? I want to see!,21,5,positive,0.1511,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.5129195893640592,4
+101,Promise not to tell?,20,4,positive,0.3182,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.72300439205198,3
+102,I promise.,10,2,positive,0.3182,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6659316393385498,3
+103,Isnt she cute?,14,3,negative,-0.357,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7218878728431356,1
+104,It looks fat.,13,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6641692956402786,1
+105,Its Kumikos fault.,18,3,negative,-0.4019,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6657496991243119,3
+106,Ill give you,12,3,negative,-0.4215,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7226278621411794,3
+107,Ponyo!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+108,You scared me.,14,3,negative,-0.4404,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+109,"Why, how odd.",13,3,negative,-0.3182,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+110,But hes supposed,16,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7220242439817063,1
+111,I must be hearing things.,25,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.666214657068236,3
+112,"Here I am, Yoshie.",18,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.665775385029045,2
+113,I knew I heard your voice.,26,6,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+114,Do I have a secret?,19,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6270730839922019,3
+115,Yes!,4,1,positive,0.4574,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.666370171431035,2
+116,Bingo!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+117,"Okay, what color is my secret?",30,6,positive,0.2263,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7434721304285241,2
+118,- Red!,6,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6661817659395276,2
+119,Good guess.,11,2,positive,0.4404,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6665253486277573,2
+120,Howd you know?,14,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6660600567387859,3
+121,Show us.,8,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6654652249591202,2
+122,All right.,10,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6664364860456579,2
+123,"Oh, how pretty!",15,3,positive,0.5411,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6655899369083259,2
+124,Very cute!,10,2,positive,0.5551,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6650588065728025,1
+125,Her name is Ponyo.,18,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.5085145499610948,4
+126,She loves ham,13,3,positive,0.5719,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.4441907550324131,4
+127,"I cut my thumb,",15,4,negative,-0.2732,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6657464027757846,2
+128,I wonder if shed,16,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+129,We could run around,19,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.44526074185567205,5
+130,"Well, Id have",13,3,positive,0.2732,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+131,Can I take a look?,18,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7230462085667064,1
+132,"Sure, Toki.",11,2,positive,0.3182,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7232560684869597,1
+133,"Heavens, it has a face!",23,5,positive,0.4574,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6648748620523196,1
+134,Put it back,11,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7221667381151256,3
+135,"Youre so superstitious, Toki.",29,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7232102485417794,1
+136,Thats what,10,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6664389906425201,3
+137,Fish like that are bad luck.,28,6,positive,0.25,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.5369612094013175,0
+138,The tsunami! Its here!,22,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6657375115302335,3
+139,The tsunami is here!,20,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6657375115302335,3
+140,"Whats wrong, Toki?",18,3,negative,-0.4767,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.5604429223050518,5
+141,Just look at my clothes!,24,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7207424536860968,1
+142,Sosuke!,7,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+143,Sosuke!,7,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+144,Sosuke!,7,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+145,Come back here and apologize!,29,5,positive,0.1759,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7235250488899565,3
+146,"Dont worry, Ill protect you.",28,5,positive,0.3724,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7758503953517414,3
+147,Sosuke.,7,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+148,Sosuke.,7,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+149,Ponyo!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+150,Ponyo. Sosuke.,14,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.723769419115358,1
+151,Ponyo... loves...,17,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.5048196484631938,4
+152,...Sosuke!,10,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+153,I love you too.,15,4,positive,0.6369,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6662588929243592,1
+154,Ponyo loves Sosuke!,19,3,positive,0.6114,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.46742011092004787,4
+155,Ponyo!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+156,Ponyo!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+157,Ponyo!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+158,Sosuke!,7,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+159,Ponyo!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+160,"Listen, Sosuke.",15,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7183071468656484,1
+161,It just cant be helped.,23,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6660583125124698,1
+162,Ponyo was born in the sea.,26,6,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.4914025710380733,4
+163,"She went back home,",19,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7543397973121192,3
+164,"Anyway, lets hope",17,3,positive,0.4404,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7545150982860535,3
+165,One lick?,9,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6660278514696958,3
+166,"Hurry, its melting!",19,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6646841777322982,1
+167,Not bad!,8,2,positive,0.484,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6660600926697026,3
+168,Cheer up.,9,2,positive,0.5106,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6647848388114768,3
+169,Hell be disappointed,20,3,negative,-0.8271,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+170,"No more ocean today, okay?",26,5,neutral,-0.0094,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7215310015801797,2
+171,Sosuke?,7,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+172,Time to come inside.,20,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7223293214423586,3
+173,Do you think this bucket,24,5,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6659933856025465,2
+174,Theres only one way,19,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.5355529145266489,5
+175,"Can you get that, Sosuke?",25,5,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.45623233608885266,4
+176,Hello?,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6659763652053013,1
+177,"Yes, its me.",12,3,positive,0.4019,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.666370171431035,2
+178,"Yes, Im fine.",13,3,positive,0.5423,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7231440705316803,2
+179,I cant get back tonight.,24,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.5356393251588197,5
+180,Okay. Heres Lisa.,17,3,positive,0.2263,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.5850868540689623,2
+181,Koichi? Yes...,14,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7234092729873501,2
+182,Cant you get out of it?,23,6,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.4236914326715143,4
+183,Fine... leave your wife,23,4,negative,-0.0516,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7139692410611698,2
+184,I give up!,10,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6655383048676995,3
+185,Why bother?,11,2,negative,-0.34,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6656552730708016,3
+186,"Cmon Sosuke,",12,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7155348998786822,1
+187,I want to eat here.,19,5,positive,0.0772,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.44908500054927264,5
+188,There he is!,12,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+189,"Turn off the lights, Lisa.",26,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7261267385175085,1
+190,Its Sosuke! Hes a genius.,25,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.719313024351026,1
+191,Your wife must be upset.,24,5,negative,-0.3818,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7422483059340226,3
+192,He says hes sorry.,18,4,negative,-0.0772,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7387312171565376,1
+193,J...,4,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+194,JE...,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+195,JER...,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6654964061972974,1
+196,JERK,4,1,negative,-0.34,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6664718779818369,2
+197,J...,4,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+198,JE...,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+199,JER...,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6654964061972974,1
+200,JERK,4,1,negative,-0.34,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6664718779818369,2
+201,JERK!,5,1,negative,-0.4003,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6664718779818369,2
+202,JERK!!,6,1,negative,-0.4559,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6664718779818369,2
+203,JERK!!!,7,1,negative,-0.5067,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6664718779818369,2
+204,JERK!!!!,8,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6664718779818369,2
+205,JERK!!!!!,9,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6664718779818369,2
+206,He says he loves you!,21,5,positive,0.6114,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7154222487174394,2
+207,Lots and lots!,14,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6655441872004576,2
+208,J...,4,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+209,JE...,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+210,JER...,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6654964061972974,1
+211,JERK,4,1,negative,-0.34,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6664718779818369,2
+212,JERK,4,1,negative,-0.34,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6664718779818369,2
+213,JERK,4,1,negative,-0.34,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6664718779818369,2
+214,JERK,4,1,negative,-0.34,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6664718779818369,2
+215,"Wow, thats cool!",16,3,positive,0.75,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.571275107286181,1
+216,G...,4,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+217,GO...,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+218,GOO...,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+219,GOOD,4,1,positive,0.4404,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6665253486277573,2
+220,GOOD L...,9,2,positive,0.4404,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6665253486277573,2
+221,GOOD LU...,10,2,positive,0.4404,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6665253486277573,2
+222,GOOD LUC...,11,2,positive,0.4404,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6665253486277573,2
+223,GOOD LUCK,9,2,positive,0.7096,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7220340374738363,2
+224,THANKS,6,1,positive,0.4404,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6663903547229003,2
+225,LOVE AND KISSES,15,3,positive,0.8176,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6662588929243592,1
+226,"Dont cry, Lisa.",15,3,positive,0.3724,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.5609999865908482,5
+227,I promised Ponyo,16,3,positive,0.3612,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7162822512949234,1
+228,I hope she isnt crying.,23,5,positive,0.6656,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.4318880985018579,5
+229,"Okay, lets cheer up!",20,4,positive,0.6696,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.5649148162107431,0
+230,Im happy as can be...,21,5,positive,0.5719,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+232,"Dont worry, Sosuke.",19,3,positive,0.3412,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.5931954992840038,3
+233,Im sure Ponyo is fine too.,26,6,positive,0.4767,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.5054030230125365,4
+234,Now lets eat.,13,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7229480022469763,3
+235,This is all my fault.,21,5,negative,-0.4019,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6657496991243119,3
+236,Bringing you along,18,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6650015414584854,2
+237,How often have I,16,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+238,Their very breath is polluted.,30,5,negative,-0.5046,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+239,"Come, you must eat.",19,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7554128018299795,3
+240,"Cant you hear me, Brunhilde?",28,5,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.4559121888924031,4
+241,I want ham!,11,3,positive,0.1511,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7235015761425904,1
+242,Ham?! What on earth,19,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6662560124434386,1
+243,"Answer me, Brunhilde!",21,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6658036115003982,2
+244,My names not Brunhilde.,23,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6658036115003982,2
+245,Ponyo?,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+246,Ponyo loves Sosuke.,19,3,positive,0.5719,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.46742011092004787,4
+247,I want to be human!,19,5,positive,0.1511,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7233823286482078,1
+248,Human?,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.666037014277909,1
+249,How could you love,18,4,positive,0.6369,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.5814843639574261,1
+250,They rob the sea of life.,25,6,negative,-0.5574,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7220293261529138,2
+251,I was human myself... once.,27,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.666037014277909,1
+252,I finally escaped,17,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.665253783271684,3
+253,I want hands!,13,3,positive,0.1511,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7226506472925615,1
+254,I dont like this!,17,4,negative,-0.3404,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663874833286577,3
+255,I want legs like Sosuke!,24,5,positive,0.4753,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7508191750149683,1
+256,Of all the nonsense!,20,4,negative,-0.4574,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6645100191687162,1
+257,Look at me!,11,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6664236287681101,1
+258,No... dont tell me,18,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7209706918220076,3
+259,Wanna see Sosuke!,17,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.48789666222905465,4
+260,No! His blood has,17,4,negative,-0.3595,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6653908691937093,3
+261,Revert... revert...,19,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+262,Go back... go back!,19,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6661734481320418,3
+263,Its not working.,16,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+264,Let me out!,11,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6655438065941053,1
+265,"Be still, you evil blood.",25,5,negative,-0.6597,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7229334158176636,3
+266,Just like her mother... so strong.,34,6,positive,0.7745,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7158516397537265,2
+267,She should remain,17,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+268,I cant hold her for long.,25,6,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7544480629881977,1
+269,I need her mothers help.,24,5,positive,0.4019,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7230206779388537,3
+270,No! My elixir is,16,4,negative,-0.3595,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6652992374456957,3
+271,Shoo! Go away!,14,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.665683052777836,3
+272,My crab shields were weakening.,31,5,negative,-0.3182,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+273,I nearly upset,14,3,negative,-0.3818,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.664866332333959,3
+274,I must stay calm.,17,4,positive,0.3182,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7546991166228437,3
+275,When I think,12,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6659933856025465,2
+276,This batch should be ready.,27,5,positive,0.3612,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6661427516928364,2
+277,No leaks down here.,19,4,negative,-0.296,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.665383429141016,2
+278,This door is loose.,19,4,negative,-0.3182,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.665593036460557,3
+279,Ill fix it later.,17,4,negative,-0.4215,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.5424449187763045,0
+280,If even one creature,20,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7226897731699087,3
+281,Superb!,7,1,positive,0.6588,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+282,I feel the oceans power,23,5,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6655626402275658,2
+283,"When this well is full,",23,5,positive,0.2732,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6646927606800159,3
+284,An explosion of life,20,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6653802690426286,2
+285,This revolting era,18,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+286,Better fix this door.,21,4,positive,0.4404,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7547335810970196,3
+287,Teeth!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+288,Im going back to Sosuke!,24,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.5972935441612773,3
+289,A waterspout?,13,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+290,"Captain, look there!",20,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.4611691389772362,4
+291,- Tsunami!,10,1,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6657375115302335,3
+292,Whats that?,11,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6658096361755713,3
+293,Captain!,8,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6656983565551375,2
+294,A little girl?,14,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7223227100244831,1
+295,- Bye-bye.,10,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6659190570156609,2
+296,- Thanks.,9,1,positive,0.4404,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6663903547229003,2
+297,Do you want,11,3,positive,0.0772,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6662418078755316,1
+298,"Its okay, Ill take the shortcut.",32,6,negative,-0.2263,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3467187242444891,6
+299,Goodbye.,8,1,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6657550718859283,3
+300,Be careful out there.,21,4,positive,0.1531,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6656237986557829,3
+301,"Sorry, Sosuke.",14,2,negative,-0.0772,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7176614693938371,1
+302,"The door wouldnt open, would it?",32,6,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.665593036460557,3
+303,"Go home, Lisa.",14,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.4807829990689223,5
+304,Are you sure?,13,3,positive,0.3182,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.666050129964596,1
+305,"Dont worry,",11,2,positive,0.3412,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7220034973015352,3
+306,Were spending the night anyway.,31,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6648958686606383,3
+307,"Wait for me, Sosuke.",20,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.5089465389845454,5
+308,Yoshie.,7,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.665775385029045,2
+309,"Why, Sosuke.",12,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+310,This is for you.,16,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+311,"My, what is it?",15,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+312,"One for you, Noriko.",20,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6660278514696958,3
+313,Thank you.,10,2,positive,0.3612,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663362349326809,3
+314,Cant see a thing.,17,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.4328324943200342,4
+315,This is such foolishness!,25,4,negative,-0.4753,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+316,I dont want,11,3,negative,-0.0572,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.449240181550592,5
+317,"- Oh good, the powers on.",25,5,positive,0.4404,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6665253486277573,2
+318,Maybe Sosukes magic,19,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7226279070029875,2
+319,Extremely powerful...,21,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+320,Ships should exercise,21,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6660126605634253,2
+321,This TV is useless.,19,4,negative,-0.4215,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+322,Those idiots couldnt forecast,29,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6655981572779205,2
+323,"You should go home, Sosuke.",27,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.5000732778482609,5
+324,Your goldfish will bring us luck.,33,6,positive,0.4588,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7465164606596046,2
+325,"Heres yours, Toki.",18,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.44350605372188523,4
+326,Its all wrinkled.,17,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+327,Like this.,10,2,positive,0.3612,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+328,I know!,7,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6660600567387859,3
+329,"No, the Koganei Maru.",21,4,negative,-0.296,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+330,Thats your fathers ship.,24,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7216775398364624,3
+331,Still looks like,16,3,positive,0.3612,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.43158768048026,5
+332,"Were leaving, Sosuke.",21,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.5108356464172054,4
+333,"Goodbye, everybody.",19,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6657550718859283,3
+334,Goodbye.,8,1,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6657550718859283,3
+335,Dont let the wind,17,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.5850388487114688,1
+336,Climb over.,11,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+337,The phones are out too.,23,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+338,The sea is puffed up!,21,5,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6662472493956099,2
+339,Will the ships sink?,20,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.722758884177825,2
+340,Theyre safe out at sea.,23,5,positive,0.4404,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.549132798114226,0
+341,"- I see fish, Lisa.",19,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.3550677052293188,6
+342,Youve got to turn back!,23,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7478663999625323,3
+343,People are going,16,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7230037116846977,3
+344,But there are people,20,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.665842293663064,3
+345,Theyll be alright.,18,3,positive,0.25,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6647298020754663,3
+346,Ive just got to get home.,25,6,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.771848692611509,3
+347,Youd better go,14,3,positive,0.4404,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7224383302484518,3
+348,"Here we go, Sosuke.",19,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+349,No! Stop!,9,2,negative,-0.6103,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6661374963955329,3
+350,Look out for that wave!,23,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.4579757958780629,5
+351,Here it comes!,14,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6659516453206663,2
+352,"Run for it, Lisa!",17,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7207515802729363,1
+353,- The fish are following us.,28,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6664466974236697,3
+354,Hold on tight!,14,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6657475319155562,1
+355,That wave wont quit!,20,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7232355314611026,3
+356,A little girl fell in.,22,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7223227100244831,1
+357,Where?,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+358,The sea keeps rising.,21,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6662472493956099,2
+359,Where did you see her?,22,5,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6663195805211961,2
+360,Running on top of a fish.,25,6,positive,0.2023,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6664466974236697,3
+361,A fish!?,8,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6664466974236697,3
+362,"Come on, Sosuke.",16,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.48615586434815555,5
+363,"Hang on, Sosuke!",16,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+364,A little girl!,14,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7223227100244831,1
+365,"Here, youd better",17,3,positive,0.4404,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7224383302484518,3
+366,"Stay there, Sosuke.",19,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.49496822681604913,5
+367,"Sosuke, do you know her?",24,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.5011932144753793,5
+368,Ponyo?,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+369,"Yes, its me!",12,3,positive,0.4574,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.666370171431035,2
+370,Its you!,8,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+371,"Ponyos a little girl now, Lisa!",31,6,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7751184992095209,1
+372,I made it!,10,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6661155478163769,1
+373,"Now listen, children.",21,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7222124651775031,1
+374,No matter how strange,21,4,negative,-0.4404,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6645408361363238,1
+375,...we have to stay calm.,24,5,positive,0.3182,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7222498312175365,3
+376,Now be good.,12,3,positive,0.4404,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6665253486277573,2
+377,"Take off your rain coat, Sosuke.",32,6,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7188615380239004,1
+378,"Here Ponyo, you hold the light.",31,6,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.750317887602192,1
+379,Ill bring you a towel.,22,5,negative,-0.4215,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.707927762923497,3
+380,"Cmon, Ponyo!",12,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7146647384794891,1
+381,It smells just like you!,24,5,positive,0.4199,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+382,Ouch!,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+383,Ponyo!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+384,Gotcha!,7,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+385,Such pretty red hair!,21,4,positive,0.5411,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7232103844770692,2
+386,But your clothes are dry...,27,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.44020459225049724,5
+387,Ponyo was a fish.,17,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.48579155618628694,5
+388,I like this!,12,3,positive,0.4199,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+389,All right!,10,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6664364860456579,2
+390,"Help me with the light, Ponyo.",30,6,positive,0.4019,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.5131098900264548,5
+391,Coming!,7,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6659795140748634,2
+392,Think well have water?,22,4,positive,0.2732,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.43802164641450386,4
+393,Sure!,5,1,positive,0.3802,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.666050129964596,1
+394,Sure!,5,1,positive,0.3802,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.666050129964596,1
+395,Water!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6657437700056342,1
+396,Water!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6657437700056342,1
+397,We have a tank outside.,23,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+398,What about the gas?,19,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+399,Presto!,7,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.665576945424094,2
+400,All right!,10,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6664364860456579,2
+401,All right!,10,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6664364860456579,2
+402,Its propane.,12,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+403,"Okay, take your seats.",22,4,positive,0.2263,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.4494750861396564,4
+404,Okay!,5,1,positive,0.2942,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6664360399659711,2
+405,"Over here, Ponyo.",17,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+406,"Sit down, like this.",20,4,positive,0.3612,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+407,Put your stuff down.,20,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6650662084933564,3
+408,You need your hands.,20,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.43578639581963524,5
+409,I have feet!,12,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.66440260133021,2
+410,Wow!,4,1,positive,0.6239,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6652830668422333,1
+411,What are you two doing?,23,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+412,Her feet are like hands.,24,5,positive,0.3612,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.43119590880274683,4
+413,There you go.,13,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+414,This is the best!,17,4,positive,0.6696,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6653420927032743,3
+415,That hit the spot.,18,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+416,What shall we do now?,21,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.665342235557398,3
+417,I want ham!,11,3,positive,0.1511,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7235015761425904,1
+418,Shes crazy about ham.,21,4,negative,-0.34,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.4530800229703965,5
+419,Then lets eat.,14,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7229480022469763,3
+420,But first lets start,20,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7220320158290865,3
+421,We need electricity,19,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6654886661701153,3
+422,Koichi is my father.,20,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6745735811546202,2
+423,Is he a bad sorcerer?,21,5,negative,-0.5423,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6660600926697026,3
+424,"No, silly.",10,2,negative,-0.2732,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+425,"What about your father, Ponyo?",30,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7085176490323015,1
+426,Fujimoto!,9,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6658704789645649,2
+427,I ran away.,11,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.665683052777836,3
+428,What about your mother?,23,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6660147683143209,2
+429,I love my mother!,17,4,positive,0.6696,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.4476322825910558,4
+430,Shes really scary.,18,3,negative,-0.5413,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6662678817476121,3
+431,Sounds like Lisa.,17,3,positive,0.3612,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665421263728656,1
+432,"Can you help me, Ponyo?",23,5,positive,0.4019,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.50580464160531,5
+433,Maybe the fuels too old?,24,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.665033708050456,3
+434,Is it clogged?,14,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6659637417458032,2
+435,Clogged.,8,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6659637417458032,2
+436,Its clogged there.,18,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6659637417458032,2
+437,Success!,8,1,positive,0.6114,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+438,All bright!,11,2,positive,0.4926,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+439,"Wow, Ponyo!",11,2,positive,0.6239,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7159564509410998,1
+440,Antenna! Antenna!,17,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+441,"Did all the ships sink, Lisa?",29,6,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.59819394562071,2
+442,I cant see a single light.,26,6,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.5546044031965899,4
+443,So loud!,8,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+444,Whats wrong?,12,2,negative,-0.4767,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.722469055217287,3
+445,Even the radio,14,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6650593538204448,3
+446,This is JA4LL... JA4LL.,23,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+447,"Come in, Kolchl.",16,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663942807069066,3
+448,"Its Lisa, Sosuke and Ponyo.",27,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7554055320106586,1
+449,Were going to have dinner.,26,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663583677645227,3
+450,Ham!,4,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6662560124434386,1
+451,"Ready? Careful, its hot.",24,4,positive,0.4767,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.5464031758477259,0
+452,Its not ready yet.,18,4,negative,-0.2755,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.722878932585992,2
+453,It takes three minutes.,23,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+454,Close your eyes!,16,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6650178591707199,1
+455,Not yet!,8,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6654063775549468,2
+456,"No peeking, Ponyo.",18,3,negative,-0.296,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+457,"Okay, you can look now.",23,5,positive,0.2263,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.432438088849955,4
+458,And... presto!,14,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.665576945424094,2
+459,Ham!,4,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6662560124434386,1
+460,"Good for you, Ponyo.",20,4,positive,0.4404,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.47816069016722057,4
+461,Ponyo went to sleep.,20,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.5213475545909485,5
+462,Is her home far away?,21,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7230335183853667,3
+463,I think it must be.,19,5,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.4447804249104114,0
+464,Look Sosuke.,12,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7213058591308023,1
+465,Because Ponyos asleep?,22,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6650714647665676,1
+466,Look over there!,16,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6664236287681101,1
+467,Its moving.,11,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+468,People from,11,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.665842293663064,3
+469,Its gone.,9,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6650288472914863,1
+470,Thats the peak road.,20,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7227358952509433,3
+471,"Sosuke, stay there",18,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.49496822681604913,5
+472,Maybe I could get through,25,5,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.708933163372054,2
+473,Im going to the senior center.,30,6,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7545534170333075,3
+474,Ill go too.,11,3,negative,-0.4215,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663147145964057,3
+475,Stay here with Ponyo.,21,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.500102479695768,5
+476,Im going too.,13,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663583677645227,3
+477,Im going with you!,18,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663583677645227,3
+478,"Sosuke, our house",17,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+479,Everyone out there,18,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6661607709000101,2
+480,Someone has to stay here.,25,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6661375797522802,3
+481,Lots of things are happening,28,5,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6655441872004576,2
+482,But right now Im worried about,30,6,negative,-0.4215,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7218065214891863,2
+483,Just knowing youre,18,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6659662247023687,1
+484,Dont worry.,11,2,positive,0.3412,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7220034973015352,3
+485,Promise?,8,1,positive,0.3182,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6659316393385498,3
+486,I promise.,10,2,positive,0.3182,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6659316393385498,3
+487,You promised!,13,2,positive,0.4199,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6658959716254538,1
+488,"I love you, Sosuke.",19,4,positive,0.6369,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7200920957897362,1
+489,I see the lights of the town!,29,7,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7491074663397533,2
+490,Finally...,10,1,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.665253783271684,3
+491,Now we can navigate.,20,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+492,Ive never seen,14,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.722608640912841,3
+493,Did the storm,13,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+494,Thats not a mountain.,21,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6664389906425201,3
+495,Those are ships!,16,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6660126605634253,2
+496,The sea is piled up,19,5,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6662472493956099,2
+497,Its a ship graveyard.,21,4,negative,-0.296,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6651075653035924,3
+498,We lost power!,14,3,negative,-0.3802,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6655626402275658,2
+499,Heave to!,9,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+500,Aye-aye!,8,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+501,Something is coming!,20,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6659795140748634,2
+502,A sea goddess!?,15,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6662472493956099,2
+503,The engine!,11,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6655775636589261,2
+504,Were saved!,11,2,positive,0.4753,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+505,The engine started again.,25,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6655775636589261,2
+506,Protect us from harm...,23,4,positive,0.3818,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6648779071475537,3
+507,"Come on, come on.",17,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663942807069066,3
+508,A barrier spell!,16,3,negative,-0.2003,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+509,Good heavens... shes human!,27,4,positive,0.4926,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.4813957281905403,6
+510,"Hey, watch out!",15,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+511,Stop! This is unsafe!,21,4,negative,-0.4184,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6661374963955329,3
+512,Stop that at once!,18,4,negative,-0.3595,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6661374963955329,3
+513,Im simply trying,16,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+514,Shes here.,10,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6662678817476121,3
+515,- Fujimoto...,13,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6658704789645649,2
+516,Such a beautiful ocean.,23,4,positive,0.5994,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6654392624648974,2
+517,"So full of magic,",17,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.43117444339534305,0
+518,Its Ponyo!,10,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+519,...and plundered all of my elixir.,34,6,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6652992374456957,3
+520,Ponyo... what a lovely name.,28,5,positive,0.5859,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.5085145499610948,4
+521,Its all my fault.,17,4,negative,-0.4019,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6657496991243119,3
+522,Shes totally beyond my control.,31,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6662678817476121,3
+523,She doesnt understand,21,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6654046673481167,2
+524,"Now shes human, and shes",24,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.508632065042176,5
+525,"If we dont stop her,",20,5,positive,0.2235,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7221069406279964,3
+526,No! The satellites are falling.,31,5,negative,-0.4753,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+527,Earths gravitational field...,29,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+528,Be still...,11,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6657119707272954,3
+529,"Sosuke... that is his name, yes?",32,6,positive,0.4019,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6051706750474133,2
+530,"You love your sister,",21,4,positive,0.6369,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6662588929243592,1
+531,"Listen, dear... what if Ponyo",29,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.5059997882189536,5
+532,Use the old magic.,18,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.5589788686024061,2
+533,"If Sosukes love is real,",24,5,positive,0.6369,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.45331463660536386,4
+534,"But if its not,",15,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+535,Thats where we all,18,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6664389906425201,3
+536,But hes only five!,18,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6660222415445984,1
+537,"Sleep well, little children.",28,4,positive,0.2732,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7531077886904527,1
+538,Sosuke!,7,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+539,Sosuke!,7,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+541,"Good morning, Ponyo.",20,3,positive,0.4404,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.5988462113694358,2
+542,"Morning, Sosuke.",16,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.4981776897446383,4
+543,We almost got flooded.,22,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7222505404055936,3
+544,- Wheres Lisa?,14,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7194333002525908,1
+545,I wish we had a boat.,21,6,positive,0.4019,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6661962593597329,2
+546,Theres a boat!,14,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.43394711208655734,0
+547,We cant fit.,12,3,negative,-0.2755,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7218526067588247,1
+548,Can so.,7,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+549,Awesome!,8,1,positive,0.6588,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6659032362671359,2
+550,The candles bigger too.,23,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7225871110107153,2
+551,We can fit.,11,3,positive,0.3612,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6648103164863564,1
+552,This is cool.,13,3,positive,0.3182,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6653815288897031,1
+553,Cool!,5,1,positive,0.3802,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6653815288897031,1
+554,Grab that end.,14,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6660995701226119,2
+555,Ready?,6,1,positive,0.3612,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6661427516928364,2
+556,Ready!,6,1,positive,0.4199,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6661427516928364,2
+557,Shes seaworthy!,15,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6662678817476121,3
+558,Awesome. No leaks!,18,3,positive,0.4926,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7229917950526595,2
+559,Now we fill the boiler.,23,5,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6654147765680101,2
+560,The water goes in here.,23,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6985633854881558,1
+561,It goes in the boiler.,22,5,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7137862927025178,2
+562,Its like a rocket!,18,4,positive,0.4199,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+563,Everythings shipshape.,22,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.666320938732217,2
+564,Shipshape...,12,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.666320938732217,2
+565,Shipshape?,10,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.666320938732217,2
+566,Shipshape!,10,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.666320938732217,2
+567,Shipshape! Shipshape!,21,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.666320938732217,2
+568,Is it hot?,10,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663112046288168,3
+569,Hot!,4,1,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663112046288168,3
+570,Its hot.,8,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663112046288168,3
+571,- The candles burning.,22,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7110932714961641,2
+572,Its hot.,8,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663112046288168,3
+573,Hot hot hot!,12,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663112046288168,3
+574,Awesome!,8,1,positive,0.6588,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6659032362671359,2
+575,"Were shipshape, Sosuke!",23,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.49882019061942834,4
+576,This is great.,14,3,positive,0.6249,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+577,This is so much fun.,20,5,positive,0.5542,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6655461825658058,2
+578,"Its burning, Sosuke.",20,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6903815632287965,1
+579,Its really hot.,15,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663112046288168,3
+580,Keep a lookout in front.,24,5,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7226859970473961,2
+581,"Okay, Im the lookout.",21,4,positive,0.2263,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7214402844530224,2
+582,Theres a road.,14,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7230185200573579,3
+583,Thats the road Lisa took.,25,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.5848135662090187,3
+584,I dont see her.,15,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.4534001964257437,0
+585,You will.,9,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+586,Ancient fish...,15,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6664466974236697,3
+587,Theres Bothriolepis.,20,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6654237061055995,3
+588,That one is...,14,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6660278514696958,3
+589,Dipnorhynchus.,14,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6656119944650204,2
+590,Dipnorhynchus!,14,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6656119944650204,2
+591,That ones really huge.,22,4,positive,0.3804,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+592,Thats Devonynchus.,18,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6845153919011904,3
+593,Devonynchus!,12,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6421787787130762,2
+594,Ahoy!,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6656018074675332,1
+595,A boat!,7,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6661962593597329,2
+596,Ahoy!,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6656018074675332,1
+597,Theyre calling us.,18,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6649969058239401,3
+598,Ahoy!,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6656018074675332,1
+600,"Pretty good, huh?",17,3,positive,0.7269,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7220027929231442,2
+601,"Now, Ponyo.",11,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+602,Hello.,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6659763652053013,1
+603,Thats a wonderful,17,3,positive,0.5719,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6664389906425201,3
+604,"Why, youre Lisas little boy.",28,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7757109040347381,1
+605,"Hes not little, hes Sosuke.",27,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7367069287854813,1
+606,This is Ponyo.,14,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+607,I was a fish before.,20,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6664466974236697,3
+608,A fish?,7,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6664466974236697,3
+609,Ponyo... thats a nice name.,27,5,positive,0.4215,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.41837951612490193,6
+610,Have you seen Lisa?,19,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.4910762390804692,5
+611,Lisa?,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665421263728656,1
+612,Shes not with you?,18,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6662678817476121,3
+613,Shes at the center.,19,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7217237183926012,3
+614,The senior center?,18,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7225007667329524,3
+615,This is my baby.,16,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.665336797673522,3
+616,"Oh my, what happened?",21,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+617,Is that for us?,15,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+618,"Give me the cup, dear.",22,5,positive,0.3818,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7228539235330892,3
+619,Thank you.,10,2,positive,0.3612,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663362349326809,3
+620,Lets try it.,12,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6662312373357906,3
+621,Its delicious!,14,2,positive,0.6114,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+622,Lisa made it.,13,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7208350915563337,1
+623,Its for the baby.,17,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.665336797673522,3
+624,"Oh, Im sorry.",13,3,negative,-0.0772,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6656202887053858,1
+625,But this will help me,21,5,positive,0.5499,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6659966056007476,3
+626,Lisa gave me her milk too.,26,6,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.71955076524464,1
+627,"Ponyo, may I have this soup?",28,6,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+628,Sure.,5,1,positive,0.3182,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.666050129964596,1
+629,Thank you.,10,2,positive,0.3612,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663362349326809,3
+630,People from the town.,21,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.4341400316719836,0
+631,You there!,10,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+632,"Thanks, were okay right now!",28,5,positive,0.6239,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.755573054476736,2
+633,Then please follow us.,22,4,positive,0.3182,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6654798276432207,1
+634,Were going to,13,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663583677645227,3
+635,Okay! Will do.,14,3,positive,0.2942,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6664360399659711,2
+636,The whole towns here.,21,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+637,I hope everyones all right.,27,5,positive,0.4404,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.44953215555554155,0
+638,"- Lets go, Ponyo.",17,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.48811177977230497,5
+639,Milk!,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6655393014393454,1
+640,Oh my...,8,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+641,Milk!,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6655393014393454,1
+642,She ate up all the ham.,23,6,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6662560124434386,1
+643,This will help me,17,4,positive,0.4019,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6659966056007476,3
+644,Can you use another candle,26,5,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7229017279831987,2
+645,Thanks.,7,1,positive,0.4404,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6663903547229003,2
+646,Be careful!,11,2,positive,0.2244,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6656237986557829,3
+647,Thank you both!,15,3,positive,0.4199,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663362349326809,3
+648,"What is it, dear?",17,4,positive,0.3818,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6652960457399768,3
+649,Dont cry.,9,2,positive,0.3724,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.4707887405776289,5
+650,Ponyo!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+651,Sosuke!,7,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+652,Wheres Lisa?,12,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7194333002525908,1
+653,Im going to pick her up.,24,6,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663583677645227,3
+654,So she survived that wave?,26,5,positive,0.5542,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6660464136610857,3
+655,"Sosuke, take me with you!",25,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7188615380239004,1
+656,"Later, Kumiko.",14,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.722745525835423,2
+657,Everyone from the center,24,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.4312296952439998,0
+658,- Keep safe!,12,2,positive,0.4926,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.723002445156184,2
+659,Well send a boat,16,4,positive,0.2732,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6661962593597329,2
+660,"Good luck, captain!",19,3,positive,0.7345,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.75426234808234,2
+661,"Time for a new candle, Ponyo.",29,6,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.37227255879705123,6
+662,Were okay.,10,2,positive,0.2263,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6664360399659711,2
+663,Ow! Its still pretty hot.,25,5,positive,0.5411,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.5477203321641119,0
+664,Bye-bye.,8,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6659190570156609,2
+665,Can you make this candle bigger?,32,6,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7550557805227941,2
+666,All right.,10,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6664364860456579,2
+667,"Are you sleepy, Ponyo?",22,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+668,Ponyo!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+669,Ponyo! Ponyo!,13,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+670,Good... its shallow enough to walk.,35,6,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.4453769757192803,0
+671,A road!,7,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6658579551991465,3
+672,Its shrinking!,14,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+673,Ponyo!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+674,"Ponyo, wake up!",15,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7158905422715144,1
+675,Sosuke...,9,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+676,Dont scare me.,14,3,positive,0.3875,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663874833286577,3
+677,I thought you were,18,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+678,Lisas car!,10,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7217838496447604,1
+679,"Ponyo, thats her car!",21,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.5341734551882658,5
+680,Lisa!,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665421263728656,1
+681,Lisa!,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665421263728656,1
+682,Lisa!,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665421263728656,1
+683,Lisa!,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665421263728656,1
+684,Lisa!,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665421263728656,1
+685,Lisa!,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665421263728656,1
+686,Heres your boat.,16,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7231344116320712,2
+687,Your eyes are wet.,18,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6650178591707199,1
+688,Lets find Lisa.,15,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.5454297388246018,5
+689,- You forgot your wrap!,23,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+690,"Look, its a whale!",18,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6664236287681101,1
+691,- My knees dont hurt anymore!,29,5,positive,0.471,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663874833286577,3
+692,- Is this the Other Side?,25,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+693,"Attention, please!",18,2,positive,0.3802,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6654798276432207,1
+694,Coming!,7,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6659795140748634,2
+695,Shall we?,9,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.665342235557398,3
+696,Its so nice to run.,19,5,positive,0.4754,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7220079518193606,1
+697,Meet you there!,15,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+698,The winner!,11,2,positive,0.6239,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+699,"Youre so fast, Kayo.",20,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6659662247023687,1
+700,"Quiet, everyone!",16,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7229186177622334,2
+701,The moment,10,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+702,Sosuke and Ponyo,16,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.723769419115358,1
+703,Its so romantic.,16,3,positive,0.4576,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+704,- Will love triumph?,20,3,positive,0.8074,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6662588929243592,1
+705,Quiet!,6,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6654845479960192,2
+706,"Very soon, you will bear witness",32,6,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+707,"Mr. Fujimoto, youre not",23,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.4484371023766627,4
+708,"Nonsense, hes her father.",25,4,negative,-0.4019,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7515889538752527,1
+709,Theyll be fine...,17,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.4336971845139648,0
+710,Now excuse me!,14,3,positive,0.1511,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+711,Id like to believe him...,25,5,positive,0.3612,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6659613816511148,3
+712,Wheres Lisa gone to?,20,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7524017236637398,1
+713,Shes been talking with,22,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7205353807828767,3
+714,I hope shes okay.,17,4,positive,0.5859,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.5538480356927125,0
+715,What are they talking about?,28,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6652319429741614,3
+716,Lets find out. Lisa!,20,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.5454297388246018,5
+717,Lisa!,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665421263728656,1
+718,Were all rooting,16,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+719,Lisa!,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665421263728656,1
+720,- You must be worried.,22,4,negative,-0.296,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.45008080594259064,0
+721,Hes a strong little boy.,24,5,positive,0.5106,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.765451239222051,1
+722,"Thanks, everyone.",17,2,positive,0.4404,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.7234912022290118,2
+723,"Ponyo, its a tunnel.",20,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+724,STOP,4,1,negative,-0.296,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6661374963955329,3
+725,Ive been here before.,21,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6658049909270064,3
+726,Ponyo?,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+727,I dont like this place.,23,5,negative,-0.2755,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663874833286577,3
+728,Dont let go of my hand.,23,6,positive,0.4939,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.46997951483500977,5
+729,Ponyo!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+730,Ponyo!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+731,Ponyo!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+732,Please dont die!,16,3,positive,0.6945,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.4748331831455074,5
+733,Ponyo!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+734,"Wake up, Ponyo!",15,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7158905422715144,1
+735,Let her sleep.,14,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.722672400605562,1
+736,"Ive been waiting for you, Sosuke.",33,6,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.5040235183924111,5
+737,Lisa and the old ladies,23,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.4879981113991136,5
+738,Lisa?!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665421263728656,1
+739,Wont you come with me?,22,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.722873393845396,3
+740,Lets not wake her.,18,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.4548998861910225,5
+741,Sosuke!,7,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+742,Dont listen to him!,19,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.46684745762493207,5
+743,He tricked everyone,19,3,negative,-0.1531,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6661607709000101,2
+744,Toki!,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6657846757777311,1
+745,But he couldnt fool me!,23,5,positive,0.5269,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6655981572779205,2
+746,"Theres no time, I tell you.",27,6,negative,-0.296,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.754936236962869,3
+747,If the Moon comes,17,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6659516453206663,2
+748,Is that the best,16,4,positive,0.6369,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6653420927032743,3
+749,"Sosuke, come here!",18,3,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.48615586434815555,5
+750,"Listen to me, Sosuke.",21,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7183071468656484,1
+751,Dont make me use force.,23,5,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.585912945974152,2
+752,Ponyo!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+753,Is this how you,15,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+754,Ponyo!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+755,"Run, Sosuke!",12,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7183930342183569,1
+756,You dont understand!,20,3,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.4788230826723889,0
+757,You can make it!,16,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6657240420066002,2
+758,Jump!,5,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6661044664620812,2
+759,Now what?,9,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+760,Lisa!,5,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665421263728656,1
+761,Sosuke!,7,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+762,Ponyo!,6,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+763,- Look over there.,18,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6664236287681101,1
+764,"So, you are Sosuke.",19,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+765,Hello. Are you,14,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6659763652053013,1
+766,Yes.,4,1,positive,0.4019,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.666370171431035,2
+767,I want to thank you for bringing,32,7,positive,0.4215,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.3539423634136847,6
+768,"Ponyo wanted to be like you,",28,6,positive,0.3612,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+769,"To become human, she must be loved...",37,7,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.43613580193413964,5
+770,...for who she really is.,25,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+771,Do you know that Ponyo was a fish?,34,8,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6030943969496227,3
+772,Yes.,4,1,positive,0.4019,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.666370171431035,2
+773,Your blood made her human... almost.,36,6,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.4597347275935662,5
+774,Thats right!,12,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.43290192851033116,0
+775,Ponyo licked,12,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.5189362707538291,4
+776,So thats why she changed!,25,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6664389906425201,3
+777,Can you accept her as she is?,29,7,positive,0.3818,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+778,Ill always love Ponyo...,24,4,positive,0.34,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.5173247356139438,5
+779,"...whether shes a fish, a human...",34,6,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.5327112370585387,5
+780,...or in between.,17,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+781,"Come, Ponyo.",12,2,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.491432324798699,5
+782,Sosuke has promised,19,3,positive,0.3612,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7171046704060884,1
+783,"But first, you must",19,4,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.722621377682336,3
+784,Can you do that?,16,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+785,Kiss this bubble,16,3,positive,0.4215,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6661779480192014,3
+786,...and Ponyo,12,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6666114562962908,1
+787,"Way to go, Ponyo!",17,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7150763235890365,1
+788,"Thank you, Ponyos mother!",25,4,positive,0.4199,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.34031400983044846,6
+789,Now the planet is safe again.,29,6,positive,0.4404,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6661369119139458,2
+790,"Splendid, Sosuke!",17,2,positive,0.6239,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+791,Sosuke!,7,1,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665868389121591,1
+792,"Im grateful, Lisa.",18,3,positive,0.4588,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665421263728656,1
+793,"Thank you, Gran Mamare.",23,4,positive,0.3612,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6663362349326809,3
+794,There you are!,14,3,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+795,"Wait, Ill get the wheelchairs.",30,5,negative,-0.4215,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7467513956145213,3
+796,"Dont bother, well walk.",23,4,positive,0.0572,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7525951333969615,3
+797,Its all so exciting.,20,4,positive,0.6269,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+798,I believe this is yours.,24,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6659613816511148,3
+799,Thanks.,7,1,positive,0.4404,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6663903547229003,2
+800,I hope youll,12,3,positive,0.4404,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6661353811011912,3
+801,Take good care of her.,22,5,positive,0.7269,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.45581201283419004,4
+802,Its Koichi!,11,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6663625367647147,2
+803,Koichi!,7,1,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6663625367647147,2
+804,Its Lisa!,9,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6665421263728656,1
+805,"Look, Ponyo.",12,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7207431949158962,1
+806,A Team Nanban Release,21,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7548547245820063,1
+807,We made this movie,18,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7230562618554754,1
+808,We made this movie,18,4,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.7230562618554754,1
+809,Shes a little fish from the deep blue sea,41,9,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6534206410034,3
+810,"Ponyo Ponyo Ponyo, shes a little girl",37,7,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6535372587628799,1
+811,Shes a little girl with a round tummy,37,8,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6841513946276399,1
+812,"Pitter-patter, hop-hop and jump",31,6,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6661044664620812,2
+813,"Look, I have legs! Im gonna run",31,7,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.754423776447743,1
+814,"Squishy-squeeze, wave them around",33,5,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.7229714352832982,3
+815,"Look, I have hands! Lets hold them now!",39,8,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6276226944291011,1
+816,When Im skipping with him,25,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+817,My heart does this dance,24,5,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+818,"Munch, munch! Kiss, hug!",24,4,positive,0.7568,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6661779480192014,3
+819,Oh he s my favorite little boy,30,7,positive,0.4588,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.72108966361996,1
+820,Rosy-rosy red-red,17,4,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6661817659395276,2
+821,"Ponyo Ponyo Ponyo, tiny little fish",35,6,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.5887079393238714,1
+822,Shes a little fish from the deep blue sea,41,9,neutral,0.0,1,"shes, dont, fish, thats, come, thank, lets, going, ill, hot",0.6534206410034,3
+823,"Ponyo Ponyo Ponyo, shes a little girl",37,7,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6535372587628799,1
+824,Shes a little girl with a round tummy,37,8,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.6841513946276399,1
+825,Studio Ghibli,13,2,neutral,0.0,0,"ponyo, sosuke, lisa, look, little, love, want, ham, human, girl",0.3333333333333333,6
+826,The End,7,2,neutral,0.0,2,"good, right, jerk, okay, sea, thanks, see, yes, koichi, shipshape",0.6660995701226119,2

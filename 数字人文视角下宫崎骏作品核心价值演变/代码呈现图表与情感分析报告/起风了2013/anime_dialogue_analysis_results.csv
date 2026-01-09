@@ -1,0 +1,900 @@
+﻿line_number,cleaned_line,char_length,word_count,sentiment,compound,dominant_topic,topic_keywords,topic_confidence,cluster
+1,This is a,9,3,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+2,I ll see you really can borrow,30,7,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5833317433561049,3
+3,English come,12,2,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.4363147333067488,0
+4,I borrowed my brother s dictionary,34,6,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.4006068391631515,6
+5,Then you try to look at it,26,7,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.3887103947159406,4
+6,Good,4,1,positive,0.4404,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833327696353056,2
+7,Stop,4,1,negative,-0.296,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5833310949359225,5
+8,You guys want to do,19,5,positive,0.0772,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5831097736968104,0
+9,You go first,12,3,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5831824603411337,3
+10,Jiro What do you mean ah,24,6,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.42468560170763364,2
+11,Do not bully low--grade classmates,34,6,positive,0.3875,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+12,Outrageous thing I dare tube,28,5,negative,-0.4588,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833220721084594,1
+13,Looks like a very brave thing,29,6,positive,0.7346,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6546425797874,3
+14,I just do not accidentally fall,31,6,positive,0.2584,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5833268590736687,5
+15,Remember that it is wrong to fight,34,7,negative,-0.6908,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6543720765430607,2
+16,Understand,10,1,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.583267092390505,5
+17,Go refreshments refreshments old place,38,5,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.654553610767501,4
+19,A brother Jiro,14,3,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6527499734572073,0
+20,Society put Laila,17,3,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6546565331942781,4
+21,Jiro catching dragonflies ah brother with us,44,7,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6527499734572073,0
+22,Jiro brother,12,2,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6527499734572073,0
+23,Go Well Together,16,3,positive,0.2732,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5833283908993918,5
+24,You promised me to join me in,29,7,positive,0.5719,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833247593537761,2
+25,I want to review ah,19,5,positive,0.0772,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.4183811794926139,5
+26,You are not in review,21,5,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5833271455375126,5
+27,This is an English magazine to come,35,7,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5483028174011763,4
+28,His beard is so strange,23,5,negative,-0.3327,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833246364751865,2
+29,He is a famous Italian Caproni aircraft designer named Earl still seems a,73,13,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.765019389067991,2
+30,Jiro brother s face broke,25,5,negative,-0.4215,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6914249652343193,0
+31,Do not nosy friends,19,4,negative,-0.3724,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833268587329971,4
+32,I want to paint red syrup to help you paint,43,10,positive,0.4588,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6534306041257476,0
+33,OK you quiet it,15,4,positive,0.4466,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+34,Jiro brother are you doing it,29,6,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6527499734572073,0
+35,You can not come up Kayo,24,6,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6508470982801955,1
+36,How you do not wear glasses ah,30,7,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+37,I look at the stars ah because something far better for the eyes,64,13,positive,0.4404,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.41937112858840436,3
+38,This will be your mom scolded,29,6,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833203513620662,1
+39,Watch a meteor,14,3,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+40,Look there ah,13,3,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833320461905495,2
+41,Really beautiful ah,19,3,positive,0.6361,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.583331474004821,3
+42,There are also,14,3,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5833318418089712,3
+43,There and where there are too,29,6,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+44,I am a Japanese teenager ah,27,6,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6544419757066057,5
+45,This is supposed to be my dream a dream come,44,10,positive,0.4588,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.48067765077365016,0
+46,This should be my dream now,27,6,positive,0.25,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5828777425535607,0
+47,This is my dream,16,4,positive,0.25,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5828777425535607,0
+48,Your dream you this Japanese teenager you want to say that we dream together it,79,15,positive,0.5106,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.3767898862540386,6
+49,"Really wonderful ah , I know you are Caproni Earl",49,9,positive,0.6115,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.7193810126076023,1
+50,Can I am very happy to meet you,31,8,positive,0.6115,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833243555896295,4
+51,Really interesting this is indeed a dream world of dreams,57,10,positive,0.7713,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.740902487671328,2
+52,Welcome to my kingdom,21,4,positive,0.4588,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6547644293379058,0
+53,I am deeply honored,19,4,positive,0.624,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+54,Look,4,1,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833320461905495,2
+55,"They went to the bombing of enemy cities , half people may not come",67,13,negative,-0.5423,2,"live, must, two, right, work, give, done, late, dad, wind",0.6447905217027311,4
+56,But the war is nearing its end,30,7,negative,-0.7469,2,"live, must, two, right, work, give, done, late, dad, wind",0.6526061722145756,4
+57,Come on Japanese youth,22,4,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.4081593774377684,5
+58,This is after the end of my dream Im going to make this thing war,65,15,negative,-0.4404,2,"live, must, two, right, work, give, done, late, dad, wind",0.4786711481245567,4
+59,Think how amazing it,20,4,positive,0.5859,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833318884538313,1
+60,To take off,11,3,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5828188386013898,2
+61,It does not set a bomb but passengers,37,8,positive,0.2057,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6546554767246319,2
+62,Originally there should not have export,39,6,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+63,But the dream is very easy to want to go all right,50,12,positive,0.8241,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.47140018945368606,0
+64,Come on Come on you slowly walked along the bracket,51,10,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.7406211580413057,1
+65,Look,4,1,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833320461905495,2
+66,What is wonderful is not it,27,6,positive,0.5719,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833251366058865,1
+67,Ah really magnificent,21,3,positive,0.6361,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+68,It will then set the 100 passengers across the Atlantic,55,10,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6546554767246319,2
+69,Mr. Caproni I have a question,29,6,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5832883357537039,1
+70,If myopia still able to design airplanes,40,7,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6944439218161079,2
+71,I should not open my myopic plane,33,7,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6529646546373005,0
+72,I tell you I do not open the Japanese teenager aircraft should not be not,73,15,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.7398604478233677,5
+73,People want to have a lot of pilots in the world but the people I was doing aircraft,84,18,neutral,0.0387,2,"live, must, two, right, work, give, done, late, dad, wind",0.4558381400674233,4
+74,Aircraft designers,18,2,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.4181924250892176,4
+75,Know,4,1,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5831468659520176,3
+76,Japanese teenager listening to the aircraft is not a tool of war is not a commodity,83,16,positive,0.4847,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5402926868148187,5
+77,Aircraft designer is a dream and the dream is to make this molding,66,13,positive,0.4588,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.7350237358874196,2
+79,Well goodbye,12,2,positive,0.2732,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5833297093891171,5
+80,Jiro quickly go to sleep,24,5,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6890461556427141,0
+81,You just definitely dreaming very loud should I say  was really shocked me,74,13,neutral,0.0276,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.381294949434008,6
+82,I want to be a mom aircraft designer,36,8,positive,0.0772,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.715729160615566,1
+83,Really good ah this dream,25,5,positive,0.6361,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6508884969903685,2
+84,Who said the plane was a dream inside a dream come,50,11,positive,0.4588,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.3935747191897381,6
+85,I really wanted to manufacture a very nice aircraft ah,54,10,positive,0.4754,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.7183304651615419,0
+86,"This lady you come take my seat , right",39,8,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.4360914258279983,4
+87,I am sorry,10,3,negative,-0.0772,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.58333068001872,0
+88,Sit down,8,2,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5833299919608442,3
+89,Really comfortable ah,21,3,positive,0.5563,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+90,Miss careful your hat was blown away,36,7,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6023202008559038,3
+91,Do not blame the Department of,30,6,positive,0.2584,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833267321687698,4
+92,Are you OK,10,3,positive,0.4466,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+93,Im fine.,8,2,positive,0.2023,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833288985301817,2
+94,Well good skill,15,3,positive,0.6124,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.4334346673477081,3
+95,Thank you anyway,16,3,positive,0.3612,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.65386533680493,1
+96,The wind played a,17,4,positive,0.34,2,"live, must, two, right, work, give, done, late, dad, wind",0.6542861019413896,4
+97,You must try to survive .,25,5,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6947833472481232,4
+98,The wind played a must try to survive .,39,8,positive,0.34,2,"live, must, two, right, work, give, done, late, dad, wind",0.7421963773495436,4
+99,Good one  must try to survive the wind played a  really interesting,67,12,positive,0.807,2,"live, must, two, right, work, give, done, late, dad, wind",0.523173651313728,4
+100,Earthquake,10,1,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.583321987491572,4
+101,Engine exploded soon,20,3,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.3621531429828738,6
+102,What happened,13,2,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833273246682952,4
+103,Her feet,8,2,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+104,Let me take a look,18,5,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6947144378841639,2
+105,Hurts ah,8,2,negative,-0.4767,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+106,The right to hold small,23,5,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6934259106183833,4
+107,She could not walk off the road blackmailed,43,8,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6948202419507586,1
+108,Miss you get going fast train explodes,38,7,negative,-0.1531,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.7411545550093901,3
+109,Do not believe they said,24,5,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6546082930757627,3
+110,Train engine does not explode worry,35,6,positive,0.3412,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6945531090379082,2
+111,Take my case over,17,4,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6536314904282399,2
+112,You relax,9,2,positive,0.4404,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+113,Coming,6,1,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833288190729304,2
+114,You could not walk a,20,5,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6547053207537137,1
+115,Where to live ah,16,4,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833329200687414,4
+116,Ueno,4,1,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+117,I send you back to it,21,6,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6523353346938101,0
+118,Is fire,7,2,negative,-0.34,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833289019842235,4
+119,Come,4,1,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833321932663872,1
+120,Your luggage it,15,3,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+121,It does not matter,18,4,neutral,-0.0191,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5832298527219876,1
+122,I am sorry,10,3,negative,-0.0772,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.58333068001872,0
+123,Pain do careful,15,3,negative,-0.4019,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5831728055297479,3
+124,Come,4,1,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833321932663872,1
+125,This is my new shirt did not take long to finish,48,11,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.554048335299722,2
+126,You open your mouth thirsty right now,37,7,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6535608757809194,4
+127,That dry wells,14,3,positive,0.25,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5833240536824592,3
+128,Do you want water ah,20,5,positive,0.0772,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5831097736968104,0
+130,There should be no fire lane,28,6,negative,-0.5574,2,"live, must, two, right, work, give, done, late, dad, wind",0.6541830637400871,4
+131,Ill go after East Avenue homes going to do the two of you,57,13,negative,-0.4215,2,"live, must, two, right, work, give, done, late, dad, wind",0.693304605978566,4
+132,Im going to call someone to come home to help,45,10,positive,0.4019,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6435205038251093,0
+133,Or I go with it,15,5,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+134,This little concern to please you,33,6,positive,0.2585,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5132652658173996,1
+136,Do not worry we ll be back,26,7,positive,0.3412,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.4113898545806109,2
+137,Know,4,1,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5831468659520176,3
+138,Please help me live a good suitcase,35,7,positive,0.7845,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.41103527614204244,6
+139,Mr. Thank you so much this really,33,7,positive,0.3612,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6537189764453395,1
+140,It please you,13,3,positive,0.3182,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5833318082150968,0
+141,Sir please tell me your name,28,6,positive,0.3182,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.49152367743302994,5
+142,He is a good man right little concern,37,8,positive,0.4404,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.3589145103543421,6
+143,Jiro you come back it really was not the time to come back ah,61,14,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5148257972850557,0
+144,Hows aviation institute,23,3,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5833258325632267,5
+145,Morimura unclear eastern area are caught in flames,50,8,negative,-0.25,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+146,You can bring out all bring out the,35,8,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+147,You have not brought smoke ah,29,6,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833304366783643,1
+148,A good chunk of the door or what ah yes,39,10,positive,0.6808,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6884019963069768,2
+149,Tokyo is nothing around the fire,32,6,positive,0.2584,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.545663059344422,0
+150,I did not expect really self-made dreams come Caproni s so great ah,67,14,positive,0.8489,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.4404946337845257,2
+151,Do not shoot ah,15,4,positive,0.2584,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+152,Wind changed to fire here,25,5,negative,-0.34,2,"live, must, two, right, work, give, done, late, dad, wind",0.694488663482259,4
+153,Wind blowing on it also kept the Japanese teenager,50,9,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6573451838214706,5
+154,"Yes, ah still much too",22,5,positive,0.4019,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.692861698722436,2
+155,You must survive ah,19,4,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6545345929083214,4
+156,Come Jiro,9,2,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.3625029850716156,6
+158,Old old building have not changed,33,6,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6441166618988439,4
+159,But the street looks more spacious,34,6,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5833269962053264,3
+160,Even before the plane are related,33,6,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6535823879384616,0
+161,Welcome,7,1,positive,0.4588,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5833254196852412,0
+162,Jiro you ate herring ah,23,5,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.4214333103856929,3
+163,Because herring delicious ah,28,4,positive,0.5719,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5833302241711851,3
+164,University lectures every case with the same,44,7,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6542395782617438,2
+165,Xiaojun trouble to eggs,23,4,negative,-0.4019,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5828622940122246,3
+166,Good,4,1,positive,0.4404,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833327696353056,2
+167,Aluminum has entered the era of the great powers,48,9,positive,0.6249,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6539848814223691,2
+168,"What you eat meat, tofu occasionally drop us a full decade",58,11,negative,-0.204,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5035747627983966,1
+169,What are you doing,18,4,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+170,Very nice is not it,19,5,positive,0.4754,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5833305437469462,0
+171,Cox does not think this is a very nice curve,44,10,positive,0.4754,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.380349641019969,6
+172,"Really suits you, you eat herring because you enjoy fish bone",61,11,positive,0.4939,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.7217974241892041,3
+173,See also eat eating fast cup of coffee ah,41,9,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.7411852821665179,3
+174,Jiro you really motivated ah,28,5,positive,0.5095,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.583332833287068,0
+175,He said to do herring bone,26,6,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6948633712303366,3
+176,Mr. Will dig more will come without ah,38,8,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.648459879071939,1
+177,Jiro,4,1,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.583332833287068,0
+178,Honjo I found something interesting,35,5,positive,0.4019,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6943422198202533,2
+179,naca airfoil with herring bone radian radian is actually the same,65,11,positive,0.2023,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6546262825622999,3
+180,Americans do eat herring,24,4,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6548058874952504,3
+181,Jiro someone looking for you ah,31,6,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6899082387031893,0
+182,I do find,9,3,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+183,Just had a girl come to you but you do not let me put things,60,15,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.3619231067604135,6
+184,So this is ah thank you very much,33,8,positive,0.3612,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6537189764453395,1
+185,Jiro is so big Valentine gift bag it,36,8,positive,0.4877,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6498742666928551,0
+186,Do you have a cigarette right to me,35,8,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833309460406942,4
+187,Jiro,4,1,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.583332833287068,0
+188,Let him go,10,3,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833308394915094,2
+189,Youre back,10,2,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6531172793399231,0
+190,Im back,7,2,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5833321377241019,0
+191,There are guests in the room waiting for you girls to come,58,12,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6041193062411271,3
+193,Brother you this villain,24,4,negative,-0.6428,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5833314354947836,0
+194,Kayo ah ah sorry I totally forgot,33,7,negative,-0.0772,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.367517308497838,6
+195,Really,6,1,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+196,Dad does,8,2,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5832739002828186,4
+197,In uncle,8,2,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+198,Will stay,9,2,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5828637383317293,0
+199,Only stay one night,19,4,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6936378542355311,1
+200,Kayo you grow up a lot and has a lot of beautiful,49,12,positive,0.5994,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5336597165419058,1
+201,"Brother, you really never returned home over time",49,8,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.7400215045924637,0
+202,It had been so late,19,5,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833294273759959,4
+203,I send you as apologize,23,5,positive,0.1027,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5833268489708555,0
+204,Why do not we sit steamboat past it,35,8,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5833299919608442,3
+205,That person must be like brother,32,6,positive,0.3612,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.28158933109341316,6
+206,How could it all happened two years ago,39,8,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.7389052795858256,4
+207,Since then you have been to her home yet,40,9,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6941503548887462,0
+208,There ah went once after the fire,33,7,negative,-0.34,2,"live, must, two, right, work, give, done, late, dad, wind",0.6547571770398497,4
+209,Set fire to her house stopped,29,6,negative,-0.5106,2,"live, must, two, right, work, give, done, late, dad, wind",0.4840897376119955,4
+210,Yes ah,6,2,positive,0.4019,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5830872961653885,5
+211,Look a boat,11,3,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833320461905495,2
+212,You cold in ah,14,4,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5830467943906414,0
+213,Not cold,8,2,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5830467943906414,0
+214,Tokyo has had so much revival,29,6,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.3643109343998122,6
+215,Can I live with my brother ah Ho,32,8,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.36824592257936356,6
+216,My father allowed a person to Tokyo,35,7,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.7204862844079037,3
+217,"And so when you come to Tokyo , Nagoya , I could go up",54,12,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6880884651478284,1
+218,Aircraft business,17,2,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5068416830145658,1
+219,Nice man do I really want to learn medicine in Tokyo,52,11,positive,0.5256,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.7201419167057223,0
+220,You want a doctor ah I think will be very suitable Kayo,55,12,positive,0.0772,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6921560164939554,1
+221,Really,6,1,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+222,New Year back home when I speak with my father said,51,11,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5573169023803882,0
+223,Then please you,15,3,positive,0.3182,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5833318082150968,0
+224,Jiro,4,1,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.583332833287068,0
+225,Hey Hey you come,16,4,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833321932663872,1
+226,Yes ah finally came Blessings,29,5,positive,0.7351,2,"live, must, two, right, work, give, done, late, dad, wind",0.2880927801980478,6
+227,Now all around the city a lot of people looking for work ah,59,13,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.7560236758498279,4
+228,They take a lot of road Amount,30,7,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.7207830995652243,1
+229,But also on the streets,23,5,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5833318418089712,3
+230,Yeah another room,17,3,positive,0.296,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.4149088295257223,2
+231,This is the turtle eight banks ah,33,7,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833179576372377,4
+232,Yeah go Withdrawal,18,3,positive,0.3182,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.582095934251684,2
+233,Yes Yes,7,2,positive,0.6597,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5830872961653885,5
+234,Well as I have heard comments,29,6,positive,0.2732,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5833288515053358,5
+235,All around downturn,19,3,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5826277540969748,1
+236,Our companies are going to slump,32,6,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.581637635520207,4
+237,Now is the busiest time do you know what day it is ah,53,13,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.4930289047634106,3
+238,Notify me of April is that you can always come,46,10,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6509299493123468,1
+239,"Even ah ah you should come in March , when",42,9,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6501966179374183,1
+241,Pressed for time right now to work,34,7,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.4922011817906801,4
+243,Host wing metal rack has the data it,36,8,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.7201299631984164,2
+245,"Instantly do the design, production department seems to be less busy",68,11,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.7408664002051365,4
+247,"Here , ah,",10,2,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+248,"Come in, wait for me ah",23,6,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6499744282259954,1
+249,Come here,9,2,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833321932663872,1
+250,This is a special import your table but who also refused to use it with you now,79,17,negative,-0.2382,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6929987107552369,3
+252,These are the data caps in there,32,7,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.583134019323327,3
+254,New colleagues to join you there was a legendary genius to join our team introduce yourself quasi,97,17,positive,0.5267,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.7320281308678475,2
+255,I was Horikoshi please exhibitions,34,5,positive,0.3182,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5833318082150968,0
+256,Good job of it,14,4,positive,0.4404,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6473160380786598,2
+259,Are you saying that the assembly workshop,41,7,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6543980812099132,2
+260,Well I want to go look,22,6,positive,0.34,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.3740552602969462,6
+261,Very strange to people with just too chaotic to design a stent,62,12,negative,-0.6478,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6934020545223366,2
+262,Two trouble,11,2,negative,-0.4019,2,"live, must, two, right, work, give, done, late, dad, wind",0.6517030819222026,4
+263,"You Well , one thing to ask of the",34,8,positive,0.2732,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.654007614593948,1
+264,"Ah, almost done",15,3,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6545613641107019,4
+265,"Im sorry , ah, at lunch time to disturb you ,",45,9,negative,-0.4588,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6544327403443907,0
+266,"Not so polite, people are very happy over the design department is really",73,13,positive,0.6115,2,"live, must, two, right, work, give, done, late, dad, wind",0.7402770641349895,4
+267,Zhuang you look at the full metal design pieces already done,60,11,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5040901639688254,2
+268,"Sure enough, this is , ah, can not be responsible for such a new thing called , compared with you , the good point",114,21,positive,0.5003,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.7540197653510251,2
+269,"Oh, this is always training new village black box ah",52,10,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5555878298851827,2
+270,Look over the village you come here,35,7,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5213769364870094,2
+271,I want to hear your opinions Yeah,33,7,positive,0.3612,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.688317644122267,0
+272,What do you think ah,20,5,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833318884538313,1
+273,Appears to be a very solid design,33,7,positive,0.2247,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5830717084506337,2
+274,"However, this amount is not enough",34,6,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6912682558589133,1
+275,Forgive me the idea is exactly the same,39,8,positive,0.2732,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5833303306773517,5
+276,It miserable for you,20,4,negative,-0.4939,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+277,Yeah foreman over the rest of the time,38,8,positive,0.296,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6890923354400434,0
+278,Stop fighting line,18,3,negative,-0.5719,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6547597006222153,5
+279,Interestingly really interesting ah ah aircraft,47,6,positive,0.6901,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6524942587049068,2
+280,But it is indeed very interesting ah late for,45,9,positive,0.611,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.48887462692698125,2
+281,I called Hattori,16,3,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6540323120849332,0
+282,"Hattori , director of the Department of Design is the way",57,10,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.7394315791332542,4
+283,This is his first work that way,31,7,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.4065640924029841,4
+284,Is designed quasi--metal stents,31,5,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.7213860902467216,2
+285,But not very like ah,20,5,negative,-0.4571,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+287,Please explain,14,2,positive,0.3182,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5833318082150968,0
+289,Due to the increased sensitivity of this part of the strength I used the leaf spring,84,16,positive,0.6486,2,"live, must, two, right, work, give, done, late, dad, wind",0.6548075940377154,4
+290,The use of wire rope and cable stretchable absorbent pressure can penetrate the middle bracket in the fuselage skeleton,119,19,negative,-0.296,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.7416479800179399,3
+291,"If so, the host wing skeleton will certainly want to change it",62,12,positive,0.4019,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6379553731704489,2
+292,Yes Yes,7,2,positive,0.6597,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5830872961653885,5
+293,But this thing I have not calculated,36,7,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+294,Is simply a waste of time not to do these things it is useless,62,14,negative,-0.6808,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6936323024315846,0
+295,Ill give you work it,20,5,negative,-0.4215,2,"live, must, two, right, work, give, done, late, dad, wind",0.694031340973364,4
+296,Do it,5,2,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+297,How to make a pretty good line,30,7,positive,0.7269,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5440746806166158,2
+298,I give out work to be done immediately pay ah,45,10,negative,-0.1027,2,"live, must, two, right, work, give, done, late, dad, wind",0.7408875909198521,4
+300,Hey friends that I go first,27,6,positive,0.4767,2,"live, must, two, right, work, give, done, late, dad, wind",0.43887753737801216,4
+301,I have to go for it,19,6,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+302,You can go now black village to do your work,44,10,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.4973880060403223,2
+303,Done it,7,2,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833295319839601,4
+304,Oh cattle,9,2,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.583327441318288,3
+305,"The new aircraft are relying on their speed of three kilometers got me to test the venue two days, we really have to pull badly behind",134,26,negative,-0.4767,2,"live, must, two, right, work, give, done, late, dad, wind",0.605805190915525,4
+306,I really like Niua,18,4,positive,0.4201,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+307,Come come,9,2,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833321932663872,1
+308,Prepare handed measure,22,3,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5831878043910037,5
+309,It came,7,2,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833284466858438,1
+311,Amount to yet,13,3,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.36578290872954694,6
+312,Amount to 13.3 seconds is 270 km per hour,41,10,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833252535080561,1
+313,Slow,4,1,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+314,Should be able to be fast enough height of ten kilometers engine is not completely played,89,16,negative,-0.3078,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.7701329645067182,2
+315,Hey black village,17,3,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6545338035646094,2
+317,Army aspects people look,24,4,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6917877865900166,2
+318,Congratulations ah bold and innovative design is great,54,8,positive,0.926,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.7210893067526328,2
+319,You really produced well ah,27,5,positive,0.3353,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5833240304557569,5
+320,He is the driving force dive speed of 400 km challenge,54,11,positive,0.0772,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6547273048984509,3
+321,Mr. Black village wreckage weather is better at picking it,58,10,positive,0.4404,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6947181308925314,2
+322,Pilots do,9,2,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833180298396036,4
+323,Hes fine,8,2,positive,0.2023,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.654162701863703,2
+324,Thats good,10,2,positive,0.4404,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6483507682683328,2
+325,Mr. Black village we go back back from authentic II,51,10,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.412783087783584,2
+326,Do you think it is not because the air led to the disintegration of metal stents,80,16,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.39835880363432247,2
+327,The problem is not more esoteric and complex study in detail again,66,12,negative,-0.4019,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833299744638217,2
+328,"Anyway, I learned a lot today feel as if I opened up a never-ending road",72,16,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.7563602737395514,1
+329,There s no longer a quasi II Army has already looking for another company to do the,83,17,negative,-0.296,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.7702581177740858,5
+330,This is the only chance we would have to change their minds in the future we will produce in Germany???Division bomber will not reproduce the minicomputer,154,27,positive,0.3695,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.4512981842015087,1
+331,"This is a chance to go to Germany , I ve seen you recommend",59,13,positive,0.5423,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.7219386263995616,1
+332,Not closing it,14,3,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833235655186283,4
+333,Oh how you work it so late today,32,8,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6919720983027905,4
+334,To two Siberian Cake,20,4,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6530120317191527,4
+335,Good,4,1,positive,0.4404,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833327696353056,2
+336,To your cake,12,3,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5824721047380633,4
+337,Those kids are,14,3,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5832069832683419,5
+338,Their parents are late coming back here and so they are used so late so I have not closing,90,19,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5298350192040644,4
+339,So this is a thank you,22,6,positive,0.4144,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833330726143349,1
+340,"Thank you, patrons ah",21,4,positive,0.3612,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833330726143349,1
+341,Children and hungry ah you take the cake you eat it just that this is my store to buy,85,19,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6624393981545386,3
+342,Take it,7,2,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5828188386013898,2
+343,Come,4,1,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833321932663872,1
+344,Anybody here,12,2,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+345,"It is a pity I heard the news today, the termination of the development of quasi-",81,16,negative,-0.296,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.7205846768383727,5
+347,Siberia cake you eat something really strange,45,7,negative,-0.2716,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.47269214032921525,3
+348,Do you think it is hypocritical that little girl would smile and thank you to you,81,16,positive,0.1868,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.7418522627377725,1
+349,"Or is it not, in fact, I have thought about doing so",52,12,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.3813022781315851,6
+350,Do you know now hungry kids next lane on this section there are dozens of a quasi--bracket fitting enough that its worth the little girl and her family live a month,164,32,positive,0.2263,2,"live, must, two, right, work, give, done, late, dad, wind",0.3617922257863276,6
+351,We really do not understand why so many poor countries do,57,11,negative,-0.5233,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.7220847968505463,5
+352,Jiro ah,7,2,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.583332833287068,0
+353,We went to the introduction of technology in the end Rongke Gong Division Do you know how much money to give to,111,22,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.7231918102485475,4
+354,"That amount is enough to give the whole of Japan s children to eat rice and cakes every day Tianfu Lo surplus money that way though both know it is so , but I definitely will not waste this opportunity",201,39,positive,0.907,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.28282401634318355,6
+355,Honjo do you go,15,4,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833290951130211,2
+356,Today laid down,15,3,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5827564021826351,3
+357,Really so great,15,3,positive,0.688,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833287429558058,2
+358,Because poor countries want to have the aircraft we really have the opportunity to manufacture aircraft contradiction,117,17,negative,-0.1868,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5082905442589163,1
+359,Tomorrow I will go to Tokyo trip I want to get married,54,12,positive,0.0772,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.4452928226047358,3
+360,Get married,11,2,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6546206337910467,3
+361,For serious work so marriage can be considered a contradiction to go,68,12,negative,-0.3182,2,"live, must, two, right, work, give, done, late, dad, wind",0.7202614564855297,4
+362,German afar really mean we do not let us look into the factory,62,13,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.7399102951479154,2
+363,Cattle do not see how,21,5,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6534938659680422,3
+364,Because the factory next door test field,40,7,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.7405499784486526,2
+365,Here is really big ah,21,5,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5833277781811569,0
+366,Its not that we want to buy it anyway G38,41,10,negative,-0.0572,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6906296624397515,0
+367,Returning it to the bomber is loaded into a highly confidential,63,11,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6543587842605818,1
+368,Do you know who to go to war ah Army,36,10,negative,-0.5994,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6935811476226725,3
+369,"American bar , though not his",29,5,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6547607920422559,4
+370,But this plane is really good,29,6,positive,0.6474,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.39874526912022384,6
+371,There is really a masterpiece wing outlook room converted into a bomber shame,77,13,positive,0.3167,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.693905467404218,2
+372,Who cares took it as a learning opportunity for metal,53,10,positive,0.7003,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6938747772348225,2
+373,What ah do not let us see inside you intend,43,10,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.4941476716847757,3
+374,Really beautiful ah,19,3,positive,0.6361,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.583331474004821,3
+375,The Japanese can not close here,31,6,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.65306984477351,5
+376,"Stop , do not touch him",23,5,negative,-0.296,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5833310949359225,5
+377,This is the hospitality of the German people do,47,9,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6509402691733351,4
+378,Japanese plagiarism very quickly these technologies is our property to the,74,11,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6936977864577715,5
+379,This is really the audacity of old machines in Japan has been a lot of,70,15,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6943410825176733,4
+380,Honjo line,10,2,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.3651221290310623,6
+381,We visited the workshop because so far we have achieved technical hand-rolled,77,13,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.721618850339031,3
+382,You listen to all of us to come proper behavior are combined in this hangar next to the convention,98,19,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6902258445989883,1
+383,"There is, we never received your boss allowed us close to the body with any directions",86,16,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.7413220905724002,3
+384,"And I also believe that you are very loyal to the execution of their tasks , but the content of our contracts are equivalent is why we absolutely do not allow you insulted",171,32,positive,0.5195,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.693688224962579,3
+385,"No matter how you say anyway, we are not allowed to receive commands you to go mess",83,17,negative,-0.5574,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.7212965600146594,1
+386,Is Rongke Bo Shi ah,19,5,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6546514102726805,0
+387,Very good indeed,16,3,positive,0.4927,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6503014212430748,2
+388,Dr. approved you can go,23,5,positive,0.4215,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5830811282685358,5
+389,Really think you can take this aircraft,39,7,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.416834175297631,2
+390,Shake much more than expected,29,5,negative,-0.1779,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5825724868254994,2
+391,It seems very excited predecessors,34,5,positive,0.4005,2,"live, must, two, right, work, give, done, late, dad, wind",0.654239697129147,4
+392,Can the two of you and the military people transposition ah,59,11,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6542679847231695,4
+393,The line can be transposed up,29,6,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5833314232099275,5
+394,This aircraft is really good ah,31,6,positive,0.4927,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6539505934620313,2
+395,There are channels in the middle of the wing,44,9,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6538302340101254,2
+396,Really terrible ah,18,3,negative,-0.5256,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+397,Wanted to plant the same Language,33,6,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5833279941145502,0
+398,???who has been approved by the trouble you took us to visit two of us to where you work,88,19,positive,0.163,2,"live, must, two, right, work, give, done, late, dad, wind",0.7547448860394477,4
+399,This is the place where engineers,33,6,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6543029192731254,4
+400,This aircraft is really good ah,31,6,positive,0.4927,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6539505934620313,2
+401,"Japanese, you can not go any further",36,7,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5833317793282704,5
+402,The line that the Brotherhood powerful ah,41,7,positive,0.4215,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5833314232099275,5
+403,Very good indeed,16,3,positive,0.4927,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6503014212430748,2
+404,German industrial crystallization technology ah,47,5,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6544829619769863,5
+405,"Shi Rong Kebo really good ah , but their company who is very stingy",67,13,negative,-0.4104,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.31865532117754763,6
+406,Jiro has no smoke ah,20,5,negative,-0.296,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.4214346868179292,1
+407,Jiro,4,1,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.583332833287068,0
+408,There is no smoke ah,20,5,negative,-0.296,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833304366783643,1
+409,Did not smoked,14,3,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+410,But the room is very cold outside looks warm,44,9,positive,0.3291,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.7203061911356998,3
+411,I think people here are the same thing with the stove this aircraft wing grams are also produced with today feel do not feel like ah good to see beautiful aircraft,163,31,positive,0.6898,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.2908916136702629,6
+412,Line of the line we are lacking is the technical basis Well,59,12,positive,0.2732,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6478233351886754,5
+413,"I have a warm bath, kitchen table and enough to warm the table together with the aircraft are not on line yet",109,22,positive,0.4215,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.752657240942121,5
+414,Really just perfect today to get the information to the only perfect mainframe data,83,14,positive,0.8384,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6944226615833956,3
+415,Technology is our German property,33,5,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6945361703470441,5
+416,Come the Warm Honjo tables might really match aircraft combines metal wood might really talk to rival,101,17,positive,0.2263,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5713084549814307,2
+417,But it was too late that we have fallen behind two decades,58,12,negative,-0.5023,2,"live, must, two, right, work, give, done, late, dad, wind",0.7205804640611733,4
+418,I want to go out for a walk to calm my mind,43,12,positive,0.3818,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6913257821450903,1
+419,We are brave Achilles chasing the tortoise family go first two decades,70,12,positive,0.5267,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6987633038675993,3
+420,Twenty five years to catch up with five-year gap between the tortoise or fast well take a year to catch up with the five-year,125,26,positive,0.2732,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5967752705084357,0
+421,In this case we should have been chasing the family anymore,59,11,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6945300157559365,2
+422,Now we can only do so there is always a catch even one day overtake,67,15,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.7417591711026249,1
+423,Small point it does not matter became so difficult that there is no way to do a turtle,86,18,negative,-0.6208,2,"live, must, two, right, work, give, done, late, dad, wind",0.7687100662082361,4
+424,What,4,1,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+425,A phonograph,12,2,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+426,Winter Journey song is wanted our life portrayal,48,8,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6545129348240396,0
+427,What happened to it,19,4,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833273246682952,4
+428,Just that person is guarded hangar,34,6,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.3872167795368559,1
+429,Jiro I wash up to you,21,6,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.583332833287068,0
+430,Slept so well really like Japanese aircraft engineering alone bear the face of fate,83,14,positive,0.5346,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5895678800800719,0
+431,The village received a telegram from the Japanese company,57,9,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5671381622536182,5
+432,Come advanced,13,2,positive,0.25,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833321932663872,1
+433,A few people do not want to leave the village you stay here while traveling west on Jiro returning again,104,20,neutral,-0.0191,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.7003422193032627,0
+434,Traveled to the West,20,4,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5831437698560892,5
+435,He was called to see this world,31,7,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6926766830942617,3
+436,A person traveling,18,3,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6538746510659663,3
+437,Mr. Caproni,11,2,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5832883357537039,1
+438,The wind is not blowing ah still kept in,40,9,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.720529312831211,5
+439,Is still blowing,16,3,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6536723182251434,5
+440,Come join me to retire it go flying,35,8,positive,0.296,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6104590515032997,2
+441,Mr. Caproni friends you want to retire,38,7,positive,0.5267,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.366967935570298,6
+442,Well enjoy the Fly,18,4,positive,0.6486,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6542393133744616,3
+444,Come fly it faster,18,4,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.689739516344493,1
+445,Hurry body has trouble following entries in quickly so what,59,10,negative,-0.4019,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.7211083854530012,3
+447,They are family members or relatives of workers who have come to the village,76,14,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.534944072656145,2
+448,But the authorities did not know after all bombers,50,9,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6515744328047863,3
+449,Think how,9,2,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833318884538313,1
+450,Very grand ah,13,3,positive,0.5095,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.583324662621191,3
+451,Like the Roman buildings,24,4,positive,0.3612,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+452,Authorities really do not need to fight this monster grandiose,62,10,positive,0.2924,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.694178523341524,2
+453,"In fact, my country is very poor technique and not pass this thing simply can not do this",89,18,negative,-0.5256,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.7199027628572695,0
+454,The most important thing is tactile design,42,7,positive,0.2716,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6530575134869777,2
+455,Tactile before the era of the first district can do to keep up with the technology will naturally,97,18,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.7394781556242573,3
+456,Thats my wife,13,3,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833270440998097,2
+457,"In fact, my country is also so poor because there are too many children the",75,15,negative,-0.6113,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.30375539101658333,6
+458,Do not be too excited ah will fall to the,41,10,negative,-0.2584,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.362650400210101,6
+459,Come,4,1,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833321932663872,1
+460,"Be careful of your head do not be hit even in the dream, even in the dream,",75,17,positive,0.5574,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.7124816607905904,0
+461,Tell me youre like a pyramid in the world still do not have a pyramid in the world,82,18,positive,0.3612,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.61099417853876,2
+462,You say pyramid ah,18,4,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6541814642910656,1
+463,Human dream of flying is also considered a curse by a dream,59,12,negative,-0.128,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6009921229191514,0
+464,Because the aircraft became famous bear killing and destruction tools fate,74,11,negative,-0.8442,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.7401850513859098,2
+466,"Despite this , but I chose to have a pyramid in the world How about you that you would choose",93,19,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6918916863217971,1
+467,Is hoping to make a beautiful aircraft,38,7,positive,0.7717,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.47459619647164936,2
+468,It refers to that frame,23,5,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+469,Ah really good,14,3,positive,0.4927,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833327696353056,2
+470,Even still far no engine and cockpit molding,44,8,negative,-0.296,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.4648622664532505,2
+471,What a beautiful dream ah,25,5,positive,0.7096,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.372454988898728,6
+472,Let me tell you this is my last flight before retiring,54,11,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6932893583013422,2
+473,10-year creative life of artists and designers alike do everything you want to live out your own decade,103,19,positive,0.4939,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5206574619116723,0
+474,Jiro ah go coffee shop talk,27,6,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5479370356082662,3
+475,But now I have a meeting,24,6,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+476,Extension bar,13,2,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833251385752461,4
+477,Their demands are too high,26,5,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+478,It always been like this,24,5,positive,0.3612,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833292575106457,1
+479,Jiro joined the company many years,34,6,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6457223760692494,5
+480,Jiro,4,1,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.583332833287068,0
+482,Joined the company many years,29,5,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.7217232659018951,5
+483,Five years,10,2,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6518111396967134,4
+484,Should be enough to you to when the design director,51,10,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.694151898671829,2
+485,Navy Blue God Showa seven fighters,34,6,positive,0.2263,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.583327115578845,0
+486,It was promoted you ah,22,5,positive,0.4215,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+487,Jiro,4,1,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.583332833287068,0
+488,Think how,9,2,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833318884538313,1
+489,Assured me pay a,16,4,positive,0.2732,2,"live, must, two, right, work, give, done, late, dad, wind",0.583323721994438,4
+490,Very well,9,2,positive,0.3384,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+491,Will not you please help me ah Honjo,36,8,negative,-0.4973,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.4673201691500299,0
+492,Not very good you will be competing for the same period will affect the friendship of cooperation,97,17,positive,0.0714,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833327696353056,2
+493,You slowly closing it right Shaojun,35,6,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6936516673466852,4
+494,We will arrange for other work to the village,45,9,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.3685769575412683,6
+495,Domestic engine is such a,25,5,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833285162111236,2
+496,Aboard the aircraft carrier is a,32,6,neutral,0.0258,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.582841720537197,2
+497,Change of clothes ready,23,4,positive,0.3612,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5830516298764026,2
+498,Really thank you,16,3,positive,0.4201,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833330726143349,1
+499,Really thank you for your care,30,6,positive,0.7178,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6536411156278307,1
+500,Well kind of uniform is appropriate,35,6,positive,0.2732,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+501,Stop off,8,2,negative,-0.296,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5833310949359225,5
+502,Yeah great success it has succeeded,35,6,positive,0.9153,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6907678148945156,2
+504,Well good skill,15,3,positive,0.6124,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.4334346673477081,3
+505,I am very sorry there is no way injured,39,9,negative,-0.6697,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6542339691558325,0
+506,"Ah , nothing to give back to your umbrella",42,8,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5591786404221989,0
+507,Umbrella is really trouble you borrowed from the hotel,54,9,negative,-0.4576,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.4622444160202962,3
+508,Polite goodbye,14,2,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6546135325690275,5
+509,"Dad, I seem to talk about some bad words",40,9,negative,-0.5423,2,"live, must, two, right, work, give, done, late, dad, wind",0.721526086756489,4
+510,It does not matter that he is a good boy,40,10,positive,0.4265,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.4289112433980628,1
+511,How it,6,2,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+512,You see the last person to help us pick up the umbrella there,61,13,positive,0.4019,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.7388560942525757,3
+513,"Oh, he seems to be just one person",34,8,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.279241005339895,6
+514,Sorry I go first lady,21,5,negative,-0.0772,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5010058945817112,0
+515,Please do not go I stand here,29,7,positive,0.3182,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6519622341443359,0
+516,I prayed for a long time that I will request you,48,11,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6933294014680272,0
+517,Lapse for so long you really have not changed,45,9,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.3782909481285779,6
+518,In that time the earthquake,27,5,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.4071861232836218,4
+519,"I always want renowned for you , thank you face to face",55,11,positive,0.4215,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.44107405148359635,0
+520,Ah youre at that time that,26,6,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6539448490777534,0
+521,My name is Satomi rapeseed,26,5,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6941707585418487,5
+522,Hello my name is Jiro dig more,30,7,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.7153722956550727,0
+523,Are you OK,10,3,positive,0.4466,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+524,Nothing,7,1,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5833265495486568,0
+525,Small volumes married two days before,37,6,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6012916370346374,4
+526,Finally know where you live the,31,6,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5111585597602708,4
+527,She was happy to have almost cry out,36,8,positive,0.2247,2,"live, must, two, right, work, give, done, late, dad, wind",0.6546905089173525,4
+528,"Mr. Jiro fact, you are our prince ah",36,8,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6907611486714627,0
+529,I am a prince ?,15,4,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.582983022968192,0
+530,Yes you are a prince on a white horse coming,44,10,positive,0.4019,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6918803714854022,2
+531,Umbrella is leaking inside it,29,5,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6547106685830866,3
+532,"Okay, I have to hurry to tell small volumes",43,9,positive,0.2263,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.740398985464024,5
+533,She just gave birth to a small volume second child,50,10,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6539419753600073,4
+534,And very cute too,17,4,positive,0.5095,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+535,Your paintings are drenched by the rain,39,7,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+536,Yeah so leave it to commemorate,31,6,positive,0.1796,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6477566146922589,0
+537,You begin to see the sky out of the sun,39,10,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5833317433561049,3
+538,Here already have done,22,4,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6536159726959004,4
+539,You look over there,19,4,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833320461905495,2
+540,I have forgotten what the rainbow,33,6,negative,-0.2263,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+541,Nice to live in this world,26,6,positive,0.4215,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.48177547896530665,0
+542,Lets go dad must be very worried,32,7,negative,-0.3597,2,"live, must, two, right, work, give, done, late, dad, wind",0.6938615204075388,4
+543,My dad came Dad,15,4,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.44409874639061286,4
+544,You come with me you know I introduced my father,48,10,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5189664307900347,3
+545,Good,4,1,positive,0.4404,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833327696353056,2
+546,Yeah you throughout all wet,27,5,positive,0.296,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.582095934251684,2
+547,"Fortunately, Im fine , he just helped me busy",45,8,positive,0.2023,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6542714193801569,2
+548,The dig is Mr. Yue,18,5,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5830934789775918,1
+549,Little more digging surname,27,4,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833303418159274,1
+550,My name is Satomi really trouble you,36,7,negative,-0.4576,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.42215548693802857,3
+551,My daughter has trouble you help the,36,7,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6914968908826494,0
+552,I can sit here right,20,5,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.38390285667246754,3
+554,Germanys smoke,14,2,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833304366783643,1
+555,"Finally, a really sad",21,4,negative,-0.5256,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833249957569193,4
+556,I also understand that because I ve tried this case,51,10,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.285896806333592,6
+557,Indeed there is such a feeling,30,6,positive,0.128,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6543562053355184,2
+558,You must have been to Germany now,33,7,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.3771589427310119,6
+559,Must have been to De Zhao City,30,7,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6941875262599104,4
+560,"Do you , Mr. Sherlock Holmes is ?",33,6,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+561,You are an engineer look over all aircraft magazine estimated,61,10,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6914375421677302,2
+562,All engineers will go to De Zhao City,37,8,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6949285240292088,4
+563,Haha  You got that right,24,5,positive,0.4588,2,"live, must, two, right, work, give, done, late, dad, wind",0.6539896869474938,4
+564,Dr. Alex will be pursued,24,5,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833222456038052,1
+565,You said you would be pursued ?,31,6,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.4917313361690275,1
+566,He and the government fight odds,32,6,negative,-0.3818,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833285788062812,2
+567,You mean Hitler regime and fight,32,6,negative,-0.3818,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6548182135973442,2
+568,Is a rogue group,16,4,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+569,Here is a good place,20,5,positive,0.4404,2,"live, must, two, right, work, give, done, late, dad, wind",0.39539355123026804,4
+570,No mosquitoes nor hot around,28,5,negative,-0.296,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6528336581479662,1
+571,Watercress and tasty,20,3,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+572,Is indeed a good place to worry,31,7,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.7170562198042497,2
+573,Try it was Japan Tobacco,24,5,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6546725057265623,4
+574,Thank you,9,2,positive,0.3612,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833330726143349,1
+575,Wonderful night here,20,3,positive,0.5719,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6548159845853264,1
+576,Is Magic Mountain ? Thomas Vine novels ?,40,6,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5823802851358946,0
+577,Is a good place for forgetting,30,6,positive,0.4404,2,"live, must, two, right, work, give, done, late, dad, wind",0.39539355123026804,4
+578,And China s war forget it,25,6,negative,-0.7003,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6546681218763597,3
+579,Stars pull Manchukuo forget it,30,5,negative,-0.2263,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6946422442113241,3
+580,From the League of Nations forget it,36,7,negative,-0.2263,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5833300040802183,3
+581,And against the world forget it,31,6,negative,-0.2263,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.654031112471314,3
+582,Usually burst,13,2,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+583,Germany will also,17,3,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.39072455948271456,1
+584,Do you think Germany will be sent to the war yet,48,11,negative,-0.5994,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.34157815702572814,6
+585,Will ah must stop as soon as possible,37,8,negative,-0.296,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5698052019088771,5
+586,Really sorry to keep you waiting so long,40,8,negative,-0.1513,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.4211590701735534,0
+587,Rapeseed uncomfortable because of fever,39,5,negative,-0.3818,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5833269379539259,5
+588,Please allow us the right to cancel dinner tonight,50,9,positive,0.296,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.4221446051666042,3
+589,I understand better ask her to take care of the body,52,11,positive,0.7269,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.7524106180408817,1
+590,I go to the doctors about the,29,7,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833203878553228,1
+591,Who would have seen it wind,27,6,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.49284426988060265,1
+592,But you and I have seen the time when the leaves gradually move,63,13,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.39241306383493835,6
+593,Wind ah it vibrating wings soar,31,6,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5830311016912572,4
+594,Send it to your side bar,24,6,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.49185828716610397,4
+595,Jiro ah,7,2,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.583332833287068,0
+596,Naoko,5,1,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5829989284840567,1
+597,Yeah carefully,14,2,positive,0.4019,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.582095934251684,2
+598,Yeah good skill,15,3,positive,0.6249,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.3807300839200618,3
+599,So that the daughter is already healed,38,7,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6926264788714933,5
+600,Trust your Hongfu have much better,34,6,positive,0.7351,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.654280228163064,2
+601,Congratulations to you here is the cure for all mountain Mount,62,11,positive,0.5994,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6924973316768752,2
+602,It may really be,16,4,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833244025402443,4
+603,When it began to take in front of young melancholy,50,10,negative,-0.4404,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.652275575371638,2
+604,Now vibrant,11,2,positive,0.5267,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+605,Should love it,14,3,positive,0.6369,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5833314396322883,3
+607,Holy love so fast finish,24,5,positive,0.6369,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.4361669359287935,2
+608,Once down the mountain will forget,34,6,negative,-0.2263,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6533418000863517,3
+609,I definitely will not,21,4,positive,0.4019,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5833235336975928,0
+610,Objects that you are my daughter do,35,7,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5831097950566944,0
+611,Miss tassel is a dish,21,5,negative,-0.1531,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5833292630261406,3
+612,Please allow Mr. Satomi she and I exchange it,45,9,positive,0.4939,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5042397980328213,3
+613,Not my daughter. .,18,3,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5831097950566944,0
+614,"Dad his request , please allow me to accept it",46,9,positive,0.7003,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.556965451407555,0
+615,Really very beautiful,21,3,positive,0.6674,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.583331474004821,3
+616,But before I have to make it clear that the interaction of,58,12,positive,0.5267,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6539526051244994,2
+617,My mother left two years ago because of tuberculosis,52,9,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.7405333849861385,4
+618,I also suffer from the same disease,35,7,negative,-0.5423,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.652182856252769,3
+619,"In fact, I ve liked you for a long time in the",46,12,positive,0.4215,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6943473020744492,0
+620,Is from the beginning you grab my hat,37,8,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833185002381998,2
+621,I was sent by the wind to the moment you start,46,11,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6519792538054142,4
+622,Please can you marry me,23,5,positive,0.3182,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5833318082150968,0
+623,Well it was healed before I got sick,36,8,negative,-0.296,2,"live, must, two, right, work, give, done, late, dad, wind",0.6940629294320732,4
+624,But do not know whether you are willing to wait for me,54,12,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6913018082043996,1
+625,Willing I will wait for a hundred years,39,8,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5006944634538989,1
+626,Congratulations on your very good young man,43,7,positive,0.796,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.7180514786158706,2
+627,Daughter is also very good so good,34,7,positive,0.7496,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.320297385059528,6
+628,This summer is really nice,26,5,positive,0.4754,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6536568307697178,0
+629,Yeah Jiro here,14,3,positive,0.296,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6533745819271098,0
+630,When the foot back two days ago,31,7,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5817611679382269,4
+631,Here it is hot,14,4,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5827808976911673,5
+632,To help me look,15,4,positive,0.4019,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.38244600076708246,6
+633,Yeah pretty good good beautiful,31,5,positive,0.9337,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5582756860241668,2
+634,Is something similar experiment machine,39,5,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5833236615593334,3
+635,But no test is difficult to say anything else,45,9,negative,-0.7227,2,"live, must, two, right, work, give, done, late, dad, wind",0.49883153618578935,4
+636,Ah I know it was because of blown fly,37,9,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6929375356789744,3
+637,Tube is Japans Achilles,23,4,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6545842798040049,1
+638,The shortened distance of 20 years,34,6,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5829200199175054,5
+639,My plane is only as good as the next test of this metal duck,60,14,positive,0.4404,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.7543037148627825,2
+640,Yeah because I have enough time to use a metal,46,10,positive,0.296,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6003262262449446,2
+641,First point saw screw cap with the words of the platform,56,11,negative,-0.1027,2,"live, must, two, right, work, give, done, late, dad, wind",0.6915072482537555,4
+642,"As with the fuel inlet , then the hinge",39,8,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833204285874557,1
+643,Will be more convenient to the,30,6,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+644,"In fact, such a resilient slingshot",35,6,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5833287759895784,0
+645,Should have been enough,23,4,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5829581013461752,2
+646,Jiro nice idea you like Columbus,32,6,positive,0.6486,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.4431928714259342,0
+647,You take with you thank you ah,30,7,positive,0.3612,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6534146924332561,1
+648,But not now,11,3,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+649,This picture I put away,23,5,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6543638020287088,4
+650,When you duck under a tin after use,35,8,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6543948521645133,3
+651,Give me with it,15,4,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833303769654056,4
+652,I know that Im waiting for you to hurry with it,47,11,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6936465745650686,3
+653,Jiro not die in,15,4,positive,0.4847,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6474319912720331,0
+654,Mr. Kurokawa Jiro is,20,4,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6503968008466943,0
+655,That immediately go back home and sit down next to me,53,11,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5931802009836864,0
+656,Jiro you to ride,16,4,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.583332833287068,0
+657,You just have to investigate Yeah agents,40,7,positive,0.296,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6446393479716886,5
+658,Is responsible for the secret police has elements of,52,9,positive,0.3182,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.583319992198425,2
+659,Investigation me ? They say you and I go on business,52,10,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6540133606074714,1
+660,They just pretend to leave but I lied,37,8,negative,-0.5719,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.583327322940993,0
+661,Jiro will stay in this working document will be sent,52,10,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6910340376656615,0
+662,May I ask what happened,23,5,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6946310881762704,4
+663,I have two friends were arrested agents of,42,8,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.4666970280146567,4
+664,We do not know why,18,5,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5831468659520176,3
+665,Please come with your patience over the next,44,8,positive,0.3182,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.4502171766335855,1
+666,What you also need to go back down immediately,46,9,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.37892943043593214,6
+667,Jiro believed to be flange Beta,31,6,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6474314288693978,0
+668,This stuff is really good to do much good if one year earlier,61,13,positive,0.7496,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.3801804165051168,6
+669,Jiro How do you feel that way,29,7,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6909357846030769,0
+670,Next time we will no longer be doing a big iron duck duck,57,13,negative,-0.296,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.48914813199644713,0
+671,Mr. Duck is a great all-metal Kurokawa think how,48,10,positive,0.6249,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.4813146613701804,2
+672,S nice lightweight duralumin material with good extravagant production,70,9,positive,0.6908,2,"live, must, two, right, work, give, done, late, dad, wind",0.31990084590517887,6
+673,Well we post it back,20,5,positive,0.2732,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5833321377241019,0
+674,Does not seem to be tracked safe,32,7,positive,0.4404,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833245191765487,4
+675,For security reasons these days do not show up,46,9,positive,0.34,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833273119961981,4
+676,This time the deal on his head,30,7,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6933524133978888,0
+677,Come to my house and a place to avoid,37,9,negative,-0.296,2,"live, must, two, right, work, give, done, late, dad, wind",0.5433276634027868,4
+678,Please let me once because the dormitory would send me a letter,63,12,positive,0.3182,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.4747859073335601,0
+679,The letter was found to be a lot of trouble ?,45,10,negative,-0.4019,2,"live, must, two, right, work, give, done, late, dad, wind",0.7195807840344985,4
+680,The trouble is also extremely,29,5,negative,-0.4019,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6544832644650799,3
+681,Demolition of private agents is believed to be no big deal,58,11,negative,-0.296,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.560932182856963,0
+682,I believe this is the fiancee of invasion of privacy,52,10,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5833277594437024,3
+683,Modern state should be doing,28,5,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.583104490030455,5
+684,Youve engaged now? !,20,3,positive,0.4574,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5833284827693198,5
+685,Jiro also the people there do you think Japan is a modern country yet,69,14,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6137900177287957,0
+686,I can feel nothing worth funny,30,6,negative,-0.4717,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6945729503374274,0
+687,That of course will be particularly agents stare at your dorm,61,11,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5833301584390368,5
+688,Love letters they see it from the get your fill of it ! !,57,12,positive,0.6988,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6948548250423701,3
+689,Navy aircraft to do to you to play it,37,9,positive,0.34,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.4615333414265306,0
+690,Our company will make every effort to protect your,50,9,positive,0.3818,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5599211559454113,2
+691,Now you have to concentrate on work,35,7,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833308345045584,4
+692,Even what is the reason she left so suddenly,44,9,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.37411622175173215,6
+693,Now you can only pray that she can safely go abroad just fine,61,13,positive,0.743,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833288985301817,2
+694,Jiro yeah you have a good phone,31,7,positive,0.6249,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5639565663177176,2
+695,Yeah there trouble you,22,4,negative,-0.128,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6478160783208867,3
+696,"Hey you , please speak Jiro Telegraph",37,6,positive,0.3182,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6898365407215212,0
+697,The people are very worried about big summer for us with too,60,12,negative,-0.3597,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.720095234369848,0
+698,Two days ago to please you read it to me,40,10,positive,0.3182,2,"live, must, two, right, work, give, done, late, dad, wind",0.5736785662266004,4
+699,Can do is,9,3,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+700,Naoko . . . Cough . . Hemoptysis,32,3,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5829989284840567,1
+701,Hey Hey trouble you hear me hear,32,7,negative,-0.4019,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6337941148662164,0
+702,Do not hang yourselves first feed,33,6,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5831824603411337,3
+703,How Mrs. Kurokawa please tell me the quickest method back to Tokyo,66,12,positive,0.3182,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.7560509706575915,0
+704,Youre going to do is I have to get Tokyo to go back,51,13,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5869308202900687,0
+705,Then you wait a minute afternoon bus soon came,46,9,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5622388197016742,1
+706,You can take it arrived at 1 oclock express train,49,10,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6527268219871738,2
+707,I ask somebody to help you pay attention to shuttle you went to prepare it,74,15,positive,0.3182,2,"live, must, two, right, work, give, done, late, dad, wind",0.6137084229804827,4
+708,Come come Yeah,14,3,positive,0.296,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.45583296958252245,1
+709,Jiro ah,7,2,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.583332833287068,0
+710,Im sorry Im so late ah,22,6,negative,-0.0772,2,"live, must, two, right, work, give, done, late, dad, wind",0.3676863124208831,6
+711,I will be transmitted to your,29,6,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+712,Hello America,13,2,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6547647540931187,0
+713,I love you,10,3,positive,0.6369,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5833314396322883,3
+714,It is coming,12,3,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833288190729304,2
+715,You see Jiro his father came to visit me,40,9,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.35912950656305226,6
+716,Next time I will visit you during the day came from the main entrance,69,14,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6555921433991442,1
+717,I prefer you come in from the garden,36,8,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833321932663872,1
+718,Well done so,12,3,positive,0.2732,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833295319839601,4
+719,You have to take care of yourselves Jiro,40,8,positive,0.4939,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5312164718899537,1
+720,Yeah you are Naoko I walked the first,37,8,positive,0.296,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5432901066462789,3
+721,Yeah I sent you,15,4,positive,0.296,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6475594511711318,0
+722,To get on the next bus going a little faster,44,10,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5399783240406192,1
+723,Her illness so serious if I could stay with her just fine,57,12,negative,-0.3902,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5554362013489942,1
+724,You have to work it in the body of a man going to the cause,59,15,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.7204467864972972,4
+725,He walked slightly dry how ah crying,36,7,negative,-0.4767,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.694501134922001,3
+726,"Dad, I think I want to clear plateau hospital where doctors recommend treatment ah",82,14,positive,0.6597,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.7665076135737018,1
+727,But where oh deserted you a good person,39,8,positive,0.5927,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.41640076579752716,3
+728,I want to cure this disease then you can live with and Jiro,59,13,positive,0.0772,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6022356930647634,0
+729,You have managed to come back in a nice way which those in charge of the waiting,80,17,positive,0.4215,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6326372447388874,0
+730,"Well, how do you think of it that way",37,9,positive,0.2732,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.36436986746908817,6
+731,I will go all out,17,5,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+732,Followed by the Navy to see the way customers,45,9,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.43536553032901987,3
+733,I will go all out,17,5,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+734,You simply can not heard,24,5,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.36737982899206645,6
+736,So the advice to give up,24,6,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833303769654056,4
+737,"Have a good night , ok",22,5,positive,0.6249,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.43337029469289745,1
+738,"They seem to be open , director of the independent inquiry would",64,11,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5663206175350584,4
+740,"Well, along with talking about the idea of ??combining the latest aviation technology",85,13,positive,0.3527,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.7420906123568105,5
+741,Look here,9,2,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833320461905495,2
+742,Retractable landing gear,24,3,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+743,"To reach 270 sea miles , then you need it",41,9,neutral,0.0258,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.4778144607460417,5
+744,270 sea miles ah then it is 500 km slightly,43,10,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6945445200311126,5
+745,Navys requirements are not 220 sea miles of it,46,9,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6547970578092123,5
+746,In this case it will be eliminated so fast the,46,10,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6544338684283505,2
+747,Bold introduction of the latest technology,42,6,positive,0.3818,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.7217363327260767,5
+748,"However, the disadvantage becomes a bit heavy",45,7,negative,-0.4215,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6548116300261337,1
+749,If you do not carry guns are not the problem,44,10,positive,0.3089,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833299744638217,2
+750,Just say that the idea will remain in use until the next,56,12,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.3764720740981298,1
+751,Lively discussion intoxicating,30,3,positive,0.4404,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+752,It is a pity ah,15,5,negative,-0.296,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.583326645543213,5
+753,For our engine that no force,28,6,negative,-0.296,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.3813889990700779,3
+754,We should be able to reduce as much as possible to reduce the smooth surface to reduce air resistance,101,19,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.7405148787070527,1
+755,Now welcome Hirayama,20,3,positive,0.4588,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6547655862457158,0
+756,Let me introduce him from the production department technician,62,9,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.40374996680804853,4
+757,I called Hirayama,17,3,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6543531427259307,0
+758,He ll tell you about the new anchors,36,8,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.694204126044781,2
+759,If you want to smooth the nail head while maintaining the strength of the words,79,15,positive,0.5423,2,"live, must, two, right, work, give, done, late, dad, wind",0.5023303884226991,4
+760,What theyre saying,18,3,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833223265723002,2
+761,Flat head anchors,17,3,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6944761116097932,0
+762,Countries around the world are already using flat head anchors,62,10,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5575946258729827,0
+763,Really good fun touching,24,4,positive,0.7764,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833327696353056,2
+764,Miss Satomi Yeah you have faith,31,6,positive,0.5267,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6889547138175315,3
+765,A thank you ah,14,4,positive,0.3612,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833330726143349,1
+766,Director ah ah you wanted on the phone,38,8,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.49306530441991814,2
+767,Yeah Can Wait,13,3,positive,0.296,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.42712364313299966,1
+768,Oh seems to be in a hurry to,28,8,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.3700479778819635,3
+769,Hey oh oh really long time no see what wow,42,10,positive,0.3262,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5690069976472443,0
+770,Jiro Jiro ah ah,15,4,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.583332833287068,0
+771,Nice always wanted to seek you do not know how to do ah,55,13,positive,0.4215,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.4029775761184586,6
+772,Do not be afraid you have been able to walk right up,52,12,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5754725588027945,1
+774,Im going to see you back immediately after the,46,9,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5459876064524128,0
+775,You do not go,13,4,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+776,Stay here and live with the,27,6,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.3753168737818458,6
+777,"Yeah , its beautiful the guests",31,5,positive,0.7269,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6882981804028774,3
+778,Yeah I called Naoko,19,4,positive,0.296,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.689574428566704,0
+779,Yeah youre Naoko Miss,21,4,positive,0.1531,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5110655168186463,0
+780,Is Jiro,7,2,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.583332833287068,0
+781,Mr. Kurokawa is something we Xiangqiu,37,6,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5833297109500559,0
+782,Yeah this is not very good husband,34,7,negative,-0.1085,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6868474310417019,2
+783,"Yeah lent the room is not a problem , but to a pair of unmarried men and women live here , then",95,20,positive,0.3025,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6063803644053823,2
+784,The two of us will get married soon,35,8,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.4008749945057644,3
+785,Now tonight,11,2,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5833248146451351,3
+786,"My husband does not think so , yeah you people do a good impression",67,13,positive,0.7695,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6026372882597535,2
+787,My dad will be better understanding,35,6,positive,0.4404,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.36889265357852197,6
+788,Come on two,11,3,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.39580403221725674,4
+789,If you decide to do what is necessary to prepare a woman,56,12,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6547207443692329,5
+790,Do not be afraid to love this child all day,43,10,positive,0.6369,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.7208676099025882,3
+791,"If it is really for the sake of her health , then you should take her to the mountains as soon as possible",106,22,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6312757110109888,5
+792,If so Im going to give up the manufacture of aircraft to accompany her back,75,15,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5693426674939922,0
+793,"Do you know you do not love, but selfish way",44,10,positive,0.284,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6931185532956315,3
+794,I had no time with her in the waste,35,9,negative,-0.6124,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.652901941613446,0
+795,Since it is so I understand to a grand celebration of the,57,12,positive,0.5046,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.49797114635368894,3
+796,Laila Laila,11,2,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833220649012222,4
+797,Come with it,12,3,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833321932663872,1
+798,I say this a beautiful girl abandon splendor,44,8,positive,0.7184,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.4589204310043019,1
+799,I mean this one so stupid Musical,33,7,negative,-0.656,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.3747861666978663,6
+800,From then married till death wishes,35,6,negative,-0.5106,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5833295140187805,3
+801,Hello America Yeah,18,3,positive,0.296,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.68913363897268,0
+802,Mr. Kurokawa Mrs. Kurokawa two of us appreciate you to give us exposure to external warmth,90,16,positive,0.6908,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.47142799250833467,0
+803,Do not mention your love is such a good girl Jiro,49,11,negative,-0.12,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.45335088060958145,3
+804,Ah are you brave Congratulations good pair of mandarin ducks,60,10,positive,0.8807,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.7178696219657894,2
+805,You are not tired ah,20,5,positive,0.3412,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5833300089149154,5
+806,I just think Im feeling dizzy hair with a dream,47,10,positive,0.1531,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5092396978298002,2
+807,You put in a good rest,22,6,positive,0.4404,2,"live, must, two, right, work, give, done, late, dad, wind",0.5413627134040931,4
+808,Come here,9,2,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833321932663872,1
+809,But you now,11,3,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+810,Come,4,1,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833321932663872,1
+811,Yeah your brother every day you come back so late,49,10,positive,0.296,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.3593949902412017,6
+812,Kayo I do not remember you have to come,39,9,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6903759719318355,1
+813,You really ruthless ah ah,25,5,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+814,"Congratulations, youve done really congratulate you on behalf of Dr. Jia",72,11,positive,0.8122,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5672013771307528,5
+815,I have to congratulate you brother,34,6,positive,0.4939,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6523802404184872,0
+816,I represent the father and mother they come,43,8,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.54445637314552,3
+817,Mr. Kurokawa they do,20,4,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5833297109500559,0
+818,Yeah have not seen Naoko,24,5,positive,0.296,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5335186214428683,1
+819,Seen,4,1,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833289244920143,1
+820,"Brother, how are you going to die like Naoko",44,9,negative,-0.34,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.7199576309100446,0
+821,You know hes sick really serious than you think multi--ah,57,11,negative,-0.5984,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.7390969274497844,1
+822,Naoko you peace of mind for his brother in the face every morning and rub rouge brother you know ah,99,20,positive,0.5423,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.4782723645510879,1
+823,She returned to the mountains of the hospital do not,52,10,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.48652701308543794,5
+824,Ah I Naoko very same treasure every day we can spend together,61,12,positive,0.3566,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5972601149911398,1
+825,You go to rest so glad you could come see us that way,53,13,positive,0.5949,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.4807243335157938,3
+826,Im back,7,2,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5833321377241019,0
+827,Youre back,10,2,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6531172793399231,0
+828,You sleep,9,2,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5833219076310875,0
+829,Do not you tired yet,20,5,positive,0.3412,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.4210247569092062,5
+830,Kayo way to visit us,20,5,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5107608606278894,1
+832,I am familiar with her soon,27,6,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.583330794488791,5
+833,Kayo this woman is like an infinite future,42,8,positive,0.3612,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6922195467585401,5
+834,Yeah there is still a good idea to do a granny underwear and pajamas to me Yeah,79,17,positive,0.743,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.49342211245717754,2
+835,Yeah will not be too bright,27,6,negative,-0.0531,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.582095934251684,2
+836,Yeah I have no problem,22,5,negative,-0.4019,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6496747295599647,2
+837,Ill have to do it that way,26,7,negative,-0.4215,2,"live, must, two, right, work, give, done, late, dad, wind",0.6498320516480941,4
+838,Light feather bones,19,3,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6533018364104209,5
+839,Do you remember the way it should be able to spend the effort to make it lighter for longer,91,19,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.7020672859957442,2
+840,You sit up close to me Yeah,27,7,positive,0.296,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6886370876552637,3
+841,"Yeah , I give a hand",20,5,positive,0.6597,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.46850367053708836,3
+842,I love the way so quietly watching Jiro focused work that way,61,12,positive,0.7783,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.38591138720652407,6
+843,"If there is a match with a slide rule is to give with one hand , then",69,16,positive,0.4939,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5703341293922676,1
+844,It seems no problem should be able to light ten,47,10,negative,-0.5994,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.741211116969967,2
+845,Yeah thats it,13,3,positive,0.296,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6476976351495357,2
+846,If 30 can then light an almost,30,7,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6539009129995759,4
+847,Wow so many components of the two words is generally enough,59,11,positive,0.5859,2,"live, must, two, right, work, give, done, late, dad, wind",0.6341375641419322,4
+848,"Yeah , I mean , if the bone is lighter than I was able to stand the weight",74,16,positive,0.296,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.7551993308514193,2
+849,I will always hold your hand you rest,37,8,positive,0.4939,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.562384035608897,3
+850,You do not let go,17,5,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833308394915094,2
+851,Ah I will not let go,20,6,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833308394915094,2
+852,Can I leave what I want to smoke ah,35,9,neutral,0.0258,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.45552775952732183,0
+853,No smoke here,13,3,negative,-0.296,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833304366783643,1
+854,Oh you poor health,18,4,negative,-0.4767,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6544710930996372,5
+855,Never mind,10,2,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6545401693139918,1
+856,Yeah come Honjo,15,3,positive,0.296,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5108019065704387,2
+857,Can you look that way,21,5,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.36199182469949515,6
+858,Well -designed aircraft evaluate your good ah,45,7,positive,0.6124,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6890336452788733,2
+859,Generally it your good design is good avant-garde daring ah ah,62,12,positive,0.8074,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.692761152977362,2
+860,These are the legendary flathead anchors Yeah,45,7,positive,0.296,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6895322877532639,2
+861,Yeah uneven,11,2,positive,0.296,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.582095934251684,2
+862,Manufacturing is not a good person skilled ah,45,8,negative,-0.3412,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.41640076579752716,3
+863,This is not your style,22,5,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+864,Here are all pretty good Oh bone feather light,46,9,positive,0.7269,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.738511378393496,2
+865,"Jiro Yeah , I think you let me use the flat head anchors",56,12,positive,0.296,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.4095680963448316,6
+866,Ah ah no problem,16,4,negative,-0.5994,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833299744638217,2
+867,Army bombing,12,2,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6540285156376814,3
+868,I want to re--do it but they said only changes to the fuselage,62,14,neutral,0.0387,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5269100045028248,3
+869,Main wing is not maintained Yeah,32,6,negative,-0.2235,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.690185154242443,2
+870,Most of the main wing fuel tank in a couple of bullets will fire the whole machine,82,17,negative,-0.34,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.2994519147649474,6
+871,Navy create Japan s first light bombing has been active in a good performance,77,14,positive,0.7717,2,"live, must, two, right, work, give, done, late, dad, wind",0.5289709889990268,4
+872,Horsepower is simply not the role of little,43,8,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.3790065025790132,6
+873,"Yeah , and who want to fight in Japan",37,8,neutral,-0.0258,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.45085783581273714,0
+874,"Chinese Soviet Union as well as the United States , England, Netherlands",72,11,positive,0.5994,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+875,Japan will destroy,18,3,negative,-0.5423,2,"live, must, two, right, work, give, done, late, dad, wind",0.5829469496965611,4
+876,We are not the arms dealer,26,6,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+877,Yes yes,7,2,positive,0.6597,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5830872961653885,5
+878,Goodbye to break down your,26,5,neutral,0.0,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5833297093891171,5
+879,Ah ah you are,13,4,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+880,"Well, I have a hard you go first",32,8,positive,0.1779,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6525850508206908,3
+881,Jiro you back,13,3,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6541218717154966,0
+882,Ah well it has been followed by test,36,8,positive,0.2732,2,"live, must, two, right, work, give, done, late, dad, wind",0.6537319622561972,4
+883,"Congratulations, you really hard youve worked hard to complete the",66,10,positive,0.3641,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6797104430745927,5
+884,We also rely on cattle got me to test field,43,10,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.46380154565463605,3
+885,You are tired is not it,23,6,negative,-0.4404,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5833300089149154,5
+886,There is a little,17,4,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833303418159274,1
+887,Will be able to successfully fly,32,6,positive,0.4939,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6531434092773142,1
+888,Ah will be a success because you fly right by my side,53,12,positive,0.5719,2,"live, must, two, right, work, give, done, late, dad, wind",0.38431062066903,4
+889,Jiro ah I love you,18,5,positive,0.6369,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.4132833238703372,3
+890,Naoko,5,1,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5829989284840567,1
+891,I set out,9,3,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833272615439755,2
+892,Jiro Yeah I wish you success,28,6,positive,0.8225,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.4890663942581379,2
+893,Oh Naoko,8,2,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5829989284840567,1
+894,"Mrs. Yeah , I think the spirit of good morning",46,9,positive,0.7003,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.3660648270883551,6
+895,Yeah okay but not Taimian Jiang,31,6,positive,0.2617,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.644639783916939,5
+896,I will do a good job messy room,31,8,positive,0.1027,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6900953430165465,2
+897,Well I know you go,18,5,positive,0.2732,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5831468659520176,3
+898,Yeah I went out,15,4,positive,0.296,2,"live, must, two, right, work, give, done, late, dad, wind",0.4270788030503808,4
+899,Come here too we take a look ah,31,8,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.4864649689913863,2
+900,Ah she really,13,3,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+901,Is your letter to Mrs. Yeah,27,6,positive,0.296,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6897950829832957,0
+902,Yeah Mrs. Naoko back to the mountain top,40,8,positive,0.4588,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.7387263832990131,0
+903,Do not chase her back Yeah Yeah,31,7,positive,0.5267,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6469692363431996,0
+904,Before she left our train her from the get go,45,10,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.6937231490154041,3
+905,Ah really okay,14,3,positive,0.2944,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.5833304308152266,5
+906,Yeah how about speed measured how long detained,47,8,negative,-0.128,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.3986474121926103,0
+907,Im sorry to calculate more than once Yeah Yeah,46,9,positive,0.5614,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6508732058068559,0
+908,Yeah how many nautical miles,28,5,positive,0.296,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6892414553377693,5
+909,Yeah is 240 sea miles,21,5,positive,0.296,5,"japanese, line, yes, stop, soon, miles, okay, idea, agents, tired",0.6888744112851061,5
+911,Success success success,23,3,positive,0.9022,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.5833277622583075,2
+912,Hey Jiro Jiro,13,3,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.583332833287068,0
+913,Yeah really good this aircraft,30,5,positive,0.659,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.6939703004095765,2
+914,Ah you come,11,3,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833321932663872,1
+915,Mr. Caproni,11,2,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5832883357537039,1
+916,Here is the way we initially met prairie,40,8,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.5827491808731159,0
+917,Yeah Yeah we dream kingdom,26,5,positive,0.6597,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6914928487155427,0
+918,I thought it was our hell,25,6,negative,-0.6808,2,"live, must, two, right, work, give, done, late, dad, wind",0.5833226520418838,4
+919,"A little bit different, but almost",34,6,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.6926664672171051,1
+920,There are fragmented although the final,39,6,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+921,Because your country defeated,29,4,negative,-0.4767,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.583325832724637,0
+922,Yeah okay to do good spectacular,32,6,positive,0.7184,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.38049060340414415,2
+923,But the last one did not come back,34,8,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5707381341431939,1
+924,Those things are not coming back again,38,7,neutral,0.0,3,"good, yeah, look, aircraft, let, take, village, problem, design, honjo",0.40275365596481894,6
+925,Someone is waiting for you on your way,38,8,neutral,0.0,4,"jiro, back, please, want, time, brother, yeah, dream, way, sorry",0.6927538795409705,0
+926,Naoko,5,1,neutral,0.0,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5829989284840567,1
+927,He has been here have been waiting for you,42,9,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.5828805394058378,3
+928,Jiro Yeah try to survive try to survive,39,8,positive,0.296,2,"live, must, two, right, work, give, done, late, dad, wind",0.5454039440406088,4
+930,Shes gone,9,2,neutral,0.0,0,"know, also, see, beautiful, love, first, person, get, trouble, herring",0.16666666666666669,6
+931,Thank you thank you,19,4,positive,0.6124,1,"thank, come, think, naoko, smoke, little, one, caproni, say, always",0.5833330726143349,1
+932,You must live on,16,4,neutral,0.0,2,"live, must, two, right, work, give, done, late, dad, wind",0.6548150614900993,4

@@ -1,0 +1,992 @@
+﻿line_number,cleaned_line,char_length,word_count,sentiment,compound,dominant_topic,topic_keywords,topic_confidence,cluster
+1,TOKUMA SHOTEN presents,22,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+2,Pirates!,8,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6663021720271085,0
+3,Its a raid!,11,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+4,Hold them off!,14,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6656456880638151,0
+5,Its tear gas!,13,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6648627636172153,3
+6,What are you waiting for!,25,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+7,Whered she go?,14,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6652100288155564,3
+8,Shes here!,10,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6661756421609335,2
+9,Shes hiding out here.,21,4,negative,-0.296,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6661756421609335,2
+10,"Well, get her!",14,3,positive,0.3382,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664805271139469,3
+11,"Mama, Im falling!",17,3,negative,-0.2244,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.45836005817220504,1
+12,Theres the stone.,17,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7233073657767989,2
+13,The crystal.,12,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6661122615378121,3
+14,There goes the crystal.,23,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7234292652073175,3
+15,Castle in the Sky,17,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7138979495617168,0
+16,Executive Producer,18,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6658539689357615,3
+17,Music by,8,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+18,Production,10,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6655181621601537,3
+19,Producer,8,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6658539689357615,3
+20,Original story written and directed by,38,6,positive,0.3182,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7762579884864951,0
+21,"Two meatballs, please.",22,3,positive,0.3182,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.723148576615115,0
+22,Working late?,13,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6652897176128107,2
+23,Were finally busy again.,24,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6652504186218445,0
+24,Still working?,14,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7226947723049661,2
+25,Whats that?,11,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6663415931193917,0
+26,A person!,9,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+27,Pazu!,5,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6665726928210675,0
+28,What are you up to?,19,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+29,Boss!,5,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6657929093348103,3
+30,A girl fell from the sky.,25,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.5509699277729216,1
+31,"Boss, she fell from the sky.",28,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.5266309612225405,1
+32,Darn old clunker.,17,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7438236953429113,3
+33,Boss! A girl.,13,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7225122952033057,3
+34,Close the second valve!,23,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+35,Ouch!,5,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+36,I cant let go. You do it.,25,7,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7235416256984399,3
+37,Dont make them wait.,20,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.5493360784833993,5
+38,Keep a steady hand.,19,4,positive,0.4939,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7548364910119976,3
+39,Brake!,6,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+40,Any luck?,9,2,positive,0.4588,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.665216008833713,2
+41,"No silver, no tin even.",23,5,negative,-0.5267,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6660970415304086,0
+42,All that wasted work.,21,4,negative,-0.4939,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6660926101800607,3
+43,Should try the east vein.,25,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7224889502376537,2
+44,Thats riddled with old holes,28,5,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.4401736104163726,5
+45,Have to start over,18,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+46,Time to go home...,18,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7230169313063831,2
+47,Shut down the boiler,20,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6655321355020898,2
+48,Ill go under at this rate.,26,6,negative,-0.4215,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6663829958091567,2
+49,"Oil the clunker, Pazu.",22,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7073970465082361,0
+50,"Mama, I cant see a thing.",25,6,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.5436944804109864,5
+51,I hope you really looked!,25,5,positive,0.4926,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.665864951367793,2
+52,All right. Well wait for daylight,33,6,positive,0.2732,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.722849455094995,3
+53,Hi How are you feeling?,23,5,positive,0.128,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+54,Im Pazu. I live by myself,25,6,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6984527448856998,0
+55,They eat a fter I play.,23,6,positive,0.34,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.45109226911642075,6
+56,So you are human a fter all.,28,7,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.722324303561257,0
+57,I was a fraid you were an angel.,32,8,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+58,Thanks for helping me.,22,4,positive,0.6249,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6652550544459855,3
+59,"Sheeta, nice name. You fell",27,5,positive,0.4215,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6540635899884361,2
+60,Thats right. Why am I still alive?,34,7,positive,0.3818,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.4527558222589535,4
+61,I fell from the airship.,24,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7230900930346804,2
+62,Dont you remember?,18,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.5095994290202579,6
+63,"Say, can I see that?",20,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.45263522556874036,6
+64,This?,5,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+65,Its been in my family forever,29,6,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6656314095628025,3
+66,Lts beautiful...,16,2,positive,0.3818,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7224885404156438,3
+67,Watch this!,11,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6661139156688043,0
+68,So it wasnt the stone a fter all.,33,8,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.5545376457529587,6
+69,"Oh, no! Pazu!",13,3,negative,-0.4184,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6665726928210675,0
+70,Are you OK?,11,3,positive,0.4466,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+71,Yeah. Are you?,14,3,positive,0.296,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6652324897345401,3
+72,"Im fine. Sorry, did it hurt?",28,6,negative,-0.4404,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7549496017078289,3
+73,"No, my heads harder",19,4,negative,-0.296,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+74,The pots still boiling,22,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6660849458390985,2
+75,Hungry? Lets eat,16,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.5432932020153095,1
+76,Wash up over there.,19,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+77,Theres a towel.,15,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6663331990670613,2
+78,Thank you.,10,2,positive,0.3612,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6662007620002022,3
+79,Laputa...,9,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6665117792658768,2
+80,Sheeta!,7,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+81,My father took that picture.,28,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.43259181887260933,1
+82,"Laputa, an island in the sky.",29,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7452556812014496,2
+83,An island in the sky... ?,25,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7056342933593324,2
+84,They say its only a myth. .,27,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6661650513900619,2
+85,But my father saw it...,23,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7225788680338195,2
+86,Thats when he took it.,22,5,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.44161084453959637,5
+87,Theres a Laputa in Gullivers,28,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7230070877357081,2
+88,Dad drew this.,14,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6653593488442131,3
+89,He said the abandoned palace,28,5,negative,-0.4588,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.665406292623049,2
+90,But nobody believed him.,24,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+91,"Until he died, they called him a liar.",38,8,negative,-0.7845,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6655618810031871,3
+92,But my father never lied.,25,5,positive,0.4168,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7231246710827742,2
+93,I m building a real plane.,26,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6654760112677234,2
+94,A real automobile. .,20,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6654760112677234,2
+95,They re pirates!,16,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6663021720271085,0
+96,They attacked the airship.,26,4,negative,-0.4588,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6657086080368317,2
+97,Are they a fter you?,20,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6660758416566512,0
+98,Quick!,6,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+99,Morning!,8,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+100,"Hey, wait!",10,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664501633095645,3
+101,Were in a rush.,15,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+102,Have you seen a girl?,21,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.46730912937336333,1
+103,"Sure, yesterday...",18,2,positive,0.3182,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6660131444752091,0
+104,Go away!,8,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.666096068988406,0
+105,Theyre looking for you.,23,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6663419767457716,2
+106,"Louis, a girls dress!",21,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6651405148396731,3
+107,What! She was disguised!,24,4,negative,-0.3987,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+108,"No, I havent.",13,3,negative,-0.296,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6651416908644344,0
+109,A cute little girl,18,4,positive,0.4588,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7229461119663291,3
+110,Boss!,5,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6657929093348103,3
+111,About that age,14,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+112,Thats her!,10,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6659877588801971,0
+113,"Theyre pirates, chasing her!",28,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.5527903901739852,6
+114,Pirates! Lemme see!,19,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7235437596331907,0
+115,Not one step closer.,20,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.754151457621913,0
+116,Hand her over.,14,3,positive,0.4939,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6654980667692759,3
+117,Dolas clan.,11,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7221146721287811,0
+118,Go home. Just poor folk here,28,6,negative,-0.4767,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7232271197822683,2
+119,Maam?,5,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6663160714090505,3
+120,Scoot out the back.,19,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6661344465998646,0
+121,I want to fight.,16,4,negative,-0.3182,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7222344902982899,0
+122,Theyve got weapons!,19,3,negative,-0.4926,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.709627669362732,0
+123,What a nice girl. Protect her.,30,6,positive,0.6597,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.5728716267379853,1
+124,You refuse to step aside?,25,5,negative,-0.296,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7219470539662378,0
+125,Use your fists.,15,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6660057145438327,0
+126,Could be interesting,20,3,positive,0.4019,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6658398837651561,0
+127,"Get him, brother",16,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.720651164010228,3
+128,Show your stuf f.,17,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7229745404778082,2
+129,Wow...,6,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6657827918375825,3
+130,Whos going to mend that shirt?,30,6,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6659808267757199,0
+131,You can beat him!,17,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+132,Go! Go!,7,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+133,Think you can fool me?,22,5,negative,-0.4404,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6476994561588117,0
+134,Climb on!,9,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6657629498960017,0
+135,There you go,12,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+136,Playing hooky for a date?,25,5,positive,0.2023,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+137,Bad guys a fter us...,21,5,negative,-0.5423,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7417173325418106,0
+138,The Dola clan,13,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7225863758316045,0
+139,Pirates?,8,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6663021720271085,0
+140,Take us to the next town.,25,6,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7222358386314505,0
+141,Youre on. Stoke the fire,24,5,negative,-0.34,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7544523081665822,3
+142,Mama!,5,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6663656423633756,3
+143,You idiots! Hurry up and get on!,32,7,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7541889867626376,3
+144,What? But the girls...,22,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6651405148396731,3
+145,She slipped out the back door.,30,6,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.705475889166327,0
+146,Get moving!,11,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7214400034895162,3
+147,Brother!,8,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6649783400965734,3
+148,Wait!,5,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664501633095645,3
+149,"Theyre catching up, more steam!",31,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7223336820249695,2
+150,Cant you go any faster?,23,5,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7216220248402577,3
+151,Shes an old-timer.,18,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.4307859497503881,1
+152,Move over!,10,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6662253928204493,0
+153,"Mama, Im falling!",17,3,negative,-0.2244,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.45836005817220504,1
+154,More steam!,11,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6651925870427613,2
+155,Here we go!,11,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+156,"Sheeta, over here",17,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+157,Stoke the fire.,15,3,negative,-0.34,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7223467881858107,3
+158,Dont give up!,13,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7175905490957408,0
+159,"Push! Push, I tell you!",23,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6656430041044814,2
+160,Not so fast!,12,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.665204449551035,0
+161,Dont let them escape!,21,4,negative,-0.2047,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3899470532192733,4
+162,"Go, go, go!",11,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+163,Ill do it.,10,3,negative,-0.4215,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6663829958091567,2
+164,"No, let me.",11,3,negative,-0.296,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6662858929471022,3
+165,Wait!,5,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664501633095645,3
+166,Its them... whatll we do?,25,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+167,I refuse to give up. Move!,26,6,negative,-0.3595,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7526186260209115,0
+168,This is a surprise. If it isnt the army.,40,9,positive,0.2732,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.722959460929187,3
+169,These kids need help!,21,4,positive,0.4574,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7552916141927203,2
+170,Sheeta?,7,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+171,Good bye,8,2,positive,0.4404,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.722223447240299,0
+172,Wait!,5,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664501633095645,3
+173,Sheeta!,7,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+174,Halt or Ill shoot,17,4,negative,-0.6369,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.4353146098219019,1
+175,An armored train.,17,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+176,Who cares! Smash it!,20,4,positive,0.555,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+177,"What is it, Sheeta!",19,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+178,Stay away!,10,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7232628823491131,0
+179,Theyre gonna fall!,18,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7222899944093879,2
+180,Quiet. Watch closely.,21,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.722853756383219,0
+181,Were floating!,14,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+182,Look! Lts that crystal!,23,4,positive,0.4912,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.5620587426079338,5
+183,It was the stone after all!,27,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6664817329059061,2
+184,Well float all the way down.,28,6,positive,0.2732,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6663524622816696,0
+185,Amazing! I want it!,19,4,positive,0.6892,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.44542011978819357,6
+186,Shoot!,6,1,negative,-0.4003,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6662006107398997,3
+187,I have to get that amazing stone!,33,7,positive,0.6239,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.5659043545368899,1
+188,Lts fading. .,13,2,positive,0.3818,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6662129981013424,3
+189,"Hey, wait!",10,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664501633095645,3
+190,Just like when you landed,25,5,positive,0.3612,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+191,The opening looks so tiny.,26,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6655992322865091,2
+192,I hope the Boss and the engineer,32,7,positive,0.4404,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.43686138002501085,1
+193,"Aw, dont worry.",15,3,positive,0.3412,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6642145892849955,0
+194,Lets find the way out.,22,5,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.5576985472605857,5
+195,These mines are ancient.,24,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6659733990765371,2
+196,I m so happy I was starving,27,7,positive,0.2333,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6652305109355835,3
+197,Ive still got an apple and some candy.,38,8,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.567892766121645,6
+198,Its like you have a magical bag,31,7,positive,0.3612,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6651426021075572,2
+199,Gondoa? Thats so far north.,27,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7549752562804732,0
+200,"Yes. Both my parents died,",26,5,negative,-0.2263,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7229969060751003,3
+201,"the house and the fields,",25,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6655312800196211,2
+202,The guys with dark glasses,26,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6659232999538497,0
+203,That guy was one of them?,25,6,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6661201574792973,0
+204,"Who can they be,",16,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+205,"The Dolas and the other guys,",29,6,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7225417547581812,0
+206,But I had no idea it,20,6,negative,-0.4215,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+207,It was always in our family.,28,6,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7224516227891403,3
+208,She warned me never to show it,30,7,negative,-0.2732,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7227857297364179,2
+209,"Were both orphans, arent we?",28,5,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6649535673381818,3
+210,Im sorry I dragged,18,4,negative,-0.128,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6656565663791563,3
+211,When you fell from the sky,26,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7054434407337679,2
+212,I knew something,16,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6647406670832819,0
+213,Little demons... little demons.,31,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6660140770002416,3
+214,Uncle Pom! Hes really great,27,5,positive,0.6893,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7763695614361087,3
+215,Uncle Pom,9,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7226223872269314,3
+216,Weve lost our way.,18,4,negative,-0.3182,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7539306756427829,0
+217,Now that little demon,21,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7221918234579049,3
+218,with a little girl demon beside him.,36,7,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7539602533867418,3
+219,Pirates are a fter us.,22,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7234504924442686,0
+220,And the army,12,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6658396020280678,3
+221,How very extraordinary...,25,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+222,Drink up.,9,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+223,Thank you.,10,2,positive,0.3612,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6662007620002022,3
+224,Have you always lived underground?,34,5,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7223064848381922,3
+225,"Why no, no. The rocks have",26,6,negative,-0.5267,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6662013042487008,0
+226,Thats when I like to be down here.,34,8,positive,0.3612,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6659877588801971,0
+227,The rocks astir...?,19,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6662013042487008,0
+228,Rocks speak very softly...,26,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6662013042487008,0
+229,Wonderful. .,12,1,positive,0.5719,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6652785091016702,2
+230,Look up.,8,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6664323802190533,0
+231,They were ordinary rocks until. .,33,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6662013042487008,0
+232,How pretty.,11,2,positive,0.4939,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6655314319466905,2
+233,"Here, let me show you...",24,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.45145506738201574,1
+234,Its gone.,9,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6659594448153586,2
+235,These rocks contain Volucite,28,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7228420553089648,0
+236,Volucite?,9,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6652835822542986,0
+237,"As soon as its exposed to the air,",34,8,negative,-0.0772,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+238,Its glowing.,12,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+239,"Oh, my gracious!",16,3,positive,0.5983,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+240,Ive never seen one before.,26,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6234133020781955,2
+241,Thats why the rocks were stirring.,34,6,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7233982977128652,0
+242,This stone has mysterious powers.,33,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7536459345640758,2
+243,I thought only Laputans knew,28,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7327678155851572,0
+244,Laputans...,11,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6508987257907731,2
+245,They used Volucite to send,26,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.43670917120155367,6
+246,"Laputa did exist, Sheeta!",25,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.5848727002763158,1
+247,Does the island still exist?,28,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7552663175570932,2
+248,Uncle Pom?,10,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7226223872269314,3
+249,"Dear, would you mind covering the",33,6,positive,0.3818,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7218890411589631,3
+250,Whats wrong...,14,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7226029786000495,0
+251,My grandfather told me.,23,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6659089353657122,2
+252,The rocks shif t when,21,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7221770017373585,0
+253,"If you went up to the sky then,",31,8,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7131904371105742,0
+254,My father was telling the truth!,32,6,positive,0.3802,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6658999574179782,2
+255,Young lady .,12,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6653759830166968,0
+256,Your stone is most powerful...,30,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7220498784106669,2
+257,I know it as one who has,24,7,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7234789309896332,0
+258,"A stone so powerful brings happiness,",37,6,positive,0.788,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7220498784106669,2
+259,"Whats more,",11,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6663415931193917,0
+260,I just thought I should...,26,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.665753692841968,0
+261,Its not true!,13,3,negative,-0.3867,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6394612006526516,2
+262,That stones already,19,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.665645399695264,3
+263,Amazing! Laputa really does exist!,34,5,positive,0.658,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7540626401498508,2
+264,Its gone.,9,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6659594448153586,2
+265,Lets go back to the ship,24,6,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.5555939182693542,5
+266,"When its this quiet,",20,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6651598668289554,0
+267,Im hungry .,11,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6646772338245633,3
+268,Its all clear Lets go.,22,5,positive,0.3818,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666249689207061,3
+269,"Thank you, grandpa.",19,3,positive,0.3612,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6662007620002022,3
+270,Look af ter yourselves.,23,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7211595921034308,0
+271,Look at those clouds!,21,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.45440874954766836,6
+272,Beyond those clouds is an island,32,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7232686052420656,2
+273,Here I come! I know,19,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7235733945193051,0
+274,Pazu...,7,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6665726928210675,0
+275,I havent told you everything.,29,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.4316642393082624,6
+276,My family had a mysterious,26,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.43550838760129856,1
+277,with this stone.,16,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6664817329059061,2
+278,"My name is Lucita,",18,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7229258793928088,2
+279,Laputa...,9,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6665117792658768,2
+280,Laputa...,9,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6665117792658768,2
+281,So you mean.,12,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6660098665364522,3
+282,Its the army! Run!,18,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7232779207829492,3
+283,Underground!,12,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6649126013125658,3
+284,Dont move!,10,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7219238221759479,0
+285,How dare you!,13,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6660612246437819,2
+286,Pazu!,5,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6665726928210675,0
+287,Pazu! Pazu!,11,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6665726928210675,0
+288,Weve apprehended them,21,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6653927739606761,0
+289,So much trouble,15,3,negative,-0.4549,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7052192486050526,0
+290,"Open up, open up!",17,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6658436130071691,3
+291,Sheeta...,9,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+292,"Company, fall in!",17,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7226198421737001,2
+293,Shape up!,9,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+294,Squeeze the brat!,17,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6646469145916576,3
+295,Spoken like a man in uniform,28,6,positive,0.3612,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.665893174607176,0
+296,"In your haste,",14,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+297,"If wed mobilized the army sooner,",33,6,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6658396020280678,3
+298,She managed to decipher,23,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+299,How dare you!,13,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6660612246437819,2
+300,My organization will handle this,32,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+301,You concentrate on mobilizing,29,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+302,"Muska! Remember, I command",26,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7545670200760317,2
+303,Of course But I have my,23,6,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6661131244071227,3
+304,That pencil-pushing upstart!,28,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+305,Have a nice rest?,17,4,positive,0.4215,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6663037752583472,2
+306,Wheres Pazu? Let me see him!,28,6,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.4743953670675627,5
+307,No interest in pretty clothes?,30,5,positive,0.6124,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6655314319466905,2
+308,Dont fret about Pazu. His,25,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.722729395867485,0
+309,"Come, I have something",22,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6663023519022877,0
+310,Enter.,6,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.665613808844559,2
+311,What is it...,13,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+312,A mechanical soldier with vast,30,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+313,"Had he not fallen from the sky,",31,7,positive,0.2755,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6306538500616142,0
+314,Hes not of this earth.,22,5,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7228852393908436,3
+315,Our science cant even identify,30,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.4421636490925854,5
+316,what material hes made of.,26,5,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7219277621268924,3
+317,Look...,7,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6664323802190533,0
+318,Hes long dead,13,3,negative,-0.6486,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7463871431158753,3
+319,Look at that.,13,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6664323802190533,0
+320,This insignia was carved on,27,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+321,"Its on this stone, too.",23,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6664817329059061,2
+322,The stone works,15,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6664817329059061,2
+323,It will protect you and,23,5,positive,0.3818,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6650634248986468,2
+324,I know nothing of this!,23,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6663382803143626,0
+325,Take it if you like,19,5,positive,0.3612,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6662775475751994,0
+326,You imagine Laputas,19,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6662151478678207,3
+327,Fearsome powers,15,2,negative,-0.4019,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6652519441010439,2
+328,Their dreaded empire,20,3,negative,-0.5719,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+329,Even you can appreciate,23,4,positive,0.4019,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6660970415304086,0
+330,"roams the skies,",16,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+331,I need your cooperation.,24,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6660014431878428,2
+332,You must know how to make,25,6,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.755343583423061,0
+333,I really dont know!,19,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7223575428117381,0
+334,"I intend no harm,",17,4,negative,-0.6908,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6658041419724683,2
+335,The boy goes free,17,4,positive,0.5106,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7270431011291097,3
+336,... Toelle Ur Laputa.,21,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6665117792658768,2
+337,But how .,9,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+338,"Ur means ruler in Laputan,",26,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6647963285028319,2
+339,"Queen Lucita, rightful heir",27,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.665359643604039,2
+340,Out!,4,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+341,Sheeta,6,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+342,"Pazu, are you hurt?",19,4,negative,-0.5267,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.4781792161882922,5
+343,Im fine. You? Did they,22,5,positive,0.2023,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6655924497305834,3
+344,"My dear Pazu, we misjudged you.",31,6,positive,0.3818,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.48205291607753264,5
+345,We didn t know how gallantly,28,6,positive,0.4404,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6663382803143626,0
+346,you protected her from the pirates.,35,6,positive,0.4404,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.722338523922553,0
+347,"Sheeta, what did you...",23,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+348,"Pazu, I beg you,",16,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7193879747816606,0
+349,What!,5,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+350,Sheeta will aid us in our,25,6,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+351,"I understand how you feel,",26,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6655977094566425,2
+352,"Is this true, Sheeta? But we...",31,6,positive,0.2263,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6755103745859554,3
+353,Im sorry for all the trouble. .,31,6,negative,-0.4588,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6967733015918334,3
+354,Ill never forget you,20,4,negative,-0.281,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7551720483511896,2
+355,I cant believe it...,20,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7216280622910438,3
+356,"Sheeta, we swore!",17,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+357,Good bye,8,2,positive,0.4404,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.722223447240299,0
+358,Sheeta!,7,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+359,"Wait, Sheeta!",13,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7225063034980629,3
+360,Be reasonable. Act like a man.,30,6,positive,0.3612,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.665893174607176,0
+361,Sheeta!,7,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+362,Heres a token of our gratitude.,31,6,positive,0.5106,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+363,Only you can recall the words,29,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6653682001333516,2
+364,"If you keep your promise,",25,5,positive,0.3182,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.665831579755138,3
+365,Pazu...,7,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6665726928210675,0
+366,Mama its Pazu! Hes back!,24,5,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.4529613393221341,5
+367,Pazu,4,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6665726928210675,0
+368,We were so worried.,19,4,negative,-0.4341,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+369,And the girl?,13,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6661909366144442,3
+370,Forget it,9,2,negative,-0.2263,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.665661823015876,2
+371,Pazu!,5,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6665726928210675,0
+372,Let me go!,10,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6662858929471022,3
+373,Put a lid on it!,16,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6657485404508401,2
+374,"Nice place you got, kid.",24,5,positive,0.4215,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6096592479197422,2
+375,Get out!,8,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664805271139469,3
+376,This is my house!,17,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6655312800196211,2
+377,"Oh, come of fit.",16,4,positive,0.3612,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7219705566323579,0
+378,Cant even protect a little girl...,34,6,negative,-0.2924,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.5149435352734661,3
+379,Hes got gold!,13,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.5606366343076017,5
+380,"Sold her for money, huh.",24,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+381,No! I wouldnt do that!,22,5,negative,-0.4184,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+382,You let them pay you of f...,28,7,negative,-0.1027,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6662858929471022,3
+383,Sheeta told me to. .,20,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.4898676272441264,1
+384,So...,5,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+385,So you gave in and crawled home.,32,7,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6657542149249133,2
+386,You call yourself a man!,24,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7223586660629652,0
+387,"You talk big,",13,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.665152353379531,3
+388,"But of course, were pirates.",28,5,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.4433808515216273,5
+389,Theyre the strange ones.,24,4,negative,-0.2023,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7545687717101175,2
+390,You think shell get out alive?,30,6,positive,0.3818,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7653383127398291,3
+391,Sheeta told you to leave?,25,5,negative,-0.0516,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6011465050778181,2
+392,"They threatened her,",20,3,negative,-0.4588,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+393,"How do you know, mama?",22,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.4372555461700762,5
+394,50 years of being a woman.,26,6,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6746466991987734,3
+395,She steels her heart,20,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+396,Reminds me of my youth .,24,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+397,"You boys want to marry,",23,5,positive,0.0772,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7219587444104371,0
+398,So... that girl...,18,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6661909366144442,3
+399,Dont even bother switching codes...,35,5,positive,0.2584,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7218663333585541,0
+400,Calling the battle cruiser...?,30,4,negative,-0.3818,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6401751060627813,3
+401,Theyll pack her up and take off.,32,7,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6662775475751994,0
+402,Dinners over. Move out.,23,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6662253928204493,0
+403,"Yes, mama.",10,2,positive,0.4019,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7231746097274915,3
+404,Going a fter Sheeta?,20,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.5889752183413932,0
+405,"I want the crystal, not the girl.",33,7,positive,0.0772,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.5417050940856191,5
+406,The stones no good,18,4,positive,0.1779,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.446980495231127,5
+407,"Cant I go with you, Maam?",25,6,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7234199940002749,3
+408,I have to help Sheeta!,22,5,positive,0.4574,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.4783563716964687,1
+409,Not so fast. Do it on,21,6,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.665204449551035,0
+410,"Youre right, if I was clever",28,6,positive,0.4588,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.722988086656792,3
+411,"Please, I dont care about treasure.",35,6,negative,-0.2996,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7541075435959286,0
+412,Listen to him .,15,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.66617009521217,2
+413,Shut up!,8,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6655321355020898,2
+414,But you could probably,22,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6658398837651561,0
+415,Leave all this behind?,22,4,negative,-0.0516,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7227020778058424,2
+416,I know,6,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6663382803143626,0
+417,You sure?,9,2,positive,0.3182,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6660131444752091,0
+418,Yup!,4,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+419,Youve got 40 seconds.,21,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7542284920621031,0
+420,Be well.,8,2,positive,0.2732,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+421,Tie this to your belt.,22,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6652886088438901,0
+422,A magnificent vessel.,21,3,positive,0.5994,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+423,I need a little more time,25,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.5545979606291045,1
+424,Forget it! Well squeeze,23,4,positive,0.126,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.43234290913006296,1
+425,"We depart at dawn, with the girl.",33,7,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.5663001964743031,1
+426,"Hurry up, its almost dawn!",26,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.45538961084840934,1
+427,Sheeta!,7,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+428,Whatever shall we do...,23,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7221903171481155,3
+429,"Sheeta, listen, Im going",24,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.362355029250015,4
+430,a magic spell for trouble,25,5,negative,-0.4019,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7330426761116982,2
+431,A magic spell?,14,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7230051072925627,2
+432,"Yes. These are old, old, old,",29,6,positive,0.4019,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7034209841666369,3
+433,They mean,9,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6660098665364522,3
+434,Perfect.,8,1,positive,0.5719,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6652768054833013,2
+435,Just as the ancient books described.,36,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6659733990765371,2
+436,Sacred light... ?,17,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7227993223226016,0
+437,What are the magic words?,25,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.72286778956953,2
+438,Its moving!,11,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6655020439380575,3
+439,The robot its alive!,20,4,positive,0.4389,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7233350950028519,3
+440,Hello!,6,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.665578471478856,2
+441,Help!,5,1,positive,0.4574,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6662829300183732,2
+442,Its alive!,10,2,positive,0.4389,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6659927225332078,3
+443,The robot?,10,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6660712901700925,3
+444,Its coming this way.,20,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.4500290749898452,5
+445,Run!,4,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6660970678878196,3
+446,Retreat! Retreat!,17,2,positive,0.4912,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6652924978388681,3
+447,Incredible!,11,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+448,I see!,6,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6662494707140089,0
+449,Its the light!,14,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6660461508432668,0
+450,The sacred light broke his seal!,32,6,negative,-0.4753,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7531598426021685,0
+451,This is the way to Laputa! Come!,32,7,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.5617380547915929,6
+453,Hes going to fly!,17,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.5634230143625408,5
+454,Its pointing to the sky...,26,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7139183385135633,0
+455,Its showing the way to Laputa,29,6,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.44253438501224046,6
+456,Hurry!,6,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664302791920873,3
+457,Use explosives!,15,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7224572801157101,0
+458,"Hello, hello, hello! What is this!",34,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.665578471478856,2
+459,Good.,5,1,positive,0.4404,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6662449351041976,0
+460,Were connected,14,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+461,This is Colonel Muska,21,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.723452516915127,2
+462,Ive assumed emergency command,29,4,negative,-0.3818,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7225852204258797,2
+463,Its a fter the girl on the tower.,33,8,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.5704705319287905,0
+464,Take it down on sight.,22,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6662775475751994,0
+465,Prepare to fire.,16,3,negative,-0.34,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6660986204235563,3
+466,Hurry!,6,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664302791920873,3
+467,Fire!,5,1,negative,-0.4003,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6660986204235563,3
+468,Hurry!,6,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664302791920873,3
+469,We did it,9,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+470,Get the girl,12,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7235559733085758,3
+471,Is she dead?,12,3,negative,-0.6486,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6648765230591749,3
+472,Get up!,7,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664805271139469,3
+473,She just fainted.,17,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+474,Stand!,6,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6643887695594359,3
+475,It moved .,10,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+476,Whats that! Must be a battle.,29,6,negative,-0.4389,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7403921672674217,0
+477,"Lets go, Maam!",14,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7235190268650692,3
+478,"Captain, to you!",16,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.664876916664244,2
+479,"Lower, Charles.",15,2,negative,-0.296,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+480,Stop! Stop it!,14,3,negative,-0.6103,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6659037547856206,0
+481,Please!,7,1,positive,0.3802,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6662166865956575,0
+482,"Mama, Goliaths moving.",22,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7544687578148539,3
+483,Were going directly into,24,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6659808267757199,0
+484,"Look, theres Sheeta!",20,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3640116112306572,4
+485,Where?,6,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+486,"Straight ahead, shes",20,3,positive,0.2263,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6661756421609335,2
+487,This is a job for a woman!,26,7,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6489855629868806,2
+488,Sheeta!,7,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+489,"Im coming, Sheeta!",18,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.720703583495741,3
+490,Pazu!,5,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6665726928210675,0
+491,"Fly closer, lady!",17,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7546730598319119,0
+492,Pazu!,5,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6665726928210675,0
+493,Let me go!,10,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6662858929471022,3
+494,Sheeta!,7,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+495,Maam!,5,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6663160714090505,3
+496,Pazu,4,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6665726928210675,0
+497,Pazu!,5,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6665726928210675,0
+498,Climb!,6,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6657629498960017,0
+499,Last chance! Grab her on the fly!,33,7,positive,0.3786,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7224298906216317,0
+500,Pazu!,5,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6665726928210675,0
+501,Here goes!,10,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6661794427941133,3
+502,Move!,5,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6662253928204493,0
+503,Darn!,5,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6656935340291076,3
+504,Sheeta!,7,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+505,Whats Goliath up to!,20,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7231616793650519,0
+506,A smoke screen...,17,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+507,Wheres the robot!,17,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7230281444398644,3
+508,Destroyed. The girl went that way.,34,6,negative,-0.4939,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6349624579270621,0
+509,What!,5,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+510,Put out the fire!,17,4,negative,-0.4003,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.4417470600576934,1
+511,We havent lost the sacred stone.,32,6,positive,0.2411,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6392096801579269,0
+512,Its light points to Laputa. .,29,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.46040250321085624,6
+513,"Inform the General, well depart",31,5,positive,0.2732,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7085653475404334,0
+514,How nice...,11,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6663037752583472,2
+515,I cant believe shell,20,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7538640837933319,3
+516,Theres your valley...,21,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7226270005161559,2
+517,"Lady, please take us aboard",27,5,positive,0.34,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7551538706548718,0
+518,Call me Captain! What use,25,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.5451413722756641,6
+519,Well work.,10,2,positive,0.2732,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6660926101800607,3
+520,I want to see Laputa,20,5,positive,0.0772,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.5640321301643174,6
+521,"Dont want any treasure, just",28,5,negative,-0.2755,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7540999522211229,0
+522,for boarding a pirate ship.,27,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.43099288112520484,6
+523,"Are they coming with us, mama?",30,6,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7232180113221013,3
+524,One false move and,18,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7234529925813393,0
+525,Excellent! No more laundry,26,4,positive,0.4199,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+526,Or dish washing!,16,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+527,Or potato peeling!,18,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+528,Can you make pudding?,21,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6659535443672676,0
+529,Yes...,6,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6660545206972901,3
+530,I like mincemeat pie.,21,4,positive,0.3612,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+531,"I eat, um, um, anything!",24,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6654410574292964,2
+532,Enough out of you!,18,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+533,Get off!,8,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664805271139469,3
+534,Canvas. Its made of cloth,25,5,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6650720138985488,3
+535,And dont tear it.,17,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.4751858583179241,5
+536,"Hurry up, its crowded in here!",30,6,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664302791920873,3
+537,"Hurry, this way!",16,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.4353409441115816,5
+538,I hate dawdlers.,16,3,negative,-0.5719,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+539,Youre with me!,14,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6663783501852626,3
+540,Pazu!,5,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6665726928210675,0
+541,I dont bite. Come.,18,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7222376432819723,0
+542,Youre not here for fun.,23,5,negative,-0.4023,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6663783501852626,3
+543,What an engine.,15,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+544,Now whered he go?,17,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6652100288155564,3
+545,Got you an assistant.,21,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6659297288390507,0
+546,Dont holler. I hear you.,24,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6642145892849955,0
+547,Hes tougher than mama. Be careful.,34,6,positive,0.3182,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7235134143037083,3
+548,My hand doesnt fit.,19,4,positive,0.2709,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.5574636157946831,5
+549,This gasket?,12,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+550,Name?,5,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.665981952361763,2
+551,Pazu.,5,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6665726928210675,0
+552,The crystal pointed,19,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7116437190223804,3
+553,You sure about that?,20,4,positive,0.3182,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6660131444752091,0
+554,I could see the sunrise from the tower.,39,8,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7544332578365598,0
+555,so the sun rises just south,27,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+556,The light pointed to the left,29,6,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7438263831528484,0
+557,Good answer.,12,2,positive,0.4404,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6662449351041976,0
+558,Not a peep.,11,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+559,Blocking their radio transmissions...,37,4,negative,-0.3818,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+560,"Mama, Goliaths faster than us.",30,5,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7540653486470446,3
+561,Were upwind of them. If we get,30,7,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664805271139469,3
+562,This is an Asian calculator.,28,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+563,Windspeed is 10 . And...,24,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+564,I think itll work.,18,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7391679965584016,3
+565,OK listen up!,13,3,positive,0.4981,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.66617009521217,2
+566,Goliaths on its way to Laputa.,30,6,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.36137611997950914,4
+567,"With these winds,",17,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6649029586005037,2
+568,Ten gold pieces,15,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6980422981461084,3
+569,Ten!,4,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6366445693625242,0
+570,"Whatever we find, I m sure Laputa has",37,8,positive,0.3182,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.44696772427882486,4
+571,"Earn your keep, boys!",21,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.43840348168906534,5
+572,Course 98 speed 40,18,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7223749007289532,3
+573,Youre useless in that get-up.,29,6,negative,-0.4215,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7234475451646555,3
+574,Wear these,10,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+575,Your station.,13,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+576,Sweet...,8,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6656100864151406,2
+577,You serve five meals a day.,27,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+578,"Get to work, you idiots!",24,5,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7541832197547935,3
+580,"Im sorry, dinner isnt ready yet",31,6,negative,-0.3421,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7385290821617075,3
+581,Ive never cooked on an airship...,33,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7552374839693345,2
+582,What is it...,13,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+583,Sweet...,8,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6656100864151406,2
+584,I thought Id give you,21,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7194439864173736,0
+585,Why thank you. Can you,22,5,positive,0.3612,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6662007620002022,3
+586,Happy to obli.,14,3,positive,0.5719,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6652305109355835,3
+587,You said your stomach hurt...,29,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.5693845563873844,1
+588,Ive got some free time. Can l .,31,7,positive,0.5106,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6303291647518233,2
+589,Move,4,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6662253928204493,0
+590,"Some stomach ache, jerk!",24,4,negative,-0.6476,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.665253712650509,2
+591,"Hey, can I help...",18,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6662829300183732,2
+592,"Youve changed, chasing the likes",32,5,positive,0.4215,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7220469593418962,0
+593,Its Laputan treasure Im af ter.,31,6,positive,0.296,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.5520456535105168,6
+594,Theyre certainly nice kids...,29,4,positive,0.6369,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7552422068044253,2
+595,"Get to the point, you crank",27,6,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664805271139469,3
+596,Theyre too upright and honest,29,5,positive,0.5106,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6663419767457716,2
+597,Whats that!,11,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6663415931193917,0
+598,"No, I mean... Check...",22,4,negative,-0.296,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7228544417240668,3
+599,Good . Good...,14,2,positive,0.4404,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6662449351041976,0
+600,Seconds anyone?,15,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6656270889671304,0
+601,Seconds! Seconds!,17,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6656270889671304,0
+602,Hey shake a leg.,16,4,negative,-0.1779,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+603,Its your watch,14,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6661139156688043,0
+604,"Take it, its cold.",18,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7081595586785219,0
+605,Watch?,6,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6661139156688043,0
+606,Darn cold!,10,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7071248204761639,3
+607,My turn.,8,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6656243205230506,3
+608,Great.,6,1,positive,0.6249,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6647953654908648,3
+609,Sheeta!,7,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+610,That was scary!,15,3,negative,-0.5411,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+611,Beautiful.,10,1,positive,0.5994,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6650079132357555,3
+612,Sheeta,6,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+613,Can t sleep?,12,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6652501771212257,2
+614,Nice and warm...,16,3,positive,0.4215,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6663037752583472,2
+615,Look out behind.,16,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.4607671010176854,6
+616,Pazu,4,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6665726928210675,0
+617,"Im really, really, scared.",26,4,negative,-0.5379,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6655298658501033,0
+618,I really dont want to go to Laputa.,35,8,negative,-0.1281,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.5478825793107446,6
+619,I hope we never find Goliath.,29,6,positive,0.4404,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.5818619066642288,2
+620,The light really did,20,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6660461508432668,0
+621,About the robot?,16,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6660712901700925,3
+622,Poor thing.,11,2,negative,-0.4767,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6660085971505553,2
+623,I never dreamed that,20,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6663159541459325,2
+624,I learned lots of other spells.,31,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+625,"To help find things, cure the sick.",35,7,negative,-0.1531,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.5649866833500796,1
+626,"Never, ever use... ?",20,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.5557146018563909,6
+627,A spell of destruction.,23,4,negative,-0.5719,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.722669339650791,2
+628,I had to learn bad ones so the,30,8,negative,-0.5423,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7143489879715075,2
+629,"I was so scared, I couldnt sleep...",35,7,negative,-0.4927,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.435953059590944,6
+630,That stone should be locked away,32,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.5481217312774435,6
+631,They hid it in the fireplace.,29,6,negative,-0.1027,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+632,My mothers and grandmothers and,31,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+633,I should have thrown it away.,29,6,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.666096068988406,0
+634,Youre wrong. We only met,24,5,negative,-0.4767,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.4542664223017164,5
+635,Throwing it away wont,21,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7222508997778525,0
+636,Airships are improving.,23,3,positive,0.4215,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+637,"I dont know what to do, but if",30,8,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7223575428117381,0
+638,its sure not,12,3,positive,0.3182,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6660131444752091,0
+639,"Besides,",8,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6653117449462741,3
+640,"if we run now,",14,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6660970678878196,3
+641,But dont become a pirate for me.,32,7,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6313610157700561,2
+642,I wont become a pirate,22,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6067397387770881,2
+643,Dola understands.,17,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6658180826448035,0
+644,"Once things are settled,",24,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+645,I want to see where you were,28,7,positive,0.0772,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7234742972674577,0
+646,Pazu...,7,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6665726928210675,0
+647,Whats that!,11,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6663415931193917,0
+648,"Below us, look!",15,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6664323802190533,0
+649,"Goliath, right below us!",24,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.43141311907597424,5
+650,Come about!,11,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6663023519022877,0
+651,Do we have to hurry?,20,5,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664302791920873,3
+652,We cant catch them in this fog.,31,7,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7216698630598124,3
+653,Well get them They wont go far,30,7,positive,0.2732,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.5772743930517164,0
+654,Steady as she goes,18,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7224051129816798,3
+655,Farther north than I thought.,29,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7229961634858509,0
+656,"Theres no time, so listen",25,5,negative,-0.296,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7556018153935008,2
+657,"If we lose Goliath,",19,4,negative,-0.4019,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6658323271062303,0
+658,Follow them in the crows nest.,30,6,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7230501117042117,0
+659,What do I do?,13,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+660,It turns into a glider.,23,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+661,Yeah.,5,1,positive,0.296,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6652324897345401,3
+662,Turn it clockwise.,18,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6656243205230506,3
+663,"Once its locked, the upper",26,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6653360829777772,2
+664,Use the wire to stabilize them.,31,6,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6660057145438327,0
+665,"Sheeta, you there!",18,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+666,Get back down here,18,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.4536531882897716,5
+667,Why?,4,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+668,Because you re a girl!,22,5,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6661909366144442,3
+669,"But so are you! Besides, Im",27,6,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6653117449462741,3
+670,Sheeta!,7,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+671,Please Pazu agrees.,19,3,positive,0.4767,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7222929419130267,0
+672,"Once youre alof t, the voice tube",33,7,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7217995718652751,3
+673,You mean this...,16,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6660098665364522,3
+674,Wow...,6,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6657827918375825,3
+675,OK. I ll give it a try. Release us,34,9,positive,0.4466,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6442073470079426,2
+676,Here goes,9,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6661794427941133,3
+677,They re gone,12,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6659594448153586,2
+678,Slipped behind clouds.,22,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7482444347411381,2
+679,Stay alert. They could be anywhere.,35,6,positive,0.296,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7231912709605737,0
+680,Hold on tight,13,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7069524472370192,0
+681,Whats wrong!,12,2,negative,-0.5255,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7226029786000495,0
+682,Were fine,9,2,positive,0.2023,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6655924497305834,3
+683,Ran into a gust of wind.,24,6,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.722385055572657,3
+684,Well keep watch,15,3,positive,0.2732,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.43249008681038426,5
+685,Scared?,7,1,negative,-0.4404,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6655298658501033,0
+687,Im getting the hang of it.,26,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6654033284861145,2
+688,"Get the rope from my bag, Sheeta.",33,7,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.5046063647329029,1
+689,Tie yourself to me.,19,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6652886088438901,0
+690,The mercurys sinking mama...,28,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6663656423633756,3
+691,Lousy luck. Storm coming up. .,30,5,negative,-0.128,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.4445465268968267,1
+692,One more hour.,14,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6661201574792973,0
+693,Its dawn.,9,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6656761048521362,2
+694,Strange that the suns,21,4,negative,-0.2023,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6653458938952156,2
+695,I know! Were supposed to,24,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6663382803143626,0
+696,What! Were heading north?,25,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6655003771051575,0
+697,The compass is pointing east.,29,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.4328862609567881,6
+698,The shif ting winds must have,29,6,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.5481481450061535,6
+699,Look!,5,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6664323802190533,0
+700,What is it? Goliath?,20,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6658323271062303,0
+701,Lts a cloud. A huge one .,25,6,positive,0.5994,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.34902654530064886,4
+702,A cloud?,8,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.664955912110134,2
+703,Its headed for us!,18,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6656404530438605,2
+704,A castle in the sky .,21,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7138979495617168,0
+705,Were headed into,16,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6656404530438605,2
+706,"Turn her away, full speed!",26,5,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.561807440890421,5
+707,Its sucking us in.,18,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6654963490193814,2
+708,"Hold tight, we cant help!",25,5,negative,-0.3716,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.3738943727264908,4
+709,I cant steer!,13,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6663087188290351,3
+710,Wheres your brute strength.,27,4,positive,0.4939,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6654220558393974,3
+711,Engines burning up,18,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+712,Stop whining! Do something!,27,4,negative,-0.5696,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6659037547856206,0
+713,Were clearing the clouds!,25,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6660764207382835,2
+714,"Sheeta, the ocean!",18,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+715,The Dragons Lair!,17,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7230913041395401,2
+716,So this is the Dragons Lair...,30,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7230913041395401,2
+717,"Dad said, that wind",19,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.5470968200011112,1
+718,"Look out, a wall of wind!",25,6,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.45577659817673727,5
+719,Help! Its sucking us in!,24,5,positive,0.508,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7225841307535418,2
+720,Dont give up! Be a man!,23,6,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7520294730684326,0
+721,Bridge! Laputas inside!,23,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7227424591936447,3
+722,What was that!,14,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+723,Dad saw Laputa inside,21,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.4587464471721715,1
+724,Ridiculous! Itll blow,21,3,negative,-0.4199,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6649612351014358,3
+725,Pazu!,5,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6665726928210675,0
+726,Look.,5,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6664323802190533,0
+727,Just what we need.,18,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6660014431878428,2
+728,Lets go! Its the path dad took.,31,7,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7548145818736626,3
+729,Into the Dragons Lair we go!,28,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7230913041395401,2
+730,Got em!,7,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6659297288390507,0
+731,Our ships in danger. Retreat.,29,5,negative,-0.3818,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6652924978388681,3
+732,Stay the course,15,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.4329900584974163,5
+733,The lights pointing,19,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6654393866786343,0
+734,Laputas in there.,17,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6662151478678207,3
+735,Stay the course.,16,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.4329900584974163,5
+736,"Here we go, Sheeta!",19,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+737,"Sheeta, Sheeta!",15,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+738,Look...,7,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6664323802190533,0
+739,Laputa...?,10,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6665117792658768,2
+740,Oops.,5,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+741,Wait. I tied it really tight,28,6,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7084065770648914,3
+742,My hands are shaking...,23,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+743,We did it!,10,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+744,Birds...,8,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.649942623649048,2
+745,Where is everyone...,20,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6653543065827999,2
+746,Coming to greet you?,20,4,positive,0.3182,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6661565720442802,3
+747,But I dont have the stone,25,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.4689782919169929,6
+748,Ill use a knif e.,17,5,negative,-0.4215,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.43312535976136185,6
+749,What are you doing!,19,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+750,Wait.,5,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664501633095645,3
+751,Please dont break that.,23,4,positive,0.3182,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7220735410676885,0
+752,A flycatchers nest!,19,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6654740357078079,0
+753,Hes protecting the nest,23,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.45444707501452253,5
+754,Im glad no eggs were broken.,28,6,negative,-0.3182,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+755,The birds arent afraid.,23,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6700151677660533,3
+756,- Follow.,9,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6660729285337985,0
+757,I feel it.,10,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6655977094566425,2
+758,Its a city. .,13,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6653232796600818,0
+759,But were inside.,16,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6650302798999483,3
+760,You can see the sky...,22,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7139856416956857,0
+761,A city so advanced...,21,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6653232796600818,0
+762,A grave...,10,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.665430442765848,2
+763,Flowers.,8,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6654510992279054,2
+764,Do you tend them?,17,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+765,Another robot!,14,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6660712901700925,3
+766,It broke a long time ago.,25,6,negative,-0.4215,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6762967981785553,2
+767,Mustve been the gardener...,27,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+768,...who protected this place ever,32,5,positive,0.4404,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.5611839209340942,6
+769,You picked flowers for the grave.,33,6,negative,-0.3818,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7228724167369563,2
+770,Thank you.,10,2,positive,0.3612,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6662007620002022,3
+771,Are you all alone? Are there,28,6,negative,-0.25,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6576066601350706,0
+772,He doesnt seem to be lonely,27,6,negative,-0.3612,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6648781531024823,0
+773,Hes got friends and,19,4,positive,0.4767,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.4319232858948635,5
+774,This way!,9,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6663524622816696,0
+775,This sections been destroyed,28,4,negative,-0.4939,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6652621502723814,0
+776,They got Tiger Moth.,20,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6659297288390507,0
+777,I hope the pirates are OK,25,6,positive,0.7034,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.45065505314979126,6
+778,Look!,5,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6664323802190533,0
+779,Theyre prisoners!,17,2,negative,-0.5562,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6663419767457716,2
+780,They hang pirates.,18,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.45909208006286695,6
+781,We must help them.,18,4,positive,0.4019,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.43698734693281666,6
+782,Lets go!,8,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666249689207061,3
+783,We found a way in.,18,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.4610902776374556,6
+784,Mountains of treasure.,22,3,positive,0.296,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6657203718033894,0
+785,Wow...,6,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6657827918375825,3
+786,Want some?,10,2,positive,0.0772,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.666185532094493,0
+787,Ill give you plenty... of rope.,31,6,negative,-0.4215,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7282715830396757,2
+788,Have you reported we found Laputa?,34,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7214992529949359,2
+789,Just about to.,14,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+790,Make the code good and complicated,34,6,positive,0.4404,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7233027271123479,0
+791,Hey! No looting!,16,3,negative,-0.4184,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+792,The perfect distraction for those idiots.,41,6,positive,0.2732,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.43987160860350505,1
+793,What amazing roots,18,3,positive,0.5859,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.4353454682698633,6
+794,Can you climb trees?,20,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6657629498960017,0
+795,It looks sa fe,14,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6655992322865091,2
+796,How horrible...,15,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+797,If they reach the garden.,25,5,neutral,0.0258,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+798,The only way to save this.,26,6,positive,0.4939,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6663524622816696,0
+799,Is to get the stone back,24,6,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.3524440031707327,4
+800,I see why the clouds parted.,28,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.4475788129381975,6
+801,Otherwise they never,20,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6663159541459325,2
+802,Was it my spell...,18,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.666280930585908,2
+803,Muska was right.,16,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.4371508693200773,1
+804,the kingdoms waking up.,23,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+805,Its welcomed the visitor,24,4,positive,0.34,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+806,But Muska will become the king.,31,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7550495693632296,2
+807,Hes got much worse in mind,26,6,negative,-0.4767,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.4440370698504988,5
+808,But what do I do with the stone,31,8,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6664817329059061,2
+809,That spell .,12,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.666280930585908,2
+810,Spell. you dont mean.,21,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3667911943029162,4
+811,I see a way,11,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.723527272472318,0
+812,Ill go first.,13,3,negative,-0.4215,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6663829958091567,2
+813,Its here somewhere.,19,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+814,Please God. .,13,2,positive,0.5267,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7058522476752986,0
+815,This is it!,11,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+816,Lts that kid.,13,3,positive,0.3818,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.42715350771909993,1
+817,"Oh, no!",7,2,negative,-0.3595,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+818,"Dont shoot, capture her.",24,4,positive,0.2584,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.4600796273565083,5
+819,Well if it isnt the little princess,35,7,positive,0.2732,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7227872002050423,3
+820,Sheeta! Shoot!,14,2,negative,-0.4559,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7210444879557344,3
+821,"What is it, Colonel?",20,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6662624394495817,2
+822,The last of the pirates,23,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7218813871899109,0
+823,Yes sir! Search!,16,3,positive,0.508,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6660545206972901,3
+824,"Wait for me, Sheeta!",20,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7225063034980629,3
+825,Pazu!,5,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6665726928210675,0
+826,Grenades!,9,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+827,Must be Pazu.,13,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.721303690947841,0
+828,What was that?,14,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+829,"No, it wasnt.",13,3,negative,-0.296,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6653248982931916,2
+830,The General is over there.,26,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6657044067776315,0
+831,"Militia, assemble!",18,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6654536545681118,2
+832,Maam!,5,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6663160714090505,3
+833,Theyve got Sheeta Im going a fter her,37,8,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6902800034638858,0
+834,Get out of here,15,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664805271139469,3
+835,"Hey, wait!",10,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664501633095645,3
+836,Take this.,10,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6662775475751994,0
+837,Thanks.,7,1,positive,0.4404,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6652550544459855,3
+838,The boy has become a man.,25,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.5389612905337166,6
+839,Whats that!,11,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6663415931193917,0
+840,Muska destroyed,15,2,negative,-0.4939,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.4426737847160127,6
+841,"Yes, while the ship",19,4,positive,0.4019,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.4372357444319206,5
+842,Some of the guards,18,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+843,The Colonel is in a,19,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6662624394495817,2
+844,Theres a witness.,17,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6663331990670613,2
+845,That upstarts finally,21,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6652504186218445,0
+846,Hunt down the spy!,18,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+847,Company assemble!,17,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7227554559591507,2
+848,Hey! Hurry!,11,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664302791920873,3
+849,Shoot if he resists!,20,4,negative,-0.4003,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6662006107398997,3
+850,Find the entrance,17,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6566466499776019,3
+851,"Where are we, Colonel...",24,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6662624394495817,2
+852,Laputas core. The castle,24,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.44224495483579634,5
+853,All of Laputas knowledge,24,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6662151478678207,3
+854,You two wait here.,18,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.45532950013944984,5
+855,Colonel!,8,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6662624394495817,2
+856,Only royalty may enter,22,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.665613808844559,2
+857,What is this!,13,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+858,The roots come this far...,26,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7547015302606144,0
+859,"Eventually, well burn it all.",29,5,positive,0.2732,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+860,"Come, this way.",15,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7234701408882303,0
+862,This is it!,11,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+863,"Here, too!",10,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+864,Found it!,9,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6658492399637109,2
+865,Behold the giant crystal!,25,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7224152757899128,3
+866,Fantastic. It has awaited,25,4,positive,0.5423,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6658439255443546,2
+867,700 years...,12,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6650591625635754,3
+868,Your family even forgot that?,29,5,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.4401955106517141,5
+869,The black rock!,15,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+870,"I can read, I can read it!",26,7,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+871,Just who are you?,17,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+872,"I, too, have an ancient,",24,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6659733990765371,2
+873,My name is Romuska Palo Ur Laputa,33,7,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7219615829174026,2
+874,We are descended,16,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+875,. that split in two down on earth.,34,7,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.4312348354830374,5
+876,Not even a crack.,17,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6660970415304086,0
+877,Whats the catch?,16,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.45207713760540724,5
+878,Deploy all our explosives,25,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6651198979080751,0
+879,"Force wont be necessary,",24,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6633263820301158,0
+880,"Muska, where are you!",21,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6663008792216923,2
+881,"Why hesitate, General?",22,3,negative,-0.2732,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6657044067776315,0
+882,Darn it! Follow.,16,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.43271157223300355,5
+883,Follow His Excellency,21,3,positive,0.5423,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6660729285337985,0
+884,Follow.,7,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6660729285337985,0
+885,"What is this! Muska, where are you!",35,7,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6663008792216923,2
+886,Silence.,8,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+887,What on earth!,14,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6659013710500987,3
+888,Watch your tongue Youre in,26,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.4453689291704737,5
+889,Are you insane...,17,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+890,Lets celebrate Laputas resurrection,35,4,positive,0.5719,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.723477691679579,3
+891,Sheeta!,7,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+892,"Behold, Laputas thunder.",24,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7224544820908214,3
+893,Sheeta,6,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+894,Its the heavenly fire that,26,5,positive,0.3818,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6660986204235563,3
+895,Its the Ramayanas Arrow of Indra.,33,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+896,The world shall bow down,24,5,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6650732132770073,3
+897,"Wonderful, Muska Youre a hero.",30,5,positive,0.8074,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.5652862726779881,1
+898,Ive had it up to here,21,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6661213050387191,2
+899,"Run, everyone!",14,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.44217285818870633,1
+900,Die!,4,1,negative,-0.636,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6658797687070854,0
+901,Lts those monsters!,19,3,positive,0.4389,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6662129981013424,3
+902,Run!,4,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6660970678878196,3
+903,Check our Flaptors.,19,3,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6654352335710467,3
+904,Theyre ready to fly!,20,4,positive,0.4199,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.5445664601783264,6
+905,Lets hurry!,11,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.723547010139887,3
+906,Quiet Keep your voice down,26,5,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.5539966762853157,5
+907,What are you two doing!,23,5,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6658519953646198,0
+908,I advise you not to anger me.,29,7,positive,0.4585,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+909,Well be alone together here.,28,5,neutral,0.0258,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7092366198211996,0
+910,They shouldve escaped.,22,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+911,You think you can fight me?,27,6,negative,-0.3818,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7169935417615684,0
+912,Robots!,7,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+913,Sheeta!,7,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+914,Fantastic!,10,1,positive,0.5983,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6658439255443546,2
+915,"A marvelous display, no?",24,4,positive,0.4019,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+916,"Aha, some human garbage.",24,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.665398268380672,0
+917,How dare you!,13,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6660612246437819,2
+918,"Be a good girl, give it back.",29,7,positive,0.4404,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6267772938077556,0
+919,"Please, open!",13,2,positive,0.3802,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.4482078644179051,5
+920,Just where will you go?,23,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+921,Open it!,8,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6658436130071691,3
+922,Sheeta!,7,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+923,Pazu!,5,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6665726928210675,0
+924,Pazu!,5,1,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6665726928210675,0
+925,Im coming.,10,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6661565720442802,3
+926,Get back!,9,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.4536531882897716,5
+927,"Take this, hurry!",17,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.4397788915019183,5
+928,Throw it into the sea.,22,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+929,Hold onto that stone,20,4,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.45848340429171747,6
+930,Stand up! No time left for hide and seek.,41,9,negative,-0.4926,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.3403475697606201,4
+931,How delightful that it should end,33,6,positive,0.5859,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+932,The throne room?,16,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+933,What is a king when his,23,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6656813691497615,2
+934,I wont give you the stone.,26,6,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.5178494794702178,6
+935,"Youll die, trapped here with me.",32,6,negative,-0.8074,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6658797687070854,0
+936,This is why Laputa died out.,28,6,negative,-0.5574,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.46992011602244005,1
+937,Theres a song in my valley. .,29,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7226270005161559,2
+938,Let us live together with the wind,34,7,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.762079463989711,3
+939,"Pass the winter with the seeds,",31,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+940,"No matter how powerful your weapons,",36,6,negative,-0.296,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7194959027118049,2
+941,you cant survive apart from the earth,37,7,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7228479007537014,3
+942,Laputa will not die. It will revive.,36,7,positive,0.6753,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.47211299366235016,6
+943,Its power is the stuf fof,25,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6656731404219821,2
+944,"Next, I shoot off your ears!",28,6,negative,-0.4003,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.44354349967856754,5
+945,Beg for your life Make the kid,30,7,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7417101214464311,0
+946,Wait!,5,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664501633095645,3
+947,"The stones hidden You can shoot,",32,6,negative,-0.34,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.722993171187482,3
+948,"Stay away, Pazu.",16,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7541782529333417,0
+949,Ill spare her lif e if you tell me,34,9,negative,-0.4215,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7225444966822907,2
+950,Or do you intend to conquer me,30,7,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6658041419724683,2
+951,Let me talk to Sheeta alone.,28,6,negative,-0.25,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7452933959901906,3
+952,Dont come.,10,2,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7222376432819723,0
+953,3 minutes,9,2,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+954,"Sheeta, calm down and listen.",29,5,positive,0.3182,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.4871239905199144,1
+955,Ill say them with you.,22,5,negative,-0.4215,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7232624205289988,2
+956,Put your hand in mine.,22,5,positive,0.4939,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.43727767103995463,1
+957,I cut the piratesropes,22,4,negative,-0.2732,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+958,Times up. What do you say?,26,6,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6661650513900619,2
+959,"My eyes, my eyes .",18,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+960,"Mama, its collapsing!",21,3,negative,-0.3595,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6663656423633756,3
+961,"Weve no choice, escape!",23,4,negative,-0.2003,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.4329434336585986,6
+962,Hurry!,6,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6664302791920873,3
+963,"Look, the bottoms falling out!",30,5,negative,-0.2244,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.4618069195098306,6
+964,Sheeta was such a nice girl...,30,6,positive,0.4215,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.5117266290626731,1
+965,They used the spell of destruction.,35,6,negative,-0.5719,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.754809867802856,2
+966,Those kids saved Laputa,23,4,positive,0.4215,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.7214760634293763,2
+967,Its stopping!,13,2,negative,-0.2244,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+968,A crystal! A humongous one!,27,5,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.4333009861148602,5
+969,Lts rising.,11,2,positive,0.3818,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6662129981013424,3
+970,The tree... its carrying,24,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+971,Youre heavy get off,19,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7234475451646555,3
+972,Youre crazy!,12,2,negative,-0.4003,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6663783501852626,3
+973,The roots protected us,22,4,positive,0.4404,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7224700090182756,0
+974,We can still use this,21,5,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.4358007284406143,6
+975,Here goes,9,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6661794427941133,3
+976,"What are you doing,",19,4,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+977,"Of course not, were overloaded.",31,5,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6661131244071227,3
+978,Its Sheeta!,11,2,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.666592007333669,3
+979,Shes alive!,11,2,positive,0.4389,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.4361584316148159,1
+980,Maam!,5,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6663160714090505,3
+981,Thank God youre alive!,22,4,positive,0.7574,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.7718424458132761,3
+982,You guys OK?,12,3,positive,0.4466,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6659232999538497,0
+983,"Oh, no! My galleons wrecked .",29,5,negative,-0.3595,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+984,"Oh, stop blubbering.",20,3,negative,-0.296,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6659037547856206,0
+985,"You poor child, the worst is",28,6,negative,-0.802,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6660085971505553,2
+986,"That hurts, Maam",16,3,negative,-0.4767,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6663160714090505,3
+987,"Pathetic. All that work,",24,4,negative,-0.5719,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6660926101800607,3
+988,Ran out of time...,18,4,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.4395399278852406,1
+989,Voices,6,1,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.3333333333333333,4
+990,DOLA Kotoe HATSUI,17,3,neutral,0.0,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.6658180826448035,0
+991,English translation by,22,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6659638747525982,2
+992,English subtitles by,20,3,neutral,0.0,0,"laputa, stone, ill, theyre, theres, nice, muska, help, never, spell",0.6659638747525982,2
+993,Production,10,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6655181621601537,3
+994,Producer,8,1,neutral,0.0,1,"sheeta, get, wait, hurry, girl, youre, mama, cant, let, maam",0.6658539689357615,3
+995,Original story written and directed by,38,6,positive,0.3182,2,"pazu, dont, look, way, whats, know, pirates, got, see, come",0.7762579884864951,0

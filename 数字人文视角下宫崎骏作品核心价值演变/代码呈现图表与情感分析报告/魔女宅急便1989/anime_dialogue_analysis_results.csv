@@ -1,0 +1,889 @@
+﻿line_number,cleaned_line,char_length,word_count,sentiment,compound,dominant_topic,topic_keywords,topic_confidence,cluster
+1,"...Ive been receiving so many calls, asking about",49,8,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7051000548574522,2
+2,... That ship may or may not be passing over our area soon...,61,12,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6606593849343148,0
+3,...And Ill let you know as soon as we have more information available...,72,13,negative,-0.4215,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7174806147352547,4
+4,"But first, heres the weather forecast",37,6,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7071010985108688,2
+5,"Skies are clearing up, thanks to a high-pressure front moving in from the mountains",83,15,positive,0.4404,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7053627094244439,3
+6,Mild winds will be blowing in from the west...,46,9,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+7,Therell be a beautiful full moon lighting up the skies,54,10,positive,0.5994,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7511845697992698,2
+8,"So if you have been planning something special,",47,8,positive,0.4019,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6685977449657751,4
+9,Tomorrow also looks good with clear skies and sun...,52,9,positive,0.6705,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7028904395127863,4
+10,Jiji wake up!,13,3,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6668309838901157,2
+11,Hey mom!,8,2,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5972725802605198,3
+12,"Oh...Hi, Mrs.Dora.",18,4,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6656494863247678,4
+13,"And guess what, the radio says therell a full moon!",51,10,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7668002978649935,2
+14,"Did you borrow your fathers radio again, without asking?",56,9,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7068199036665781,2
+15,"Dont worry, he doesnt mind!",27,5,positive,0.4015,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7229514765802716,3
+16,Please exuse me Mrs. Dora...,28,5,positive,0.3182,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7034609601395463,2
+17,Moooom. Its a perfect midnight for me to leave home!,52,10,positive,0.5848,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.731682100166654,2
+18,You mean tonight? Next month is what you told me.,49,10,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6217595118967112,2
+19,"Yeah, but the next full moon might be on a cloudy night.",56,12,positive,0.1531,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5498241779106877,0
+20,And I want to leave on the perfect midnight!,44,9,positive,0.6239,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7314945712639149,2
+21,Huh? But Kiki...waaaiiit!,25,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.599997270640632,0
+22,"My oh my, whats this all about?",31,7,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.599987731441703,0
+23,Its one of our oldest customs that when a witch turns thirteen...,65,12,negative,-0.3612,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7028486353976751,4
+24,She has to leave home for a year to begin her training.,55,12,negative,-0.0516,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7061347233003398,2
+25,You little baby is thirteen?,28,5,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.4776918425582433,2
+26,"My goodness, but time flies so quickly!",39,7,positive,0.3164,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.703365624566132,0
+27,I know...,9,2,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999934553961379,4
+28,I remember very well...,23,4,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5990766982092184,1
+29,the exact day you arrived in this town.,39,8,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6680760437992498,3
+30,A little girl flew down from the sky,36,8,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5483928198486762,2
+31,"on her broomstick, and I was certain",36,7,positive,0.2732,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+32,she was much too young to hold such an important job as a president witch. Hmhmhm,81,16,negative,-0.1779,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7666089989778617,4
+33,Yes but I could fly...,22,5,positive,0.2144,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.39265643823907487,1
+34,Kiki barely knows how to do that!,33,7,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6624089893789122,0
+35,And I had no time to teach her how to mix potions like me.,58,14,positive,0.0772,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.42620740720101546,1
+36,Hmm young people are all the same...,36,7,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6679820969962391,4
+37,They all want to do something diffrent...,41,7,positive,0.0772,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999906244326916,2
+38,But I hope you at least get to teach her the potion that cures my rheumatism.,77,16,positive,0.5927,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7040115027332469,3
+39,Hurry up!,9,2,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999833304041594,2
+40,Nah uh. Our plan was that we would stick around,47,10,negative,-0.1027,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7041078933277053,4
+41,"And if we put it off for a month,",33,9,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.3907796938821686,5
+42,"Come on, Jiji!",14,3,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6681948176718324,2
+43,Im going to put my paws together and PRAY youre not serious!,60,12,positive,0.5495,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5796650594040457,3
+44,Of course I am.,15,4,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999739268575119,3
+45,You know...,11,2,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999934553961379,4
+46,ever since I turn sixteen Ive been excited about making this trip!,66,12,positive,0.4003,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5341576834159395,4
+47,There...,8,1,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+48,"Dad, guess what!",16,3,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6677868616223998,2
+49,Ive decided to leave tonight!,29,5,negative,-0.126,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7325516139020063,2
+50,- You are going away?,21,4,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6673437967829439,4
+51,"Well, yeah, but what happen to the camping trip",47,9,positive,0.2846,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.40427865530049695,5
+52,"Sorry, Dad!",11,2,negative,-0.1511,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6647800949418026,4
+53,"Kiki, wait!",11,2,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6666016741198338,0
+54,Yeah. Ill expect you then.,26,5,negative,-0.1531,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6681053265759224,3
+55,"Hi, Mom, its me. I wanted to make sure",38,9,positive,0.3182,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7308068619455953,4
+56,"Yes, at midnight.",17,3,positive,0.4019,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6641569222512529,1
+57,- Very pretty.,14,2,positive,0.5413,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999854331902487,0
+58,"Witches have worn this color for a very long time, Kiki.",56,11,negative,-0.296,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.537187328656308,0
+59,"Oh, Mom. I look really dumb.",28,6,negative,-0.5563,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.3984710142474588,5
+60,Its not really important,24,4,negative,-0.2044,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999527451361393,4
+61,What matters is the heart inside.,33,6,neutral,0.0258,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6682871440462291,4
+62,Well Im gonna be the very best witch,36,8,positive,0.5879,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.516493198939388,3
+63,And I know having a good heart is important.,44,9,positive,0.5719,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7304912739935644,4
+64,Just follow your heart,22,4,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6685352161180446,4
+65,Yeah!,5,1,positive,0.3595,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999903421519804,3
+66,"-And be sure to write home as soon as youre settled, huh?",57,12,positive,0.3182,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.3516666107797452,5
+67,"Dad, oh can I please take the radio?",36,8,positive,0.3182,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7312598097996773,2
+68,"Mom, didnt you say I can have the radio?",40,9,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.7202892581596058,1
+69,- Yeah!,7,1,positive,0.3595,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999903421519804,3
+70,"Well, now, you certainly look very grown up!",44,8,positive,0.5848,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.666142893561284,3
+71,You look just like your mother,30,6,positive,0.3612,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6667609708657498,3
+72,Im glad about that!,19,4,positive,0.5093,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.599959758206307,2
+73,"Dad, can lift me up high like when I was little?",48,11,positive,0.3612,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.4842840368560922,2
+74,Well...Here we go! Ha ha ha...,30,7,positive,0.6239,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+75,How come youve never told me,28,6,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7285582134049872,2
+76,"If things dont work out,",24,5,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6640658109357365,2
+77,And come back a failure?,24,5,negative,-0.5106,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6678703772299288,2
+78,Will you write us if you had the time?,38,9,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6655438061099752,0
+79,Arent you worry about Kiki living in,36,7,positive,0.3412,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7285866899556707,0
+80,"Of course they are, but Kiki will be just fine!",47,10,positive,0.3595,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5548617112702919,3
+81,- Youre gonna find a city by the ocean?,39,8,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6018490648179367,1
+82,Uh huh. Thats what Im hoping anyway.,36,7,positive,0.4215,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5441801159628732,1
+83,- Wow! Your gonna have such a good tiiime!,42,8,positive,0.8065,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5070964347344011,2
+84,But Im not going just for a good time.,38,9,positive,0.5927,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7034386832267274,0
+85,"Yeah, be sure to tell that to the boys!",39,9,positive,0.5848,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.265652656850259,5
+86,"- Kiki, its time.",17,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6678629314008433,0
+87,Thats the broom youre going to be leaving on?,45,9,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.4658612645763266,3
+88,Yep. I just made it this morning.,33,7,positive,0.296,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7025417479250432,4
+89,"Honey, its too small to be really safe.",39,8,positive,0.4927,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999489587754752,1
+90,"But, Mom, that ones so old.",27,6,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7052124924273101,4
+91,And thats why its good.,23,5,positive,0.4404,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.38454500158330324,5
+92,"Now, Kiki, do this for me, please!",34,7,positive,0.3802,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.40950290939669587,2
+93,But I put so much work into this one!,37,9,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7227500179191192,4
+94,"Your broom is nice, but lets take your mothers.",47,9,positive,0.2263,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7319753989922116,4
+95,Youre no help!,14,3,positive,0.2003,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.40627814752508906,5
+96,"Now, Kiki, cant you make yourself",33,6,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.702197772567511,0
+97,Be careful.,11,2,positive,0.1531,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+98,"- Youll be strong, okay?",24,4,positive,0.6369,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6673060190309783,3
+99,"Go, Kiki! Go, Kiki!",19,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.599997270640632,0
+100,Aim your brookstiiick...,24,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+101,May our little baby be well,27,6,positive,0.2111,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5063467353662576,2
+102,Im going to miss the one who,28,7,negative,-0.1531,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7065259745010148,4
+103,Where are we going?,19,4,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5987919945419674,4
+104,"Im heading the south, to see the ocean!",39,8,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6676936548996648,1
+105,"Jiji, climb up and turn on the radio.",37,8,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.4800077321661063,2
+106,Kikis Delivery Service,22,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7062549881905251,0
+107,"Hey, good evening!",18,3,positive,0.4926,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5981600809020137,0
+108,It was.,7,2,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+109,"You are new, arent you?",23,5,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6625892317400187,0
+110,"Yep, how do you guess?",22,5,positive,0.296,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.38354352740082914,5
+111,Would you mind,14,3,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6679444243803669,1
+112,I prefer to fly without being distracted.,41,7,positive,0.2584,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6681632287174504,2
+113,Could you tell me is it really hard to,38,9,negative,-0.1761,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.7053708540437643,1
+114,"Oh, yes. A lot can go wrong.",28,7,negative,-0.1027,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.47467153346890556,1
+115,"But since my skill is fortune-telling,",38,7,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7298150241436733,3
+116,Fortune-telling?,16,2,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6669262744391439,1
+117,"Yes, I tell fortunes about love.",32,6,positive,0.7845,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.7038916741597242,1
+118,And what exactly is your skill?,31,6,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6676338369412296,0
+119,"Well, I havent really decided that yet.",39,7,positive,0.2732,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.704862277157244,0
+120,"Uh-huh. Well, Im nearly finished",32,6,positive,0.2732,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999423340985491,0
+121,Im going home soon to show off my new skills.,45,10,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.451178758162839,4
+122,-Thats my town down there.,26,5,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6670415216447,3
+123,"Yes, to you, Im sure it looks big.",34,8,positive,0.6124,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5910959866060541,4
+124,- I hope you dont have too tough a time.,40,9,positive,0.5057,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7005838365490362,3
+125,Ciao!,5,1,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+126,"Geez, What a snob! And did you see that cat?",44,10,negative,-0.5093,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6684787795184185,1
+127,Whats my skill?,15,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.667364800518695,0
+128,What are we gonna do!? We cant stay up!,39,9,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.7040881723849222,1
+129,Hold on!,8,2,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999824906502613,4
+130,We better rest here until its dry.,34,7,positive,0.4404,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.40568057097571775,5
+131,- Wont we get in trouble?,25,5,negative,-0.4019,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7011941830302977,3
+132,"Im soaked through, down to the bone!",36,7,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+133,Hello?,6,1,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999786051025733,0
+134,This smells great!,18,3,positive,0.6588,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6656703611198316,0
+135,Sorry. We didnt mean to fall asleep,35,7,negative,-0.0772,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5124773804875432,1
+136,"Jiji, youve gotta come see the ocean.",37,7,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5188007325581179,2
+137,Its beautiful!,14,2,positive,0.636,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999869826266067,2
+138,- Big deal. Just a big puddle of water.,39,8,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6945889156833719,4
+139,How lovely!,11,2,positive,0.6239,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+140,"Oh, great...",12,2,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999941222971129,0
+141,Ready? Set...Go!,16,3,positive,0.4199,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.599982076804232,1
+142,Hold on!,8,2,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999824906502613,4
+143,You okay back there?,20,4,positive,0.2263,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.3820385127706695,5
+144,Wow! This is just the kind of place,35,8,positive,0.6239,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7066018654695942,2
+145,Wow! A clock tower!,19,4,positive,0.658,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6679274308313761,2
+146,Look at the city!,17,4,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6631455130178919,3
+147,But there may be some witches living,36,7,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7053874029137844,0
+148,And there may not be.,21,5,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999911854786337,0
+149,- Look at how many people there are!,36,7,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5259227514784653,4
+150,Bless my hourglass!,19,3,positive,0.4753,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+151,Good morning!,13,2,positive,0.4926,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6638906101040586,4
+152,Do any witches live in this town?,33,7,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7040971726126714,3
+153,No body seen one around here in a long time.,44,10,negative,-0.296,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5558187112297368,4
+154,Thats great! Our trip is over.,30,6,positive,0.6588,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.3324281919633162,5
+155,"- Thanks, mister! Bye!",22,3,positive,0.5399,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6684945795763706,3
+156,- Tell me were not landing down there.,38,7,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999930066995957,1
+157,They are looking at us.,23,5,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.599950370910372,2
+158,I know. Smile so well make a good impression.,45,9,positive,0.8521,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7040811298751799,4
+159,"Um...Hi! My name is Kiki, and Im a witch.",41,10,negative,-0.4199,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.49325693695612577,0
+160,"And this is Jiji, hes my black cat.",35,8,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5929309633831288,1
+161,Wed be honored if we could live here.,37,8,positive,0.5859,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6646215393392163,1
+162,Your city is so amazing!,24,5,positive,0.7318,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6673223611124031,1
+163,"Really? Thats very nice, dear. Bye.",35,6,positive,0.7379,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5577232964674459,3
+164,"Hey you, kid! Who do you think you are",38,9,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5982423098996996,3
+165,You are almost responsible for a big accident!,46,8,negative,-0.3367,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6676263508423298,4
+166,Zooming around on your broom back there.,40,7,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5187301362689573,4
+167,"But Im a new witch, sir.",24,6,negative,-0.5023,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7024999569156746,4
+168,Youre supposed to obey the law.,31,6,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.666073649647618,3
+169,Now give me your name and address.,34,7,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.2956441707479609,5
+170,- Will you tell my parents?,27,5,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999930066995957,1
+171,I have to do that with every minor.,35,8,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999485997444312,1
+172,Thief! Somebody stop him!,25,4,negative,-0.7339,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6659047876715889,1
+173,Now you stay right there!,25,5,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6669430654025972,1
+174,Eh...Kiki?,10,2,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.599997270640632,0
+175,Miss! Wait up!,14,3,negative,-0.2924,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.3896052426409742,5
+176,"Hey, that was me yelling Thief!",31,6,negative,-0.5707,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5969080147691249,2
+177,"Worked out pretty good, huh?",28,5,positive,0.7269,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6672671171521873,0
+178,You gotta be a real witch!,26,6,negative,-0.4199,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6999302653920815,4
+179,Do you think may be you can,27,7,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6648235492871386,0
+180,"Hey, Tombo!",11,2,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999892614921033,1
+181,May be you can sweep off her feet with that broom!,50,11,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6615627552753185,0
+182,"Hey, shut up, all right?",24,5,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6638823348999983,3
+183,"You know, miss, I love flying too.",34,7,positive,0.5574,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7298921382491811,4
+184,Thank you for getting me out of trouble.,40,8,negative,-0.0516,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5181393171679931,1
+185,But I really shouldnt be talking.,33,6,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5993347637931977,1
+186,Its very rude to talk to a girl,31,8,negative,-0.5095,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6680335223206352,4
+187,"Youre kinda old-fashioned, arent you?",37,6,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.3100256174293518,5
+188,Just go away and leave me alone!,32,7,negative,-0.3595,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.4902303458149169,2
+189,Hey...Dont go!,14,3,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5974571505262481,3
+190,What a cool witch.,18,4,negative,-0.0516,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6664703033168141,4
+191,Stay here tonight? Im afraid I dont understand.,47,8,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7484458168139484,2
+192,No. Im alone. Ive come to this town,35,8,negative,-0.4939,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7288681694727515,2
+193,Do you have some identification?,32,5,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+194,Never mind.,11,2,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.66785447638231,1
+195,"- Kiki, arent you going to eat that?",36,7,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7291877978672937,0
+196,Where are we going to stay tonight?,35,7,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5085591507174894,2
+197,Lets go.,8,2,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999820469380862,4
+198,Why dont we go find another town?,33,7,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7196657871059922,3
+199,I bet there are bigger and better ones.,39,8,positive,0.4404,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7060959542881728,4
+200,Oh dear...Oh my goodness!,25,5,positive,0.5093,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6676977914865301,0
+201,Hey there! Your pacifier!,25,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5985361962536606,0
+202,"Maam, you forgot your babys pacifier!",37,6,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7313638904386899,0
+203,Oh...poor baby!,15,3,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.667990536919475,2
+204,"Without this, the baby will wake up and",39,8,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7068184648470955,2
+205,I better go give it to her myself.,34,8,positive,0.4404,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.39105756597086405,5
+206,"Im sorry folks, but could you wait",34,7,neutral,-0.0387,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5830431814575285,0
+207,- Excuse me. But would you like me to deliver it for you?,57,12,positive,0.5267,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6671341559046754,1
+208,The woman with the baby carriage just went around the corner.,61,11,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5015291216127196,2
+209,Really? Youll do that?,22,4,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999766997489758,3
+210,- Thank you so much.,20,4,positive,0.3612,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6682880653197325,4
+211,"Lets go, Jiji.",14,3,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.40546377993864063,5
+212,Wow!,4,1,positive,0.6239,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999863768932066,2
+213,"Sorry to suprise you, but",25,5,neutral,-0.0387,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999936152645332,4
+214,Here you go.,12,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+215,Id like one of those.,21,5,positive,0.3612,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999854567033213,4
+216,Yes sir!,8,2,positive,0.4574,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6661371659938216,1
+217,"Hi there! Come in and wait a minute, will you?",46,10,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5415716316312352,0
+218,"Mmm these are nice and fresh, just out of the oven...",53,11,positive,0.6249,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.706521805264865,4
+219,Here you are.,13,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+220,"There you go, see you tommorrow!",32,6,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6668021089471337,1
+221,Bye!,4,1,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999726703200368,3
+222,Will that be all for you? Alright...,36,7,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999701950853804,1
+223,Now come back again!,20,4,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6678703772299288,2
+224,"When I saw you fly off, I thought for a second",46,11,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7054139096167793,2
+225,That babys mother told me,25,5,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7028947623649882,3
+226,"Thanks for returning the pacifier,",34,5,positive,0.4404,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6629895931153985,3
+227,your new delivery girl is really quite special!,47,8,positive,0.5519,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.623305904262871,4
+228,"Well, Ill be on my way.",23,6,negative,-0.1779,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6678514295976782,3
+229,Wait! Wait a minute.,20,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6637337405799463,0
+230,I really must do something,26,5,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999790955983656,1
+231,Follow me. Bakery is downstairs.,32,5,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7054115679120917,4
+232,-Sit down and relax. Would you like some hot chocolate?,55,10,positive,0.6597,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.7062895092546597,1
+233,There you go.,13,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+234,"- Thank you very much, maam.",28,5,positive,0.3612,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7050193158964149,4
+235,So tell me if Im right.,23,6,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6675765041785039,1
+236,I really love it here. But people dont seem,43,9,positive,0.4111,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.413395744013634,5
+237,Depends on the people. Now take me for instance.,48,9,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6667507966592965,4
+238,I just met you and I know I like you.,37,10,positive,0.3612,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999934553961379,4
+239,"So tell me, where are you about to stay?",40,9,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.668148605853669,1
+240,"Oh, I see.",10,3,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999918805994173,1
+241,Why didnt you tell me you have no place to stay?,48,11,negative,-0.296,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.7274100147472758,1
+242,"We have a spare room in the attic,",34,8,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5985114011823327,2
+243,You really let me stay with you?,32,7,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.667391794331179,1
+244,Why of course.,14,3,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999739268575119,3
+245,But we havnt introduced ourselves.,34,5,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+246,"And Im Kiki, Maam.",18,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6660567643353493,0
+247,And Jiji here is my very best friend.,37,8,positive,0.839,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.533324885626849,3
+248,"Its right up here, Kiki.",24,5,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.39770674878892753,1
+249,"It may need a little dusting, but",33,7,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.49668786453502517,2
+250,Oh my...Its a little bit dustier,32,7,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6674843970797449,2
+251,"If I werent about to have a baby,",33,8,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999811594142571,2
+252,Thats okay.,11,2,positive,0.2263,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.668530577918038,3
+253,Alright then. Water and bathroom are downstairs.,48,7,positive,0.25,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.7059106639216186,1
+254,- Give a shout if you need anything.,36,7,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6684031511136457,2
+255,-This is...quaint.,18,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+256,"If you wake up tommorrow and find a white cat,",46,10,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.7270123447829382,1
+257,"Jiji, we can see the ocean from here!",37,8,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5185330489423433,1
+258,Can we left for a new town?,27,7,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5057462961114432,3
+259,"Pardon me, Ms. snooty cat!",26,5,positive,0.3802,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6676588468720849,1
+260,"Jiji, Ive decided not to leave this town.",41,8,neutral,0.0382,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7498931193622111,2
+261,Maybe I can stay and find some other nice people like Osono...,62,12,positive,0.6486,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.36655994067643244,5
+262,who will like me and accept me for who I am.,44,11,positive,0.6249,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+263,How much do you think it will cost,34,8,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5179543254389366,3
+264,- A phone?,10,2,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5996808232779545,4
+265,"Morning, everyone.",18,2,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999634316738387,4
+266,"- Well, look whos up. Did you sleep well?",41,8,positive,0.4939,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7061618814458203,3
+267,"-Oh, that smells good. Can I help out?",38,8,positive,0.6808,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7051671997993689,0
+268,"A delivery business, huh?",25,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999907325344948,0
+269,Well I really only have one skill - thats flying - so I thought,63,12,positive,0.2732,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5563409379324136,3
+270,Its a great idea.,17,4,positive,0.6249,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.666345016668917,0
+271,"And since youre staying right here,",35,6,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7049222139960688,3
+272,You mean it?!,13,3,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999882365555019,1
+273,Thats great!,12,2,positive,0.6588,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.3834113520564375,5
+274,- I was planning on putting a phone upstairs!,45,8,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6683976854583242,4
+275,- I have a little saved up already.,35,7,positive,0.3626,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.40583700144253504,5
+276,What I think you should do is use our phone.,44,10,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5081590028457316,4
+277,You know itll take some time to get regular customers.,54,10,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5495662711816705,4
+278,"Ill make you a deal. Since Im expecting a baby, I could use help.",65,14,neutral,-0.0258,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.43864909137131314,3
+279,"If you mind the store once in a while, Ill let you have the room and the phone.",79,18,negative,-0.4215,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.7590095881824807,1
+280,"And Ill throw in a free breakfast, okay?",40,8,positive,0.34,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7044059278205224,3
+281,"Yeah, weve got a deal!",22,5,positive,0.3595,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7257392395934492,3
+282,Im gonna work very hard for you.,32,7,negative,-0.1761,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.45769627662774115,1
+283,"Osono, you are the greatest!",28,5,positive,0.6696,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999842716275062,0
+284,"Jiji, come on! Im all through!",30,6,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6681948176718324,2
+285,"Were gonna go shopping, come on!",32,6,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6598903209331867,2
+286,"Kiki, in this city you cant just run out into the street!",57,12,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7461116893341863,0
+287,"Im sorry. Were still alive, arent we?",37,7,positive,0.3182,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5105903525302556,0
+288,You know how boys are.,22,5,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.42327622062257814,2
+289,Hes so cute!,12,3,positive,0.5551,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5996675250400656,1
+290,I hope hes still invited to her birthday party.,47,9,positive,0.6808,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7401760092512256,3
+291,Told you!,9,2,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5943044184621161,2
+292,I wish I had something pretty to wear.,38,8,positive,0.7096,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6679925015260525,0
+293,"Wow, this costs so much!",24,5,positive,0.6239,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.4008816535748037,5
+294,"Kiki, look! Its me!",19,4,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.4046486403416384,5
+295,"Any money left, Kiki?",21,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7022562233852171,0
+296,No much. Looks like all I can afford to eat now is pancakes.,60,13,positive,0.0772,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7302042496472904,4
+297,"Look, Jiji. Arent they beautiful?",33,5,negative,-0.4847,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.3988322499293429,5
+298,Hey! Pull over!,15,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+299,Miss Witch! You remember me?,28,5,negative,-0.5255,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7012985631979737,4
+300,How come youre not flying today?,32,6,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.4067289596071848,5
+301,Its me! Remember? Tombo.,24,4,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.667828080136481,1
+302,You can tell she is a witch.,28,7,negative,-0.3612,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.3794311220157035,5
+303,"Hey, wait! Come back, please!",29,5,positive,0.4374,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5513890546852597,2
+304,"Oh, Kiki! Perfect timing.",25,4,positive,0.6114,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6629162926629953,0
+305,Theres a lady here who wants you to make a delivery.,52,11,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7503896958680446,0
+306,"Customer? Oh my, Ill be right back!",35,7,negative,-0.4753,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5723272428961543,3
+307,"Dear, this lady is a customer of ours.",38,8,positive,0.3818,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7035047492750466,0
+308,And we were talking about your new delivery service.,52,9,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7266430304150662,0
+309,- What a charming girl!,23,4,positive,0.6239,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999854741729165,4
+310,"Osonos told me great things about you,",38,7,positive,0.6249,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6656015093340265,0
+311,Yeah! I can!,12,3,positive,0.4184,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999903421519804,3
+312,Its a birthday gift for my nephew.,34,7,positive,0.4404,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5995669138417637,0
+313,"But something came up at work,",30,6,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6673761340182554,2
+314,"I can get it there for you, guaranteed!",39,8,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999924701409898,3
+315,Show me on the map where you want it delivered.,47,10,positive,0.0772,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.667307076505995,2
+316,Thats me.,9,2,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999951849823071,3
+317,Are you sure it wont be too far?,32,8,positive,0.3182,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.4028419159585839,5
+318,I can fly there straight from here.,35,7,positive,0.2263,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.667488464425606,2
+319,- Great! How much will that cost?,33,6,positive,0.6588,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5151174400080444,0
+320,How about this much then?,25,5,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.599993374160263,4
+321,I hope it will be enough. What do you think?,44,10,positive,0.4404,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7049068048799624,3
+322,This much for me?,17,4,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.599993374160263,4
+323,I got to see this!,18,5,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6666319583114871,1
+324,Shes the most amazing girl!,27,5,positive,0.6581,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5223376582725385,1
+325,- She sure is.,14,3,positive,0.3182,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999870731706726,4
+326,"Kiki, how high do you intend to go?",35,8,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.4370388719191229,3
+327,This is my first job and I do not want,38,10,negative,-0.0572,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7047625801270038,2
+328,Well dont look now but thats an air plane flying under us.,58,12,positive,0.1406,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7324023971747895,3
+329,Lets see...Yep! Its just past the cape.,39,8,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5184871703177184,4
+330,Here we go!,11,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+331,Im getting to like this town more and more.,43,9,positive,0.3612,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6630121646403869,3
+332,Im getting sick to my stomach.,30,6,negative,-0.5106,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.668022900057586,1
+333,I cant wait to write mom and dad,32,8,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.4735082357356942,0
+334,"Look whos behind us, wild geese!",32,6,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7048394382892247,3
+335,And theyre coming with us!,26,5,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6683341287027533,1
+336,- They seem awfully upset.,26,4,negative,-0.4391,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6685659195272624,3
+337,They say a gust of wind is coming.,34,8,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.7318749375632764,1
+338,"Oh, no!",7,2,negative,-0.3595,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+339,A nest!,7,2,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+340,Leave me alone!,15,3,negative,-0.3595,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6684229657317606,2
+341,I wasns trying to steal your eggs!,34,7,negative,-0.5411,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5990759509372633,3
+342,My goodness!,12,2,positive,0.5093,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999805826832489,0
+343,Its your fault. The geese were kind enough,42,8,positive,0.1779,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7315733628088402,2
+344,"Oh, be quiet.",13,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+345,Look at them!,13,3,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999926752727625,3
+346,Up so high...that gust of wind took them,40,9,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7051985033524942,3
+347,"Kiki, weve got a problem.",25,5,negative,-0.4019,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7289786675677467,0
+348,The toy fell out!,17,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5968640403277942,0
+349,We gotta go back!,17,4,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6680159533508883,2
+350,Theyre calling you an egg stealer!,34,6,negative,-0.4574,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999712581754197,1
+351,"If I were you I wouldnt go back down there,",43,10,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.599991620998257,2
+352,"We have to, hold on!",20,5,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999824906502613,4
+353,Hey! Stop that!,15,3,negative,-0.4184,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.599983675629677,1
+354,Go away!,8,2,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999778073102816,4
+355,Leave us alone! Stop it!,24,5,negative,-0.6103,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.49375663035626005,2
+356,Maybe we better rethink our plan.,33,6,positive,0.4404,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6674796425940664,4
+357,Frankly I think this is a major insult.,39,8,negative,-0.5106,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5982423098996996,3
+358,Crows used to serve witches and do what you told them!,54,11,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7305284366574831,3
+359,"That was a long time ago, okay?",31,7,positive,0.2263,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.44108918170491734,3
+360,How about we go in after dark?,30,7,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+361,We wont be able to make it in time.,35,9,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7261401289757881,0
+362,Unless we buy outselves sometime...,35,5,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+363,You gotta be kidding!,21,4,positive,0.1759,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5993442962171502,2
+364,You can just pretend to be the doll until I find the real one.,62,14,negative,-0.1027,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6991331372873654,4
+365,"Dont worry, hold still.",23,4,positive,0.3412,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5560036557467192,3
+366,- Can I breathe?,16,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+367,It must be my present from auntie!,34,7,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6682217830546672,1
+368,Give it to me!,14,4,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999778620939582,2
+369,This is dumb!,13,3,negative,-0.5562,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999437544364205,4
+370,You are a bit late.,19,5,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6681862370683104,2
+371,"After my sister telephoned,",27,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999542099705586,0
+372,Im sorry.,9,2,negative,-0.0772,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999936152645332,4
+373,"Could I please have your signature, maam?",41,7,positive,0.3182,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.3916757875139967,5
+374,"Mom, can I put",14,4,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6674096331219188,3
+375,"Uh-huh, but youll be",20,5,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999766997489758,3
+376,Okay.,5,1,positive,0.2263,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999949598959676,3
+377,Ive gotta run! Bye!,19,4,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5627034876774206,2
+378,Thank you. Enjoy your present!,30,5,positive,0.7177,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7025856350827158,4
+379,"Come on, you stupid bird!",25,5,negative,-0.5707,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6634161525827249,2
+380,Ive...got a...brand new home for you!,37,8,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5513101629817535,2
+381,"Please hurry, Kiki.",19,3,positive,0.3182,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5378071830912894,2
+382,"I know you fell close by,",25,6,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.663430549901943,4
+383,There you are!,14,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+384,Hello! Anyone home?,19,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.3858626976484061,5
+385,Is anybody here?,16,3,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999649350843365,1
+386,Anybody here?,13,2,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999649350843365,1
+387,Yes! Stop shouting! Im on the roof.,35,7,positive,0.2695,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.7056198153882893,1
+388,Why dont you come up?,21,5,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6661753144945574,2
+389,What do you want?,17,4,positive,0.0772,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999906244326916,2
+390,"Well, you have a black cat in your cabin window.",48,10,positive,0.2732,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.7327618459383617,1
+391,"And you see, its mine, and I need it back.",42,10,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.505758572611021,2
+392,"Youre a good birdie, arent you?",31,6,positive,0.4404,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5127880936328738,0
+393,"So why was it alone in the forest, huh?",39,9,negative,-0.25,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999782165960226,2
+394,Thats where I dropped it.,25,5,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999951849823071,3
+395,I really need to finish this.,29,6,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5994527618506733,2
+396,Thats my girl.,14,3,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.4054701251096438,5
+397,"Youre just about through, okay?",31,5,positive,0.2263,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6686048151971765,3
+398,Well why didnt you tell me sooner,33,7,positive,0.2732,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6683991617951331,1
+399,He keeps me company.,20,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+400,"-Ive gotten sort of fond of him, you know.",42,9,positive,0.3832,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.479553099452204,4
+401,Oh no!,6,2,negative,-0.3595,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+402,His head is falling off.,24,5,negative,-0.1531,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+403,Woo...it mustve been the crows there,36,7,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999606875769724,3
+404,Its terrible!,13,2,negative,-0.5255,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+405,Hey! I know!,12,3,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999934553961379,4
+406,"So, youre on your own at thirteen!",34,7,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.4202098108596124,5
+407,"To be completely independent, and a witch.",42,7,negative,-0.4144,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999911477955492,4
+408,- How is it going?,18,4,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5987919945419674,4
+409,Hum...almost done.,18,3,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6674959622425467,4
+410,"Ket dear, turn off the TV.",26,6,positive,0.3818,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7050090164083667,3
+411,Your birthday guests are gonna be here soon!,44,8,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5153965320814506,0
+412,"Ket, you do hear me?",20,5,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6629253377226363,0
+413,Ket! Turn off the TV!!,22,5,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.668080720088799,3
+414,"Okay, okay!",11,2,positive,0.4753,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999949598959676,3
+415,- Im done.,10,2,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5996275047202229,4
+416,Better go get Jiji,18,4,positive,0.4404,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.30108119598659655,5
+417,- But I havent finished yet.,28,5,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.707014775090762,0
+418,Thanks!,7,1,positive,0.4926,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999862755355436,3
+419,Jeff likes my present,21,4,positive,0.4215,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6659659457070327,1
+420,Jeff is such a funny dog...,27,6,positive,0.4404,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7054136574794254,3
+421,He simply adores that stuffed cat.,34,6,positive,0.3818,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6670959305802544,1
+422,He thinks its a puppy.,22,5,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+423,-Hell be upset when Ket wants to take it and play with it.,58,13,negative,-0.7003,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7449410582494714,3
+424,- Dont forget to send your aunt the THANK YOU note.,51,10,positive,0.5992,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.49366161108531575,3
+425,- Ket!,6,1,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.59855395199763,3
+426,Well Im glad to see Jeff is excited about something.,52,10,positive,0.7579,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.552737216665131,1
+427,"Yeah, all he does is sleep all day!",35,8,positive,0.3595,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7066929192342079,3
+428,All day! Ha ha...,17,4,positive,0.4003,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999731726049131,3
+429,"Ket dear, go open the door.",27,6,positive,0.3818,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7294555300774745,0
+430,"Jeff, shut the door when youre done, okay?",42,8,positive,0.2263,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7614570096581311,3
+431,- There you are!,16,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+432,Im sorry.,9,2,negative,-0.0772,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999936152645332,4
+433,Jeff helped me to escape.,25,5,positive,0.1779,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5973368603753425,3
+434,"Kiki, if we ask him, I bet hell take the stuffed one back inside.",65,14,negative,-0.6808,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6338696496991872,4
+435,Hell do it! Hes a good dog!,27,7,negative,-0.508,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.596639758997207,1
+436,"Could you take this in, please?",31,6,positive,0.3182,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7039049931174204,2
+437,How are ya? Hungry?,19,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+438,- No Im tired.,14,3,negative,-0.6249,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999733396718065,1
+439,Very tired.,11,2,negative,-0.4927,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999733396718065,1
+440,Were both gonna sleep well tonight.,35,6,positive,0.2732,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.42949565610982776,3
+441,"By the way, that painter",24,5,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999870930814886,3
+442,told me she wants to do a drawing with me in it.,48,12,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6653239012604814,0
+443,- Naked?,8,1,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+444,Kikis Delivery Service,22,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7062549881905251,0
+445,Boring.,7,1,negative,-0.3182,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+446,"Wake up, youre supposed to be",29,6,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6974059286201463,3
+447,"I am,",5,2,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+448,- But it always gets busy about this time.,42,8,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5991586915278345,0
+449,I mean my customers.,20,4,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6670839482183899,1
+450,"Jiji, if nobody comes in,",25,5,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999933061079484,2
+451,"and be fat, fat, FAAAAT!",24,5,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+452,And what am I supposed to do about that?,40,9,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999639932087256,3
+453,"Well I like pancakes,",21,4,positive,0.5574,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999428333806546,4
+454,"Look, fur ball,",15,3,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999926752727625,3
+455,"Beautiful, isnt she? They tell me",33,6,positive,0.5994,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.39253767852264176,2
+456,"Her design may be fabulous,",27,5,positive,0.5267,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999911854786337,0
+457,Hello. Good Cooking Pan Bakery.,31,5,positive,0.4404,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7510542151315742,0
+458,"Pardon? Yes, maam.",18,3,positive,0.6124,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5081074103960722,1
+459,"About time we get a customer, huh?",34,7,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7003598908997404,3
+460,"Uh, yes, Maam, 430 will be a perfect time",41,9,positive,0.7506,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.577436588632308,0
+461,And the address?,16,3,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999732023474097,1
+462,Yes. The blue roof. Right.,26,5,positive,0.4019,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.7299895260763576,1
+463,Yep! Im pretty sure I have it all.,34,8,positive,0.7901,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.49566693695651415,4
+464,"And thank you very much, Maam.",30,6,positive,0.3612,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7050193158964149,4
+466,"Ill take this, please.",22,4,negative,-0.128,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.48031700381154024,2
+467,Okay?,5,1,positive,0.2263,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999949598959676,3
+468,Thank you very much. Good afternoon.,36,6,positive,0.6887,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7310007319347364,4
+469,"Oh come on. Youre not still mad at me, are you?",47,11,positive,0.3875,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.3968049833406342,5
+470,"Listen, were gonna have a huge party",36,7,positive,0.6124,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6657929121061529,3
+471,"Its called the aviation club,",29,5,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999389716260618,3
+472,Heres your invitation.,22,3,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.667429967262857,2
+473,Its a serious club for kids...were into flying aircraft and stuff.,66,12,negative,-0.0772,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7322820868669511,3
+474,And you know everybody would be really excited,46,8,positive,0.4005,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7289083081679748,4
+475,"Yes. May I help you, sir?",25,6,positive,0.6597,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.4036797477085927,1
+476,They tell me,12,3,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999930066995957,1
+477,Oh. Im sorry.,13,3,negative,-0.0772,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999936152645332,4
+478,Its very urgent this package arrive as soon as possible.,56,10,positive,0.2716,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6676574957706983,0
+479,Thats no proble...,18,3,negative,-0.296,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999951849823071,3
+480,Are you all right?,18,4,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5972514924573207,1
+481,- Uh...I do this everyday,25,5,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+482,Uh-uh.,6,2,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+483,Well I hope you make up your mind by 6o clock,45,11,positive,0.6124,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7249734439992268,3
+484,How much will that be?,22,5,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.599993374160263,4
+485,Will that be inside,19,4,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999836762065166,4
+486,- I wrote the address on the box.,33,7,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999732023474097,1
+487,Osono! Osono!,13,2,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999842716275062,0
+488,I got an invitation to go to a party,36,9,positive,0.4019,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6995284631105946,3
+489,"Im sure itll be a great party, Kiki.",36,8,positive,0.8442,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.3621848758093816,5
+490,"No, but my problem is what am I going to wear?",46,11,negative,-0.631,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.703537561484055,0
+491,"Kiki, you havent got a problem.",31,6,positive,0.3089,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7293815728718602,0
+492,"Besides, it makes you look beautiful",36,6,positive,0.5994,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.47351159090704414,2
+493,- Really?,9,1,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+494,I almost forgot about that!,27,5,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6633562401270974,0
+495,"Oh, no!",7,2,negative,-0.3595,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+496,Can you watch the store,23,5,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6685877323297381,1
+497,Jiji! Jiji!,11,2,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999933061079484,2
+498,"You were so mad at that boy,",28,7,negative,-0.6269,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6621331660589419,1
+499,Please dont talk!,17,3,positive,0.3802,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.44776081030772913,2
+500,Thank you very much! Bye!,25,5,positive,0.4738,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.472596372468996,4
+501,"Come on, Jiji!",14,3,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6681948176718324,2
+502,We cant keep our next appointment waiting!,42,7,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7311263759308644,0
+503,Theres the blue roof.,21,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7027288658537273,0
+504,Here we are.,12,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+505,My names Kiki. Someone telephoned,33,5,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6624159315740379,0
+506,"Right this way, dear.",21,4,positive,0.3818,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7038303283786695,3
+507,- Youre right on time.,22,4,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7013688975565974,3
+508,"Oh, Madam, the delivery girl is here.",37,7,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.3105110316485043,5
+509,My...Delivery time already?,27,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7044721673142244,0
+510,Come in dear.,13,3,positive,0.3818,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.4111368337879609,5
+511,- Please do.,12,2,positive,0.3182,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999916401822277,2
+512,May I take that for you?,24,6,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.42463829121973967,5
+513,Thank you.,10,2,positive,0.3612,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999877519137048,4
+514,Broom and black cat.,20,4,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.7032957618268852,1
+515,Well its just as my great-grandmother told me!,46,9,positive,0.3382,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6656015093340265,0
+516,"My name is Kiki, and Im a witch.",32,8,negative,-0.3612,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.49325693695612577,0
+517,"Oh my, what a pretty witch you are!",35,8,positive,0.2481,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.39619459887198694,5
+518,"Im so sorry, but that special treat you were",44,9,positive,0.7785,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6670451831298908,4
+519,I think theres something wrong with it.,39,7,negative,-0.4767,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7045854185477404,0
+520,Its got a mind of its own.,26,7,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6664869550124038,1
+521,And it doesnt want to heat up.,30,7,negative,-0.0572,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6658809873637941,2
+522,Its old.,8,2,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999700505509756,4
+523,I was hoping youll be able to deliver the dish,46,10,positive,0.4215,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5778535902498971,1
+524,Its my specialty,16,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+525,But I must admit defeat.,24,5,negative,-0.4215,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999790955983656,1
+526,Ill have to phone her,21,5,negative,-0.4215,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.45376231715726556,4
+527,I feel just awful,17,4,negative,-0.4588,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5991816629216188,4
+528,Bertha! Bertha!,15,2,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5979194575095222,1
+529,"Would you get Kikis money, please.",34,6,positive,0.3182,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.3730865630645649,5
+530,"Certainly, madam.",17,2,positive,0.34,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6685420541038276,3
+531,All of it.,10,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+532,"- Oh, no. I couldnt be...",25,5,negative,-0.296,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+533,This was all my fault.,22,5,negative,-0.4019,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999465400462678,2
+534,"Yes, but...",11,2,positive,0.4019,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999935492798354,1
+535,"Maam, since I dont have any other jobs,",39,8,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.4913060490147403,3
+536,How about we use that old oven over there?,42,9,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7068764514411049,4
+537,"Well, maybe...",14,2,positive,0.2732,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+538,"It used to bake beatiful bread,",31,6,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6684380912985712,3
+539,"Well, if it burns firewood, I can help you.",43,9,positive,0.5859,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999817437618992,0
+540,But its a big job to build a fire.,34,9,negative,-0.4767,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7057672564896156,4
+541,"A great idea, maam.",19,4,positive,0.6249,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7052543149079086,0
+542,I never like that electric thing.,33,6,negative,-0.2755,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5988041715341814,1
+543,"Maam, itll work. Really!",24,4,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7034833548221708,4
+544,You think so?,13,3,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5982423098996996,3
+545,Dont blame me if youre late for your party!,43,9,positive,0.6159,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7269327295814306,3
+546,I cant take her money and not help out!,39,9,negative,-0.3716,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7216987919989487,0
+547,Lets go!,8,2,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999820469380862,4
+548,"Madam, here. Look what I found!",31,6,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6667625978062601,3
+549,"Youre very clever girl, my dear.",32,6,positive,0.7089,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.4789095690695099,3
+550,"Oh, well, this is exciting.",27,5,positive,0.6486,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+551,"Uh-huh. Yes, this is much better!",33,7,positive,0.7088,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5042189114883411,4
+552,It should be about time.,24,5,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5991586915278345,0
+553,"Yes, the fire is almost ready.",30,6,positive,0.3626,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.7287537516090605,1
+554,Now we wait.,12,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999883631862785,0
+555,- You think 40 minutes should be about right?,45,8,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7038135082692072,3
+556,- So why dont we take a little break?,37,8,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.4526084038943215,2
+557,"Oh! Well, nice of you to offer...",33,7,positive,0.636,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.599980866532607,4
+558,What a wonderful witch!,23,4,positive,0.3595,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999911477955492,4
+559,There we go!,12,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+560,- Youre nevery gonna make the party on time.,44,8,positive,0.4019,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7490147911523501,3
+561,Itll only take me 15 minutes,28,6,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7013336100150696,4
+562,Would you like some hot tea?,28,6,positive,0.3612,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.7053083030114693,1
+563,Oh dear!,8,2,positive,0.4389,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5981532728593869,0
+564,Its at 6 oclock.,16,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+565,Oh my goodness!,15,3,positive,0.5093,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999805826832489,0
+566,Im afraid my clock,18,4,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6682050808328782,2
+567,- I gotta be late!,18,4,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.667863234234165,2
+568,Help! Bertha! Come!,19,3,positive,0.5538,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5422132940258634,0
+569,"Quickly, we have to hurry.",26,5,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.667277562262807,2
+570,- Is the pie baked? Is it ready?,32,7,positive,0.4329,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.663996011770091,1
+571,Got ready! Come on!,19,4,positive,0.4738,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.49688140063951086,1
+572,- Okay.,7,1,positive,0.2263,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999949598959676,3
+573,- But thats much too much!,26,5,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.47546445864302794,4
+574,Hurry up. Hurry up!,19,4,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999833304041594,2
+575,Have a good time now!,21,5,positive,0.4926,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6675746058408674,0
+576,We can beat the rain if we just fly a little faster!,52,12,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7065232513910698,2
+577,Not according to my whiskers!,29,5,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+578,"Could we get out of the rain, please?",37,8,positive,0.3182,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5819944609177025,2
+579,- Im begging you!,17,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+580,"And, the food will get colder if we stop.",41,9,negative,-0.296,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.4026385045285196,1
+581,Yes? What do you want?,22,5,positive,0.5204,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.3903720140660126,2
+582,I have a delivery.,18,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999907325344948,0
+583,But its soaking wet.,20,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+584,"Oh, well, Im sorry. It began to rain on the way.",48,11,positive,0.2023,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.3131567097176691,5
+585,Oh no. I told Grandma I didnt want that.,40,9,negative,-0.3447,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5685792399738655,2
+586,"Hey, what do you get?",21,5,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999924701409898,3
+587,"Oh, Grandma sent me another one of",34,7,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7053765333391345,4
+588,"Mmm, yummy herring pie!",23,4,positive,0.5707,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6680100704049214,4
+589,"Um, would you please sign",25,5,positive,0.3182,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.38737825319476515,1
+590,I hate Grandmas stupid pies.,28,5,negative,-0.7964,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999575305433701,2
+591,I cannot believe theyre related!,32,5,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.668550606575442,1
+592,Maybe we still have time.,25,5,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6632141794710732,0
+593,"Kiki, there he is!",18,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.599997270640632,0
+594,Come on! We can catch him!,26,6,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999963460656309,2
+595,"Kiki, we were all so worried about you.",39,8,negative,-0.4341,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.599997270640632,0
+596,And that poor boy waited such a long time.,42,9,negative,-0.4767,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.44387040468223904,2
+597,It doesnt matter anyway.,24,4,neutral,-0.0191,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6996886152957377,1
+598,"Kiki, whats wrong?",18,3,negative,-0.4767,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7042689745774074,0
+599,Are you not feeling well?,25,5,negative,-0.2924,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999831433532283,1
+600,May be we should eat something.,31,6,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.667131968220013,0
+601,"Wake up, Kiki!",14,3,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.4321596252822756,2
+602,"Not feeling very well, huh?",27,5,negative,-0.3401,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999831433532283,1
+603,- You have quite a fever.,25,5,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999788105945035,4
+604,"Well, you flew in that weather",30,6,positive,0.2732,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6675040906013389,2
+605,"Do you think Im going to die, Osono?",36,8,negative,-0.5994,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7022290652505365,0
+606,"No, youre not.",14,3,negative,-0.296,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999930970817267,3
+607,And you should have some pot pie.,33,7,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5984623568534961,4
+608,Not that...,11,2,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+609,"Well then, Ill just make something else for you.",48,9,negative,-0.1779,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6657182546504622,3
+610,How about some nice hot oatmeal with honey in it?,49,10,positive,0.4215,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5872327837944178,1
+611,This oatmeal will pick you right up.,36,7,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6648506263217693,1
+612,"There you go, here.",19,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+613,Now dont burn your tongue.,26,5,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5974571505262481,3
+614,You should come and eat your meal,33,7,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6980660374967929,2
+615,Do I have to eat it?,20,6,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5976451844079372,0
+616,Only if you want to get well.,29,7,positive,0.34,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.38891037108370874,5
+617,Oh. You know that boy stopped by,32,7,negative,-0.2263,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6675528068222569,4
+618,"Thats right. When I told him you were sick,",43,9,negative,-0.5106,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.4569221501355722,3
+619,"Oh, and he said he wanted",25,6,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999633492715433,4
+620,"Oh, my god, no!",15,4,negative,-0.1007,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999667138902056,1
+621,"Well I thought you might feel that way,",39,8,positive,0.2732,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.727956045417529,3
+622,You must be tired. You try to get some sleep.,45,10,negative,-0.4404,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.4244447331705224,1
+623,"Now, Ill just open up the window",32,7,negative,-0.4215,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6993220012869223,1
+624,- Osono.,8,1,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999842716275062,0
+625,"Um, never mind.",15,3,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.66785447638231,1
+626,Breakfast! Jiji!,16,2,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.4233754005660052,3
+627,What?,5,1,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+628,Where are you?,14,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+629,Kiki?,5,1,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.599997270640632,0
+630,- Are you feeling better?,25,4,positive,0.5267,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.39548278584603835,1
+631,Im sorry.,9,2,negative,-0.0772,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999936152645332,4
+632,Thats okay. Come down later.,28,5,positive,0.2263,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5926954985964548,3
+633,Okay.,5,1,positive,0.2263,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999949598959676,3
+634,The name is Koppori?,20,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.599981397127206,0
+635,"Uh-huh. Now, take this money.",29,6,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.459010589243914,0
+636,"Oh no, maam.",12,3,negative,-0.296,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5983062901279326,0
+637,Impossible. Work is work.,25,4,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5981765025919432,2
+638,And make sure you deliver it in person.,39,8,positive,0.3182,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7293228022223892,4
+639,Jiji!,5,1,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999933061079484,2
+640,- What is it?,13,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+641,"Hey, whos your friend there?",28,5,positive,0.4939,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6685866259847251,3
+642,Lilys her name. Be right there.,31,6,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.40702392541260035,5
+643,Stay there. Ill be right back.,30,6,negative,-0.4215,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5424590084194373,1
+644,Its so pretty...and warm.,25,5,positive,0.2911,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999854331902487,0
+645,Hey there! Miss Witch!,22,4,negative,-0.5696,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6679639463328463,4
+646,- Taking a walk?,16,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999580561447773,0
+647,"Hey, thats my name! Thats me!",29,6,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.4350478852535452,3
+648,If you go around that way.,26,6,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.3847317477503142,5
+649,Okay...,7,1,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999949598959676,3
+650,"Osono, how could you do this to me...",37,8,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6651928690498178,0
+651,"Gee, thanks a lot.",18,4,positive,0.4404,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6604514182863291,3
+652,About the other night...,24,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999398189787967,0
+653,Im sorry you end up so sick like that.,38,9,negative,-0.4143,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.4071848769322978,1
+654,Hey! Come over to my place.,27,6,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6646834872386487,2
+655,You gotta see it!,17,4,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.3888588174798578,2
+656,That party was to celebrate,27,5,positive,0.7506,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999807131240859,3
+657,This is the engine,18,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+658,Watch this.,11,2,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.599959605403965,1
+659,Were assembling the wings and the frame,39,7,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+660,Im planning on flying this thing,32,6,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6617185372950033,4
+661,"Miss witch, I gotta a great idea!",33,7,positive,0.3164,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.46744455608695673,4
+662,Why dont we go down to the beach where the dirigible landed yeasterday?,71,13,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6644010657484514,3
+663,Dirigible?,10,1,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999680098093925,3
+664,Dont tell you didnt hear about it?,34,7,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5958833816644882,1
+665,- I was sick.,13,3,negative,-0.5106,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999786933171279,1
+666,- Were going on this?,21,4,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5987919945419674,4
+667,I have to practice all the time anyway.,39,8,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.42415799613285193,1
+668,Okay. Ready?,12,2,positive,0.5267,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.4091279046975779,1
+669,This is my first time on a bike.,32,8,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.4691363006373982,0
+670,"Oh, boy! Just hold on!",22,5,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6681950967696196,4
+671,Brace the bike with your foot,29,6,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999732010688766,0
+672,Okay!,5,1,positive,0.2942,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999949598959676,3
+673,Kick off!,9,2,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+674,Now!,4,1,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+675,- Should I get off?,19,4,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999924701409898,3
+676,Go fast! Go!,12,3,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+677,Thats great! Hang in over there!,32,6,positive,0.6892,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.3834113520564375,5
+678,Lean your body to the inside,28,6,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6679875028492303,4
+679,Why?,4,1,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+680,Because otherwise we gonna have trouble turning!,48,7,negative,-0.4574,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6656066095579269,1
+681,Now!,4,1,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+682,Great! Youre doing fine!,24,4,positive,0.7568,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5188851428294627,3
+683,Now put your weight to it again!,32,7,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5995816485831635,3
+684,Thats it!,9,2,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999951849823071,3
+685,Were quite a team!,18,4,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999788105945035,4
+686,Alright! Were doing great!,26,4,positive,0.7707,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.41928853624105283,1
+687,"- Thats the dirigible, right?",29,4,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7035331144916495,3
+688,Were flying!,12,2,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5989795715008933,3
+689,Oh my...god!,12,3,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999667138902056,1
+690,Oh boy!,7,2,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.598952598244596,4
+691,"What happened? Tombo, are you okay?",35,6,positive,0.3094,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.3993977798578432,1
+692,- Yeah. Are you?,16,3,positive,0.296,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999903421519804,3
+693,What are you laughing at?,25,5,positive,0.4939,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+694,Your face!,10,2,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999743309787757,2
+695,Do I really look that funny?,28,6,positive,0.4877,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6661422724513083,3
+696,"Im sorry, but when we flew",26,6,neutral,-0.0387,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6647841282260838,4
+697,Yeah. Me too!,13,3,positive,0.3595,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999903421519804,3
+698,Was it your magic that made us stay up?,39,9,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.7034414552103192,1
+699,Im not sure. Anything is possible.,34,6,negative,-0.2411,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.410424450162492,5
+700,Your bike is a real mess.,25,6,negative,-0.3612,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.3806701981645879,5
+701,My propeller!,13,2,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+702,"I have to go get it, Kiki!",26,7,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.40464392640884705,5
+703,- Will you keep an eye on my bike for me?,41,10,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.668439579809958,0
+704,I think I pedaled too hard!,27,6,negative,-0.1759,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.4055709394741648,1
+705,"You wait here, Ill be right back!",33,7,negative,-0.4753,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.38481484113581704,5
+706,How great would it be to go around,34,8,positive,0.6249,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5161081542182241,4
+707,Of course you were flying,25,5,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6675919834541811,3
+708,"Well, yes.",10,2,positive,0.5859,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999935492798354,1
+709,My mother used to take me with her.,35,8,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.696599267490639,3
+710,"Gosh...you were so lucky, Kiki.",31,6,positive,0.5598,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.599997270640632,0
+711,People like you can just fly away,33,7,positive,0.3612,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5074039346924136,4
+712,Thats all I can do.,19,5,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999951849823071,3
+713,Flying used to be fun,21,5,positive,0.5106,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7048019071444516,3
+714,"Hey, wait! You cant not enjoy flying.",37,7,positive,0.3605,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.41366411616925913,5
+715,I know. I still feel that way though.,37,8,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.4454150607327989,3
+716,But Im very glad I came with you today.,39,9,positive,0.664,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7068542223454037,2
+717,Why dont I being you here whenever you want,43,9,positive,0.0772,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6655770870314265,2
+718,- Youre a very nice person.,27,5,positive,0.4754,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5326334643293675,4
+719,Sorry.,6,1,negative,-0.0772,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999936152645332,4
+720,You known my mom says the same thing.,37,8,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6663615399021878,3
+721,Dont be such a clown! Quit looking up the sky,45,10,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7030752231902206,2
+722,"- Hey, Tombo!",13,2,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999892614921033,1
+723,"- Guess whats up, Tombo!",24,4,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.2919007409009926,5
+724,Something really great!,23,3,positive,0.6893,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999941222971129,0
+725,"Ill be back in a sec, okay?",27,7,negative,-0.2263,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.49024855388612204,3
+726,Were all gonna get to go for a ride in the blimp.,49,12,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.665682647336,3
+727,"Really? Wow, thats great!",25,4,positive,0.8673,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.31631080091354713,5
+728,"Hey, whos your friend?",22,4,positive,0.4939,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6685866259847251,3
+729,Thats Kiki. Ill get her to come over.,37,8,negative,-0.4215,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5001109084151986,3
+730,"Hey! Come over me to gang, Kiki!",32,7,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.38259890869596686,5
+731,Were all going for a tour,25,6,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5987919945419674,4
+732,"Thanks, but I dont want to.",27,6,positive,0.1573,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.4280835992799879,3
+733,"Ah, why not? Itll be fun!",25,6,negative,-0.4577,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6669811830392312,4
+734,She made a delivery to my house on my birthday.,47,10,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7058792154289578,0
+735,- You mean shes working in her age?,35,7,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.73281812742899,1
+736,Come on.,8,2,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999963460656309,2
+737,"No, thanks. See you later.",26,5,positive,0.1779,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5206633256875024,3
+738,Whats the matter?,17,3,neutral,0.0258,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.66801168305385,0
+739,What are you so mad about?,26,6,negative,-0.6269,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999785022207755,1
+740,"Im not mad at all, Tombo.",25,6,positive,0.3875,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6683749826318284,1
+741,"I have a lot on my mind,",24,7,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6664700960418235,1
+742,"Forget her, Tombo. Come on!",27,5,negative,-0.2942,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.3230805873407647,5
+743,"...and dont forget that this summer, the hit music...",53,9,positive,0.1695,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.6643968246676762,3
+744,"Jiji, I think somethings wrong with me.",39,7,negative,-0.4767,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5145214147246352,0
+745,I meet a lot of people.,23,6,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6661509254645989,4
+746,But then I start feeling like such an outsider.,47,9,positive,0.6124,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999831433532283,1
+747,You should have seen how Tombos friends looked at me.,53,10,positive,0.4767,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6685377861636818,4
+748,Hey!,4,1,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+749,Where are you going?,20,4,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5987919945419674,4
+750,Some friend you are.,20,4,positive,0.4939,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999775944348386,3
+751,Hey! You know you cant be late for every meal,45,10,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.3620153994995959,5
+752,just because you have a new girlfriend!,39,7,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6674464978500406,4
+753,And you can wash your plate yourself!,37,7,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+754,Meow! Why yourre talking like a cat?,36,7,positive,0.4199,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6677835382743401,1
+755,Oh My!,6,2,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+756,"Oh, no! Talk to me! Jiji!",25,6,negative,-0.4724,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.41770698727807276,5
+757,You mean you cant speak anymore?,32,6,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.7032864986910762,1
+758,Jiji!,5,1,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999933061079484,2
+759,Whats going on with him?,24,5,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6632984332707144,0
+760,I cant understand anything hes trying to say.,45,8,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.7492091481009429,1
+761,What if it means...Oh my goodness!,34,7,positive,0.5093,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6683107794187884,0
+762,Im losing my witchs powers.,27,5,negative,-0.3818,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5995331183688745,0
+763,What do you mean?,17,4,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999882365555019,1
+764,"Its become very weak, so I...",29,6,negative,-0.4927,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999530035257938,2
+765,"But I promise Ill be really good with my work in the bakery,",60,13,positive,0.5483,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7218639439438351,4
+766,Well thats no problem.,22,4,negative,-0.4215,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.41766530770662064,5
+767,Ill bet your powers come back after you had some rest.,54,11,negative,-0.4215,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5631498673182354,3
+768,I really dont know.,19,4,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.3882597644112123,5
+769,Hey! Look at that!,18,4,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999926752727625,3
+770,"Hi, Kiki? Its me, Tombo. Did you see me today?",46,10,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6011220835133653,1
+771,Cuz the captain let me come into the control cabin during the test run.,71,14,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.4570951260919018,2
+772,"Boy, did have a cool time!",26,6,positive,0.3802,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5350439199055308,4
+773,"Hello? Kiki, are you there?",27,5,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6646347066212202,0
+774,Please dont call me anymore.,28,5,positive,0.3182,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7021750283949626,2
+775,What do you say? I can barely hear you.,39,9,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.4249453131374826,0
+776,What? Kiki? She hung up...,26,5,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.599997270640632,0
+777,"Whats the matter, dear?",23,4,positive,0.4019,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7063120006213061,0
+778,Im still training to become a witch.,36,7,negative,-0.3612,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.38907734023356333,5
+779,"If I lose my magic, that means",30,7,negative,-0.4019,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.37594855237563,5
+780,Kiki!,5,1,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.599997270640632,0
+781,"Ah-huh, right over there across the street...",45,8,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.42479244544036965,0
+782,"Kiki, Kiki!",11,2,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.599997270640632,0
+783,- Hi!,5,1,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+784,"Well, since you didnt come visit me,",36,7,positive,0.2732,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.3099391482443551,5
+785,- Im sorry.,11,2,negative,-0.0772,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999936152645332,4
+786,"Come on in. Cuz Im done now,",28,7,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.4759180585442826,2
+787,Youd better believe I will.,27,5,positive,0.4404,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.48223909159307154,4
+788,- Nice place you have.,22,4,positive,0.4215,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.38945812721603407,5
+789,- And Ill go make us some tea.,30,7,negative,-0.4215,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7029079769164122,3
+790,Sure.,5,1,positive,0.3182,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999870731706726,4
+791,Hey there. Unbelievable!,24,3,positive,0.2714,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+792,Youre the spitting image of,27,5,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999930970817267,3
+793,Coming through!,15,2,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5993011646714135,1
+794,So. Hows the delivery biz?,26,5,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999907325344948,0
+795,"- That bad, huh?",16,3,negative,-0.5423,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+796,I kind of saw you looked unhappy.,33,7,negative,-0.4215,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.4896421482042388,2
+797,I didnt know things like that,29,6,negative,-0.2755,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.3993852731679368,1
+798,Hey! Why dont you come and stay,31,7,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7013654778810355,2
+799,It will make you feel better.,29,6,positive,0.4404,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7053480228134523,4
+800,"How about it, kitty cat? Wanna come?",36,7,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.4153282226898114,1
+801,Rather be with your girlfriend?,31,5,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999574804578212,4
+802,"Come on, girl! Why not? Well leave now!",39,8,negative,-0.3071,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.47681490273704263,2
+803,Come on!,8,2,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999963460656309,2
+804,Hurry! Hurry! The bus is leaving!,33,6,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6602643301406654,2
+805,Okay...Now Im officially exhausted!,35,5,negative,-0.4199,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999949598959676,3
+806,Its beautiful here.,19,3,positive,0.5994,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999869826266067,2
+807,Whats the matter with you?,26,5,neutral,0.0258,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.66801168305385,0
+808,Huh? You...you really thought I was a boy?!,43,9,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6656692544460515,4
+809,"Well, its the way you dress and all.",36,8,positive,0.2732,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999870930814886,3
+810,Tell me what kind of boy,24,6,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.7008434515073263,1
+811,- You get along with the crows.,31,6,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7054565991313503,3
+812,Wow.,4,1,positive,0.5859,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999863768932066,2
+813,"Hello, everybody. Were home again.",34,5,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.49772286572158414,2
+814,Good afternoon.,15,2,positive,0.4404,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6638922974088606,4
+815,Why dont you go inside,22,5,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.4142842688015636,5
+816,Okay!,5,1,positive,0.2942,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999949598959676,3
+817,Like it?,8,2,positive,0.3612,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+818,Yes...,6,1,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999935492798354,1
+819,I have to say I became inspired,31,7,positive,0.4939,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999790501953317,1
+820,But I really havent got the face right.,39,8,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.296701620440935,5
+821,"Ive been waiting for you to come back,",38,8,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.730137545958317,2
+822,"- You mean, thats me?",21,4,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.40819403468864995,1
+823,You know itll make my life a lot easier if youd model for me.,61,14,positive,0.4215,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7504164849944049,4
+824,But Im not very beautiful.,26,5,negative,-0.6751,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999869826266067,2
+825,"Come on, Kiki. You have got a great face.",41,9,positive,0.6249,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.4338258509337086,2
+826,"Now, dont you be nervous. Sit down over here.",45,9,positive,0.2057,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.43505977243706223,1
+827,Raise your chin up a little.,28,6,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999873856109252,2
+828,"Look straight ahead,",20,3,positive,0.2263,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.42084810030026815,2
+829,Painting and magical powers,27,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5995331183688745,0
+830,- Sometimes Im unable to paint a thing.,39,7,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6659215981001786,1
+831,"Kiki, please dont move.",23,4,positive,0.3182,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.516292249063851,2
+832,Without even thinking about it,30,5,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6673912081761187,2
+833,Now Im trying to look inside myself,35,7,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.49286942676511714,3
+834,But I just cant figure it out.,30,7,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5982992828368757,0
+835,You know...could be you working at it too hard.,47,10,negative,-0.1027,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5939245549207478,1
+836,May be you should just take a break.,36,8,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5028737307263839,4
+837,"- Yeah. But still, if I cant fly...",35,7,positive,0.1531,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.36459945483349837,5
+838,"Take long walks,",16,3,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6655223198649901,2
+839,Dont even think about flying.,29,5,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7294176170083632,3
+840,"And then, pretty soon youll be flying again.",44,8,positive,0.4939,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.4024503605512226,5
+841,You think my problem will...,28,5,negative,-0.4019,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6645884447096234,0
+842,...go away. Thats right.,24,4,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.45366359818392044,3
+843,"When I was your age,",20,5,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.5999582615190748,1
+844,I loved to paint so much.,25,6,positive,0.5994,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6652650198643194,4
+845,"And then one day, for some reason,",34,7,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.39531667786824276,5
+846,"I tried and tried,",18,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+847,They were copies of paintings Ive seen somewhere before.,56,9,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.7016081009831022,4
+848,...and not very good copies either.,35,6,negative,-0.3865,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6641775793114104,0
+849,I just felt like I lost my ability.,35,8,positive,0.3612,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+850,That sounds like me.,20,4,positive,0.3612,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+851,Its exactly the same.,21,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999544175939594,0
+852,You see I hadnt figured out what or why I wanted to paint.,58,13,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.4569008777467549,4
+853,"When you fly, you rely on whats inside of you, dont you?",56,12,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.375347069554611,5
+854,Uh-huh. We fly with our spirit.,31,7,positive,0.1779,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6673932172314068,2
+855,"Trusting your spirit! Yes, yes!",31,5,positive,0.855,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.6608673777669665,1
+856,That same spirit is what makes me paint...,42,8,positive,0.1779,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.7027374594702306,2
+857,and makes your friend bake.,27,5,positive,0.4939,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7054941527696129,3
+858,"But we each need to find our own inspiration, Kiki.",51,10,positive,0.6808,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7243788997549192,0
+859,Sometimes its not easy.,23,4,negative,-0.3412,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.599965452669255,1
+860,I guess I never give much thought,33,7,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6149421790438991,2
+861,I get so caught up in all the training and stuff.,49,11,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.7041029130899817,3
+862,May be I have to find my own inspiration.,41,9,positive,0.5267,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.704748809413384,0
+863,But am I ever gonna find it?,28,7,neutral,0.0,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.7041768472726073,1
+864,"Well, for example, there were quite a few times",47,9,positive,0.2732,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999788105945035,4
+865,But it ended up being so great.,31,7,positive,0.8542,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999941222971129,0
+866,So I guess its worth it.,24,6,positive,0.2878,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5999811568054154,2
+867,"Today when I saw you,",21,5,neutral,0.0,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.6682112265642288,2
+868,- Youve got such a great face!,30,6,positive,0.6588,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5584985163032885,2
+869,Hey well its better than you cleaning my floor again!,53,10,positive,0.6476,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.5999865059425927,4
+870,- Lets turn out the lights and go to sleep.,43,9,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.4998028916566033,3
+871,- Sorry about taking your bed from you.,39,7,negative,-0.0772,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.4178099381702409,5
+872,So you really think Ill fly again?,34,7,negative,-0.4728,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.48155864497445106,3
+873,Sure. You just have to wait for the right inspiration to come along.,68,13,positive,0.6908,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.3143281624021269,5
+874,...and there it is folks.,25,5,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.5999508731873813,0
+875,Recently downed,15,2,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+876,... in a torrential rains,25,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+877,"Well it has been repaired, and it is now in final preparation...",64,12,positive,0.2732,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+878,Yes. Good Cooking Pan Bakery.,29,5,positive,0.6808,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6370502029540495,0
+879,Kiki! How are you?,18,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.599997270640632,0
+880,"Well, you take plenty of time coming home.",42,8,positive,0.2732,2,"come, jiji, back, please, want, dont, fly, little, beautiful, wow",0.5885383805733524,2
+881,That older woman you made a delivery for?,41,8,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.7049047704206166,0
+882,She has another delivery for you.,33,6,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.40526701046865443,5
+883,She was really very insistent.,30,5,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.2,5
+884,Great. Stop on your way back.,29,6,positive,0.4404,3,"yes, tell, see, right, tombo, mean, cat, didnt, stay, stop",0.25210256210803944,5
+885,Thank you so much for everything...,35,6,positive,0.3612,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6682880653197325,4
+886,"- Afternoon, maam.",18,2,neutral,0.0,1,"sorry, know, much, witch, going, sure, better, thank, girl, one",0.6644990196908118,4
+887,Weve been expecting you.,24,4,neutral,0.0,0,"kiki, great, time, may, delivery, good, wait, whats, pretty, maam",0.6681897432312542,0
+888,Thanks!,7,1,positive,0.4926,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5999862755355436,3
+889,There are less than five minutes,32,6,neutral,0.0,4,"thats, okay, youre, look, get, dont, yeah, ill, think, way",0.5989665478647822,3

@@ -1,0 +1,1147 @@
+﻿line_number,cleaned_line,char_length,word_count,sentiment,compound,dominant_topic,topic_keywords,topic_confidence,cluster
+1,"Sophie,",7,1,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249885956303995,2
+2,we just closed the shop.,24,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6248126215654538,2
+3,Why dont you come out,21,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6856202029861704,3
+4,"No, I better finish this.",25,5,positive,0.1779,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6883617331996114,3
+5,You go and have fun.,20,5,positive,0.5106,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6247577680481157,2
+6,"All right, suit yourself.",25,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6846962196924391,4
+7,"Lets go, girls.",15,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6846866949619562,4
+8,Wait for me!,12,3,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249244945870341,1
+9,Do I look OK?,13,4,positive,0.4466,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249704158605615,4
+10,Where?,6,1,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+11,Ive never seen it so close!,27,6,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4618151537257492,6
+12,Do you think Howl,17,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6864043317778213,2
+13,Hes gone.,9,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6884295344014252,4
+14,"No, hes just hiding in",22,5,negative,-0.5267,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249626316139554,4
+15,Did you hear what happened to,29,6,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6891064696801138,1
+16,They say Howl has,17,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.46316021795704254,3
+17,Now Im too scared,17,4,negative,-0.4404,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6246709380230159,2
+18,What?,5,1,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+19,Dont worry. He only,19,4,positive,0.3412,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6715758168340498,4
+20,"All right, lets go.",19,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6863243721823812,4
+21,You girls are so mean.,22,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.683775659990726,1
+22,Its not funny.,14,3,negative,-0.3412,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+23,Hey. Looks like a little,24,5,positive,0.3612,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6821899856338729,1
+24,"Oh, no, Im not lost.",20,5,negative,-0.0613,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+25,This little mouse looks thirsty.,32,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7211296275330245,1
+26,We should take her,18,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249429742464391,4
+27,"No thanks, my sisters",21,4,positive,0.1779,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249129199777291,1
+28,Shes pretty cute for a mouse.,29,6,positive,0.7351,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7495168748304791,1
+29,"How old are you, anayway?",25,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.624919570462215,4
+30,Leave me alone.,15,3,negative,-0.296,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.689134968828259,3
+31,You see? Your moustache,23,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249360588434201,4
+32,So? Shes even cuter,19,4,positive,0.552,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6892409064159448,1
+33,"There you are, sweetheart. Sorry Im",35,6,positive,0.6124,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249420568932038,3
+34,"Hey, were busy here.",20,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+35,It looked to me like the,24,6,positive,0.3612,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+36,Hup!,4,1,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6247388099817837,2
+37,Hup!,4,1,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6247388099817837,2
+38,What? Hey!,10,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+39,Dont hold it against them.,26,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6822211110107974,3
+40,Theyre actually not all that bad.,33,6,positive,0.431,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6892583064838285,3
+41,Where to? Ill be your,21,5,negative,-0.4215,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249601708410959,1
+42,Im just going to the bakery.,28,6,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249618531738825,3
+43,"Dont get alarmed,",17,3,positive,0.2584,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6771063622811822,1
+44,Act normal.,11,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6246912683404123,4
+45,Sorry. Looks like youre involved...,35,5,positive,0.296,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.48765155091544593,5
+46,This way.,9,2,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249242804677556,3
+47,Hold on...,10,2,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6248798730309144,3
+48,"Now, straighten your",20,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+49,"See? Not so hard, is it?",24,6,positive,0.2502,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6887235405610923,4
+50,You are a natural.,18,4,positive,0.3612,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.624713186364475,3
+51,Ill make sure to draw them off.,31,7,negative,-0.128,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.508421312035001,6
+52,But wait a bit before,21,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4247586946070929,5
+54,Thats my girl.,14,3,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6862498118131443,2
+55,"Excuse me, could we trouble",27,5,negative,-0.34,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.7164427599927805,3
+56,There you go. Do you any,24,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+57,Id buy those.,13,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+58,What time do you get off?,25,6,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.421101423830314,6
+59,She what?,9,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+60,"Hey, Im over here.",18,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+61,Sophie?,7,1,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249885956303995,2
+62,Lettie.,7,1,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6248918440754524,1
+63,Someone just told me you,24,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6889018069192925,3
+64,So that did happen.,19,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6246967750273629,3
+65,"Lettie, would you",17,3,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4132209452081108,5
+66,I should really get back to,27,6,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6891420969275625,1
+67,Wow. He must have,17,4,positive,0.5859,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6883611235417508,2
+68,But he was so kind to me.,25,7,positive,0.7935,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249125146432523,4
+69,"He rescued me, Lettie.",22,4,positive,0.4215,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6248918440754524,1
+70,Of course he did. He was,24,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248667730875489,4
+71,"You are so lucky, Sophie.",25,5,positive,0.5598,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249885956303995,2
+72,"If that wizard were Howl,",25,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4729987844374444,4
+73,"No, he wouldnt.",15,3,negative,-0.296,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6247383970741236,3
+74,Howl only does that,19,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249905522181544,2
+75,Dont give me that.,18,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6719113777687689,4
+76,You need to be more careful.,28,6,positive,0.2247,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249416608255317,1
+77,Even the Witch of the Waste,27,6,negative,-0.6486,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7252024048940743,1
+78,Are you listening?,18,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+79,"Lettie, the chocolate,",22,3,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6248918440754524,1
+80,OK. Ill be right there.,23,5,neutral,0.0343,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6618180178809,1
+81,Thanks.,7,1,positive,0.4404,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249129199777291,1
+82,All right. I better get going then.,35,7,positive,0.4404,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4436399286956885,5
+83,I just wanted to make sure,26,6,positive,0.3182,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.39644756425041355,6
+84,"Hello, Lettie.",14,2,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6891658702491753,1
+85,"Now Sophie, do you really want to spend",39,8,positive,0.1513,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4391047183240844,3
+86,The shop was just,17,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6248126215654538,2
+87,"And Im the eldest,",18,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+88,Im not asking what Father,25,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+89,I want to know what you want.,29,7,positive,0.1531,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4981930766431529,5
+90,Well...,7,1,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+91,"See you later, Lettie.",22,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.3179625855198846,0
+92,Good seeing you again.,22,4,positive,0.4404,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.624964925410169,3
+93,I better be going.,18,4,positive,0.4404,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6890850383256146,3
+94,Do something for yourself,25,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+95,"Im sorry, but the shops",23,5,neutral,-0.0387,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6881009149890616,3
+96,I could have sworn I locked,27,6,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249149282103976,3
+97,What a tacky shop.,18,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6890677777175294,2
+98,Ive never seen such,19,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4618151537257492,6
+99,Yet youre by far,16,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7226999800558186,1
+100,Im afraid you will,18,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249339016795669,2
+101,"The doors over here, maam.",26,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248997507866249,4
+102,Standing up to the,18,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6247490150132881,4
+103,thats plucky.,13,2,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249710055070589,2
+104,The Witch of the Waste?,23,5,negative,-0.6486,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6890110684585832,1
+105,The best part of that spell is,30,7,positive,0.6369,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7249000407699534,1
+106,My regards to Howl...,21,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249905522181544,2
+107,Oh... no.,9,2,negative,-0.296,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+108,"Thats really me, isnt it?",25,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6880573037880169,2
+109,Ive got to stay calm.,21,5,positive,0.3182,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.7490238884232749,2
+110,Ive got to stay calm!,21,5,positive,0.3802,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.7490238884232749,2
+111,"Now, theres no use",18,4,negative,-0.296,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6881325117094014,2
+112,"Its a bad dream, thats all.",27,6,negative,-0.3612,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.5513516169256034,3
+113,"Just go inside, go to bed.",26,6,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6889589184596305,1
+114,"Youre gonna be fine, Sophie.",28,5,positive,0.2023,0,"right, look, please, hes, help, fire, give, one, yes, take",0.42534005919493484,0
+115,Got to stay calm.,17,4,positive,0.3182,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.7247654692216242,2
+116,Look whos here!,15,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4249630816391,0
+117,Youre back! You here,20,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6887909314194663,1
+118,What do you think?,18,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249605633101076,2
+119,Its gorgeous!,13,2,positive,0.6476,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6246969104016321,3
+120,I know! Our customers,21,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624966476689432,1
+121,Sophie!,7,1,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249885956303995,2
+122,Im afraid your daughter hasnt,29,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249339016795669,2
+123,Thats strange. I wonder,23,4,negative,-0.2023,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.7235857889824568,2
+124,Sophie!,7,1,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249885956303995,2
+125,Sophie!,7,1,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249885956303995,2
+126,Sophie!,7,1,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249885956303995,2
+127,Dont come in here.,18,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6856202029861704,3
+128,Ive got a bad cold.,19,5,negative,-0.5423,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.5765000351155717,2
+129,I dont want you to catch it.,28,7,negative,-0.0572,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6844486018981476,3
+130,"You sound ghastly, like",23,4,positive,0.3612,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+131,Ill just stay in bed,20,5,negative,-0.4215,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.5160107549039689,6
+132,Well...,7,1,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+133,If you insist.,14,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+134,Up we go.,9,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+135,"This isnt so bad now, is it?",28,7,positive,0.5549,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.39980983447087814,0
+136,Youre still in pretty,21,4,positive,0.4939,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7227270525310581,1
+137,And your clothes finally suit you.,34,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.7219168725021746,4
+138,But you cant stay here,22,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4268415174307325,0
+139,Being old is worse,18,4,negative,-0.4767,0,"right, look, please, hes, help, fire, give, one, yes, take",0.624919570462215,4
+140,They say their prince,21,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6881374706887552,3
+141,And theyre blaming us.,22,4,negative,-0.4939,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249171195926285,3
+142,Yeah and it sounds like,23,5,positive,0.5719,0,"right, look, please, hes, help, fire, give, one, yes, take",0.624874323203373,4
+143,Nobody wants to go to war.,26,6,negative,-0.5994,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.41276969198629976,0
+144,Lets hope the prince,20,4,positive,0.4404,0,"right, look, please, hes, help, fire, give, one, yes, take",0.7041155576884153,4
+145,"Excuse me, could",16,3,positive,0.0772,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6891100936316167,3
+146,"Ill be fine, but thanks",23,5,positive,0.5187,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7206284701131195,1
+147,That was really kind.,21,4,positive,0.5709,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249125146432523,4
+148,"Sure, theres room in the back if you",36,8,positive,0.3182,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.5994095611472272,2
+149,Just a little ways farther,26,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.688477441267366,1
+150,Youre crazy if you,18,4,negative,-0.34,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6683078509995724,1
+151,Theres nothing but witches,26,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6876413987031179,2
+152,Thank you.,10,2,positive,0.3612,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624965195327696,1
+153,Shes going to the,17,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.41531511500347285,5
+154,She says shes looking,21,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7251133050101962,1
+155,Ill never get there,19,4,negative,-0.4215,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.725147052489737,1
+156,At least my teeth,17,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6155072098641198,4
+157,That would make a nice cane.,28,6,positive,0.4215,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.5996506778849288,1
+158,Up we go.,9,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+159,Might be too big.,17,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248724690522254,4
+160,This is one stubborn branch.,28,5,negative,-0.4019,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249448468599667,4
+161,Youre not getting the,21,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6803366957682051,1
+163,Just a scarecrow!,17,3,negative,-0.2714,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248379798116143,4
+164,I was afraid you were,21,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249339016795669,2
+165,But howre you standing,22,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6247490150132881,4
+166,Youre heads a turnip.,21,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.43256673409125557,0
+167,"Ive always hated turnips,",25,4,negative,-0.6369,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6876284055058793,2
+168,At least youre not,18,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6780090578429434,1
+169,So long.,8,2,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6247030906689008,2
+170,Its too cold.,13,3,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6247821101044372,2
+171,And I can still see the town.,29,7,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.718997150741956,4
+172,Go away! Quit following me!,27,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.7251202983669441,4
+173,"Theres no need to thank me,",27,6,positive,0.0772,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.5133169121043945,6
+174,Im sure you have some,21,5,positive,0.3182,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249374800484954,2
+175,and Ive had more than enough,28,6,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6882320443957062,2
+176,"So, just go find some",21,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6248762772024259,3
+177,"Thank you, this cane is perfect,",32,6,positive,0.7351,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4978317734173007,1
+178,If youd like to do me,21,6,positive,0.3612,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248104181638411,4
+179,you could run off and,21,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6891117285383804,3
+180,I seem to have become,21,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6852811779808732,4
+181,A battleship!,13,2,negative,-0.1007,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+183,Why do you get so,17,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624973866565622,1
+184,"Im fatter than ever, yet the",28,6,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6891987620728275,1
+185,Someones got a fire going.,26,5,negative,-0.34,0,"right, look, please, hes, help, fire, give, one, yes, take",0.3079050628626738,0
+186,You turnip-head!,16,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6891333635996459,4
+187,That is not what I meant when,29,7,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+188,Look at that. They,18,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249704158605615,4
+189,Is that the way in?,19,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249242804677556,3
+190,Slow down!,10,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+191,For heavens sake.,17,3,positive,0.4019,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+192,Make up your mind. Are you,26,6,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6878990720926281,1
+193,"Oh, my shawl!",13,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6164078050428337,3
+194,Its nice and warm in,20,5,positive,0.5719,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6849557599988759,1
+195,"Oh, my shawl, thank you.",24,5,positive,0.3612,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6782623805836713,1
+196,Im sure Howl wont eat the heart,31,7,positive,0.3182,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.7640271411008045,2
+197,Its been a pleasure meeting you.,32,6,positive,0.5719,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+198,Even if you are my least,24,6,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6825379567045237,1
+199,"Take care, Turnip-head.",23,4,positive,0.4939,0,"right, look, please, hes, help, fire, give, one, yes, take",0.7494842131154527,4
+200,There we go.,12,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+201,What a dump.,12,3,negative,-0.3818,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6247392822530541,3
+202,"When I think castle,",20,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6887847039023463,2
+203,"Well, one nice thing about getting",34,6,positive,0.5994,0,"right, look, please, hes, help, fire, give, one, yes, take",0.7174252874754709,4
+204,"I dont envy you, lady.",22,5,positive,0.2057,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6842756906501218,3
+205,Curses are tough. Youre gonna have a,36,7,negative,-0.128,0,"right, look, please, hes, help, fire, give, one, yes, take",0.43713608756481437,0
+206,The fire spoke!,15,3,negative,-0.4003,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249489888425033,4
+207,Let me guess. The curse wont,28,6,negative,-0.5423,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4424465333766003,0
+208,Are you Howl?,13,3,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249905522181544,2
+209,"No, Im an extremely powerful",28,5,positive,0.2247,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6890866541122092,2
+210,I just like to do that,22,6,positive,0.3612,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+211,"A fire demon. Well, then you",28,6,negative,-0.0772,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6872939859489436,4
+212,"Maybe, maybe not.",17,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+213,"Listen, if you can find a way",29,7,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6891307211695172,3
+214,then Ill break the spell,24,5,negative,-0.4215,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7244383628332016,1
+215,"If youre a demon, how do",24,6,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6502675808316518,1
+216,You promise to help,19,4,positive,0.6124,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249593660107048,4
+217,"I dont know, lady. Demons",25,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4610157078901727,5
+218,Then go find someone else.,26,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.7252277746038891,3
+219,Come on! You should,19,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249801820363158,3
+220,That spell keeps me,19,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4041678616254699,0
+221,and Howl treats me,18,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249905522181544,2
+222,It burns me up. You gotta keep,30,7,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249312430294528,4
+223,keep the castle moving.,23,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.5134198332563352,4
+224,Come on! You ever,17,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.437830353629764,5
+225,If you can figure out how to,28,7,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6247193720012099,4
+226,then you can break my spell.,28,6,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6891395533525725,1
+227,"After that, I can easily",24,5,positive,0.34,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6247159902062773,4
+228,"All right, its a deal.",22,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6218168515635232,4
+229,"Hey, lady? Lady?",16,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249266755963795,3
+230,Hello? Lady? Hello? Hey!,24,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.504955421237412,5
+231,Lady? Lady?,11,2,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249266755963795,3
+232,"Hey, let me get over there.",27,6,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6885052995357166,1
+233,Some big help youre gonna be.,29,6,positive,0.4019,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6146366280551274,4
+234,"Hey, whos this lady?",20,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6889503914007773,3
+235,Porthaven door.,15,2,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6889144954009059,3
+236,Stand by.,9,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249177029074396,4
+237,"Mr. Mayor, good day.",20,4,positive,0.4404,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6883373171960845,3
+238,"Good afternoon, sir. Would the",30,5,positive,0.4404,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.7216581805534161,3
+239,I am afraid that my master,26,6,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6892883242539883,2
+240,I speak for him in his absence.,31,7,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+241,An invitation from His,22,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.624838748076857,3
+242,The time for war is upon us.,28,7,negative,-0.5994,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6890776618127487,2
+243,His Majesty requires that every,31,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248820876404981,4
+244,Wizard Jenkins must report,26,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.7423762530807606,4
+245,That is all.,12,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+246,I cant believe its come to this.,32,7,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.7233040029166125,3
+247,And what do you think,21,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249605633101076,2
+248,Calcifer said that,18,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.687973571852946,3
+249,I did not. She just wandered,28,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+250,Shes from the Wastes?,21,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6886454318491234,1
+251,How do we know that,19,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624966476689432,1
+252,Do you really think Id,22,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249605633101076,2
+253,Porthaven door again!,21,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6889144954009059,3
+254,Must be a customer.,19,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6224754286626731,2
+255,Stand by.,9,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249177029074396,4
+256,"Yes, my dear child?",19,4,positive,0.6486,0,"right, look, please, hes, help, fire, give, one, yes, take",0.7248821579067198,4
+257,My mom sent me,14,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+258,"Yes, do come in.",16,4,positive,0.4019,0,"right, look, please, hes, help, fire, give, one, yes, take",0.42210308050533796,0
+259,Just keep quiet and dont,24,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.45717302227411805,0
+260,Its not the Wastes.,19,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6246881983231158,1
+261,"Excuse me, Granny,",18,3,positive,0.0772,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.689016342628613,3
+262,Thats right. Im the,19,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4020856824951094,0
+263,Dust your ship with this powder,31,6,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6247375473686387,1
+264,Thanks.,7,1,positive,0.4404,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249129199777291,1
+265,"Farewell, child.",16,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248007767686473,4
+266,Quit telling lies to,20,4,negative,-0.4215,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6890344894363718,4
+267,What about you?,15,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+268,I have to. Im,13,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+269,Its the Kingsbury door!,23,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6248886681395874,3
+270,Stand by.,9,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249177029074396,4
+271,Good day. Would this be the residence,37,7,positive,0.4404,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.7247898708060118,3
+272,It is.,6,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+273,I bear an invitation,20,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.624838748076857,3
+274,from His Majesty the King.,26,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6891784930708621,4
+275,Please inform Mr. Pendragon,27,4,positive,0.3182,0,"right, look, please, hes, help, fire, give, one, yes, take",0.7238016564160825,4
+276,are required to report,22,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6247743591544311,4
+277,I will inform him right away.,29,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.7225889468408278,4
+278,"This is the royal city,",23,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6247395963447478,3
+279,"Move it, Grandma or",19,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6869112999299275,3
+280,And stop wandering around!,26,4,negative,-0.3595,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6248058896514838,2
+281,"Leave it alone, Grandma.",24,4,negative,-0.296,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.7241205760752486,3
+282,"This is a magic house,",22,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6889210962206483,4
+284,"So, tell me, where",18,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249435730622724,1
+285,Only Master Howl knows that.,28,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6853963367489178,2
+286,I need some breakfast.,22,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4192228798707514,5
+287,Dont you want to have,21,5,negative,-0.0572,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6844486018981476,3
+288,"Yeah, but we cant use the fire.",31,7,positive,0.486,0,"right, look, please, hes, help, fire, give, one, yes, take",0.42310065227311106,0
+289,"Dont worry, I can cook.",23,5,positive,0.3412,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.46448569701170017,3
+290,It doesnt matter if you can cook.,33,7,neutral,-0.0191,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.7252340799311536,3
+291,"Thats right, lady. Im not",25,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.3254931441598878,0
+292,"Oh, theres my hat.",18,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6876378045856577,2
+293,Thats better.,13,2,positive,0.4404,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4213044419636447,0
+294,"All right, Calcifer.",20,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4046883253364292,0
+295,I dont cook! Im a scary,23,6,positive,0.4442,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.681531584163898,3
+296,How would you like a bucket,27,6,positive,0.3612,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6880375266642978,3
+297,Or maybe I should tell,22,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249435730622724,1
+298,Stupid me!,10,2,negative,-0.5707,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6247678219080347,2
+299,I never should have,19,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249395672490443,1
+300,"So, whatll it be?",17,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+301,Thats right. Thats a good fire.,31,6,positive,0.128,0,"right, look, please, hes, help, fire, give, one, yes, take",0.3508613834376256,0
+302,Heres another curse.,20,3,negative,-0.5423,0,"right, look, please, hes, help, fire, give, one, yes, take",0.7218081022293917,4
+303,Calcifers doing what she says.,30,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.42385345783943407,5
+304,I think Id like some tea too.,29,7,positive,0.3612,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249605633101076,2
+305,"Sure. Hey, what are you doing?",30,6,positive,0.3182,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249374800484954,2
+306,Dont get the kettle! Whose side are you,39,8,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6771063622811822,1
+307,"Master Howl, the kings",22,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.7204658530821015,2
+308,They said you have,18,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6248903820921782,3
+309,as both Pendragon and Jenkins.,30,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6888324138832586,4
+310,Calcifer?,9,1,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249760284747331,3
+311,Youre being so obedient.,24,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249768897521559,1
+312,Not on purpose. She bullied me.,31,6,negative,-0.6249,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+313,Not just anybody can do that.,29,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+314,And you are... who?,19,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+315,You can just call me Grandma Sophie.,36,7,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6685138977701881,2
+316,Im your new cleaning lady.,26,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.5350637358990246,2
+317,Give that to me.,16,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249494054210989,4
+318,Hand me two more slices of that,31,7,positive,0.4939,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6246698941724049,3
+319,Yummy.,6,1,positive,0.5267,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+320,"So, then, who hired",19,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+321,Calcifer did. Hes disgusted,27,4,negative,-0.5267,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4034075831203355,0
+322,"Markl, get the plates.",22,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6890991691694318,1
+323,"Wait a second, youre all gonna",30,6,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.3830884409478457,6
+324,"Come have some breakfast,",25,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6863205743779254,3
+325,Take a seat.,12,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249429742464391,4
+326,Which do you want?,18,4,positive,0.0772,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.624958956201564,3
+327,You only get one,16,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.42122497028611855,0
+328,Looks like Ive got,18,4,positive,0.3612,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.7237969249471706,2
+329,"Bread, Markl?",13,2,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249582062098463,1
+330,Sophie?,7,1,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249885956303995,2
+331,"So, friends, enjoy.",19,3,positive,0.7828,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6247349654622434,3
+332,I cant remember the last time,29,6,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6156643532754343,2
+333,Even the manners are,20,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6248851998372927,1
+334,"So, what do you have hidden",27,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+335,What is this?,13,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+336,"Scorch marks. Howl,",19,3,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249905522181544,2
+337,That is ancient sorcery.,24,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+338,And quite powerful too.,23,4,positive,0.4754,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.689059818716072,2
+339,Its from the Witch of the Waste?,32,7,negative,-0.6486,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6890110684585832,1
+340,"You who swallowed a falling star,",33,6,negative,-0.1531,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6890135551982198,4
+341,"oh, heartless man, your heart",29,5,negative,-0.4939,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.7224307069972915,2
+342,That cant be good for the table.,32,7,negative,-0.3412,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.689174355543967,3
+343,Wow! Its gone!,14,3,positive,0.658,0,"right, look, please, hes, help, fire, give, one, yes, take",0.399624025567085,0
+344,"The mark may be gone,",21,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.7250949136486277,4
+345,"Excuse me, my friends,",22,4,positive,0.5267,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6890377604849737,3
+346,"Calcifer, move the castle",25,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.49759890419572145,3
+347,"And while youre at it,",22,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249768897521559,1
+348,Fine. Like moving the,21,4,positive,0.5106,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6867206516904688,4
+349,Youre not working for the,25,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6846098024137487,1
+350,I would never work for that witch!,34,7,negative,-0.4199,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.43299822913860364,5
+351,Shes the one who...,19,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4061024784257766,0
+352,Im actually a... yuh...,23,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+353,"If I ever get my hands on that witch,",37,9,negative,-0.3612,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7242322336056536,1
+354,Finish your breakfast!,22,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6890364722738755,3
+355,Ive had enough of this!,23,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6882320443957062,2
+356,You bugs better run before,26,5,positive,0.4404,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6889540777730598,3
+357,Im sick of being treated,24,5,negative,-0.5106,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6247678103573858,2
+358,"Hello, sir, is my potion ready?",31,6,positive,0.3612,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7218918299626208,1
+359,Come back later.,16,3,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.34627233439780764,6
+360,Theres a witch on,17,4,negative,-0.3612,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4001170055307985,6
+361,"Sophie, please!",15,2,positive,0.3802,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4264261872886964,0
+362,Sophie! Please help me!,23,4,positive,0.6792,0,"right, look, please, hes, help, fire, give, one, yes, take",0.5446867784451889,4
+363,"Please, get me some",19,4,positive,0.3182,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4061416396803348,0
+364,"Hey, please help me.",20,4,positive,0.6124,0,"right, look, please, hes, help, fire, give, one, yes, take",0.689272562280652,4
+365,Dont! Ill fall!,15,3,positive,0.4434,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7163139804972434,1
+366,Youll be fine.,14,3,positive,0.2023,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6814300002937662,1
+367,Im just sweeping out the ashes.,31,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+368,"No, Im not fine! Please!",24,5,negative,-0.6529,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6860566198690159,4
+369,Im going out!,13,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249618531738825,3
+370,Please. Im falling.,19,3,positive,0.1779,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6878373951143698,4
+371,Help! Im falling!,17,3,positive,0.3987,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6882586156845063,4
+372,"Sophie, hurry up, please.",25,4,positive,0.3182,0,"right, look, please, hes, help, fire, give, one, yes, take",0.5528878521293693,4
+373,"Hurry, please. P... P...",24,4,positive,0.3182,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6885899995541256,4
+374,Id appreciate it if you,23,5,positive,0.4019,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+375,"Master Howl, are",16,3,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6853963367489178,2
+376,"Markl, make sure the cleaning lady",34,6,positive,0.3182,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.374563906426373,6
+377,"Sophie, what did you do now?",28,6,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249885956303995,2
+378,She almost smothered me!,24,4,negative,-0.2261,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248392414894447,4
+379,"If I die, Howl dies too,",24,6,negative,-0.5994,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249905522181544,2
+380,Be quiet. Youre all right.,26,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7097365959700997,1
+381,"Now quit bothering me,",22,4,negative,-0.3818,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248337138495802,4
+382,"Wait, you cant come up here!",28,6,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.48774378186752276,5
+383,Whatever you dont want me,25,5,negative,-0.0572,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.7201739285417247,3
+384,"Save my room for last, OK?",26,6,positive,0.7297,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6891694160656305,2
+385,These little outbursts seem,27,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4096878709229911,0
+386,What a mess.,12,3,negative,-0.3612,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+388,Incredible!,11,1,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6247489070740677,1
+389,Calcifer! Calcifer!,19,2,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249760284747331,3
+390,Are you the one,15,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249448468599667,4
+391,Of course I am. No one else,27,7,negative,-0.296,0,"right, look, please, hes, help, fire, give, one, yes, take",0.5029816623865666,4
+392,I am thoroughly impressed!,26,4,positive,0.5697,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+393,You are a first-class fire demon.,33,7,negative,-0.34,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6872939859489436,4
+394,She likes my spark!,19,4,positive,0.6114,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.621918325707288,1
+395,Not ready! Not ready!,21,4,negative,-0.5864,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6248694746088647,1
+396,Its beautiful.,14,2,positive,0.5994,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6248519926286503,3
+397,Yeah. Its called Star Lake.,27,5,positive,0.296,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6889056763807047,4
+398,"Hey, whats that stick",21,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249381261922026,3
+399,"Dear. Give me a hand, Markl.",28,6,positive,0.7003,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4197170447573084,0
+400,Its a scarecrow.,16,3,negative,-0.2023,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248379798116143,4
+401,"Yep, Ive been calling",21,4,positive,0.296,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6812594022688713,2
+402,Somehow he always manages,25,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6890333083062518,2
+403,He keeps following me everywhere.,33,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6891713313645055,4
+404,Seems to have taken a liking to me.,35,8,positive,0.4019,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6248759422916472,3
+405,Thats weird. Are you sure,25,5,positive,0.1531,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.7233150698769565,2
+406,Yes! Im the worst kind of,25,6,negative,-0.4003,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6891708332544684,4
+407,"Quit pulling so hard, Turnip-head!",34,6,negative,-0.2865,0,"right, look, please, hes, help, fire, give, one, yes, take",0.7495970269214683,4
+408,I think he likes doing the laundry.,35,7,positive,0.4215,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.7113947342717014,2
+409,Looks like hell have,20,4,negative,-0.4767,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6819335794529766,1
+410,I bet hes some kind of demon.,29,7,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.7484498402588393,4
+411,Calcifer doesnt seem,20,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.5030946803495175,3
+412,Youre right. He probably is a demon.,36,7,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4604457646923717,0
+413,"But he led me here, so",22,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+414,We got all the laundry,22,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6873320089788476,2
+415,"Oh, thank you, Markl.",21,4,positive,0.3612,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6893074242963121,1
+416,"When youre old, all you want",28,6,positive,0.0772,0,"right, look, please, hes, help, fire, give, one, yes, take",0.32970072722391985,0
+417,"Its so strange, Ive never",25,5,negative,-0.2716,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.523130722816265,6
+418,"You OK? I mean, you smell terrible.",35,7,neutral,-0.0431,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6747287360427991,1
+419,You shouldnt keep,17,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249312430294528,4
+420,Soon you wont be able,21,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.688652242977262,2
+421,Isnt this great?,16,3,negative,-0.5096,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6855670815757564,2
+422,Sophie put these here for me.,29,6,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6856769898341709,2
+423,This war is terrible.,21,4,negative,-0.7906,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.687680211564695,2
+424,Theyve bombed from the southern,31,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6192269925782433,2
+425,Its all in flames now.,22,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+426,I cant stand the fire in gunpowder.,35,7,positive,0.2584,0,"right, look, please, hes, help, fire, give, one, yes, take",0.5393254786628808,4
+427,Those dopey guys have,21,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6247387632294235,3
+428,My own kind attacked me today.,30,6,positive,0.1027,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6886585738536269,4
+429,"No, some hack wizards who turned",32,6,negative,-0.296,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6247533694196885,3
+430,Those wizards are going,23,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.687381359933604,3
+431,Theyll never change,19,3,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249395672490443,1
+432,"After the war, they wont",24,5,negative,-0.5994,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6892440245147785,2
+433,"Hey, arent you supposed",23,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6247486905909625,1
+434,Im tired. Make some,19,4,negative,-0.4404,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6883730285980999,1
+435,What? Not again.,16,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+436,Is Howl back?,13,3,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.43975737050508995,6
+437,Yes. Hes wasting all,20,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6891728564966425,4
+438,I dont know why,15,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6772669339441083,1
+439,Master Howl hardly eats,23,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6853963367489178,2
+440,Good morning.,13,2,positive,0.4404,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6870769898091672,3
+441,Dont you love early morning markets?,36,6,negative,-0.5216,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.7203001733741706,3
+442,Ive never seen the ocean,24,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4618151537257492,6
+443,It always looks like that.,26,5,positive,0.3612,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.686160583634427,2
+444,I hate potatoes.,16,3,negative,-0.5719,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6246904633444436,1
+445,Pay up.,7,2,negative,-0.1027,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+446,"Thanks, have a nice day.",24,5,positive,0.6908,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.5025901494861833,5
+447,All our fish were caught,24,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6175446368168447,2
+448,I hate fish.,12,3,negative,-0.5719,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6807770318249569,1
+449,One of our ships,16,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.688075004952342,4
+450,It looks like its on fire!,26,6,positive,0.1007,0,"right, look, please, hes, help, fire, give, one, yes, take",0.3969210397229838,0
+451,Looks like theres,17,3,positive,0.3612,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6866031544868402,2
+452,What happened?,14,2,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624883526156273,1
+453,"The ship, its sinking!",22,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6247375473686387,1
+454,"Come on, Sophie,",16,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.41600920653447593,0
+455,"No, Ive seen all I can",22,6,negative,-0.296,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.68587581447322,2
+456,I cant believe it. Its our,26,6,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.687127100099394,3
+457,The witchs henchmen are here.,29,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6248410733652651,2
+458,What?,5,1,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+459,Theyre only a few feet away.,28,6,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.40259591355849567,0
+460,Hes gone.,9,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6884295344014252,4
+461,I dont understand why no,24,5,positive,0.2235,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6821705179116305,3
+462,Look! There they are!,21,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249704158605615,4
+463,That plane! Thats what,22,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249710055070589,2
+464,"Look up there, Sophie.",22,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.42923885847637216,0
+465,Sophie! Wait up! Sophie!,24,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4484827198881347,6
+466,Ignore the flyers.,18,3,negative,-0.3612,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+467,"Sophie, are you OK?",19,4,positive,0.4466,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249885956303995,2
+468,I just need a glass of water.,29,7,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6883639865512468,1
+469,Ill get it.,11,3,negative,-0.4215,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6892127681742579,1
+470,Sophie! You sabotaged me!,25,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249885956303995,2
+471,Look what youve,15,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.688049761621992,4
+472,Look!,5,1,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249704158605615,4
+473,What a pretty color.,20,4,positive,0.4939,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6886016787776027,1
+474,You completely ruined my,24,4,negative,-0.5256,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6246997134773014,1
+475,"I just organized things,",24,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+476,Wrong! Wrong!,13,2,negative,-0.7772,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+477,I specifically ordered you,26,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+478,Now Im repulsive.,17,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+479,I cant live like this.,22,5,negative,-0.2755,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6871220641898889,3
+480,"Come on, its not that bad.",26,6,positive,0.431,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6878875239755546,3
+481,You should look at it now.,26,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249704158605615,4
+482,I give up.,10,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249494054210989,4
+483,I see no point in living,24,6,negative,-0.296,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249360588434201,4
+484,"Howl, cut it out.",17,4,negative,-0.2732,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6814104028263107,2
+485,Hes calling the Spirits,23,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6820679938721064,4
+486,I saw him do this once before,29,7,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6164254993383936,4
+487,"Now, Howl, youre all right.",27,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.5040744267072774,6
+488,Well just dye your,18,4,positive,0.2732,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+490,"Fine! So, you think",19,4,positive,0.2714,0,"right, look, please, hes, help, fire, give, one, yes, take",0.39997491857540873,0
+491,Ive never once been,19,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4100984939853372,6
+492,Ive had enough of this place!,29,6,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.7240781814327146,2
+493,"Thank you, Turnip-head.",23,4,positive,0.3612,0,"right, look, please, hes, help, fire, give, one, yes, take",0.5333915126558325,4
+494,How did you get to be so kind?,30,8,positive,0.656,0,"right, look, please, hes, help, fire, give, one, yes, take",0.43090001260441635,0
+495,"Sophie, get back inside, we need",32,6,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6579382086290384,1
+496,"Howl, cut it out!",17,4,negative,-0.3382,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6814104028263107,2
+497,"Im drowning here, Howl.",23,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249905522181544,2
+498,Sophie! Do something!,21,3,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249885956303995,2
+499,Such drama.,11,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+500,"No, hes fine. Hes just",22,5,negative,-0.1027,0,"right, look, please, hes, help, fire, give, one, yes, take",0.680784607452412,4
+501,Come on. Give me,16,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4221782996187065,0
+502,Get the hot water running.,26,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7481012417294589,1
+503,Right.,6,1,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6218168515635232,4
+504,"Come on, Howl, you",18,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.42697411295640464,0
+505,"Get him cleaned up, Markl.",26,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6890991691694318,1
+506,I will.,7,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+507,Now I have to mop again.,24,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+508,This says theyve landed,23,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7195665328037494,1
+509,Where?,6,1,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+510,"Howl, Im coming in.",19,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6846947739336322,2
+511,I brought you some,18,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+512,Ill leave it here for you then.,31,7,negative,-0.4588,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.42808393402363903,5
+513,Try to drink it before,22,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248428872985071,4
+514,"Sophie, wait.",13,2,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4429270953998994,6
+515,Do you want some milk?,22,5,positive,0.0772,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.624958956201564,3
+516,The Witch of the Waste,22,5,negative,-0.6486,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6890110684585832,1
+517,I saw her henchmen at the harbor.,33,7,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6814744355667809,2
+518,"I am such a big coward,",23,6,negative,-0.4588,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6889375585701369,4
+519,And all of this magic is just,29,7,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248941234578608,4
+520,I cant stand how scared I am.,29,7,positive,0.3412,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.3372783778377283,0
+521,"Howl, why is the Witch of the",29,7,negative,-0.3612,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4493576974659393,6
+522,"She was once quite beautiful,",29,5,positive,0.6361,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.39765427886557486,0
+523,Then I realized she wasnt.,26,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6247074803022926,4
+524,"So as usual, I ran away.",24,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249251517951931,4
+525,I cant run much longer though.,30,6,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.7461686112590097,3
+526,as both Pendragon and Jenkins.,30,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6888324138832586,4
+527,How many aliases do,19,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6160505824832488,2
+528,As many as I need,17,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6799375543995018,1
+529,Just refuse the kings,21,4,negative,-0.296,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6856928203685538,2
+530,Thats the oath I took when I,28,7,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6863037782799377,2
+531,I must report to the palace,27,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.7117333161024082,4
+532,"You know, Howl, I think",23,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.49953287611684544,6
+533,What?,5,1,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+534,Give him a piece of your mind.,30,7,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4252471837248108,0
+535,Tell him this war is pointless.,31,6,negative,-0.6833,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4072045742386134,6
+536,And you refuse to take part?,28,6,negative,-0.296,0,"right, look, please, hes, help, fire, give, one, yes, take",0.502037296383679,4
+537,You obviously dont know,23,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6772669339441083,1
+538,But hes our king.,17,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.687762857941037,4
+539,He should want to hear what,27,6,positive,0.0772,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4221565993396283,5
+540,I got it!,9,3,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249533968018238,2
+541,Why dont you go to,18,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6145628927662237,3
+542,Just say that youre,19,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4429790372384587,5
+543,and your son is such,20,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6143767050916784,2
+544,Hes too afraid to show his face.,32,7,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4214295907899012,0
+545,Maybe then Madame Suliman,25,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6891099707718539,1
+546,Whos Madame Suliman?,20,3,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.5027304487692396,5
+547,Youre wearing that hat?,23,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4584307993672913,6
+548,After all the magic I used,26,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248941234578608,4
+549,"Take care of him, Markl.",24,5,positive,0.4939,0,"right, look, please, hes, help, fire, give, one, yes, take",0.5366798088476501,4
+550,Good luck.,10,2,positive,0.7096,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6876660412359964,3
+551,This charm will guarantee,25,4,positive,0.5719,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+552,Dont worry. Ill follow,22,4,positive,0.5773,0,"right, look, please, hes, help, fire, give, one, yes, take",0.5581044637528056,4
+553,Now. Off you go.,16,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+554,Why do I feel like this,23,6,positive,0.3612,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6248177580587361,3
+555,I wonder what Howl disguised,28,5,negative,-0.2732,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.7200542198089409,2
+556,Cant be a pigeon too. Hes,25,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4093747074215123,0
+557,That could be him.,18,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249149282103976,3
+558,Look how far I still have to go.,32,8,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.505406535073647,1
+559,Come on! Step right!,20,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.39659821836720927,0
+560,Howl? You disguised,19,3,negative,-0.2732,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6813931010507863,2
+561,You couldnt think of something,30,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249605633101076,2
+562,Do you know how hard it is,26,7,negative,-0.1027,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4342847120132198,0
+563,Look whos here.,15,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4249630816391,0
+564,The tacky little girl,21,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.536724998748611,6
+565,The Witch of the Waste.,23,5,negative,-0.6486,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6890110684585832,1
+566,Thank you for handing my,24,5,positive,0.3612,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624965195327696,1
+567,"Hows he doing, by the way?",26,6,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249242804677556,3
+568,Hes acting like a big baby.,27,6,positive,0.3612,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6884316183667321,4
+569,And hes working me to the,25,6,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.43615873948888284,0
+570,How delightful.,15,2,positive,0.5859,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+571,"So, tell me what business do",28,6,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249435730622724,1
+572,Job hunting.,12,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+573,And what about yourself?,24,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+574,I received a royal invitation.,30,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6891339816145834,3
+575,That idiot Suliman finally realized,35,5,negative,-0.5106,0,"right, look, please, hes, help, fire, give, one, yes, take",0.5447480880732974,4
+576,"If youre so great, why dont",27,6,positive,0.7384,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7126307971594179,1
+577,"Im sorry, dear.",15,3,positive,0.3182,0,"right, look, please, hes, help, fire, give, one, yes, take",0.41661658526683426,0
+578,"My talent lies in casting spells,",33,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6247270906185063,4
+579,"Bye, Granny.",12,2,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.689091546363497,3
+580,"Now, just wait a minute!",24,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249244945870341,1
+581,You get back here right now!,28,6,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7156879899432007,1
+582,"If I didnt have you to worry about,",35,8,negative,-0.4404,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6891192619719654,4
+583,What on earth is,16,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.624856072499264,3
+584,"Sorry, maam. Vehicles are",25,4,negative,-0.0772,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4094367364188204,0
+585,You must continue on foot.,26,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6224754286626731,2
+586,"That Suliman,",13,2,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249394957642772,1
+587,using her magic to force me to,30,7,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6891391022917189,4
+588,"Come on, Howl.",14,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.42697411295640464,0
+589,"We can do this, just act natural.",33,7,positive,0.3612,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.3967151343858214,0
+590,"Howl, why are you so heavy?",27,6,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.681400326356041,2
+591,Wait. Help. I cant make it.,27,6,positive,0.4019,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.43587873298094165,5
+592,Whatd you say?,14,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249175933773149,3
+593,You suddenly remembered how,27,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+594,I told you.,11,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.62490624534241,3
+595,I dont know how...,18,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6772669339441083,1
+596,Then start studying.,20,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+597,I dont get it.,14,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6771063622811822,1
+598,Where does she get,18,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624973866565622,1
+599,I have to rest a bit.,21,6,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.624735917392397,3
+600,Why dont you just give up?,26,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6719113777687689,4
+601,Youre killing yourself.,23,3,negative,-0.6597,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249768897521559,1
+602,Ive waited...,13,2,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249672745170388,2
+603,...for 50 years now,19,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+604,Ever since that Suliman...,26,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7244693403472837,1
+605,...banished me to live,22,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6248677330077718,3
+606,"Well, good luck then.",21,4,positive,0.7906,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6876660412359964,3
+607,"Too bad Im not younger,",23,5,negative,-0.5423,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249021835355468,3
+608,"Come on, Howl.",14,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.42697411295640464,0
+609,You cold-hearted old hag.,25,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.41093335127363884,0
+610,"Next time, Ill turn",19,4,negative,-0.4215,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.411647217463425,6
+611,Almost there!,13,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248392414894447,4
+612,"Honored guest, please follow me.",32,5,positive,0.7269,0,"right, look, please, hes, help, fire, give, one, yes, take",0.686789875057781,4
+613,You should go help her,22,5,positive,0.4019,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249593660107048,4
+614,I am strictly forbidden,23,4,negative,-0.4215,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+615,Why? Thats so rude.,19,4,negative,-0.5949,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249710055070589,2
+616,Come on! Let go!,16,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.424264850219764,5
+617,Dont give up now!,17,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6719113777687689,4
+618,Are you a witch,15,4,negative,-0.3612,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249386677423165,1
+619,Just shut up.,13,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+620,What happened?,14,2,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624883526156273,1
+621,Mrs. Pendragon and,18,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6890407205353287,4
+622,Pull yourself together. Isnt this,33,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6887791438716409,2
+623,Mrs. Pendragon and,18,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6890407205353287,4
+624,Your names Pendragon?,21,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249227981021602,4
+625,Why does that name,18,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6176560289228771,3
+626,Because that was the,20,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+627,Dont you remember?,18,3,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4654370662017555,2
+628,"Wait in here, please.",21,4,positive,0.3182,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4137461037323835,0
+629,A chair! Its mine!,18,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6248909928033373,2
+630,"Howl, get back here.",20,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.548721573433642,1
+631,"This way please, maam.",22,4,positive,0.3182,0,"right, look, please, hes, help, fire, give, one, yes, take",0.5043469738244128,4
+632,"Thank you, Madame Suliman.",26,4,positive,0.3612,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7250764712637042,1
+633,Madame Suliman.,15,2,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6891099707718539,1
+634,"So, you are Howls mother,",25,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6892690216985218,1
+635,"Yes, Im Mrs. Pendragon.",23,4,positive,0.4019,0,"right, look, please, hes, help, fire, give, one, yes, take",0.7250894146808476,4
+636,You must be tired.,18,4,negative,-0.4404,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.40836501195177727,6
+637,Thank you.,10,2,positive,0.3612,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624965195327696,1
+638,"I am Madame Suliman,",20,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6891099707718539,1
+639,"Thats not your dog, is it?",26,6,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6862372833850486,2
+640,His name is Heen.,17,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6800495725266292,1
+641,I had him escort you here.,26,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+642,I take it Howl wont,19,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.49358815841229503,2
+643,"Hes such a lazy son,",20,5,negative,-0.3612,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6802645100822609,4
+644,Im afraid the king would,24,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.3242658111651386,0
+645,I am very sorry to hear that.,29,7,negative,-0.1513,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4202571982862251,5
+646,Howl was the last apprentice,28,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6831456336411575,2
+647,Id never seen such,18,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6754623379202348,1
+648,I was so thrilled to have,25,6,positive,0.4927,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+649,talented enough to replace me.,30,5,positive,0.5106,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249089886960146,2
+650,"Then, one day, his heart",24,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4919349739274156,3
+651,He never returned to,20,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249395672490443,1
+652,"And from that day forward,",26,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.68891545142358,3
+653,he has been using his magic,27,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6891391022917189,4
+654,Mrs. Pendragon.,15,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6890407205353287,4
+655,That boy is extremely dangerous.,32,5,negative,-0.5256,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6247171908252553,2
+656,His powers are far too great,28,6,positive,0.6249,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7187777190644404,1
+657,"If he stays selfish, Im afraid hell",35,7,negative,-0.8271,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.5006247205875222,6
+658,Send her in.,12,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+659,What on earth happened to you?,30,6,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4054527232312854,5
+660,I just restored her to,22,5,positive,0.34,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+661,All her powers are gone now.,28,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6857691096272606,4
+662,"Once, she, too, was a magnificent",33,6,positive,0.5994,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+663,But then she fell prey,22,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+664,"who slowly consumed her,",24,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+665,Our kingdom can no longer,25,5,negative,-0.296,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6247212472120177,3
+666,to these disreputable,21,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+667,If Howl reports to me and vows to,33,8,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249905522181544,2
+668,I will show him how to,22,6,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6247839957393949,2
+669,"If not, Ill strip him of all",28,7,positive,0.3252,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6780387768034115,1
+670,That is enough!,15,3,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249089886960146,2
+671,Now I understand why Howl was so,32,7,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.46969258420485394,3
+672,Its a trap.,11,3,negative,-0.3182,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6247237631393419,2
+673,You lure people here with,25,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+674,and then you strip them,23,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6162853572270942,3
+675,Howl would never be so heartless.,33,6,negative,-0.6269,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.41030642319825955,6
+676,"He may be selfish and cowardly,",31,6,negative,-0.6908,0,"right, look, please, hes, help, fire, give, one, yes, take",0.685775091912896,4
+677,and sometimes hes,17,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6872120729257131,4
+678,but his intentions are good.,28,5,positive,0.5927,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.624964925410169,3
+679,Howl wont come here.,20,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.518640910144194,2
+680,He can fix his problem,22,5,negative,-0.4019,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6153177672332454,3
+681,I am certain of it.,19,5,positive,0.2732,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+682,Now I understand.,17,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6248872792247457,3
+683,Howl?,5,1,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249905522181544,2
+684,Did you say Howls coming?,25,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.30775207135906923,5
+685,"I want his heart,",17,4,positive,0.0772,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6828791439047578,3
+686,"Stop that, just calm down.",26,5,neutral,0.0258,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6891609953780558,2
+687,"Howl is not coming here, OK?",28,6,negative,-0.3465,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6846947739336322,2
+688,"Oh, I think he will.",20,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249605633101076,2
+689,"I now know his weakness,",24,5,negative,-0.4215,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624966476689432,1
+690,Your Majesty.,13,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248820876404981,4
+691,"So then, how are you feeling?",29,6,positive,0.128,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6246953884111303,1
+692,"Im fine, thank you.",19,4,positive,0.5106,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6800779708025205,1
+693,Thought Id drop by rather than,30,6,negative,-0.2732,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6838242921576653,1
+694,What an honor.,14,3,positive,0.4939,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+695,"This is Howls mother,",21,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6892690216985218,1
+696,Thanks for coming.,18,3,positive,0.4404,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.3964070715424155,6
+697,But Ive decided not to,22,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249672745170388,2
+698,We have tried using,19,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248233075932674,4
+699,to shield our palace,20,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6247153449422707,4
+700,But the bombs fall on,21,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6890503353160523,1
+701,Thats the problem with,22,4,negative,-0.4019,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.678180811737875,2
+702,"Youre so eloquent today,",24,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.45854767795708345,0
+703,Suliman!,8,1,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249394957642772,1
+704,Ive got a new battle plan.,26,6,negative,-0.3818,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.7246790384186091,2
+705,This time were gonna,20,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.403485334950733,0
+706,"Suliman, thats the best double",30,5,positive,0.6369,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.545836771982887,6
+707,Keep up the good work.,22,5,positive,0.4404,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.514754990462029,3
+708,Your Majesty.,13,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248820876404981,4
+709,Get my generals assembled.,26,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624973866565622,1
+710,"So nice to see you again, Howl.",31,7,positive,0.4754,0,"right, look, please, hes, help, fire, give, one, yes, take",0.5625659641008022,4
+711,"Youre looking well,",19,3,positive,0.2732,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6854265643839831,1
+712,Rather weak disguise.,21,3,negative,-0.5994,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6854413345639034,3
+713,Im not trying to outwit you.,28,6,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6246797489663388,2
+714,"I kept my oath, I",17,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6247459821451806,2
+715,Now Mother and I will go.,25,6,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249264932971075,1
+716,Im afraid not.,14,3,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249339016795669,2
+717,"Now whatever you do,",20,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6247448301578183,3
+718,Its time to show your mother,28,6,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.5204153009576331,6
+719,"Stop, Howl, its a trap!",23,5,negative,-0.5848,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.7200918060577941,2
+720,Hold on.,8,2,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6248798730309144,3
+721,"Sophie, sit up here.",20,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6831014000864154,2
+722,Did you have to bring,21,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+723,Nice doggie...,14,2,positive,0.4215,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6849275301719876,1
+724,I cant believe you,18,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.687127100099394,3
+725,I guess its too late to toss him.,33,8,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6890601381447353,4
+726,Sophie. Take the wheel.,23,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4409351033244471,0
+727,"What? I cant fly,",17,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6814083873318546,3
+728,Theyre gaining on us.,21,4,positive,0.4215,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249171195926285,3
+729,"Ill distract them, then you can fly this",40,8,negative,-0.6124,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6802144029686695,1
+730,How? I dont know the way.,25,6,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4702911558757149,5
+731,"Hey, dont worry. The ring that",30,6,positive,0.3412,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6715758168340498,4
+732,All you have to do is summon,28,7,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+733,Calcifer?,9,1,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249760284747331,3
+734,Its glowing!,12,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+735,Just keep following that light and,34,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6888406853820592,4
+736,I cant do this. Why did you make me,35,9,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4179256278742281,5
+737,Knowing youd be there gave,26,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6891018864495724,4
+738,"That woman terrifies me,",24,4,negative,-0.5574,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6247857705941482,4
+739,"You saved me, Sophie.",21,4,positive,0.4215,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6831065150475278,2
+740,I was in big trouble back there.,32,7,negative,-0.4019,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.5036940614936353,1
+741,Dont let go!,12,3,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6767248170456353,1
+742,Wow. Youre good.,16,3,positive,0.7717,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.3387125642959672,6
+743,Weve got a good lead now.,25,6,positive,0.4404,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6079807423374984,2
+744,I can give you 5 minutes of,27,7,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249494054210989,4
+745,Howl!,5,1,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249905522181544,2
+746,Good luck!,10,2,positive,0.7345,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6876660412359964,3
+747,"No, not now.",12,3,negative,-0.296,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+748,Thank you.,10,2,positive,0.3612,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624965195327696,1
+749,That was the most fun,21,5,positive,0.5563,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6247577680481157,2
+750,I suppose Howl thinks,21,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249905522181544,2
+751,I bet his mother,16,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.41820707736158685,0
+753,Almost there. Thats my,22,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4411012453435276,0
+754,"Dont try to be cute, dog.",25,6,positive,0.4588,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.329592834357098,0
+755,Im still not going,18,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.410382531890195,5
+756,The castle is coming to meet us!,32,7,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6891980177313758,2
+757,Sophie! Here!,13,2,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249885956303995,2
+758,"Markl, help me!",15,3,positive,0.4574,0,"right, look, please, hes, help, fire, give, one, yes, take",0.39806901092899905,0
+759,How am I supposed,17,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6247486905909625,1
+760,Sophie!,7,1,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249885956303995,2
+761,Nice doggie...,14,2,positive,0.4215,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6849275301719876,1
+762,Markl!,6,1,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249582062098463,1
+763,Im home.,8,2,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6248810253920424,1
+764,Are you hurt?,13,3,negative,-0.5267,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+765,I missed you.,13,3,negative,-0.296,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6248886138452319,3
+766,I missed you too.,17,4,negative,-0.296,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6248886138452319,3
+767,This is bad. Youve,18,4,negative,-0.5423,0,"right, look, please, hes, help, fire, give, one, yes, take",0.40677970351868453,0
+768,I wonder if Howls back home.,28,6,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.5706169551275683,1
+769,Howl?,5,1,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249905522181544,2
+770,"Howl, is that you?",18,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249905522181544,2
+771,Are you in pain?,16,4,negative,-0.5106,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+772,Go away.,8,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249251517951931,4
+773,"No, Im not going away.",22,5,negative,-0.296,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4127596885281727,0
+774,Im going to help you break,26,6,positive,0.4019,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.33084357874759446,0
+775,You... You cant even,20,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4325365392933553,5
+776,But you dont understand.,24,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6821705179116305,3
+777,Youre too late.,15,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4538632675242069,0
+778,Howl! No!,9,2,negative,-0.4184,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249905522181544,2
+779,"Calcifer, did Howl just get in?",31,6,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.3246155396330833,5
+780,Yeah and he looks terrible.,27,5,negative,-0.2263,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.49920186093335256,2
+781,You better figure out how,25,5,positive,0.4404,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4216657748199503,0
+782,"Howls running out of time,",26,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.5322819487970035,6
+783,You mean hell become,20,4,negative,-0.6808,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7221667053989003,1
+784,"I cant tell you details of the curse,",37,8,negative,-0.5423,0,"right, look, please, hes, help, fire, give, one, yes, take",0.33596539475639603,0
+785,Come on!,8,2,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249801820363158,3
+786,Do you know what,16,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624966476689432,1
+787,She said that Howls heart,25,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.5146389367816986,5
+788,Tell me now.,12,3,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249435730622724,1
+789,"Im so sorry, but that would",27,6,negative,-0.0763,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6892489493079557,3
+790,What if I dump a bucket,23,6,negative,-0.3818,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6891221094825948,3
+791,"If you drown me,",16,4,negative,-0.5719,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+792,"Hi, Turnip-head.",16,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6891333635996459,4
+793,This isnt gonna be easy.,24,5,negative,-0.3412,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4024904533078125,0
+794,OK. Ready!,10,2,positive,0.6932,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6248694746088647,1
+795,"All right. Calcifer,",20,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4046883253364292,0
+796,Here we go!,11,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+797,I... said... move!,18,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6892434500589498,3
+798,"If I just hang a little curtain here,",37,8,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6885275728846729,1
+799,"Come on in, its time to eat!",28,7,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.551223164005573,2
+800,Here. Want some more?,21,4,positive,0.0772,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.624958956201564,3
+801,Dont feed her! Thats,20,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4189818016971999,0
+802,Shes all right.,15,3,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.666883858215493,1
+803,She keeps staring at me.,24,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248588752380219,4
+804,What a pretty fire.,19,4,positive,0.2023,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.41011300563632713,0
+805,Howl! Hello.,12,2,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4692974469363559,6
+806,Glad youre home.,16,3,positive,0.4588,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7224300668637837,1
+807,"Master Howl, we can",19,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6853963367489178,2
+808,The Witch of the Waste,22,5,negative,-0.6486,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6890110684585832,1
+809,What possessed you to let,25,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624938428399579,1
+810,I didnt let them in.,20,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.41464256340066113,0
+811,Sophie crash-landed,19,3,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.467563850068781,6
+812,I knew shed make,16,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624937159636489,1
+813,Looks like we have yet,22,5,positive,0.3612,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6821191993783708,1
+814,Youve got quite a,17,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.5039396238273186,2
+815,It seems everyone in,20,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6248759422916472,3
+816,What a handsome man.,20,4,positive,0.4939,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6247885115838764,2
+817,So. Weve got a lot of,21,6,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.723867998942312,2
+818,Moving?,7,1,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248452997502315,4
+819,Im sick of being stuck out here,31,7,negative,-0.6486,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6247678103573858,2
+820,"Madame Suliman is hot on our trail,",35,7,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7248356212843592,1
+821,Im afraid your spell is,23,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4046038013347023,6
+822,Youre gonna have,16,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.43713608756481437,0
+823,There. All done.,16,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249007545947509,3
+824,"All right, Calcifer, line her up.",33,6,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4046883253364292,0
+825,There. That should do it.,25,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+826,Sit tight for a second.,23,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6890856800419405,2
+827,"Be gentle with me, please.",26,5,positive,0.6369,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249681930620459,4
+828,On my mark.,11,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6247120611781779,4
+829,Movings done. You,17,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249007545947509,3
+830,"This is great, Master Howl!",27,5,positive,0.6588,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.7190992354883606,2
+831,What a pretty fire.,19,4,positive,0.2023,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.41011300563632713,0
+832,But this is...,14,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+833,since our family seems,22,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.5258567977960551,5
+834,"Come over here, Sophie.",23,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.41600920653447593,0
+835,I added another bedroom too.,28,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248085256352953,4
+836,Have a look.,12,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249704158605615,4
+837,Whyd you... do this?,20,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+838,So wed have a room,18,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6247981506094757,2
+839,Do you like it?,15,4,positive,0.3612,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+840,Of course. Its perfect,22,4,positive,0.5719,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6889952388801653,4
+841,I got you some new clothes too.,31,7,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.7222388708212594,2
+842,"Come on, Sophie.",16,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.41600920653447593,0
+843,"All right, a courtyard!",23,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6218168515635232,4
+844,That shops ours too.,20,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6247538227504164,3
+845,Heen! Come on!,14,3,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.43778753287563227,5
+846,See that new color on the dial?,31,7,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.32108391169377215,0
+847,Theres a new portal.,20,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6888719071796586,2
+848,Its a present for you.,22,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+850,You like it? Its my,19,5,positive,0.3612,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+851,Its incredible.,15,2,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6247489070740677,1
+852,Did you use your,16,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6247853900805844,2
+853,"Only a little, just to",22,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249168432083724,1
+854,"This place is gorgeous, Howl!",29,5,positive,0.6476,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4736146193558715,2
+855,Its like a dream.,17,4,positive,0.5423,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6247339796831842,3
+856,Sophie?,7,1,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249885956303995,2
+857,"It all seems so familiar, yet I",31,7,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.3971833644119562,5
+858,I feel so at home.,18,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4051740206559739,5
+859,Come with me.,13,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249801820363158,3
+860,Look there...,13,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249704158605615,4
+861,What a cute cottage.,20,4,positive,0.4588,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6248168252819595,1
+862,I spent a lot of time here,26,7,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6880635866710932,2
+863,You were alone?,15,3,negative,-0.25,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6248153475138205,3
+864,"My uncle, who was a wizard, gave",32,7,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6890852381617184,4
+865,And now you can come,20,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249801820363158,3
+866,Whats the matter?,17,3,neutral,0.0258,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6885094233372713,3
+867,Its... Youre scaring me.,24,4,negative,-0.4404,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249768897521559,1
+868,I have this weird feeling,25,5,negative,-0.0516,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.3969643074219047,6
+869,"Howl, tell me whats going on.",29,6,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4434755008874534,5
+870,Please. I dont care,19,4,negative,-0.0844,0,"right, look, please, hes, help, fire, give, one, yes, take",0.7150096663709897,4
+871,Im just setting things up so that all of,40,9,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+872,With all the flowers,20,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+873,you could easily,16,3,positive,0.34,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4162205394785131,0
+874,Right? Im sure,14,3,positive,0.3182,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.42013600911684207,0
+875,"So, you are going away?",23,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4127596885281727,0
+876,"Please, Howl, I know",20,4,positive,0.3182,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.3230414542917481,0
+877,Even though Im not pretty,25,5,negative,-0.3875,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.72259281980987,1
+878,"Sophie! Sophie,",15,2,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249885956303995,2
+879,"Well, the nice thing about being old",36,7,positive,0.5994,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6845221577404722,4
+880,What is that thing doing,24,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+881,Still looking for more,22,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6873293811796835,1
+882,Is it the enemys,16,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+883,What difference does it make?,29,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624937159636489,1
+884,Those stupid murderers.,23,3,negative,-0.8271,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6247678219080347,2
+885,We cant just let them,21,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.42221918637463446,5
+886,Whats happening?,16,2,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249381261922026,3
+887,Just messed with it.,20,4,negative,-0.34,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+888,Howl!,5,1,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249905522181544,2
+889,Here they come.,15,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249801820363158,3
+890,Those things are Sulimans,25,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6247993875608224,2
+891,Faster! We need to take off!,28,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.3985959445878874,0
+892,"All right, youre going in.",26,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.45685099406431073,5
+893,No! Dont let go!,16,4,negative,-0.4184,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6767248170456353,1
+894,"Sophie, what happened?",22,3,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4561773255015579,6
+895,Im too old to be,16,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.624919570462215,4
+896,"Good night, Sophie.",19,3,positive,0.4404,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.5623621948218238,3
+897,Dont worry about Master,23,4,positive,0.3412,0,"right, look, please, hes, help, fire, give, one, yes, take",0.48154611301431677,4
+898,Sometimes he likes to,21,4,positive,0.4215,0,"right, look, please, hes, help, fire, give, one, yes, take",0.40303964284169064,0
+899,Thank you.,10,2,positive,0.3612,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624965195327696,1
+900,Need anything else?,19,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.42299501973282394,5
+901,Well. Good night then.,22,4,positive,0.6124,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6870898845414878,3
+902,Youre in love.,14,3,positive,0.6369,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.44000503889750914,5
+903,Dont deny it.,13,3,positive,0.2584,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6807210207355365,3
+904,Just as I thought.,18,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6247130470170715,1
+905,Have you ever been,18,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6248680698515849,1
+906,Of course I have.,17,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248667730875489,4
+907,"Strapping, young men",20,3,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6247784644827167,1
+908,"But their hearts, I just adore.",31,6,positive,0.7096,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248244580948301,4
+909,Youre terrible.,15,2,negative,-0.4767,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6656053884249515,1
+910,And theyre so cute too.,23,5,positive,0.5949,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.40305711672415667,5
+911,Whats that?,11,2,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249381261922026,3
+912,Its an air raid siren.,22,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6891146444350168,3
+913,Air raid?,9,2,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6891146444350168,3
+914,Its a long ways off.,20,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.39765435129081267,6
+915,But you better not go,21,5,positive,0.5927,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249331562014967,3
+916,Im sure Sulimans henchmen are,29,5,positive,0.3182,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.724791860987784,2
+917,What a good fire.,17,4,positive,0.128,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4047542851961831,0
+918,He keeps this house,19,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6890271726069593,4
+919,"Sophie, theres a",16,3,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6876381946348068,2
+920,Mother?,7,1,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249264932971075,1
+921,Sophie!,7,1,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249885956303995,2
+922,Thank goodness youre here!,26,4,positive,0.6996,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7220326967055816,1
+923,"My, look at your face,",22,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6870566559654302,4
+924,Everyones saying its,20,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+925,"Youll forgive me,",17,3,positive,0.2732,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6825013810014333,1
+926,Mother.,7,1,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249264932971075,1
+927,I barely recognize the place.,29,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6248051434883003,2
+928,Who is that woman?,18,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6247857705941482,4
+929,I forgot to tell you!,21,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6794956924876068,1
+930,Hes such a nice man,19,5,positive,0.4215,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4825904976739911,4
+931,so we can all live together again!,34,7,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4048510836802605,0
+932,You wont have to work,21,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4112570137187562,0
+933,"Thats all right, Mother.",24,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.505311909679113,6
+934,Really? I forgot!,17,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6170613554164406,3
+935,Ive got a car waiting.,22,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6892276020962905,2
+936,"Sophie, Im so glad",18,4,positive,0.5949,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.46792568979554383,6
+937,A peeping bug? Cant,19,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249752335006699,3
+938,"Open wide, Cal.",15,3,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6151571573120225,1
+939,I hope you and your new,23,6,positive,0.4404,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6859444003041436,2
+940,"Thank you, Sophie. Bye.",23,4,positive,0.3612,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.36057026463561376,5
+941,I did what I was told.,22,6,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.62490624534241,3
+942,"Yes, maam. Im sure Madame",25,5,positive,0.6124,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4214386152425931,0
+943,"Forgive me, Sophie.",19,3,positive,0.2732,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6791017023408796,2
+944,Wow. Look at all of them.,25,6,positive,0.5859,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4216868623895068,0
+945,"If they keep leaving at this rate,",34,7,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249312430294528,4
+946,Do you wanna leave,18,4,negative,-0.0516,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6248916477523131,3
+947,That lady said she wants,24,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.724646246372463,3
+948,"Yes, well, at least she",23,5,positive,0.5859,0,"right, look, please, hes, help, fire, give, one, yes, take",0.685545567655135,4
+949,"Dont leave, Sophie.",19,3,neutral,0.0382,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.5421972466985928,3
+950,I love you. You have to stay.,29,7,positive,0.6369,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.39960191917134097,0
+951,"I love you too, Markl.",22,5,positive,0.6369,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4174016425162054,5
+952,Ill stay.,9,2,negative,-0.4215,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.41867942934124597,6
+953,Really?,7,1,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+954,Because were a family now.,26,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6248277509688046,3
+955,"Yes, were a family.",19,4,positive,0.4019,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.42140405641964235,0
+956,"Thank you, Sophie.",18,3,positive,0.3612,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4291856766554246,6
+957,Ill never let Suliman,21,4,negative,-0.4215,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7498040975784972,1
+958,But the newspaper,17,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+959,Only idiots believe what,24,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6248788420133011,3
+960,Thats so strange.,17,3,negative,-0.2716,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6869386937161301,2
+961,Do you have to keep,19,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249312430294528,4
+962,It smells terrible.,19,3,negative,-0.4767,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6204492150071073,2
+963,Dont deny an old witch,22,5,negative,-0.119,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.36396631510141564,0
+964,"Markl, will you crack",21,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249582062098463,1
+965,"I wouldnt open that window,",27,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6829655589354363,3
+966,Calcifers too weak right now,28,5,negative,-0.4404,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.559444797181222,3
+967,Sulimans henchmen could get in.,31,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4507460556227013,6
+968,Markl!,6,1,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249582062098463,1
+969,Get back!,9,2,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6891420969275625,1
+970,"Markl, get back inside.",23,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7486922103497314,1
+971,Im going to check,17,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249618531738825,3
+972,There are bombs falling on us!,30,6,negative,-0.2244,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4048574790142548,0
+973,Why cant you put out,20,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4327858155456802,2
+974,Howl! No!,9,2,negative,-0.4184,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249905522181544,2
+975,This is exciting.,17,3,positive,0.4939,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+976,Howl!,5,1,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249905522181544,2
+977,"Im sorry, Sophie. I",19,4,negative,-0.0772,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.44093435387512625,3
+978,Youre alive! Thank goodness!,28,4,positive,0.8264,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7472637730762955,1
+979,Master Howl! Sophie!,20,3,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.7222471725283661,2
+980,Calcifer.,9,1,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249760284747331,3
+981,You hang in there now.,22,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624731408042703,1
+982,"Tell me, was that cigar a gift from",35,8,positive,0.4404,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249435730622724,1
+983,"Howl, she fed me something",26,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249905522181544,2
+984,"Why, if it isnt Howl.",21,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6842640481117236,2
+985,I think you and I need to have,30,8,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.3982150744891945,6
+986,"Theres nothing Id like more than that,",38,7,negative,-0.2755,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6876413987031179,2
+987,"How unlike you, Howl,",21,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249905522181544,2
+988,Until later then.,17,3,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6247823290412717,2
+989,Stay here. Calcifer will,24,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.42101689107550144,0
+990,Ill stand guard out front.,26,5,negative,-0.4215,0,"right, look, please, hes, help, fire, give, one, yes, take",0.547274586014474,4
+991,"No, wait! Howl! Dont go out",27,6,negative,-0.4184,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.538230489996044,6
+992,Another waves coming.,21,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4113133001925873,0
+993,And Calcifers too weak,22,4,negative,-0.4404,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6888601112366624,3
+994,Lets run! Dont fight,20,4,positive,0.3561,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4534167303093315,0
+995,Sorry. Ive had enough,21,4,negative,-0.0772,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.5129225155921685,2
+996,And now Ive got something,25,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6892276020962905,2
+997,Come back!,10,2,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.40986585095860756,5
+998,"Theres where we are,",20,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249556102380665,2
+999,Looks like Howls in trouble.,28,5,negative,-0.0516,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.7205853504513273,1
+1000,"Howl, look out!",15,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4399253891525145,0
+1001,Whats going on? Turnip!,23,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.5119670088634847,3
+1002,"Markl, I need your help.",24,5,positive,0.4019,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.5173180397658319,1
+1003,Are you crazy? I cant move,26,6,negative,-0.34,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.7224785475459958,3
+1004,"You have to try. If we dont break away,",39,9,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.5178024972599078,4
+1005,Id preferred him as a coward.,29,6,negative,-0.4588,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6247453640195727,4
+1006,"OK, we have to go now.",22,6,positive,0.4466,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+1007,We cant do that. Itll,21,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249752335006699,3
+1008,We already are.,15,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+1009,"And if we dont move quick,",26,6,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.7166017060625505,3
+1010,Sophie! Theyre about,20,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.45316488512504804,3
+1011,Quick. Help her,15,3,positive,0.4019,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6830027304359648,4
+1012,Right.,6,1,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6218168515635232,4
+1013,Youre coming with us.,21,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4398965739422675,6
+1014,I cant! Its impossible!,23,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249752335006699,3
+1015,No one but Howl can,19,5,negative,-0.1531,0,"right, look, please, hes, help, fire, give, one, yes, take",0.45133746832949395,0
+1016,"Theres no time to lose, Calcifer.",33,6,negative,-0.5994,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.5285369233931816,2
+1017,Dont do this!,13,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6145628927662237,3
+1018,"Help, help, crazy lady with a shovel!",37,7,positive,0.5093,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4269653054884679,0
+1019,"If you take me out that door,",29,7,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.41293427070946426,0
+1020,Good!,5,1,positive,0.4926,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.624964925410169,3
+1021,Were ready.,11,2,positive,0.3612,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6248694746088647,1
+1022,"Make sure I go out last,",24,6,positive,0.3182,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.525940844099268,6
+1023,"I dont know whats gonna happen,",31,6,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4756054535698407,3
+1024,I told you it would collapse.,29,6,negative,-0.4939,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6889239306049686,3
+1025,That ships headed for town!,27,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6890823373071829,4
+1026,"Markl, look after her, OK?",26,5,positive,0.4466,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.39780992369947504,0
+1027,"Turnip-head, help me",20,4,positive,0.4019,0,"right, look, please, hes, help, fire, give, one, yes, take",0.7250730377815361,4
+1028,"Dont you worry now, maam,",25,5,positive,0.3412,0,"right, look, please, hes, help, fire, give, one, yes, take",0.71631334889897,4
+1029,"Markl, heres a way in!",22,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.5391265996507336,5
+1030,"Watch, the roofs leaking.",25,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+1031,Hold on for a second.,21,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.39979105070997817,0
+1032,"Its wet here, Sophie!",21,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249885956303995,2
+1033,"Too damp, too damp,",19,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248077991600754,4
+1034,Hurry! Hurry!,13,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249148307222109,4
+1035,"Hurry, please!",14,2,positive,0.3802,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6885899995541256,4
+1036,"Markl, hurry, get inside.",25,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.5716601376541957,1
+1037,The castles a wreck.,20,4,negative,-0.4404,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+1038,Told you we shouldve stayed put.,32,6,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.40009092006104563,0
+1039,We have to tell Howl were not,29,7,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4533827330916244,6
+1040,Move the castle and,19,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.39942265336583005,0
+1041,What?,5,1,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+1042,I know you can do it. Ive,25,7,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4005411357773657,6
+1043,But theres no chimney here,26,5,negative,-0.4215,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249556102380665,2
+1044,And the woods all damp.,23,5,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248077991600754,4
+1045,They say that the,17,4,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249175933773149,3
+1046,when circumstances,18,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+1047,"Yeah, but no one really",23,5,negative,-0.296,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6889548739144834,4
+1048,"Come on, lets be honest.",24,5,positive,0.5106,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4377236925900637,0
+1049,What a pretty fire.,19,4,positive,0.2023,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.41011300563632713,0
+1050,All right. I need something,27,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6654438439629262,1
+1051,Whys that?,10,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+1052,I cant do it by myself.,23,6,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249752335006699,3
+1053,How about this?,15,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+1054,"Thanks, Calcifer.",17,2,positive,0.4404,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.423919726070045,5
+1055,Imagine what I couldve done,27,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249007545947509,3
+1056,Thats it! Youve,15,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4363183206257777,0
+1057,I found it!,11,3,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6179637263143939,1
+1058,I can see Howl down there.,26,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.45550260329845693,0
+1059,"Calcifer, hurry!",16,2,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.42400264087150535,0
+1061,Put it back!,12,3,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.42200178743827144,6
+1062,Let go!,7,2,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624938428399579,1
+1063,"Howls heart, its mine!",22,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.5176294657213252,6
+1064,Put it back now!,16,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.42200178743827144,6
+1065,Its hot!,8,2,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6247897333898438,1
+1066,Its burning me!,15,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+1067,Youre catching on fire!,23,4,negative,-0.4003,0,"right, look, please, hes, help, fire, give, one, yes, take",0.42654507531465774,0
+1068,"No, its mine.",13,3,negative,-0.296,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6248909928033373,2
+1069,Its mine! Its mine!,19,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6248909928033373,2
+1070,Sophie!,7,1,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249885956303995,2
+1071,Sophie!,7,1,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249885956303995,2
+1072,My hearts ruined!,17,3,negative,-0.5255,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.40086456978022,0
+1073,"Heen, what have I done?",23,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.40117313351345435,5
+1074,What if I killed Howl too?,26,6,negative,-0.6705,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249905522181544,2
+1075,Its moving. Is Howl still alive?,32,6,positive,0.3818,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.41007464424568063,0
+1076,Can you lead me to him?,23,6,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6247261025638755,2
+1077,The front door.,15,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4091450507290238,0
+1078,Heen.,5,1,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6248708503866385,1
+1079,Thats Howl.,11,2,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6879147103192196,2
+1080,I know where I am.,18,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624966476689432,1
+1081,Howl! Calcifer!,15,2,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.43471651633561753,3
+1082,"Its me, Sophie!",15,3,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249885956303995,2
+1083,I know how to help you now.,27,7,positive,0.4019,0,"right, look, please, hes, help, fire, give, one, yes, take",0.40099000860539075,0
+1084,Find me in the future!,22,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6248762772024259,3
+1085,"Sorry, Heen. Im trying to hurry.",32,6,negative,-0.0772,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.2670195260681098,0
+1086,I just cant seem,16,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4392989790659745,0
+1087,Howl.,5,1,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249905522181544,2
+1088,Im sorry. Did I come too late?,30,7,negative,-0.0772,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.4776795733304151,3
+1089,I didnt mean to make,20,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.5024372050101485,1
+1090,I need you to take me,21,6,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.3985959445878874,0
+1091,Hes dead?,9,2,negative,-0.6486,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249626316139554,4
+1092,Howl needs that back now.,25,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.43975737050508995,6
+1093,Dont look at me.,16,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6715779264071435,4
+1094,I dont know what,16,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6772669339441083,1
+1095,Please.,7,1,positive,0.3182,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249681930620459,4
+1096,Please give it back.,20,4,positive,0.3182,0,"right, look, please, hes, help, fire, give, one, yes, take",0.5193979889232359,4
+1097,You really want it that badly?,30,6,negative,-0.3626,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.624958956201564,3
+1098,Yes.,4,1,positive,0.4019,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249438442389815,4
+1099,All right then.,15,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6218168515635232,4
+1100,Youd better take,16,3,positive,0.4404,0,"right, look, please, hes, help, fire, give, one, yes, take",0.52294078327943,4
+1101,"Here, dear.",11,2,positive,0.3818,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6248478799196304,4
+1102,"Thank you, you have",19,4,positive,0.3612,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624965195327696,1
+1103,Calcifer.,9,1,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249760284747331,3
+1104,"Sophie, Im so tired.",20,4,negative,-0.5777,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4634144264485106,6
+1105,"If I give Howl back his heart,",30,7,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.35981499341174966,0
+1106,Ill be OK if you do it.,23,7,neutral,0.0343,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249601708410959,1
+1107,I mean you dumped water on me,29,7,negative,-0.4019,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6891011428342455,1
+1108,I better try then.,18,4,positive,0.4404,0,"right, look, please, hes, help, fire, give, one, yes, take",0.41212929022811273,0
+1109,Its so warm and,15,4,positive,0.2944,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6247298019582456,1
+1110,Its still just the heart of a child.,36,8,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.70244699807523,4
+1111,"Please, help Calcifer live.",27,4,positive,0.6124,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.43324549386048644,0
+1112,And please help Howl,20,4,positive,0.6124,0,"right, look, please, hes, help, fire, give, one, yes, take",0.5540095178069152,4
+1113,Im alive! Im alive!,19,4,positive,0.6988,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6248640566680783,1
+1114,Free! Free! Im alive!,21,4,positive,0.8772,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6248640566680783,1
+1115,He moved! See?,14,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249360588434201,4
+1116,It cant stand without Calcifer!,31,5,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.48363224717666214,3
+1117,Turnip!,7,1,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6249346384259381,4
+1118,His pole snapped.,17,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+1119,Are you all right?,18,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6218168515635232,4
+1120,"You saved us, Turnip.",21,4,positive,0.4215,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4240855823714299,0
+1121,"Thank you, Sophie.",18,3,positive,0.3612,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.4291856766554246,6
+1122,Im the prince whos been missing,31,6,negative,-0.296,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6882202024496096,3
+1123,Somehow I got that,18,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6873592719729115,2
+1124,I know that spell. A kiss,25,6,positive,0.4215,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6884714513088541,1
+1125,Thats right. If it,18,4,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4020856824951094,0
+1126,I would have been a scarecrow,29,6,negative,-0.2023,0,"right, look, please, hes, help, fire, give, one, yes, take",0.4215596531517971,0
+1127,"My, what a strapping",20,4,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6247784644827167,1
+1128,Whats going on?,15,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6889998058470732,3
+1129,"I feel terrible, like theres",28,5,negative,-0.1531,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.49278070079832736,2
+1130,A hearts a heavy burden.,24,5,negative,-0.4404,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4009871850201909,0
+1131,"Wow! Sophie, your hair",22,4,positive,0.6239,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6856761363608243,2
+1132,Its beautiful.,14,2,positive,0.5994,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6248519926286503,3
+1133,You think so? So do l!,22,6,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249605633101076,2
+1134,It looks like your true love,28,6,positive,0.8591,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.5387127646823636,3
+1135,You should go home anyway and,29,6,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6248810253920424,1
+1136,"Yes, thats exactly what Ill do.",31,6,neutral,-0.0258,0,"right, look, please, hes, help, fire, give, one, yes, take",0.32037534590487393,0
+1137,One thing you can always,24,5,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.4166685003815549,0
+1138,So as soon as this war,22,6,negative,-0.6833,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6887944247411549,2
+1139,I love it when you,18,5,positive,0.6369,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249240863757777,3
+1140,Ill look forward to your,24,5,negative,-0.4215,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.34604572638685227,0
+1141,There you are.,14,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+1142,You should have,15,3,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+1143,What on earth were you up to?,29,7,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.624856072499264,3
+1144,Howl found his true love.,25,5,positive,0.7906,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6354995601548451,3
+1145,You little traitor.,19,3,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.6249168432083724,1
+1146,The game is over.,17,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.25,0
+1147,Get me the Prime Minister,25,5,neutral,0.0,2,"youre, get, know, thank, ill, markl, back, tell, never, need",0.624973866565622,1
+1148,Its time to put an end,22,6,neutral,0.0,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6890848520153027,2
+1149,"Yes, maam.",10,2,positive,0.4019,0,"right, look, please, hes, help, fire, give, one, yes, take",0.6890837447019275,4
+1150,"Hey, its Calcifer!",18,3,neutral,0.0,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.6249760284747331,3
+1151,You didnt have to,17,4,neutral,0.0,0,"right, look, please, hes, help, fire, give, one, yes, take",0.624863039725782,4
+1152,I kind of missed you guys.,26,6,negative,-0.296,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.5304129300667396,3
+1153,And it looks like,17,4,positive,0.3612,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6168691496460853,2
+1154,"I missed you too, Calcifer.",27,5,negative,-0.296,3,"come, cant, calcifer, dont, good, going, want, sorry, lady, whats",0.687649190361108,3
+1155,Wow!,4,1,positive,0.6239,1,"howl, sophie, thats, ive, think, theres, got, sure, time, afraid",0.6249082080296876,2

@@ -1,0 +1,1114 @@
+﻿line_number,cleaned_line,char_length,word_count,sentiment,compound,dominant_topic,topic_keywords,topic_confidence,cluster
+1,Another village destroyed.,26,3,negative,-0.4939,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6949717755533436,5
+2,Lets go. Soon this will also be,31,7,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6542682002729461,5
+3,1000 years after the collapse,29,5,negative,-0.4939,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833260669739312,4
+4,"the Sea of Decay, a swamp",25,6,negative,-0.4019,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6547773564669289,2
+5,covered an earth strewn,23,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833315798385786,3
+6,threatening human survival.,27,3,negative,-0.5267,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833296752397239,6
+7,NAUSICA OF THE VALLEY OF THE WIND,33,7,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6949613211540564,3
+8,Executive Producers,19,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+9,Original story and screenplay by,32,5,positive,0.3182,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+10,Based on the serial graphic novel,33,6,positive,0.3182,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+11,Music by,8,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+12,Producer,8,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+13,Director,8,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+14,An Ohmus tracks.,16,3,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5829032085779033,3
+15,Theyre still fresh.,19,3,positive,0.3182,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6544499688868837,1
+16,An Ohmus shell.,15,3,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6525778217835642,4
+17,Amazing!,8,1,positive,0.6239,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+18,Ive never seen a perfect shell.,31,6,negative,-0.4585,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.7221187381618326,4
+19,Lovely sound.,13,2,positive,0.5859,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6541905749066157,2
+20,It chipped my ceramic sword.,28,5,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6547720698384665,6
+21,The villagers will be pleased.,30,5,positive,0.4404,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6547691471179632,2
+22,Theyll have plenty to,21,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833281443714176,1
+23,"What an eye,",12,3,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833215431828543,3
+24,I wonder if I can carry it.,27,7,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6536669584393575,3
+25,It came free.,13,3,positive,0.5106,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833282525235106,6
+26,Its incredibly light.,21,3,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833291860262583,6
+27,Mushigo Palm spores.,20,3,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833308832771197,4
+28,So beautiful...,15,2,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833254264091301,3
+29,"Though in this forest of death,",31,6,negative,-0.5994,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5132548322774232,4
+30,in 5 minutes without a mask,27,6,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.652869768771457,3
+31,Who is that?,12,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+32,What can it be?,15,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+33,My hearts pounding.,19,3,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833286583700019,2
+34,Those are gunshots.,19,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+35,An insect is attacking someone.,31,5,negative,-0.4588,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6546228109631902,2
+36,Im sorry!,9,2,negative,-0.1511,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833313091991714,5
+37,Over there!,11,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+38,What a thick spore cloud.,25,5,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+39,An Ohmu!,8,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833323243235259,1
+40,That must have been its shell.,30,6,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6541647788897343,4
+41,Dont run that way.,18,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.691732121388646,1
+42,Look this way!,14,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6545475792842153,1
+43,They answered!,14,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+44,Whos that?,10,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+45,What a magnificent Ohmu!,24,4,positive,0.636,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833323243235259,1
+46,Go upwind!,10,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+47,"Return to the forest, Ohmu.",27,5,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.4718880812547495,3
+48,This is not your world.,23,5,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.583331354393634,6
+49,Be a good boy.,14,4,positive,0.4404,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6543913354429841,6
+50,Its blinded by rage.,20,4,negative,-0.5574,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833310604077486,4
+51,Ive got to calm him.,20,5,positive,0.3182,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.2744173355798168,0
+52,The flares stunned it.,22,4,negative,-0.1027,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833293809155409,6
+53,An insect charm.,16,3,positive,0.4019,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833307127404264,2
+54,"Awaken, Ohmu.",13,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833323243235259,1
+55,Return to the forest.,21,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6547048568620292,3
+56,Its awake.,10,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+57,The Ohmus returning to the forest.,34,6,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6546746423725462,3
+58,She tamed that Ohmu with,24,5,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833323243235259,1
+59,Lord Yupa!,10,2,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.654810443553359,6
+60,Nausica!,8,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833324477384526,3
+61,Its been a year and half.,25,6,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+62,Father will be glad.,20,4,positive,0.4588,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833306806886039,5
+63,I must thank you.,17,4,positive,0.3612,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.36392291947580563,0
+64,Youve become a great wind-rider.,32,6,positive,0.6249,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5121638350371466,1
+65,"No, not according to father.",28,5,negative,-0.296,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833306806886039,5
+66,"Of course, Id clean",19,4,positive,0.4019,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+67,"A fox-squirrel,",15,3,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.583323659115196,3
+68,"When a winged insect snatched him,",34,6,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833307127404264,2
+69,I had to fire my gun.,21,6,negative,-0.5859,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6547722088772727,2
+70,Thats what enraged the Ohmu.,28,5,negative,-0.4019,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6546588935660165,1
+71,Hed fainted so was,18,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+72,Better not touch him.,21,4,positive,0.4404,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.3678979987276237,0
+73,Come.,5,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833320178320202,3
+74,Here.,5,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+75,Hey...,6,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+76,Youre not scared.,17,3,positive,0.3412,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6516972382910219,2
+77,See... youre not scared.,24,4,positive,0.3412,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.48629663972912235,2
+78,See...,6,1,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833318657825293,6
+79,You were just frightened.,25,4,negative,-0.4404,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+80,"Lord Yupa, may I have him?",26,6,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.44940001639628246,6
+81,Why certainly.,14,2,positive,0.34,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833264330255055,6
+82,Thank you.,10,2,positive,0.3612,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833322339579071,2
+83,Kai and Kui Remember me?,24,5,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833249985158995,4
+84,A mysterious power.,19,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+85,You must be tired.,18,4,negative,-0.4404,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833320251038131,4
+86,Is everyone well?,17,3,positive,0.2732,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833322313612376,6
+87,Whats wrong?,12,2,negative,-0.4767,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6543297878693598,2
+88,My father...,12,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833306806886039,5
+89,He can no longer fly.,21,5,negative,-0.296,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6540668606631688,2
+90,Jihl...,7,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833293374763473,3
+91,The forest poisons?,19,3,negative,-0.5719,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833314056204898,3
+92,Yes.,4,1,positive,0.4019,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833320507874851,4
+93,He says its fate for those,26,6,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833292063977902,5
+94,I should have come sooner.,26,5,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833320178320202,3
+96,Thank you for coming.,21,4,positive,0.3612,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.654727933999204,2
+97,"Lord Yupa, theres something",27,4,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6945602202483603,6
+98,My secret room.,15,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833264416913642,1
+99,Its a secret. I dont,20,5,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6505543825732895,1
+100,Ill tell them youre coming.,27,5,negative,-0.4215,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.3703640209807892,0
+101,Come soon!,10,2,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6528669677123975,3
+102,Lord Yupa.,10,2,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.654810443553359,6
+103,Would you carry this?,21,4,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6536493090504445,2
+104,Its hard to fly with.,21,5,negative,-0.1027,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.38057707697870147,0
+105,She certainly reads the wind well.,34,6,positive,0.5423,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.40276807102128137,6
+106,Not far now.,12,3,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833287804182096,2
+107,"Lord Yupa, welcome.",19,3,positive,0.4588,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.654810443553359,6
+108,Are you in good health?,23,5,positive,0.4404,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833318022629095,6
+109,The waters and winds,20,4,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6546686187014193,6
+110,Lord Yupa.,10,2,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.654810443553359,6
+111,"Hello all, youre well.",22,4,positive,0.2732,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833324879957394,2
+112,"Lord Yupa,",10,2,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.654810443553359,6
+113,Weve missed you.,16,3,negative,-0.296,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.58333076613017,4
+114,"Princess, he has come.",22,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6529494703471884,3
+115,Wait.,5,1,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833315725055791,4
+116,Lord Yupa.,10,2,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.654810443553359,6
+117,"Old Mito, youre hard at work.",29,6,negative,-0.1027,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.4748962818365307,1
+118,Tonight Ill hear,16,3,negative,-0.4215,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833319552560942,5
+119,"OK, start.",10,2,positive,0.4466,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833271271465079,5
+120,Seems to work.,14,3,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5827354121035851,4
+121,This is excellent.,18,3,positive,0.5719,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+122,"Tomorrow, well send",19,3,positive,0.2732,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6547698573011688,5
+123,"Come, Toeto.",12,2,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833320178320202,3
+124,"Lord Yupa, this is Toetos",25,5,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.654810443553359,6
+125,Lets have a look.,17,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.3830504207559703,5
+126,A fine baby.,12,3,positive,0.2023,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6548077167463601,2
+127,Reminds me of Nausica,21,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833324477384526,3
+128,Please be her godfather.,24,4,positive,0.3182,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.583332047915107,4
+129,Name her that a fair,20,5,positive,0.3182,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6547691961641842,1
+130,I will indeed.,14,3,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833271640087868,4
+131,Ill find her a fine name.,25,6,negative,-0.25,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.41224249536679686,1
+132,Thank you.,10,2,positive,0.3612,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833322339579071,2
+133,May she grow up as,18,5,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833278896062037,3
+134,Shes as strong as they come.,28,6,positive,0.5106,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.29769994775233627,0
+135,But we wont want her,20,5,negative,-0.0857,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6542773443715685,5
+136,But thats where I,17,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5829789820403537,1
+137,Put yourself in my shoes.,25,5,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833303986687035,6
+138,Shes made me sick with worry.,29,6,negative,-0.7351,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.49577082396679395,1
+139,Let her play in the Sea of Decay,32,8,negative,-0.0772,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6942311551695612,2
+140,"Indeed, her presence",20,3,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6547710612487981,4
+141,Saved by the girl?,18,4,positive,0.4215,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.650900704714076,1
+142,This is a fine valley.,22,5,positive,0.2023,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.3831462588150781,0
+143,How was your journey?,21,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833247624463551,3
+144,It was terrible.,16,3,negative,-0.4767,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+145,The Sea of Decay consumed,25,5,negative,-0.4019,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6547773564669289,2
+146,Its spreading all the time.,27,5,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6543712733995264,3
+147,And yet war and hunger,22,5,negative,-0.7096,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.37713542566248526,6
+148,Nothing but bad omens.,22,4,positive,0.5824,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833298479434119,1
+149,Why cant they live,18,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.654377772305848,5
+150,The ocean winds protect our valley.,35,6,positive,0.3818,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5132674189391268,6
+151,The Sea of Decay,16,4,negative,-0.4019,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6547773564669289,2
+152,"What do you say, Yupa?",22,5,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.3965975900148063,3
+153,Isnt it time you,16,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.654634426803709,3
+154,Look at my condition.,21,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833323047678362,1
+155,It would please everyone.,25,4,positive,0.3182,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.4941332156550711,6
+156,Dont bother.,12,2,positive,0.2584,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833327372179449,1
+157,Yupas a man who is fated,24,6,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833236100755333,4
+158,Fate...,7,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833292063977902,5
+159,"Obaba, whats",12,2,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.36421158131101494,0
+160,"Dont you know, Nausica??",24,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5067013647426741,3
+161,"Look, see the tapestry on the wall...",37,7,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.37441763740957684,6
+162,I no longer see it.,19,5,negative,-0.296,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.38897209546640477,0
+163,The figure in the left corner.,30,6,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833244866521314,4
+164,"...clothed in blue robes,",25,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6949713706072764,1
+165,"descending onto a golden field,",31,5,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.7222156260621718,4
+166,to join bonds with the great earth,34,7,positive,0.743,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.37675244322151447,1
+167,and guide the people,20,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6535884136290052,1
+168,"Lord Yupa, I always thought",27,5,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6927341691225464,6
+169,"You mustnt tease me, Obaba.",27,5,positive,0.2411,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.38306329997543553,3
+170,Its the same thing.,19,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+171,I only wish to solve the Sea,28,7,positive,0.5423,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6508678675840843,2
+172,Are we humans but a tribe,25,6,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.583330168121236,1
+173,and ruined by the Sea of Decay?,31,7,negative,-0.7003,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6547773564669289,2
+174,That is what I wish to know.,28,7,positive,0.4019,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6535175350230249,5
+175,If only I could help Lord Yupa.,31,7,positive,0.4019,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5433658618089195,6
+176,"Princess, Princess.",19,2,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+177,"What is it, Mito?",17,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833320133689647,1
+178,A strange scent on the wind.,28,6,negative,-0.2023,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.3922290442282822,0
+179,Its nearly dawn,15,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.583324997188312,1
+180,How is it?,10,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+181,"Its one fine storm,",19,4,positive,0.2023,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6526839361303685,2
+182,Over there!,11,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+183,Look!,5,1,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833323047678362,1
+184,Its a ship.,11,3,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5825319894955072,6
+185,Why would a ship be here?,25,6,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.652793686976571,6
+186,What is it?,11,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+187,"Lord Yupa, its a ship.",22,5,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6948095797663305,6
+188,A ship!,7,2,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5825319894955072,6
+189,Its coming closer.,18,3,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833316262986479,2
+190,Its huge!,9,2,positive,0.3802,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+191,Its a Tolmekian ship.,21,4,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.653505253329872,6
+192,Its not flying right.,21,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833315846792513,3
+193,Its an emergency landing.,25,4,negative,-0.3818,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833261124901342,2
+194,"Help me up, Gol.",16,4,positive,0.4019,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.654535757894697,4
+195,"Princess, you mustnt!",21,3,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6499725166678771,3
+196,Ill guide them to the shore.,28,6,negative,-0.4215,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6527944248646729,5
+197,Its coming about.,17,3,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833316262986479,2
+198,Off you go!,11,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+199,Teto!,5,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833305876507872,3
+200,How dare they!,14,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833280755365913,1
+201,They must have landed before,28,5,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833320251038131,4
+202,Turn away! Youll crash.,23,4,negative,-0.4574,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5400385455876742,3
+203,Turn away!,10,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6537195976748587,1
+204,Turn!,5,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5822869295440336,3
+205,It crashed. The Princess.,25,4,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.43354252113031405,4
+206,The cliffs. Lets go!,20,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833306750006673,5
+207,Everyone to the rescue.,23,4,positive,0.5106,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833322313612376,6
+208,Even the boys!,14,3,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833313338502191,2
+209,"Its that girl, shes alive.",26,5,positive,0.3818,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6924375828081623,5
+210,Where am I...,13,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+211,The Valley of the Wind,22,5,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.654817972539789,3
+212,My name is...,13,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833255703583368,1
+213,Lastel of Pejite.,17,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6534496010947545,5
+214,My cargo...,11,2,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833303908450346,4
+215,The cargo...,12,2,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833303908450346,4
+216,"Please, burn it.",16,3,positive,0.3182,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6546633389345603,4
+217,"Your cargo, I understand.",25,4,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6545362882674565,4
+218,Dont worry.,11,2,positive,0.3412,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6521074525751747,1
+219,Thank goodness.,15,2,positive,0.6705,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833322339579071,2
+220,Princess!,9,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+221,Thats... the Princess of Pejite.,32,5,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.29214428105800433,0
+222,An insect!,10,2,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833307127404264,2
+223,"No, its calling its friends.",28,5,positive,0.2263,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833295481194637,6
+224,It cant fly. Bring guns!,24,5,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.3872253909767918,5
+225,"No, if you shoot it,",20,5,negative,-0.5574,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833295064020853,4
+226,Ill kill it now.,16,4,negative,-0.8176,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6546633126687229,5
+227,Guns wont kill an Ushiabu.,26,5,positive,0.5773,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6946898054373275,5
+228,Then what!,10,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+229,Wait.,5,1,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833315725055791,4
+230,"Mito, bring my glider.",22,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.694176410135016,1
+231,Princess!,9,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+232,Return to the forest.,21,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6547048568620292,3
+233,"Youre strong, you can fly.",26,5,positive,0.5106,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6934241458620688,2
+234,Thats a good boy.,17,4,positive,0.4404,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6931454284083227,6
+235,"Princess, thanks.",17,2,positive,0.4404,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6492533426840924,3
+236,Thank God.,10,2,positive,0.5574,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6532419998473438,2
+237,No telling how wed suffer for,29,6,negative,-0.6908,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833279473142926,4
+238,An Ohmu...,10,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833323243235259,1
+239,Found one. Come!,16,3,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6931739383316218,3
+240,Here!,5,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+241,So those were spores,20,4,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833308832771197,4
+242,They havent released,20,3,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833266065664475,6
+243,Were almost done.,17,3,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6545369808693201,4
+244,I know we cant miss a single one.,33,8,positive,0.1139,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.4106405479710968,4
+245,What on earth is this?,22,5,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833315798385786,3
+246,The fire didnt destroy it...,28,5,positive,0.1154,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.693958448384211,2
+247,Leave this mystery,18,3,negative,-0.0516,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833252574080628,1
+248,Go and help burn the spores.,28,6,positive,0.4019,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6948989333520785,4
+249,Be careful now.,15,3,positive,0.1531,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833300496752204,1
+250,Whyd she bring this,19,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.654665722995816,1
+251,"Mito, look here.",16,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6548211443638619,1
+252,Its pulsing,11,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+253,"Lord Yupa, what is this?",24,5,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.654810443553359,6
+254,"On my journey, I",16,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833247624463551,3
+255,That a monster from the,23,5,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5828853979830185,1
+256,"beneath Pejite,",15,2,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.3905964397506515,0
+257,A monster from the old world?,29,6,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6921346137931144,6
+258,Giant Warriors...,17,2,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6542174180195491,2
+259,They say they were destroyed,28,5,negative,-0.4939,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.3728235165169229,5
+260,This...,7,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+261,The Giant Warriors were all,27,5,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6542174180195491,2
+262,But a single one slept in,25,6,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6937325066217072,4
+263,"In a way, the thing",19,5,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.583331086168377,1
+264,Tolmekia is a savage military,29,5,negative,-0.4588,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+265,And remember the Pejite,23,4,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.40108577681094904,4
+266,Keep up the good work.,22,5,positive,0.4404,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6936157346959416,6
+267,Whats that?,11,2,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833318242602948,2
+268,Tolmekian ships!,16,2,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6547187292275903,6
+269,Everyone to the castle!,23,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.38101819222602207,1
+270,To the castle!,14,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833300359886294,1
+271,Gather in the castle!,21,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833300359886294,1
+272,The castle!,11,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833300359886294,1
+273,Father!,7,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833306806886039,5
+274,"Obaba, hide yourself.",21,3,negative,-0.1779,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.583331993325917,1
+275,Ill stay right where I am.,26,6,negative,-0.4215,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.2875136400170101,0
+276,Princess!,9,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+277,How dare you!,13,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833280755365913,1
+278,Nausica?...,11,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833324477384526,3
+279,Stay where you are!,19,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833299497378579,1
+280,"Move and this sword,",20,4,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.3833683398889446,6
+281,will pierce your ceramic armor.,31,5,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833263502852368,6
+282,Thats Yupa.,11,2,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6523896828264616,6
+283,I ask you Tolmekian warriors.,29,5,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6936002144382806,6
+284,"Last night, these villagers toiled",34,5,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6548168348530647,2
+285,We have just now gently,23,5,positive,0.4588,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+286,Is this how you Tolmekians treat,32,6,positive,0.4019,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833297068412888,4
+287,"If you would make war,",22,5,negative,-0.5994,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6944356023728981,6
+288,You should first send a,23,5,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6543183531795277,5
+289,Nausica...,10,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833324477384526,3
+290,"If you fight now, they will",27,6,negative,-0.3818,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833260528134254,6
+291,We must survive.,16,3,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6529849958693078,4
+292,You...,6,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+293,Little wench.,13,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833246995345317,5
+294,"Put it down, Kurotowa.",22,4,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6545370940596277,6
+295,But...,6,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+296,Look at this mess,17,4,negative,-0.4357,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833323047678362,1
+297,Your rebuke stings.,19,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+298,"Are you Yupamiralda, the greatest",33,5,positive,0.6369,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+299,We have not come to,19,5,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833320178320202,3
+300,Lay down your sword.,20,4,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833287529876466,6
+301,The Princess!,13,2,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+302,Princess!,9,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+303,Listen well!,12,2,positive,0.3382,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833302450433152,4
+304,"Her Highness Kushana, Division",30,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6542637942643071,5
+305,Frontier Forces will speak.,27,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5824167864875303,5
+306,We have come to unify,21,5,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833320178320202,3
+307,and build peace in this region.,31,6,positive,0.5423,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+308,You live on the brink of extinction,35,7,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833306672642097,5
+309,Accept our rule and,19,4,positive,0.3818,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833237578597588,1
+310,We shall burn away the Sea of,29,7,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5785105246548624,4
+311,Burn away the Sea of Decay.,27,6,negative,-0.4019,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.40859183810063177,4
+312,Is that possible?,17,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+313,We have revived the,19,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+314,that once allowed humans,24,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.583330168121236,1
+315,"For those who submit to us,",27,6,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833243964891079,4
+316,I promise a life free from fear of,34,8,positive,0.34,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6949358580621976,6
+317,Wait!,5,1,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833315725055791,4
+318,You must not harm,17,4,positive,0.431,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833320251038131,4
+319,"Whats that, you old hag.",24,5,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6542840855582788,2
+320,Take her away.,14,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6546142122859253,1
+321,Let her speak.,14,3,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6534855594047747,2
+322,In the 1000 years,17,4,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833260669739312,4
+323,countless times have humans,27,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.583330168121236,1
+324,Yet... each time herds,22,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6546345116191797,3
+325,"have swarmed the earth,",23,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833315798385786,3
+326,"Destroying nations,",19,2,negative,-0.5574,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+327,the Ohmus rage would not quieten,32,6,negative,-0.5574,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.4744078264314009,4
+328,until they starved to death.,28,5,negative,-0.8176,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833239857830276,4
+329,"In time, the spores",19,4,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.3675344126665823,4
+330,took root in the Ohmus,22,5,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6538634109677661,3
+331,engulfed our vast earth,23,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833315798385786,3
+332,You must not touch,18,4,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.3956076398066671,0
+333,Enough! No more of your ravings.,32,6,negative,-0.3595,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+334,What will you do?,17,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+335,Kill me too?,12,3,negative,-0.6908,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833311565989029,5
+336,You!,4,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+337,Kill me if you will.,20,5,negative,-0.6908,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833311565989029,5
+338,Easy work to murder,19,4,negative,-0.4215,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6544670681907558,4
+339,Just as you murdered Jihl.,26,5,negative,-0.6597,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833293374763473,3
+340,Not Jihl!,9,2,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833293374763473,3
+341,How cruel!,10,2,negative,-0.6239,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833298625847061,4
+342,Shut them up.,13,3,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833272746647173,3
+343,Show no mercy to impudence.,27,5,positive,0.0772,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833255130203343,5
+344,"Wait, everyone.",15,2,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.3714038645280303,4
+345,Please listen to me.,20,4,positive,0.3182,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6542822961988503,4
+346,I dont want anymore sacrifices.,31,5,negative,-0.0572,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.39616712222919165,5
+347,Please.,7,1,positive,0.3182,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.583332047915107,4
+348,Princess...,11,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+349,You Obaba too.,14,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.583331993325917,1
+350,We must submit to these people.,31,6,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6935574826957049,4
+351,Step on it.,11,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+352,Hurry up.,9,2,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833326008132153,4
+353,It really is a lovely valley.,29,6,positive,0.6222,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.4041441296894636,0
+354,Im against it.,14,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+355,We have orders to send the,26,6,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6548172469999499,5
+356,An order we cant possibly fulfill.,34,6,negative,-0.3412,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6534048753917167,5
+357,Even our biggest ship,21,4,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6535399149659162,2
+358,But you cant be serious,23,5,positive,0.0857,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.3957477989790856,1
+359,And what if I am?,17,5,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+360,You expect me to hand over that,31,7,positive,0.4939,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833307826827574,5
+361,You have a point.,17,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833260770021702,1
+362,I am but a simple soldier.,26,6,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833268080843895,6
+363,Such a decision is,18,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+364,Youre a sly fox.,16,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.41189175178950366,3
+365,"While Im in Pejite, your priority",33,6,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833320677883209,5
+366,Yes.,4,1,positive,0.4019,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833320507874851,4
+367,Can this gun ship fly?,22,5,negative,-0.34,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6942260899743818,2
+368,"Yes, we found it here.",22,5,positive,0.4019,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.38079766557437095,3
+369,Get this straight,17,3,positive,0.2263,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833314114398686,4
+370,But take the Princess to Pejite.,32,6,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.301331865971479,0
+371,"5 hostages, the gun",19,4,negative,-0.34,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6526811179079695,2
+372,You pick the hostages.,22,4,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5825757668390192,6
+373,Prepare everything,18,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5828195310251966,5
+374,Thanks for going as a hostage.,30,6,positive,0.4404,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6547175098984428,3
+375,"Were fine, but look.",20,4,positive,0.1027,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.3798883832269655,0
+376,Theyre taking everything in sight.,34,5,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.7197936805454324,1
+377,"I will slip away, return in secret,",35,7,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6929569404301145,1
+378,We must prevent that,20,4,neutral,0.0258,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833320251038131,4
+379,Yes.,4,1,positive,0.4019,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833320507874851,4
+380,Nausica?,8,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833324477384526,3
+381,"Teto, where is she?",19,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833305876507872,3
+382,Nausica! What on earth is this?,31,6,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6545021640008681,3
+383,These plants are from,21,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833254089720851,5
+384,Ive grown them,14,3,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833293445924913,4
+385,"Dont worry, theyre not toxic.",29,5,positive,0.3412,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.7197088955532848,1
+386,Not toxic...,12,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833224780718226,1
+387,"The air here is pure indeed, but...",35,7,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6917819339556747,4
+388,Why... with this deadly,23,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+389,The castle windmill draws,25,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833300359886294,1
+390,water from deep within the earth.,33,6,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6547893686575276,3
+391,The sand comes from the,23,5,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6547724530772664,6
+392,With pure water and soil.,25,5,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.3804947081680665,6
+393,The plants from the Sea of,26,6,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.40833037813623796,5
+394,The pollution lies in the earth itself.,39,7,negative,-0.4215,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833315798385786,3
+395,Even the earth of our valley.,29,6,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.47219818771702293,3
+396,Why...,6,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+397,Who made such a,15,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833292862965168,1
+398,Did you do this all yourself?,29,6,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+399,Yes.,4,1,positive,0.4019,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833320507874851,4
+400,To cure my fathers illness,26,5,negative,-0.4019,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+401,But...,6,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+402,Im closing it down.,19,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+403,I just shut off the water and,29,7,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6543905584984645,3
+404,Nausica?,8,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833324477384526,3
+405,I frighten myself.,18,3,negative,-0.34,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+406,I dont know what my,19,5,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.3936936734766249,5
+407,I dont want to kill anyone.,27,6,positive,0.5448,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5921458685492973,5
+408,Princess.,9,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+409,We gathered these for you.,26,5,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+410,Theyre for you.,15,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833318997142906,1
+411,All of you...,13,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+412,So many.,8,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+413,Youve worked so hard.,21,4,negative,-0.2183,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6548155811536326,1
+414,Thank you.,10,2,positive,0.3612,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833322339579071,2
+415,Theyre very precious.,21,3,positive,0.6115,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833318997142906,1
+416,"Its not fair, Princess.",23,4,negative,-0.2411,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.4334854259464709,1
+417,All aboard.,11,2,neutral,0.0258,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+418,There now.,10,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+419,You mustnt cry.,15,3,positive,0.3724,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833287548996905,3
+420,Dont worry.,11,2,positive,0.3412,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6521074525751747,1
+421,Really?,7,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+422,"Why, have I ever lied to you?",29,7,negative,-0.3818,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833240824537195,2
+424,Right?,6,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833315846792513,3
+425,Yeah.,5,1,positive,0.296,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+426,Promise?,8,1,positive,0.3182,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833282770364662,6
+427,Yes.,4,1,positive,0.4019,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833320507874851,4
+428,"Go along, its dangerous.",24,4,negative,-0.4767,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833251135409923,5
+429,You promised.,13,2,positive,0.3612,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+430,Take care of the Princess.,26,5,positive,0.4939,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.40922430135436594,1
+431,Arent we in Pejite yet?,23,5,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.38652885398305153,3
+432,My back is killing me.,22,5,negative,-0.6597,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6547178084965231,5
+433,"Boy oh boy, did the Princess",28,6,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.4988057953165879,6
+434,"Hey, isnt this strange?",23,4,positive,0.1877,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.36615891214007007,0
+435,Why do they fly so close together?,34,7,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6540681153136475,2
+436,Like theyre afraid of an attack.,32,6,negative,-0.1531,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6942143055429101,1
+437,Toxins swirl below the clouds.,30,5,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6547982732339174,4
+438,Dont move.,10,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6529878776137494,1
+439,A gun ship.,11,3,negative,-0.34,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6537294679655926,2
+440,Enemy fire!,11,2,negative,-0.7345,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6537238161435067,2
+441,I told you so.,14,4,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833264398878371,6
+442,"Wow, terrifying!",16,2,positive,0.1007,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+443,Defense formation!,18,2,positive,0.2003,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+444,Thats a Pejite gun ship.,24,5,negative,-0.34,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.38932095690504864,0
+445,Pejite!,7,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833320677883209,5
+446,Damn! They got 3.,17,4,negative,-0.4574,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.654745315217528,3
+447,Whats the Korvet doing?,23,4,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6543861559373894,2
+448,Their ships just crumble.,25,4,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833291245797484,6
+449,"No, hes hit our tail.",21,5,negative,-0.296,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6545152107864791,5
+450,The Barge tether snapped.,25,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+451,"Hurry, Teto.",12,2,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.39126455935015947,3
+452,"No, were going down.",20,4,negative,-0.296,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833300406004298,3
+453,Princess!,9,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+454,Stop! No more killing.,22,4,negative,-0.855,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6542751122615532,5
+455,No more!,8,2,negative,-0.3595,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+456,Princess.,9,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+457,"Hurry, Mito!",12,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.36676735181793835,0
+458,"Princess, were doomed.",22,3,negative,-0.6369,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6499726514721761,3
+459,Maybe I can fly it.,19,5,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833305722632602,2
+460,"Hurry, Mito!",12,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.36676735181793835,0
+461,What? Right!,12,2,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833315846792513,3
+462,Start the engine!,17,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6548176471498193,5
+463,Come!,5,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833320178320202,3
+464,Hurry.,6,1,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833326008132153,4
+465,"Get inside. Mito, ready?",24,4,positive,0.3612,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.3544534678952834,0
+466,Ready or not!,13,3,positive,0.4199,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833302641856052,2
+467,Full throttle when we take off.,31,6,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833316767093456,1
+468,Roger! Ready.,13,2,positive,0.4199,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833302641856052,2
+470,Put on the toxin mask.,22,5,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.654639527795304,6
+471,Drop below the clouds,21,4,negative,-0.2732,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.36690971256194727,5
+472,Youre still warm.,17,3,positive,0.2263,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.3943303474125057,0
+473,What is this place?,19,4,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.583329938598739,2
+474,Ive never seen,14,3,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6948403967661263,4
+475,Keep an eye on the right tail.,30,7,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.7187831228980063,3
+476,Its nearby.,11,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+477,Its still aloft.,16,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833297446596171,1
+478,Hey! Youre right.,17,3,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.38128087535196153,0
+479,There it is.,12,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+480,Its the Princess.,17,3,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+481,"Dont give up, everyone.",23,4,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5215291855113893,6
+482,Ill throw you a rope.,21,5,negative,-0.4215,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833319552560942,5
+483,Our hook is broken.,19,4,negative,-0.4767,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833293121549818,5
+484,You cant hook us in mid-air.,28,7,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6942409245306332,5
+485,I dont want to crash and,24,6,positive,0.2584,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5279467193070738,5
+486,Well leap to our deaths.,24,5,positive,0.2732,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+487,Dont panic!,11,2,positive,0.4577,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.650554842954991,1
+488,Good bye. Farewell.,19,3,positive,0.4404,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833318022629095,6
+489,Listen to me.,13,3,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833302450433152,4
+490,Kill the rear engine.,21,4,negative,-0.6908,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6543908531420263,5
+491,The engine noise is too loud.,29,6,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833278994864994,5
+492,Yes!,4,1,positive,0.4574,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833320507874851,4
+493,What?,5,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+494,Princess... What are you...,27,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+495,"Your mask, Princess.",20,3,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6490359070654776,3
+496,Youll die.,10,2,negative,-0.5994,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6546731009905933,3
+497,Put your mask on!,17,4,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.654639527795304,6
+498,I promise youll be safe.,24,5,positive,0.6369,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.4967435917329926,6
+499,Trust me and dump that cargo.,29,6,positive,0.1779,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833303908450346,4
+500,Well do whatever you say.,25,5,positive,0.2732,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.583328615090649,3
+501,"Please, put your mask back on.",30,6,positive,0.3182,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.3986141250040196,6
+502,The Princess is smiling.,24,4,positive,0.4588,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6483067308615569,3
+503,Were going to be OK.,20,5,positive,0.4466,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833300406004298,3
+504,Hurry! Lose the cargo.,22,4,negative,-0.4574,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6537726549868033,4
+505,"Princess, were in a nose-dive!",30,6,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+506,Restart engines!,16,2,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833253975353117,4
+507,I inhaled.,10,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+508,"Hurry, hurry.",13,2,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833326008132153,4
+509,Princess!,9,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+510,Everyone safe?,14,2,positive,0.4404,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6541658467655447,6
+511,Dont move!,10,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6529878776137494,1
+512,You!,4,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+513,Thanks for saving me.,21,4,positive,0.4404,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6547694921515588,3
+514,"Whyd you save her, Princess?",28,5,positive,0.4939,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5448161964881948,1
+515,Youre a fool.,13,3,negative,-0.4404,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833324879957394,2
+516,You thought Id grovel,21,4,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833265625887403,6
+517,You know nothing of the Sea of Decay.,37,8,negative,-0.4019,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.3679709412821926,0
+518,It isnt like the human world.,29,6,negative,-0.2755,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.48142653691664966,6
+519,Theres no knowing what,22,4,negative,-0.296,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5829016070189733,6
+520,That battle hurled,18,3,negative,-0.3818,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833273687685403,6
+521,The insects are furious.,24,4,negative,-0.5719,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5830605611499075,5
+522,Look up!,8,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833323047678362,1
+523,The Yamma are sentries.,23,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+524,Theyll quickly bring other insects.,35,5,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5724289714414301,1
+525,We must escape now.,19,4,positive,0.1779,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833320251038131,4
+526,"Mito, fix the hook.",19,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.3906423221316935,5
+527,Dont move.,10,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6529878776137494,1
+528,What are you so afraid of?,26,6,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.583327006580002,1
+529,Youre just like a,17,4,positive,0.3612,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833324879957394,2
+530,How dare you?,13,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833280755365913,1
+531,Dont be afraid.,15,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6505546439014334,1
+532,We just want you to go,22,6,positive,0.0772,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833317487906208,5
+533,You...,6,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+534,Theyre here.,12,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833318997142906,1
+535,Quiet! Dont irritate them.,26,4,positive,0.3867,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6490113339252733,1
+536,This is an Ohmus nest.,22,5,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6522932784996562,3
+537,Were surrounded.,16,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+538,Theyre examining us.,20,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833318997142906,1
+539,"Forgive us, Ohmu,",17,3,positive,0.2732,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833323243235259,1
+540,for disturbing your nest.,25,4,negative,-0.5106,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5825734331169878,6
+541,"Please understand,",18,2,positive,0.3182,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6532414652849367,4
+542,Princess!,9,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+543,Hes still alive.,16,3,positive,0.3818,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.4987830180189607,5
+544,"Wait, Ohmu.",11,2,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.3787010186220349,4
+545,Whats happening?,16,2,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833318242602948,2
+546,Their eyes have turned blood-red.,33,6,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.583327209800788,2
+547,What will you do with the glider?,33,7,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833294333132425,1
+548,"When the waters quiet,",22,4,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6543538780328626,6
+549,"If Im not back in an hour,",26,7,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6547179581952263,5
+550,But...,6,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+551,Princess!,9,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+552,Shes gone.,10,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6539028243739253,5
+553,Hand it over.,13,3,positive,0.4939,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833307826827574,5
+554,"All right, everyone.",20,3,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.3640114723412339,6
+555,Well do as the Princess said.,29,6,positive,0.2732,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6491058605984549,3
+556,Princess.,9,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+557,Damn!,5,1,negative,-0.4574,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833302483285621,3
+558,Who are you?,12,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+559,You think only of killing.,26,5,negative,-0.6597,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6519061817073812,5
+560,My flares and charms,20,4,positive,0.4404,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833293809155409,6
+561,Its quicksand.,14,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+562,Damn!,5,1,negative,-0.4574,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833302483285621,3
+563,Its been two hours already.,27,5,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+564,More and more insects.,22,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5830605611499075,5
+565,Princess!,9,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+566,Nausica.,8,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833324477384526,3
+567,Come here.,10,2,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833320178320202,3
+568,Father.,7,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833306806886039,5
+569,Mothers here too.,17,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+570,"No, I dont want to go.",22,6,negative,-0.3447,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.39616712222919165,5
+571,Stay away!,10,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6545277237903981,1
+572,Theres nothing here.,20,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6531104092784271,1
+573,I said theres nothing.,22,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6924078681123584,1
+574,Stay inside.,12,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6537479350825157,1
+575,Its a baby Ohmu.,16,4,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.38470574100714294,0
+576,Shes being used by the insects.,31,6,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6547212889072946,5
+577,"Give it to me, Nausica.",23,5,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.39271876920484555,6
+578,No! Its not doing,17,4,negative,-0.3595,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+579,Insects and humans cant,23,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.4716692777241505,5
+580,"Please, dont kill it.",21,4,positive,0.7217,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.2978840720111881,0
+581,Please!,7,1,positive,0.3802,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.583332047915107,4
+582,Teto...,7,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833305876507872,3
+583,What a strange place.,21,4,negative,-0.2023,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6547978583656866,2
+584,Hey!,4,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+585,I finally found it.,19,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6546672966373487,3
+586,How are you feeling?,20,4,positive,0.128,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+587,Where are we?,13,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+588,"First, let me thank you.",24,5,positive,0.3612,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6935995865588704,2
+589,Im Asbel of Pejite.,19,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.654748984508605,5
+590,Thank you for saving me.,24,5,positive,0.3612,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.3975199224814307,3
+591,Im Nausica of the,17,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833324477384526,3
+592,Where are we?,13,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+593,No wonder youre surprised.,26,4,negative,-0.0772,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6519734888596326,2
+594,Were beneath the Sea of Decay.,30,6,negative,-0.4019,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6937144260821809,2
+595,Beneath the Sea of Decay?,25,5,negative,-0.4019,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6937144260821809,2
+596,"Look, we fell from up there",27,6,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833323047678362,1
+597,along with the sand.,20,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.3678890526344966,5
+598,Were not wearing masks.,23,4,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833278664176381,4
+599,Thats right.,12,2,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.36606742157210603,0
+600,"Couldnt believe it myself,",26,4,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833256875179984,4
+601,finding this place,18,3,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.583329938598739,2
+602,What is it?,11,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+603,"Nausica, dont wander too far.",29,5,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.31753514533939664,0
+604,What a wonderful tree.,22,4,positive,0.5719,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833283739650593,5
+605,"Even though its dead,",21,4,negative,-0.6486,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.46579141417620784,2
+606,Just like the sand at,21,5,positive,0.3612,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833289039470461,6
+607,Grains of petrified wood,24,4,negative,-0.5423,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+608,Nausica!,8,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833324477384526,3
+609,Are you crying?,15,3,negative,-0.4767,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+610,"Yes, Im so delighted.",21,4,positive,0.7425,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833320507874851,4
+611,Lastel was my twin sister.,26,5,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833282967059296,5
+612,I should have been with her.,28,6,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+613,Im sorry I didnt,16,4,negative,-0.0772,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.3836236763272334,0
+614,"Oh, no...",9,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+615,Im sorry,8,2,negative,-0.0772,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833313091991714,5
+616,I nearly killed the person,26,5,negative,-0.6705,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.583324997188312,1
+617,I see... So its in the,22,6,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833318657825293,6
+618,This nut tastes really weird.,29,5,negative,-0.2484,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.583326699240778,4
+619,Its a chiko nut.,16,4,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.583326699240778,4
+620,"It doesnt taste great, but",26,5,negative,-0.284,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833298427922822,1
+621,Why the Sea of Decay was born?,30,7,negative,-0.4019,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6547773564669289,2
+622,You think the strangest thoughts.,33,5,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5823038872869175,1
+623,The trees of the Sea of,23,6,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6521414105463043,2
+624,a world polluted by humans.,27,5,negative,-0.4588,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.4984348720558307,1
+625,"They absorb toxins from the earth,",34,6,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.3767686655181759,4
+626,"generate pure crystals,",23,3,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5830939027605022,6
+627,Thats what created these,24,4,positive,0.25,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5829789820403537,1
+628,The insects protect this forest.,32,5,positive,0.3818,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.4935887142431814,6
+629,"In that case, were doomed.",26,5,negative,-0.6369,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833290422630522,3
+630,"We cant possibly survive,",25,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6934583398014499,5
+631,living in terror of toxins and,30,6,negative,-0.5267,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833300369437475,4
+632,At least we can find a way,26,7,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6545855346000581,1
+633,You sound just like Kushana.,28,5,positive,0.3612,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6543661283711311,5
+634,No! We dont plan to use,23,6,negative,-0.3595,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.65169795045632,1
+635,Youll see when you,18,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.3674196110120844,6
+636,Lets go to sleep.,17,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833306750006673,5
+637,We have far to go tomorrow.,27,6,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.3728530196431793,0
+638,Alls well.,10,2,positive,0.2732,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+639,On schedule?,12,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+640,The torso is solidifying well.,30,5,positive,0.2732,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+641,Youre one cute monster.,23,4,positive,0.4588,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.44645139205928386,2
+642,Makes a poor soldier think.,27,5,negative,-0.4767,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6522527478124305,6
+643,of dusting off old ambitions,28,5,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5830700222164038,2
+644,Its grinning.,13,2,positive,0.3612,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+645,You shouldve slept beneath,26,4,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.3728521131286524,0
+646,Counselor!,10,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833295392316957,5
+647,Her Highness planes were,24,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833320349424319,5
+648,"All crashed, except the Korvet.",31,5,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.372878562150226,0
+649,What about Her Highness?,24,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833320349424319,5
+650,Her ship exploded in flight.,28,5,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5825319894955072,6
+651,Counselor.,10,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833295392316957,5
+652,The villagers dont know yet?,28,5,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.39716219148049686,3
+653,"OK, well head out.",18,4,positive,0.6166,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5822333880159483,2
+654,You stay here and keep working.,31,6,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.3696408345872993,6
+655,Either fortune is finally smiling,33,5,positive,0.4588,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6548137772069422,3
+656,Or its a trap set to destroy me.,32,8,negative,-0.7003,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833299990040408,2
+657,"Mito and the others have returned,",34,6,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6529175232646813,1
+658,"waiting at Acid Lake, Lord Yupa.",32,6,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.7205414043896667,6
+659,In shame we return without her.,31,6,negative,-0.4767,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6533061959212698,3
+660,"No, Im pleased youre safe.",26,5,positive,0.5574,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.47015405146324707,2
+661,Releasing me?,13,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+662,Drown the Giant Warrior,23,4,negative,-0.5719,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6547054574130221,2
+663,and return to your country.,27,5,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6527028229859093,3
+664,Few of your soldiers remain here.,33,6,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.583327035477395,5
+665,"We could easily start a fight,",30,6,negative,-0.0516,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.4900588681163888,6
+666,Fire and water are,18,4,negative,-0.34,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.3733792207753066,0
+667,and its only a matter of time,29,7,neutral,0.0258,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833310458498964,3
+668,Dont you see? Its far,21,5,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.3067724067202704,0
+669,My orders to invade Pejite,26,5,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6534492683423935,5
+670,that another country had,24,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6542963828875483,5
+671,"Once its presence here is known,",32,6,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833252515423216,4
+672,the great powers will,21,4,positive,0.6249,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833298427922822,1
+673,You have but one choice left.,29,6,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6938937681259039,4
+674,"Revive the Giant Warrior,",25,4,positive,0.34,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6547054574130221,2
+675,and learn to live with that thing.,34,7,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833306672642097,5
+676,Look.,5,1,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833323047678362,1
+677,An insect did that...?,22,4,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833307127404264,2
+678,Whoever becomes my husband,26,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+679,"Burn the Sea of Decay,",22,5,negative,-0.4019,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.46391817656314105,2
+680,and restore the human world.,28,5,positive,0.296,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6545864398806417,6
+681,"Steal it from us, just as",25,6,negative,-0.4939,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+682,We shall not give,17,4,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6542527006770135,6
+683,Emergency!,10,1,negative,-0.4389,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833261124901342,2
+684,Im in a hurry.,14,4,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833326008132153,4
+685,Wind of Valley.,15,3,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.654817972539789,3
+686,Some spores survived.,21,3,positive,0.5106,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6542310462946461,4
+687,What?,5,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+688,Theyre spreading toxins,23,3,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.2859302549152074,0
+689,Hand em over.,13,3,positive,0.4939,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833307826827574,5
+690,Hurry up!,9,2,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833326008132153,4
+691,Hurry or the valleys doomed.,28,5,negative,-0.6369,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.39522774525073373,3
+692,We need our tools back.,23,5,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6541123509063709,5
+693,The tools that burn spores,26,5,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6939878722220989,4
+694,We have no choice.,18,4,negative,-0.296,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833295732921325,4
+695,The Korvets taking off.,23,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.583322400457083,1
+696,Get through this time.,22,4,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.36462964758304517,4
+697,Summon all our troops,21,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+698,"Good grief, now",15,3,negative,-0.0772,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833318022629095,6
+699,Hurry!,6,1,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833326008132153,4
+700,Find the Princess.,18,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.4240565615625152,1
+701,Look after the valley.,22,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.36526187411120825,0
+702,Be careful until we return.,27,5,positive,0.1531,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6520564668538645,1
+703,Were going to the valley.,25,5,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.653876921337587,3
+704,"Its no use, the spores",22,5,negative,-0.296,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.36877717684907385,0
+705,And on this side too.,21,5,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833256979633578,5
+706,Move! What are you doing?,25,5,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833314455442685,1
+707,"No, here too.",13,3,negative,-0.296,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+708,Obaba.,6,1,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.583331993325917,1
+709,Weve no choice but to burn it.,30,7,negative,-0.1531,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6948263591035039,4
+710,This forest is doomed.,22,4,negative,-0.6369,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6542771625415305,3
+711,"If we hesitate, the Sea of Decay",32,7,negative,-0.5859,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6547773564669289,2
+712,Isnt there anything to be done?,31,6,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.36202732456110537,4
+713,This forest guarded,19,3,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833314056204898,3
+714,Damn! If only theyd never come.,31,6,negative,-0.4574,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.4752815704020303,3
+715,This is getting out of hand.,28,6,positive,0.4939,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833307826827574,5
+716,Lets go help them.,18,4,positive,0.4019,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.36553242995845026,4
+717,You think so?,13,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5823038872869175,1
+718,I think it looks the same as ever.,34,8,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6924205620593248,2
+719,The insects have gone.,22,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6538024094374453,5
+720,I wonder why my hearts,22,5,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6540226558813604,2
+721,Were almost there.,18,3,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833253650385891,4
+722,My friends are just,19,4,positive,0.4767,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833295481194637,6
+723,Pejite looks strange.,21,3,negative,-0.2023,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5151100683116262,2
+724,What is that haze?,18,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+725,"Asbel, your mask.",17,3,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.3748789122188865,6
+726,Insects! All dead.,18,3,negative,-0.68,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6540583818284209,5
+727,Head for Pejite.,16,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6521361678685142,5
+728,"Be careful, the Tolmekian",25,4,positive,0.1531,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.36197549586866923,6
+729,Even an Ohmu...,15,3,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.37869037709067604,0
+730,It attacked the Great Dome.,27,5,positive,0.2732,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833298427922822,1
+731,Pejites finished.,17,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+732,"They wiped out the Tolmekians,",30,5,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6539826381352866,4
+733,They wiped out!,15,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.582232684237343,1
+734,Its a Brig.,11,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+735,My friends ship.,16,3,positive,0.4767,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6527847583840396,6
+736,Asbel!,6,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833319873146378,5
+737,Youre alive.,12,2,positive,0.3818,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.4063019606178142,5
+738,What have you done?,19,4,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833305881687928,4
+739,We cant rebuild it.,19,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6529136409524579,5
+740,Youve seen the city.,20,4,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.3619921781434228,0
+741,"Dont worry, if the Sea of Decay",31,7,negative,-0.0757,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.3926238051604093,0
+742,But the Giant Warrior isnt here.,32,6,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.4792353314083809,2
+743,I know its in the Valley of the Wind.,37,9,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6939273076704622,3
+744,How did...,10,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+745,We havent exactly been idle.,28,5,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6548165931994693,6
+746,Weve launched our second phase.,31,5,positive,0.128,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.58333076613017,4
+747,Well wipe out the Tolmekians,28,5,positive,0.2732,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833297068412888,4
+748,What?,5,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+749,What are you going to do?,25,6,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833300406004298,3
+750,"Who is this, Asbel?",19,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833319873146378,5
+751,Nausica from the Valley of the Wind.,36,7,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6949613211540564,3
+752,I owe her my life.,18,5,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833262905707934,6
+753,Valley of the Wind.,19,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.654817972539789,3
+754,"Tell me, what will happen?",26,5,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833303174838518,6
+755,"You must know, Asbel.",21,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.484604011511744,5
+756,Theyll provoke an insect attack.,32,5,negative,-0.7003,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.49122921016638543,1
+757,So you made them,16,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833292862965168,1
+758,Youre... horrible...,20,2,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6516983032819623,2
+759,We simply have to recover the,29,6,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+760,Were doing it to save the world.,32,7,positive,0.4939,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.38053643164505785,1
+761,And so youll murder,19,4,negative,-0.7165,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.3838086650665758,4
+762,"Stop it. Call it off, please!",29,6,positive,0.1007,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6534536305510119,4
+763,Its too late.,13,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+764,"Once theyve started,",20,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833295469404026,5
+765,Weve lost most of our,21,5,negative,-0.3182,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6543880280616493,4
+766,This is the only way.,21,5,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.583331086168377,1
+767,Let go! Let me fly.,19,5,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6429548499327484,2
+768,"Its horrible now, but the Giant",31,6,negative,-0.3071,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6540678324890637,2
+769,and rebuild the human world.,28,5,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6941502199783031,6
+770,Liar! Youre just like the Tolmekians.,37,6,negative,-0.2714,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.401768423417931,4
+771,"No, they want to use it for destruction.",40,8,negative,-0.6808,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.37897000288749405,1
+772,You drink water from the wells too.,35,7,positive,0.25,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833310292461626,3
+773,Do you know what purifies that water?,37,7,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6531186919796904,3
+774,The trees in the Sea of Decay,29,7,negative,-0.4019,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6927291700177786,2
+775,and rivers that humans polluted.,32,5,negative,-0.4588,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6543865886737484,1
+776,And you want to destroy that.,29,6,negative,-0.4939,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.3831117050861938,0
+777,Why did you dig up,18,5,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+778,What choice do we have?,23,5,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833295732921325,4
+779,Subject ourselves to Tolmekian rule?,36,5,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.37689037838483036,1
+780,"Never, never!",13,2,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833302914115798,4
+781,"Tell them, Asbel, how",21,4,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.38312556239449364,6
+782,How the insects protect this world.,35,6,positive,0.3818,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.693330135886185,6
+783,"Please, Asbel.",14,2,positive,0.3182,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.36605868442386263,5
+784,What are you doing?,19,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+785,Dont move!,10,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6529878776137494,1
+786,"Calm down, Asbel.",17,3,positive,0.3182,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6542775040376857,5
+787,Im serious. Release her.,24,4,negative,-0.0772,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833242359076619,1
+788,"Nausica?, go and warn them!",27,5,negative,-0.1759,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6529063317080973,3
+789,Asbel,5,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833319873146378,5
+790,Let me go.,10,3,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833304214331079,2
+791,Fools.,6,1,negative,-0.4939,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833284859567479,5
+792,No stopping fighting once it starts.,36,6,negative,-0.6486,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833247874089836,1
+793,But he warned us to be careful.,31,7,negative,-0.1901,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833300496752204,1
+794,Quit dawdling and use the,25,5,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833297459597724,1
+795,"Counselor, they got the last man.",33,6,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.2302190971682092,0
+796,Coming our way?,15,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.3645721961962401,0
+797,The whole village is gathering.,31,5,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833244205446457,5
+798,Why do they go berserk,22,5,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+799,Just as it was with Pejite.,27,6,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833320677883209,5
+800,They got our tank.,18,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833279097192604,3
+801,"Hurry, get it moving.",21,4,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6928042680767327,4
+802,Dont panic.,11,2,positive,0.4023,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.650554842954991,1
+803,Incoming fire!,14,2,negative,-0.4003,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833321163203873,2
+804,Forward!,8,1,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833264019435392,2
+805,Hurry up!,9,2,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833326008132153,4
+806,Maybe this is it?,17,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+807,Its moving.,11,2,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5825108231648916,2
+808,Which way?,10,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.583331086168377,1
+809,"Forward, move forward",21,3,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.4731596026513077,2
+810,I know that.,12,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5828993637019863,5
+811,Damn! Mobilize all the tanks.,29,5,negative,-0.4574,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6537129383555221,3
+812,She survived...,15,2,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833259706534136,4
+813,So much for my dreams...,24,5,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833262086820546,5
+814,Your Highness!,14,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833320349424319,5
+815,Well hold em off here.,22,5,positive,0.2732,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833313287072471,4
+816,Lead everyone to safety,23,4,positive,0.4215,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833322313612376,6
+817,All right.,10,2,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833315846792513,3
+818,Its just until the Princess,27,5,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+819,Hurry everyone.,15,2,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.37242918742111647,6
+820,Stop gawking and help me.,25,5,positive,0.128,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6537714413357473,4
+821,My aching back.,15,3,negative,-0.4939,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833296975548341,5
+822,The tanks are coming.,21,4,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6534138706072382,2
+823,Hurry!,6,1,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833326008132153,4
+824,I know that.,12,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5828993637019863,5
+825,Are you sure?,13,3,positive,0.3182,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+826,I saw it peeking,16,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+827,"Watch out, shes a wild one.",27,6,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.49526469654297695,4
+828,Quickly.,8,1,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833228748504654,1
+829,"Nausica, you may go free.",25,5,positive,0.5106,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.4617095096446447,3
+830,Go warn your Valley.,20,4,negative,-0.1027,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6531763033757632,3
+831,Your glider may get,19,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.2789388376020754,0
+832,Its waiting.,12,2,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5830312706602734,6
+833,Asbel told me everything.,25,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.462160280816776,5
+834,Ill take your place.,20,4,negative,-0.4215,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.28874174381052026,0
+835,Youre...,8,1,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833324879957394,2
+836,Lastels mother.,15,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+837,Thank you.,10,2,positive,0.3612,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833322339579071,2
+838,Im so very sorry.,17,4,negative,-0.2195,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833313091991714,5
+839,Everything weve done is wrong.,30,5,negative,-0.4767,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.7190922517183608,4
+840,Hurry! What about her?,22,4,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833326008132153,4
+841,"Shell be all right, dont worry.",31,6,positive,0.3412,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.3659448215080652,0
+842,Be careful.,11,2,positive,0.1531,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833300496752204,1
+843,Weve treated you so badly.,26,5,negative,-0.6113,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.58333076613017,4
+844,"Over here, Nausica?",19,3,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833324477384526,3
+845,Hurry.,6,1,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833326008132153,4
+846,"Thank you, everyone!",20,3,positive,0.4199,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.3639421681556476,0
+847,Sorry it took so long.,22,5,negative,-0.0772,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.37772447061332626,3
+848,Can you launch from here?,25,5,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+849,Ill try.,8,2,negative,-0.4215,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833319552560942,5
+850,A Korvet.,9,2,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833295371212773,2
+851,Take cover in the clouds.,25,5,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.3784721540364639,4
+852,Stop firing!,12,2,negative,-0.5983,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5826074832666837,5
+853,Idiots! Nothing but wind,24,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.3846778981811001,1
+854,Its useless. Ive lost control.,30,5,negative,-0.6249,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6545361180062753,4
+855,The ship is breaking apart.,27,5,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5825319894955072,6
+856,We have to leave,16,4,negative,-0.0516,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833252574080628,1
+857,They were expecting us.,23,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+858,What are they up to?,20,5,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+859,Forcing us into the clouds,26,5,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833294158974881,4
+860,Here they come.,15,3,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833320178320202,3
+861,"No, Ill stay with you.",22,5,negative,-0.6124,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.3794244477327406,1
+862,I cant abandon all those people,31,6,positive,0.3412,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.3802241318066768,1
+863,and the girl who took my place.,31,7,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.48803178005508924,3
+864,Only you can save your people,29,6,positive,0.4939,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6544420410053798,1
+865,"Please, go for our sakes.",25,5,positive,0.3182,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.583332047915107,4
+866,The ship is ours.,17,4,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5825319894955072,6
+867,Take no prisoners,17,3,negative,-0.6705,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833316767093456,1
+868,"Go, Nausica.",12,2,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833324477384526,3
+869,Asbel.,6,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833319873146378,5
+870,Princess.,9,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+871,Mito!,5,1,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833320133689647,1
+872,Mito! Lord Yupa!,16,3,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.47906632043324826,6
+873,Princess.,9,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+874,"Hurry, everyones in...!",23,3,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833326008132153,4
+875,Ill engage the hook now.,24,5,negative,-0.1027,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6540506230545973,5
+876,"Lord Yupa, that red lever!",26,5,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.44409451813569534,6
+877,This is their last stronghold.,30,5,positive,0.128,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833271361041442,2
+878,The door wont hold.,19,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.36970153221871027,5
+879,Any time. Show them,19,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.38926803632428636,5
+880,What is that?,13,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+881,A bird?,7,2,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833248356396624,3
+882,"A ship, a gun ship from the Valley.",35,8,negative,-0.34,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5315485108327486,2
+883,What!,5,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+884,You...,6,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+885,"Its Lord Yupa, heres",20,4,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.654810443553359,6
+886,"Surrender, your Korvet",22,3,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833295371212773,2
+887,This guy is tough.,18,4,negative,-0.128,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+888,"Princess, youre crazy",21,3,negative,-0.34,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.38633681627047356,0
+889,Just make it to the Valley.,27,6,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.404235969281552,6
+890,"Dear God, God of the Wind.",26,6,positive,0.7003,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.48229226506496337,2
+891,Please protect my people.,25,4,positive,0.5994,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.4682996370664308,4
+892,They wont budge.,16,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833292019566163,5
+893,Theyre waiting for her return.,30,5,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.691184112660022,1
+894,Return?,7,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5830250295463459,3
+895,They believe that girl will,27,5,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.3773357819075241,4
+896,That gun ships a pain,21,5,negative,-0.6908,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.3857590099457283,6
+897,Do you know what that ship is?,30,7,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.3719892257505541,5
+898,Its from before the,19,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+899,The one they say,16,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.652191348734619,3
+900,"Its too strong for our guns,",28,6,positive,0.5106,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.3619307701997446,0
+901,but bury it in a hole.,22,6,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+902,I wish to wait too.,19,5,positive,0.4019,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.38005438342316533,5
+903,If she really does return from,30,6,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5830250295463459,3
+904,Id like a chance,16,4,positive,0.5423,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+905,Made up your minds?,19,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833292862965168,1
+906,"If youll aid our attack,",24,5,negative,-0.4767,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.37292613622516246,0
+907,You want to end up like Pejite?,31,7,positive,0.4215,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6935016782795148,5
+908,Youre a Princess too.,21,4,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.38633681627047356,0
+909,Youre nothing like our Princess.,32,5,negative,-0.2755,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.3168373924767011,0
+910,Look at my hand.,16,4,positive,0.4939,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.3866132923363223,5
+911,Thats what King Jihl had.,25,5,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.38712140431225844,3
+912,In 6 more months,16,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+913,"But our Princess said,",22,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6491058605984549,3
+914,she liked these hands.,22,4,positive,0.4215,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+915,They were the beautiful,23,4,positive,0.5994,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833254264091301,3
+916,You want to live,16,4,positive,0.0772,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6544694138008147,5
+917,even as its toxins ravage you?,30,6,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.3716998844861622,0
+918,You use fire.,13,3,negative,-0.34,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.38299878907510204,0
+919,Too much fire and,17,4,negative,-0.34,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.39768289422037456,5
+920,Fire can turn the forest,24,5,negative,-0.34,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.49538382346991255,3
+921,Water and wind sustain,22,4,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6544832867712498,3
+922,We like the water and the wind.,31,7,positive,0.3612,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6544832867712498,3
+923,The sight of our forest,23,5,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.39360337254508826,1
+924,"Counselor, we await your orders.",32,5,positive,0.1027,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6547887747675885,5
+925,"Shut up. Yes, sir.",18,4,positive,0.4019,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.3856205919895094,3
+926,"Who knows what happened,",24,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+927,"Let them go, Kurotowa.",22,4,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.3806994274814282,6
+928,You want to wait?,17,4,positive,0.0772,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.36932345762187246,4
+929,Feed the soldiers.,18,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.583327035477395,5
+930,We attack in an hour.,21,5,negative,-0.4767,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.3669685400624995,5
+931,Food?,5,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+932,Someones coming.,16,2,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833316262986479,2
+933,Its Gol and the others.,23,5,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.3620205811048837,0
+934,What is it?,11,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+935,Theres no wind.,15,3,negative,-0.296,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.37565096361371025,6
+936,No wind?,8,2,negative,-0.296,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833321054373503,3
+937,"Youre right, the winds stopped",30,5,negative,-0.2263,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.42638116919743907,6
+938,"Obaba, what is it?",18,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.583331993325917,1
+939,Obaba.,6,1,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.583331993325917,1
+940,Someone...,10,1,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833278928115404,2
+941,The winds never stopped before.,31,5,positive,0.1695,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.4937311486627054,6
+942,"Obaba, my ears hurt.",20,4,negative,-0.5267,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.583331993325917,1
+943,The air... The very,19,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5830298255758899,5
+944,Were close.,11,2,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833255168842711,2
+945,Were clear of the Sea of Decay.,31,7,neutral,-0.0258,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6547773564669289,2
+946,Idle the engines.,17,3,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.361995913814688,6
+947,Whats this glow?,16,3,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6537362173207752,2
+948,Ohmus!,6,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5829032085779033,3
+949,The Sea of Decay is spreading,29,6,negative,-0.4019,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6921133958049878,2
+950,How did they stampede the Ohmus.,32,6,negative,-0.4215,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.652875371099068,3
+951,Someone is baiting them.,24,4,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6542388299109089,2
+952,Mito! Turn towards Sirius.,26,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6533363137391084,1
+953,Yes.,4,1,positive,0.4019,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833320507874851,4
+954,Its there.,10,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+955,"Mito, a flare.",14,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833320133689647,1
+956,Ready.,6,1,positive,0.3612,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833302641856052,2
+957,Fire!,5,1,negative,-0.4003,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833321163203873,2
+958,What is that?,13,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+959,How cruel...,12,2,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833298625847061,4
+960,Theyre baiting them,19,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6526485966900156,1
+961,Ill shoot em down.,18,4,negative,-0.6369,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.38709409307269294,4
+962,"No, Mito!",9,2,negative,-0.3595,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833320133689647,1
+963,Dont shoot.,11,2,positive,0.2584,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.4159150265843438,4
+964,Why not? Why shouldnt I?,24,5,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+965,Kill the baby and the,21,5,negative,-0.6908,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.3680876915798487,0
+966,What can we do?,15,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+967,"Calm down, Mito.",16,3,positive,0.3182,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.390645774542447,5
+968,Return the baby to them.,24,5,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.3775519559826089,0
+969,"What are you doing, Princess?",29,5,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+970,You go ahead and warn them.,27,6,negative,-0.1027,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833279124753217,3
+971,Princess!,9,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+972,Youre not even armed.,21,4,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6539676915454808,2
+973,Thats not one of our flares.,28,6,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.6923343813474682,6
+974,"20 leagues, the other side of the lake.",39,8,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.3678716521172478,5
+975,Is it a gun ship?,17,5,negative,-0.34,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6537294679655926,2
+976,Probably.,9,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+977,Thats a distress signal.,24,4,negative,-0.5267,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5829789820403537,1
+978,Its definitely the gun ship.,28,5,positive,0.0772,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6537294679655926,2
+979,"Its been an hour, lets go.",26,6,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6546226919804733,5
+980,Why not wait?,13,3,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833315725055791,4
+981,The bloodshed is inevitable.,28,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+982,Infantry advance!,17,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+983,"Your Highness, get inside.",26,4,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.4948427946184721,4
+984,Im fine here.,13,3,positive,0.2023,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833311431273895,2
+985,The gun ship!,13,3,negative,-0.4003,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6537294679655926,2
+986,Fire!,5,1,negative,-0.4003,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833321163203873,2
+987,Hold your fire!,15,3,negative,-0.4003,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.37948471562920993,0
+988,Stop it! Stop.,14,3,negative,-0.5707,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5826074832666837,5
+989,Princess!,9,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+990,Stand by. Dont fire.,20,4,positive,0.2584,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.39224611900271716,0
+991,Your Highness.,14,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833320349424319,5
+992,Wheres the girl? The Princess.,30,5,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6503329310693166,3
+993,Shes not here.,14,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833315503399542,5
+994,"The Ohmu, a stampede",20,4,negative,-0.4215,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6521496503906498,1
+995,What!,5,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+996,The Ohmu!,9,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833323243235259,1
+997,The Princess stayed,19,3,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+998,This is no time for battle.,27,6,negative,-0.5859,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.38935363908967396,6
+999,"Everyone run, find the",22,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5101787082997771,1
+1000,"Obaba, I see a red glow.",24,6,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.4194101896977776,2
+1001,Its spreading.,14,2,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5830222356544694,3
+1002,Its coming this way.,20,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.3645721961962401,0
+1003,You hold on tight.,18,4,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833313287072471,4
+1004,Theres no stopping them now.,28,5,negative,-0.4215,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.652392075196925,1
+1005,Dont panic!,11,2,positive,0.4577,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.650554842954991,1
+1006,Theres still time.,18,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.48635121286648153,1
+1007,"If I have to die,",17,5,negative,-0.5994,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833298094676066,3
+1008,"No, you mustnt give up,",23,5,negative,-0.296,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.36600969459004645,6
+1009,"Listen, hold them off",21,4,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6548042032216936,4
+1010,Ill return soon.,16,3,negative,-0.4215,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.41747193881033884,5
+1011,"Your Highness, not that...",26,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833320349424319,5
+1012,Its not ready yet.,18,4,negative,-0.2755,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.3620000887509301,0
+1013,"If not now, when?",17,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+1015,Dont shoot. Listen to me!,25,5,positive,0.3244,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5307418961902888,4
+1016,Damn! She flies like a bird.,28,6,negative,-0.126,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6543880446031578,3
+1017,Shes not an enemy.,18,4,positive,0.431,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.3832530926550794,0
+1018,Anyone who interferes is an enemy.,34,6,negative,-0.5423,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.36793580687859345,0
+1019,Wed better drop the bait in,27,6,positive,0.2023,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.48391878945455263,4
+1020,Here she comes.,15,3,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833272017918905,6
+1021,"Now, fire!",10,2,negative,-0.4003,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833321163203873,2
+1022,No. Thats Lastel.,17,3,negative,-0.296,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.39191224182075973,5
+1023,Move!,5,1,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833314455442685,1
+1024,Ohmu...,7,1,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833323243235259,1
+1025,Dont be angry.,14,3,positive,0.4023,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833327372179449,1
+1026,Im not your foe.,16,4,positive,0.3412,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+1027,Im sorry.,9,2,negative,-0.0772,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833313091991714,5
+1028,Im sorry. I cant ask,20,5,negative,-0.0772,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6937028763087633,5
+1029,Its too cruel.,14,3,negative,-0.5859,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833298625847061,4
+1030,Dont move!,10,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6529878776137494,1
+1031,"Be good, little one, keep still.",32,6,positive,0.4404,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.45190240928765796,6
+1032,Theyve found us.,16,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.36701007977677297,5
+1033,Theyre coming.,14,2,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.3707761729439809,0
+1034,Stop! Not with those wounds.,28,5,negative,-0.3595,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5826074832666837,5
+1035,The lake is poison...,21,4,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833297524027319,6
+1036,You...,6,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+1037,Good baby.,10,2,positive,0.4404,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.3680339438641927,0
+1038,Im fine.,8,2,positive,0.2023,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833311431273895,2
+1039,Theyre turning away.,20,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6545142100593879,1
+1040,Ohmu! Dont!,11,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6540572895041806,1
+1041,Theyve forgotten us in their rage.,34,6,negative,-0.6705,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.3710622142511746,5
+1042,"If I dont calm them, the Valley...",34,7,negative,-0.2411,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.31589715825008063,0
+1043,Fools! Drawing them,19,3,negative,-0.5411,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833284859567479,5
+1044,Were safe.,10,2,positive,0.4404,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833304320847523,6
+1045,Wed better get away.,20,4,positive,0.4404,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.7213639911634026,4
+1046,"No, no!",7,2,negative,-0.5707,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+1047,We can discuss this.,20,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+1048,Take us to them.,16,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833316767093456,1
+1049,I must give them the baby.,26,6,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.2833039190593387,0
+1050,Whats the point?,16,3,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.39158021942251814,0
+1051,Theyll never stop.,18,3,positive,0.2235,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.4736542434005631,4
+1052,Drop us in front of them then.,30,7,negative,-0.2732,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833289203099654,5
+1053,Take us.,8,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833316767093456,1
+1054,But youll die too.,18,4,negative,-0.7469,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.6546731009905933,3
+1055,"Obaba, will we all die?",23,5,negative,-0.5994,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.3831048761298201,3
+1056,"If thats our fate,",18,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.3919435779163933,5
+1057,They dont even waver.,21,4,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.4031145867136522,0
+1058,Idiot! Theres nowhere to go.,28,5,negative,-0.5562,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5829016070189733,6
+1059,Dont retreat!,13,2,negative,-0.2225,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833327372179449,1
+1060,Hold your ground,16,3,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833313287072471,4
+1061,Highness...Your Highness!,25,3,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833320349424319,5
+1062,Get them!,9,2,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833314114398686,4
+1063,The Giant Warrior...,20,3,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6547054574130221,2
+1064,Its rotting.,12,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+1065,Burn them!,10,2,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833311368680913,4
+1066,Whats wrong?,12,2,negative,-0.4767,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6543297878693598,2
+1067,Are you not descended from,26,5,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+1068,Incredible... No wonder,23,3,negative,-0.296,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5823959586824207,3
+1069,"Your Highness Kushana, hurray!",30,4,positive,0.6114,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.6542637942643071,5
+1070,Destroy them!,13,2,negative,-0.5848,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833299990040408,2
+1071,Whats wrong with you?,21,4,negative,-0.4767,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6543297878693598,2
+1072,Were done for.,14,3,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833305881687928,4
+1073,The Giant Warrior is dead.,26,5,negative,-0.6486,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.6943737868234445,2
+1074,Its for the best.,17,4,positive,0.6369,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+1075,The Ohmus rage is the,21,5,negative,-0.5574,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.6526965494533326,4
+1076,Theres no reason to live if,27,6,negative,-0.296,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.374347391338118,5
+1077,Princess. The Princess!,23,3,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+1078,Not there. Its madness.,23,4,positive,0.3412,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+1079,Princess!,9,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+1080,The Ohmus are changing color.,29,5,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5829032085779033,3
+1081,Their rage has vanished.,24,4,negative,-0.5574,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833310604077486,4
+1082,They stopped.,13,2,negative,-0.2263,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833296554341822,6
+1083,Princess!,9,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833330117776506,3
+1084,The Princess is dead.,21,4,negative,-0.6486,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.42321521917107124,5
+1085,She calmed them,15,3,positive,0.3818,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+1086,She saved our Valley.,21,4,positive,0.4215,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.4042237538438116,1
+1087,Look...,7,1,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833323047678362,1
+1088,What is that light?,19,4,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.5833291860262583,6
+1089,Teto...,7,1,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833305876507872,3
+1090,Wonderful.,10,1,positive,0.5719,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833283739650593,5
+1091,"Thank you, Ohmu.",16,3,positive,0.3612,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.367303049508222,0
+1092,Thank you.,10,2,positive,0.3612,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.5833322339579071,2
+1093,Its a miracle. A miracle.,25,5,positive,0.8225,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+1094,Such friendship and sympathy.,29,4,positive,0.6597,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+1095,The Ohmus have opened their hearts.,35,6,neutral,0.0,4,"youre, sea, thank, fire, decay, whats, coming, gun, even, giant",0.38795092334237297,0
+1096,"Children, watch well and tell me",32,6,positive,0.2732,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.37283128073654476,4
+1097,what I cant see.,16,4,neutral,0.0,3,"yupa, lord, everyone, ship, see, good, theres, world, give, safe",0.3688194732725953,6
+1098,The Princess is wearing,23,4,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.43363419961014127,4
+1099,Its like shes walking,21,4,positive,0.3612,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833315503399542,5
+1100,"...clothed in blue robes,",25,4,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.6949713706072764,1
+1101,descending onto a golden field...,33,5,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.7222156260621718,4
+1102,Obaba...,8,1,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.583331993325917,1
+1103,The ancient legend was true.,28,5,positive,0.4215,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+1104,Look!,5,1,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833323047678362,1
+1105,The glider.,11,2,neutral,0.0,1,"dont, ohmu, look, mito, obaba, theyre, take, thats, move, way",0.5833294333132425,1
+1106,The wind!,9,2,neutral,0.0,5,"princess, nausica, wind, valley, come, right, earth, forest, ohmus, return",0.5833321054373503,3
+1107,VOICES,6,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+1108,Ichiro NAGAI,12,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+1109,Goro NAYA,9,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+1110,Yoji MATSUDA,12,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+1111,Yoshiko SAKAKIBARA,18,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+1112,Iemasa KAYUMI,13,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+1113,English translation by,22,3,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833294297558181,4
+1114,Nao AMISAKI  Steve ALPERT,25,4,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+1115,English subtitles by,20,3,neutral,0.0,2,"hurry, please, yes, must, wait, get, hold, burn, rage, spores",0.5833294297558181,4
+1116,Production,10,1,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.16666666666666669,0
+1117,The End,7,2,neutral,0.0,0,"pejite, highness, asbel, ill, want, cant, shes, sorry, know, kill",0.5833276983328791,5

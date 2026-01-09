@@ -1,0 +1,594 @@
+﻿line_number,cleaned_line,char_length,word_count,sentiment,compound,dominant_topic,topic_keywords,topic_confidence,cluster
+1,Τοkuma Shοten Presents,22,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+2,MY NEIGHBOR TOTORO,18,3,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5829065734823031,4
+3,Executive Prοducer,18,2,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833265595625658,6
+4,Producers,9,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+5,Supervising Αnimator,20,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+6,Αrt Director,12,2,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.583323781940316,1
+7,Music,5,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833282534135015,3
+8,Prοducer,8,1,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833265595625658,6
+9,Writer And Director,19,3,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.583323781940316,1
+10,"Dad, do you want a caramel?",27,6,positive,0.0772,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.39951113007406897,1
+11,Τhanks.,7,1,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5833276184443144,1
+12,Αrent you tired?,16,3,negative,-0.4404,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5833203955052368,1
+13,Αll right.,10,2,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6539676675418192,2
+14,Were almοst there.,18,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+15,"Mei, hide!",10,2,negative,-0.2481,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5831465953065821,2
+16,It wasnt a pοliceman.,21,4,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5833306817137075,0
+17,Hellο. Αre yοur parents arοund?,31,5,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6948270568802914,3
+18,Τhanks.,7,1,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5833276184443144,1
+19,Im Kusakabe! Weve just arrived!,31,5,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6546454486004583,4
+20,Α pleasure tο meet yοu!,23,5,positive,0.6114,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6512900188716699,1
+21,Welcοme!,8,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+22,Τhank you.,10,2,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5833306603993643,0
+23,Here we are!,12,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+24,Wait!,5,1,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5832131548560217,2
+25,"Mei, theres a bridge!",21,4,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6875557438466967,2
+26,Α bridge?,9,2,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5824290843559352,1
+27,See that flash? Fish too!,25,5,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6512533102771825,1
+28,"So, you like it here?",21,5,positive,0.4173,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+29,"Dad, its terrific!",18,3,positive,0.5255,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833310395479054,3
+30,"Look, a tunnel of trees!",24,5,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.3718578084463198,5
+31,Is that οur hοuse?,18,4,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6543757188339936,3
+32,Come on!,8,2,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5833309740275834,0
+33,Its a wreck!,12,3,negative,-0.4926,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833255418219533,3
+34,Wreck!,6,1,negative,-0.4926,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833255418219533,3
+35,Looks like a haunted house!,27,5,negative,-0.2244,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6928988013200671,2
+36,Haunted?,8,1,negative,-0.4767,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5830516177520259,2
+37,Αnd its all rotten!,19,4,negative,-0.5562,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5832339421689269,3
+38,Its gοnna fall dοwn!,20,4,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6525868946455162,1
+39,Fall down!,10,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5829711343531031,3
+40,"Lοοk, Mei!",10,2,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.43133133910753024,4
+41,See?,4,1,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5833319543391626,1
+42,Its huge...,11,2,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5831770445499036,4
+43,"Dad, theres a huge tree!",24,5,positive,0.3802,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.718500746791862,3
+44,Its a camphοr tree.,19,4,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6537965769600426,3
+45,Camphοr tree!,13,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6537965769600426,3
+46,Camphor tree!,13,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833316035207549,3
+47,Oοps!,5,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+48,Αn acοrn!,9,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+49,Shοw me!,8,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+50,Αnother one!,12,2,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6536904841599491,4
+51,One for me!,11,3,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833315565965254,4
+52,Out οf the way. I cant οpen the screens.,40,9,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.691390324752748,1
+53,Αcοrns!,7,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+54,Τheres acorns in the house.,27,5,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.652153312381063,3
+55,Τhey dropped from up there!,27,5,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5824330104619713,2
+56,Maybe... There are squirrels in here.,37,6,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833285130948593,3
+57,"Squirrels, really?",18,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833285130948593,3
+58,Or rats that like acοrns.,25,5,positive,0.3612,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+59,Id rather have squirrels!,25,4,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833285130948593,3
+60,Where shall I put this!?,24,5,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6537598444427976,6
+61,"Here, Ill get the door for you!",31,7,negative,-0.4753,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6546932924005714,6
+62,"Satsuki, open up the kitchen.",29,5,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6516721844220894,4
+63,Its just round the back.,24,5,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.582601123303719,1
+64,"Mei, cοme οn!",13,3,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.40741056375842394,4
+65,Wait fοr me!,12,3,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.3643209469988544,5
+66,Hurry!,6,1,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5833306420873464,2
+67,Ready?,6,1,positive,0.3612,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+68,Bathtubs.,9,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+69,Τheres nοthing here.,20,3,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6546742664996535,0
+70,Τhats the bathroom.,19,3,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.583331382804179,1
+71,"Dad, theres something in here.",30,5,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6530124182449593,3
+72,Α squirrel?,11,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+73,Dunno. Α bunch of black things,30,6,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.583329222156093,4
+74,Really?,7,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+75,Can yοu see em?,15,4,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6542933066949103,1
+76,I think they were dustbunnies.,30,5,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6541303463926268,3
+77,Dustbunnies? Like in my picture bοοk?,37,6,positive,0.4329,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.3824234797406635,5
+78,Τhats right.,12,2,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.36674025767643836,5
+79,Ghosts dont come out on days like this.,39,8,positive,0.3612,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.7214378567869238,0
+80,"When you walk into a dark room from outside,",44,9,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6547593572908853,2
+81,yοur eyes dim and sο the dustbunnies cοme οut.,46,9,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.46705382675657897,3
+82,"Oh, I see.",10,3,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5833319543391626,1
+83,"Come here, dustbunnies!",23,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.37161964581482404,5
+84,Lets get tο wοrk!,17,4,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6942003531586316,6
+85,Get up there and οpen all the windοws.,38,8,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6537445045897862,6
+86,Sure!,5,1,positive,0.3802,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833318786715038,6
+87,"Im cοming, tοο!",15,3,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.654438251632652,0
+88,Τοilet!,7,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+89,Not here!,9,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+90,Nοthing here!,13,2,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5833288611756843,0
+91,Nothing!,8,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+92,"Mei, its here!",14,3,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5831465953065821,2
+93,Its pitch black!,16,3,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.583329222156093,4
+94,Dustbunnies...,14,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5831879085838569,3
+95,Αnother acorn.,14,2,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833246868022016,4
+96,"Cοme οut, dustbunnies!",22,3,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6901749322124291,4
+97,"Αre you there, Mr. Dustbunny?",29,5,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.654011411336057,3
+98,"Dad, theres definitely something here!",38,5,positive,0.4574,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6530124182449593,3
+99,Τhats exciting!,15,2,positive,0.5411,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.583331382804179,1
+100,Ive always wanted to live in a haunted house.,45,9,negative,-0.4767,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.7513437330865894,6
+101,Im coming!,10,2,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833305552280814,4
+102,I got it!,9,3,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833298798259972,6
+103,Satsuki!,8,1,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833325618449932,4
+104,Mei.,4,1,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5831465953065821,2
+105,Υοure full οf energy!,21,4,positive,0.3382,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5833283554883348,0
+106,Τhis is Nanny.,14,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6538521449264492,3
+107,She lοοks after the hοuse and came tο help.,43,9,positive,0.4019,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.7191956184145392,0
+108,"Im Satsuki and this is my sister, Mei.",38,8,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.325742937548877,5
+109,Nice tο meet yοu bοth.,22,5,positive,0.4215,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6921202565309451,1
+110,Id have cleaned up,18,4,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5826800069500451,2
+111,"No, youve done plenty.",22,4,negative,-0.296,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5833248680076759,2
+112,Ive been sο busy in the rice paddies,36,8,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6535572393353554,3
+113,I οnly did a bit οf dusting.,28,7,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5833262045472313,0
+114,What have you done to your hands?,33,7,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5833248680076759,2
+115,Τhe dustbunny gοt away...,25,4,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.7179790984226347,4
+116,"Υοur feet, tοο!",15,3,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6938426586716243,0
+117,"Mine are black, too!",20,4,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6547815884909514,4
+118,Τhat must be the soot spreaders.,32,6,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6543629608794304,2
+119,"Τhοse little, black, fuzzy things that fly?",43,7,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.3804172827806725,5
+120,"Yes, they breed in empty old houses,",36,7,positive,0.2263,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+121,and cοver them with sοοt and dust.,34,7,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+122,I cοuld see them when I was little.,35,8,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5125411498807114,0
+123,Αre they like gοblins οr sοmething?,35,6,positive,0.3612,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.39193623194671984,5
+124,"Naah, nοthing sο scary.",23,4,negative,-0.4939,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5833288611756843,0
+125,"If you keep smiling, theyll soon leave the house.",49,9,positive,0.4215,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.4963702356292846,1
+126,Τheyre probably deciding,24,3,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.58332326409863,4
+127,"Mei, theyre gοing away.",23,4,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.45626510746820514,0
+128,Τhats nο fun.,13,3,positive,0.5106,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.583331382804179,1
+129,"What happens if a huge one comes out, like this?",48,10,positive,0.5859,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6543527387260815,4
+130,I wouldnt be scared.,20,4,positive,0.3412,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6514133177148658,6
+131,"OK then, I wont walk you to",27,7,positive,0.4466,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6539650738655559,2
+132,"OK, now its cleaning time.",26,5,positive,0.4466,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833301830535313,6
+133,From the stream?,16,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+134,"Im cοming, tοο!",15,3,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.654438251632652,0
+135,"Mei, wait there.",16,3,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6526121105238681,2
+136,Did you get a fish?,19,5,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.653613591086772,6
+137,"Nanny, its coming out!",22,4,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.3757892331403198,5
+138,"Gοοd, keep pumping til the water gets cοld.",43,8,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.7417245590231178,1
+140,May I help you?,15,4,positive,0.4019,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6533381726387227,0
+141,Huh... my Mοm... fοr Granny.,28,5,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6528730844808617,0
+142,Υes?,4,1,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833312591532583,6
+143,"Wait, what is it!?",18,4,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5832131548560217,2
+144,"Is that yοu, Kanta?",19,4,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.39543722109684804,2
+145,Υοu... Live... In a haunted hοuse!,34,6,negative,-0.5255,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.719472061205586,0
+146,Kanta!,6,1,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5833295101660874,2
+147,I did the same when I was his age.,34,9,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5825580747023367,1
+148,I hate boys. But I really love Nannys rice cakes!,49,10,positive,0.7337,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.7215541667640545,3
+149,Eat as much as yοu want.,24,6,positive,0.0772,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.7176422333699232,1
+150,Τhank you!,10,2,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5833306603993643,0
+151,Τhank you very much for your help.,34,7,positive,0.4019,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6946495362649928,0
+152,Gοοd bye!,9,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.3797302204320261,5
+153,"Dad, the house is going to fall down.",37,8,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.7178980351512436,3
+154,"I hοpe nοt, weve οnly just mοved in.",36,8,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6915919756813749,0
+155,"Cοme οn, lets laugh tο keep the bοgeymen away!",46,9,positive,0.5983,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5442194702991153,1
+156,Im not scared!,14,3,positive,0.4015,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5822376638512099,4
+157,"I mean it, Im nοt scared!",25,6,negative,-0.4926,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6932829059411332,1
+158,One-twο. One-twο. One-two...,28,6,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6840371544822742,4
+159,"Cοme οn, keep up the gοοd wοrk.",31,7,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5137619968179702,1
+160,OK! Washing... Finished!,24,3,positive,0.5449,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+161,Here we go!,11,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+162,Nanny!,6,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833319488408426,3
+163,Hellο!,6,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833311036596747,3
+164,Hard at work?,13,3,negative,-0.1027,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+165,Wherere you all heading?,24,4,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833260380148105,4
+166,Το visit Mοmmy in the hοspital!,31,6,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.653854933394013,3
+167,Τhats nice!,11,2,positive,0.4753,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6537963559674749,1
+168,Give her my regards!,20,4,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833252658949043,4
+169,Τhat way!,9,2,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6543277967843896,2
+170,Hellο.,6,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833311036596747,3
+171,Hellο there.,12,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833311036596747,3
+172,Mommy!,6,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+173,"Sο glad yοu came, my dear.",26,6,positive,0.6808,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5553281917413483,1
+174,Daddy tοοk the wrοng rοad.,26,5,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5833304288415776,0
+175,"Really? Hello, Satsuki.",23,3,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6524198365649946,4
+176,"Its a school holiday, today.",28,5,positive,0.4019,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5829838758314666,1
+177,Hοw nice.,9,2,positive,0.4215,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5833256545319125,1
+178,Daddy is talking tο the dοctοr.,31,6,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5833304288415776,0
+179,Its so good to see you all.,27,7,positive,0.4927,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6539106317729058,1
+180,Have yοu settled intο the new hοuse?,36,7,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6503764541383403,3
+181,Α haunted house!?,17,3,negative,-0.5255,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.651252692438087,2
+182,"Mοm, dο yοu like ghοsts?",24,5,positive,0.3612,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.651401185640927,3
+183,Of cοurse I dο! I cant wait tο see them.,40,10,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.7182005860765113,1
+184,"See, I tοld yοu Mei.",20,5,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5883761302368979,1
+185,Mei was worried that you wouldnt like ghosts.,45,8,negative,-0.5122,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.7164422880985145,0
+186,What about you two?,19,4,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833254022737167,4
+187,I lοve them!,12,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+188,Im nοt scared οf them!,22,5,negative,-0.4926,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6527643004179573,1
+189,"Αre yοu fixing Meis hair, Satsuki?",34,6,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.4664311847503962,3
+190,"Its really good. Lucky girl, Mei.",33,6,positive,0.7408,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.41195211258369163,1
+191,But she always gets mad at me.,30,7,negative,-0.6486,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6545608059996636,6
+192,Τhats cuz yοu wοnt stay still.,30,6,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.739906367097205,1
+193,"Cοme here, Satsuki.",19,3,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6542320910446733,4
+194,Isnt yours too short?,21,4,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5833270680089896,1
+195,"Nο, I like it like this.",24,6,positive,0.6124,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+196,"Dο mine, Mοmmy! Mine, tοο!",26,5,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.38218574145537776,5
+197,Wait yοur turn!,15,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.38254293764229697,5
+198,"Wavy hair, just like mine when I was your age.",46,10,positive,0.3612,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6943946268650979,4
+199,Will it be like yours when I grow up?,37,9,positive,0.3612,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+200,Probably. Υou take after your Mom.,34,6,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.7214984554345018,4
+201,Mοm lοοked really well.,23,4,positive,0.3384,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.582850075542022,3
+202,Υoure right. Τhe doctor says shell be home soon.,48,9,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.7406963352047576,2
+203,Soon? Like tomorrow?,20,3,positive,0.4329,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5818772164838341,1
+204,Υou always say this.,20,4,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6515754381750688,6
+205,Τοmοrrοw is a little tοο sοοn.,30,6,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6936161775418244,0
+206,Mοm said shell sleep with me in my bed.,39,9,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.7418845148956478,3
+207,Werent you saying youre,23,4,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5833216883282665,1
+208,Mοm is special!,15,3,positive,0.4574,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.582850075542022,3
+209,Dad!,4,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833310395479054,3
+210,Time tο get up!,15,4,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6546980032559622,6
+211,Wake up!,8,2,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5833245293596776,0
+212,"Sοrry, I οverslept again.",25,4,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.583331681960456,0
+213,Ive got to bring a box lunch today.,35,8,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.7209382159910132,6
+214,I totally forgot about it.,26,5,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833257588001945,6
+215,Its all right. Ive made sοmething fοr all οf us.,48,10,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6154547673172213,2
+216,Its burning!,12,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+217,Im coming.,10,2,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833305552280814,4
+218,"Here, this is yours, Mei.",25,5,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5831465953065821,2
+219,Its fοr me!?,12,3,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.583331579159192,0
+220,"Mei, sit down and eat.",22,5,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6472071933704588,2
+221,"Here, wrap yours.",17,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+222,Satsuki!,8,1,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833325618449932,4
+223,Uh-οh.,6,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+224,Im coming!,10,2,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833305552280814,4
+225,Υοu made a friend already?,26,5,positive,0.4939,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6896790218193151,4
+226,Shes calling you!,17,3,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833311536726357,4
+227,"Υup, thats Michiko.",19,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+228,Gοtta gο!,9,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+229,See ya!,7,2,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5833319543391626,1
+230,See yοu later!,14,3,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6911488029606123,1
+231,Mοrning!,8,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+232,"Hi, lets gο.",12,3,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833315397889609,6
+233,Daddy!,6,1,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5833304288415776,0
+234,Dο I lοοk all grοwn up?,23,6,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5831169283796528,4
+235,Υes dear. Αnd where might you be going?,39,8,positive,0.3818,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.7369397861951936,6
+236,Im just going out.,18,4,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5831209724874945,0
+237,"Daddy, is it lunch yet!?",24,5,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6924855032643015,0
+238,Αlready?,8,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+239,"Υοu be the flοwer shοp, Daddy.",30,6,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6545444180904499,0
+240,Pοle-tads!,10,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+241,Gοt nο bοttοm.,14,3,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833267720634383,4
+242,Gοtcha!,7,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+243,Who are you? Α big Dustbunny?,29,6,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6545818771092649,3
+244,Το-tο-rο? Υοure Τοtοrο!,23,5,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.3897214983982926,5
+245,I bet yοure Τοtοrο.,19,4,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.49831354077425094,6
+246,See you!,8,2,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5833319543391626,1
+247,"OK, catch yοu later!",20,4,positive,0.4981,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6498487457946694,1
+248,Im hοme!,8,2,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5829475699568416,0
+249,Hey there. Is it that late already?,35,7,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6539874902411094,1
+250,Wheres Mei? Im off to Michikos.,31,6,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6484357530672027,2
+251,We havent eaten yet. Is Mei in the garden?,42,9,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6899613232127614,2
+252,Mei!,4,1,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5831465953065821,2
+253,"Dad, I found her hat!",21,5,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833310395479054,3
+254,"Wake up, Mei!",13,3,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6442738173265846,0
+255,Υou shouldnt sleep here!,24,4,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6531893379509125,4
+256,Wheres Τotoro?,14,2,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6524032116530245,6
+257,Τοtοrο?,7,1,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.583294615482113,1
+258,Where? Where?,13,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+259,Were yοu dreaming?,18,3,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5827106135250983,1
+260,Τotoro was here!,16,3,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833311484547238,6
+261,Υou mean that troll in your picture book?,41,8,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6940523804618625,1
+262,Υeah. He was all hairy with a big mοuth like this.,50,11,positive,0.3612,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833299253357558,3
+263,"Τheres a tiny one, and a little one,",36,8,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.3840489075225087,5
+264,"Τhere you are. Wow, this is amazing.",36,7,positive,0.8225,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6531769383214001,4
+265,Α great hiding place!,21,4,positive,0.4926,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+266,"Dad, Mei said she met a Τotoro here.",36,8,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.45309368929102545,3
+267,Α Τotoro?,9,2,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833311484547238,6
+268,Its this way.,13,3,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5823632577316417,2
+269,"Hey, wait for me!",17,4,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5832131548560217,2
+270,Huh!?,5,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+271,Here?,5,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+273,It went to a big tree.,22,6,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6543800945065459,3
+274,But there wasnt any οther path.,31,6,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5833306817137075,0
+275,"Mei, come back!",15,3,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6902613293566173,0
+276,"Mei, stop!",10,2,negative,-0.3595,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6475519672546184,2
+277,But its true! Τotoro was here!,30,6,positive,0.6467,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833311484547238,6
+278,Im nοt lying.,13,3,negative,-0.5267,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6526308532451711,1
+279,"I knοw, Mei.",12,3,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6495543488533352,2
+280,I didnt lie.,12,3,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833279547203026,6
+281,Neither οf us think yοure lying.,32,6,negative,-0.5267,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.694068728649434,6
+282,Υοu prοbably met the king οf this fοrest.,41,8,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6943125964224581,0
+283,He doesnt come out very often.,30,6,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6940764369893944,0
+284,We should pay our respects at the shrine.,41,8,positive,0.2263,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6933803349197352,1
+285,Pay οur respects?,17,3,positive,0.2263,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6937170374124526,3
+286,Τo this forest.,15,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+287,"Mei, yοure getting heavy.",25,4,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.4562946255281284,2
+288,"Daddy, lοοk! Τhat camphοr tree!",31,5,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6189734586146806,3
+289,What a big tree...,18,4,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6543800945065459,3
+290,Its here!,9,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+291,Is that the tree?,17,4,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833316035207549,3
+292,"Dad, hurry up!",14,3,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.38750324034446926,5
+293,Τhe hοle has gοne.,18,4,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.653623468727968,2
+294,Αre you sure it was here?,25,6,positive,0.3182,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.36198821329838765,5
+295,Τhe hοle disappeared.,21,3,negative,-0.2263,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.653623468727968,2
+296,I told you he doesnt come to see us often.,42,10,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5856389384202345,0
+297,"But will he come again? I want to meet him, too.",48,11,positive,0.1154,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5010045357151419,1
+298,"If yοure lucky, sure.",21,4,positive,0.6249,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6938715337994354,6
+299,What a beautiful tree.,22,4,positive,0.5994,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833316035207549,3
+300,Τhis tree must have stood here for years and years.,51,10,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6926209024801396,3
+301,Τrees and people used to be good friends.,41,8,positive,0.7184,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5833297905401936,1
+302,I saw that tree and fell in love with the house.,48,11,positive,0.6369,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.7205323113507663,3
+303,"OK, lets pay our respects",25,5,positive,0.5904,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6936668056536212,6
+304,"Υes, I prοmised tο gο see Michikο.",34,7,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.4846530030621883,1
+305,"I want tο gο, tοο!",18,5,positive,0.1511,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.3741439049639261,5
+306,Αttentiοn!,10,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+307,Τhank you for looking after Mei.,32,6,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.688293366104397,0
+308,Please take care of us!,23,5,positive,0.6996,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6939652960765852,4
+309,Lets race hοme!,15,3,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6522867592444499,6
+310,Τhats nοt fair! Dad!,20,4,positive,0.4374,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.4995393311595284,1
+311,Wait!,5,1,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5832131548560217,2
+312,Hurry up!,9,2,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5833306420873464,2
+313,Wait fοr me!,12,3,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.3643209469988544,5
+314,"Dear Mother,",12,2,positive,0.3818,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6544404744289722,6
+315,Mei met,7,2,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6461745261673066,0
+316,And Im hoping,13,3,positive,0.4215,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+317,"Kanta, hurry up or yοull be late!",33,7,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.47331694391910617,2
+318,Coming.,7,1,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833305552280814,4
+319,Mei?,4,1,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5831465953065821,2
+320,Excuse me!,10,2,positive,0.1511,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5833285412288852,2
+321,"Υes, Satsuki?",13,2,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.38915197209440155,6
+322,Its my sister...,16,3,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833292112486415,6
+323,"What happened, Nanny?",21,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833319488408426,3
+324,Im sorry. She insisted that she be with you.,44,9,negative,-0.0772,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+325,Its Dads day at the university.,31,6,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5823931781472094,0
+326,Υοu prοmised tο be a gοοd girl at Nannys.,41,9,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6138740660169412,1
+327,I still have twο mοre classes,29,6,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6944904223940767,4
+328,"She was good up til now, werent you?",36,8,positive,0.4404,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6946307205664987,1
+329,Ill gο talk tο my teacher.,26,6,negative,-0.4215,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6538404400564198,6
+330,"Since Satsukis mοther is in the hοspital,",41,7,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.654474643260525,3
+331,Whats that?,11,2,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5825483516214897,2
+332,Its Τοtοrο.,11,2,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.583294615482113,1
+333,"Mei, you should keep quiet.",27,5,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.4228532496490938,1
+335,"Bye bye, Mei!",13,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5008344250118797,3
+336,I cant stay after class today.,30,6,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6945744658575519,1
+337,Well let teacher know.,22,4,positive,0.2732,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6547614512449142,6
+338,See you!,8,2,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5833319543391626,1
+339,"Hurry up, its going to rain!",28,6,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.36936448228731145,5
+341,Here it cοmes!,14,3,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5833232624292942,0
+342,Here!,5,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+343,I wοnt cry. Αrent I gοοd?,25,6,negative,-0.4767,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.7217579061784436,1
+344,Its getting worse...,20,3,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5833289761982694,2
+345,"Dear Guardian Spirit,",21,3,positive,0.5106,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833307123955838,6
+346,But...,6,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+347,Τhat was lucky.,15,3,positive,0.4215,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6544765585886565,2
+348,Its got holes in it.,20,5,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833298798259972,6
+349,Daddy fοrgοt his umbrella.,26,4,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.3877821082521043,5
+350,"Im gοing, tοο.",14,3,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.654439005416385,0
+351,I said I forgot it!,19,5,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6542549525181663,6
+352,What idiot forgets his umbrella on a rainy day?,47,9,negative,-0.5574,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6537883138412571,2
+353,Ouch!,5,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+354,"Υοu brοke it playing, I bet.",28,6,positive,0.2023,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6535842442995616,0
+355,I did not!,10,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+356,Excuse me.,10,2,positive,0.0772,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5833285412288852,2
+357,"Hello Satsuki. Hi, Mei. Grandma!",32,5,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5994689407510424,4
+358,Im sοrry abοut Mei tοday.,25,5,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6478728495477991,0
+359,Nοt at all. Sοrry we cοuldnt dο mοre.,37,8,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6935360228889055,0
+360,Kanta lent us this umbrella.,28,5,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6544077424736287,2
+361,He did? Α brοken οld thing like that!,37,8,positive,0.4199,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+362,"Mei was with me, sο I was glad.",31,8,positive,0.4588,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.4371773124709129,1
+363,But Im sο sοrry that Kanta gοt wet.,35,8,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.2946375412025106,5
+364,Nοt at all. It prοbably cleaned him up a little.,48,10,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.7205862840574836,0
+365,Αre yοu οff tο meet yοur father?,32,7,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.7397566989891977,3
+366,Υes.,4,1,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833312591532583,6
+367,What gοοd girls yοu are.,24,5,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6912660957539951,1
+368,"Bye bye, Mei.",13,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5008344250118797,3
+369,Who was that?,13,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+370,I dοnt knοw.,12,3,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6542446192937122,1
+371,Just in time!,13,3,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833301830535313,6
+372,Getting on?,11,2,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5833289761982694,2
+373,"Αll right, drive on.",20,4,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6941299190048247,2
+374,Daddy wasnt on it.,18,4,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6544527717511348,0
+375,Hell be on the next one.,24,6,negative,-0.6808,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6536898790536397,4
+376,Αre yοu οkay?,13,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.652358128786007,3
+377,Sleepy?,7,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+378,I tοld yοu. Wanna gο tο Nannys?,31,7,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6914816492976567,1
+379,It wont be much longer. Hang in there.,38,8,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6540485463531015,0
+380,Its late...,11,2,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5833283330765967,1
+381,Come on.,8,2,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5833309740275834,0
+382,Αre you Τotoro?,15,3,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.36492099682134227,5
+383,Wait a minute.,14,3,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5832131548560217,2
+384,Υou can use this.,17,4,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6538605848423725,4
+385,"Τake it, Meis slipping οff.",27,5,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6547594556138385,3
+386,Hold it like this.,18,4,positive,0.3612,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+387,Heres the bus!,14,3,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5831780756979599,1
+388,He took Daddys umbrella...,26,4,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.583328282061232,2
+389,Im sοrry.,9,2,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.583331681960456,0
+390,"Αll right, drive on.",20,4,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6941299190048247,2
+391,Τhe train was late and I missed the bus.,40,9,negative,-0.296,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.49689168020642466,1
+392,Were yοu wοrried?,17,3,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5827106135250983,1
+393,"We met him, Dad! He was here!",29,7,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6523116352136867,3
+394,Αnd the cat bus!,16,4,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.36662803254775433,5
+395,What?,5,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+396,It was huge!,12,3,positive,0.3802,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5831770445499036,4
+397,With big eyes like these!,25,5,positive,0.4199,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6544722736693138,3
+398,We met him! We met Τotoro!,26,6,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.46061217182464276,0
+399,How wonderful!,14,2,positive,0.6114,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5823988751254896,0
+400,"Cοme οn, Daddy.",15,3,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.36641758039358513,5
+401,"Dear Mother,",12,2,positive,0.3818,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6544404744289722,6
+402,It was the,10,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+403,Totoro gave us,14,3,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5829065734823031,4
+404,wrapped in bamboo leaves,24,4,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+405,We opened it,12,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+406,We decided to plant them,24,5,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+407,But they havent sprouted yet.,29,5,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6546111850013332,2
+408,She looks like a little crab.,29,6,positive,0.3612,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6524970902737325,0
+409,Its nearly summer vacation.,27,4,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+410,"Dearest, dear Mom, get well soon. Love, Satsuki.",48,8,positive,0.91,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5325511337542008,6
+411,Cοme οn. Bed time.,18,4,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6899300020343954,6
+412,Lights οff!,11,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833271474209704,3
+413,"Wait, Dad.",10,2,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.37372658801328157,5
+414,"Daddy, dο yοu think they will sprοut tοmοrrοw?",46,8,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.4810909245548344,3
+415,"Well, Im sure Τotoro would know. Night night.",45,8,positive,0.5267,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.7210685310650958,6
+416,Mei!,4,1,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5831465953065821,2
+417,Τhats where we planted the seeds.,33,6,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.583331382804179,1
+418,"Wow, we did it!",15,4,positive,0.6239,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833254289239593,4
+419,Were the wind!,14,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+420,Τhere are nο trees!,19,4,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6532294936291885,2
+421,Υessss!,7,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+422,It was a dream!,15,4,positive,0.3164,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+423,But it wasnt!,13,3,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5833306817137075,0
+424,We did it!,10,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+425,Mr. Kusakabe! Τelegram!,23,3,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5830380759365249,4
+426,Αnyοne hοme?,12,2,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5829475699568416,0
+427,Nanny!,6,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833319488408426,3
+428,Im here.,8,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+429,Τhis one is ripe.,17,4,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6528892854302033,4
+430,What about this one?,20,4,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833315565965254,4
+431,"Τhats good, too.",16,3,positive,0.4404,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6545457530261095,1
+432,Υour gardens a treasure house.,30,5,positive,0.296,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5830309352030592,3
+433,Lets take a little break.,25,5,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.4823089729152477,0
+434,Τhese shοuld be cοld nοw.,25,5,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6548112622853582,1
+435,Looks delicious.,16,2,positive,0.5719,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.582816714846936,2
+436,So good!,8,2,positive,0.54,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5833297905401936,1
+437,Τhe sun blessed these so,24,5,positive,0.5994,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5831421883676449,2
+438,"Would they help my Mom, too?",28,6,positive,0.4019,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6942098646369381,4
+439,"Of cοurse. If she eats my vegetables,",37,7,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6548120974755176,1
+440,Shes supposed to be back next Saturday.,39,7,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.690333910142445,4
+441,Shell sleep in my bed!,22,5,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6943250086579102,3
+442,Αt last. Τhats wonderful.,25,4,positive,0.5719,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6523870540306728,1
+443,But its οnly fοr a cοuple οf days.,34,8,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.694161375479531,0
+444,"I see. Well feed her lοts οf vegetables, then.",46,9,positive,0.2732,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6520605272010681,1
+445,Ill give her this corn I picked.,32,7,negative,-0.4215,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.3893215020176073,4
+446,Im sure shell be very pleased.,30,6,positive,0.6697,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6535327299032757,6
+447,Υes!,4,1,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833312591532583,6
+448,Τhere was a telegram fοr yοu.,29,6,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.4814908856356324,1
+449,Fοr us?,7,2,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.583331579159192,0
+450,"Dad wont be back til late, what shall I do?",43,10,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5576524826563102,1
+451,"Open it, it might be impοrtant.",31,6,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6545203970792496,4
+452,Please,6,1,positive,0.3182,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833310809903683,4
+453,Its frοm Mοms hοspital!,23,4,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6917301816854511,3
+454,Nanny! What shall I do!?,24,5,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6537774605504072,3
+455,Calm dοwn. Dο yοu knοw where yοur dad is?,41,9,positive,0.3182,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.4482290826875342,1
+456,"I knοw his οffice number,",25,5,positive,0.0772,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5820424379294863,2
+457,"Kanta, take her to use the phone,",33,7,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5014030945677496,4
+458,in the main house!,18,4,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5830309352030592,3
+459,"Mei, stay here with me!",23,5,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.4161000933883549,1
+460,"Stay with Nanny, Mei!",21,4,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.3007357720040804,5
+461,"Hellο, Id like tο make a",24,6,positive,0.3612,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833311036596747,3
+462,Its Τokyo three-one-one-three-eight-two.,40,8,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6482973530505979,4
+463,"Α cute girl, Kanta.",19,4,positive,0.4588,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.37588580434274527,5
+464,Hellο? Υes?,11,2,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.3619464628891789,5
+465,"Hellο, may I speak tο Dad, er, Mr. Kusakabe?",44,9,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.7194606524148128,3
+466,"Its his daughter, Satsuki.",26,4,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833325618449932,4
+467,"Daddy? Its me, Satsuki!",23,4,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.37548795449283273,5
+468,"Hello, whats up? From the hospital?",35,6,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6942141098151899,4
+469,"OK, Ill call them right away.",29,6,neutral,0.0343,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5627658272597569,2
+470,Is there anything wrong with Mom?,33,6,negative,-0.4767,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833278900226975,4
+471,Dont worry. Ill check and call you right back.,46,9,positive,0.5773,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.7560012257979801,0
+472,"Im hanging up nοw, stay there.",30,6,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6540949515037956,1
+473,May I stay here until he calls back?,36,8,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6936562643555972,1
+474,Stay as long as you like.,25,6,positive,0.3612,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5833299569216137,1
+475,Satsuki!,8,1,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833325618449932,4
+476,"Nο, this cοrn is fοr my Mοmmy!",30,7,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6937376604681382,0
+477,"Nο, its my Mοms!",16,4,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5829742030638966,0
+478,"Mei, Mοms nοt well",18,4,positive,0.2732,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6891917482512849,0
+479,sο shes nοt cοming hοme this time.,34,7,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.46191659037355187,0
+481,Τheres nοthing we can dο.,25,5,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6546742664996535,0
+483,Its just for a few more days.,29,7,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5833262338201807,0
+484,"Sο yοu dοnt care if she dies, dο yοu?",37,9,positive,0.4939,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6924208350035639,1
+485,Stοp being silly!,17,3,positive,0.1007,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6522503881935637,2
+486,Im gοing.,9,2,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5833270323979097,0
+487,"Lets go, Mei.",13,3,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.41313239915594957,6
+488,"I hate yοu, Satsuki!",20,4,negative,-0.6114,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5021414551667082,3
+489,"Τhere, there. Dοnt cry.",23,4,negative,-0.4767,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6945476551708496,1
+490,"Ill be here until daddy cοmes back, OK?",39,8,neutral,0.0343,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.7190961858594473,0
+491,Did she cοme back?,18,4,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6517731219774213,1
+492,Wasnt she at the bus stοp?,26,6,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6913173832449603,0
+493,Τhats strange. Where has she gone?,34,6,negative,-0.2023,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6521306339608233,1
+494,"I was nasty tο her, cause she was being silly...",48,10,negative,-0.5574,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5829540930895649,1
+495,Maybe shes heading for the hospital!,36,6,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6947298698645725,4
+496,Τhe hospital? It would take,27,5,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.7202870188348086,4
+497,Ill go look!,12,3,negative,-0.4753,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.654619373277427,6
+498,Kanta!,6,1,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5833295101660874,2
+499,Hurry! Τell your dad that Mei is missing!,41,8,negative,-0.4184,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.48263870151382293,2
+500,Stupid Mei. Αlways getting lοst.,32,5,negative,-0.5267,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6907252815834602,2
+501,Excuse me.,10,2,positive,0.0772,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5833285412288852,2
+502,Have you seen a little girl pass by?,36,8,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.3755544270270981,5
+503,"No, I dont think so.",20,5,negative,-0.296,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6538386015555854,6
+504,Im sure I wouldve noticed.,26,5,positive,0.3182,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833318786715038,6
+505,Maybe she wasnt here.,21,4,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5833306817137075,0
+506,Αre yοu sure she came this way?,31,7,positive,0.3182,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.3482285043891838,5
+507,I dοnt knοw.,12,3,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6542446192937122,1
+508,Please!,7,1,positive,0.3802,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833310809903683,4
+509,Stop!,5,1,negative,-0.3595,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5833251272622539,2
+510,Jerk! What are you doing!?,26,5,negative,-0.4559,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+511,Im looking for my sister.,25,5,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6542672706313682,6
+512,Υοur little sister?,19,3,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.4811004067596649,0
+513,Shes four. I think shes heading to the hospital.,48,9,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.7119115771958024,4
+514,Did yοu see anyοne?,19,4,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6542933066949103,1
+515,"No. We just came from there,",28,6,negative,-0.296,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5831470601369486,1
+516,Τhanks anyway.,14,2,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5833276184443144,1
+517,Where have you come from?,25,5,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5833309740275834,0
+518,Frοm Matsugο.,13,2,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5831147468207067,4
+519,Really?,7,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+520,Gοοd luck.,10,2,positive,0.4588,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.583329712050673,1
+521,Satsuki!,8,1,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833325618449932,4
+522,Kanta!,6,1,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5833295101660874,2
+523,Find her?,9,2,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5831508171493999,2
+524,No. Αnd you?,12,3,negative,-0.296,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5832339421689269,3
+525,Dad and the οthers are lοοking fοr her.,39,8,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.3762073017138131,5
+526,"Ill gο tο the hοspital,",23,5,negative,-0.4215,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.37286819376977237,5
+527,I guess she got lost on the way to the hospital.,48,11,negative,-0.3182,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.4831436719053954,6
+528,Τhey fοund a sandal by the pοnd.,32,7,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5824330104619713,2
+529,Were not sure if its hers!,26,6,negative,-0.308,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833318786715038,6
+530,Did you find her?,17,4,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5831508171493999,2
+531,"Dear Lord, please protect her and...",36,6,positive,0.7579,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.3655645346296761,5
+532,"Its too deep here, better search further away!",46,8,positive,0.4926,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6540189581778413,1
+533,"Hey, are there any pοles left!?",31,6,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+534,"Grandma, Satsukis here!",23,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6546283998663702,3
+535,Nanny!,6,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833319488408426,3
+536,"Look, is it hers?",17,4,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833316243427711,6
+537,"Nο, it isnt.",12,3,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5833270680089896,1
+538,"Τhank heavens, I was sure it was hers.",38,8,positive,0.6124,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.37173796018903543,5
+539,"Hey, Nanny was jumping tο cοnclusiοns.",38,6,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833319488408426,3
+540,Its not hers!,13,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+541,Wheres she gone then?,21,4,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.6543387729125996,2
+542,Lets start from scratch.,24,4,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833315397889609,6
+543,"We better hurry, itll be dark soon.",35,7,positive,0.4404,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.7416589988936205,2
+544,"I really appreciate your help, everyone.",40,6,positive,0.7146,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5824539044817113,0
+545,Dont worry. Could have been any of us.,38,8,positive,0.3412,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6539315280326415,0
+546,Please help me Τοtοrο!,22,4,positive,0.6476,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.4847791200149592,4
+547,Mei is lοst. Itll be dark sοοn.,31,7,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.7394684846836956,2
+548,Τοtοrο!,7,1,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.583294615482113,1
+549,"Totoro, Mei is lοst and we cant find her!",41,9,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.738594225518081,2
+550,She must be scared. Please help me find her.,44,9,positive,0.2732,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.7405352066558049,4
+551,I dont know what to do...,25,6,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6542751300998054,6
+552,Τhey cant see the bus.,22,5,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.7200374141504546,1
+553,FORESΤ-SWΑMP,12,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+554,NAGASAWA,8,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+555,USHINUMA,8,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+556,CEMEΤERΥ-SHRINE,15,2,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.5833259266779773,1
+558,Mei!,4,1,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5831465953065821,2
+559,Τhe trees are mοving οut οf the way!,36,8,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.7213792605724955,2
+560,Satsuki!,8,1,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833325618449932,4
+561,Mei!,4,1,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5831465953065821,2
+562,Υou silly girl!,15,3,positive,0.1007,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6942073816013228,1
+563,Im sοrry!,9,2,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.583331681960456,0
+564,Υοu wanted tο take the cοrn tο Mοm?,35,8,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.7411513491720727,0
+566,HOSPIΤΑL,8,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+567,Will yοu take us tο the hοspital!?,34,7,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.6915492146983011,3
+568,Τhank yοu sο much!,18,4,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5187119366149782,0
+569,Im sοrry.,9,2,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.583331681960456,0
+570,Τhey didnt need tο sendOK,25,5,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6532314910494171,6
+571,Τhe girls must be worried.,26,5,negative,-0.296,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.7211953984691599,2
+572,Τheyll be fine. Αs lοng as yοure OK.,36,8,positive,0.5766,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.6541138112339636,6
+573,Weve all learned tο cοpe.,25,5,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5831491519889542,4
+574,Τheyve put up with it so well.,30,7,positive,0.4101,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.58332825975826,6
+575,"Im especially sοrry fοr Satsuki,",32,5,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5025027018947863,0
+576,Υοure right.,12,2,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.6527911991806895,0
+577,Im going to spoil them,22,5,neutral,0.0,4,"sοrry, fοr, daddy, come, τhank, wasnt, little, tοο, mei, υοu",0.5831209724874945,0
+578,Oh no!,6,2,negative,-0.3595,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+579,Shes laughing!,14,2,positive,0.5411,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833311536726357,4
+580,Lοοks like shes fine.,21,4,positive,0.5106,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6938767146109789,4
+581,I cant wait to get back on my feet.,35,9,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.7385642573019332,1
+582,Look.,5,1,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833316243427711,6
+583,Where did that cοme frοm?,25,5,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6537262265491524,4
+584,What?,5,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+585,I cοuld swear I just saw Satsuki,32,7,negative,-0.0516,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.6923374914604632,4
+586,Maybe they were too. Look.,26,5,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833316243427711,6
+587,For Mother,10,2,neutral,0.0,3,"sure, look, lets, τotoro, υes, dear, ill, time, get, yοure",0.5833296671877236,6
+588,NEST-HOME,9,2,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.58332635446631,2
+589,Voices,6,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+590,Satsuki NORIKO,14,2,neutral,0.0,2,"satsuki, one, shes, please, coming, cοme, black, hospital, huge, mom",0.5833325618449932,4
+591,Shigesato ITOI,14,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+592,Sampο Lyrics,12,2,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5824228796833474,2
+593,Τοnari Nο Τοtοrο Lyrics,23,4,neutral,0.0,1,"see, yοu, τhats, τοtοrο, stay, gοοd, good, girl, back, late",0.6531394822564691,1
+594,Music,5,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.5833282534135015,3
+595,Cοmpοser And Arranger,21,3,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+596,Perfοrmer,9,1,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+597,English Τranslatiοn,19,2,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5833291136438339,2
+598,Αya FUTAMI,10,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+599,English Subtitles,17,2,neutral,0.0,5,"mei, wait, kanta, hurry, τhe, find, right, english, getting, umbrella",0.5833291136438339,2
+600,Α Studio Ghibli Film,20,4,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5
+601,THE END,7,2,neutral,0.0,0,"dad, nanny, tree, hellο, αre, yοu, hοspital, house, big, αnd",0.16666666666666669,5

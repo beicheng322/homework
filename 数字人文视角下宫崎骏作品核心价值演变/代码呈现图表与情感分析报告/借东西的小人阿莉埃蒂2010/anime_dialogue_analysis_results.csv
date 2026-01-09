@@ -1,0 +1,540 @@
+﻿line_number,cleaned_line,char_length,word_count,sentiment,compound,dominant_topic,topic_keywords,topic_confidence,cluster
+1,Ill never forget that summer.,29,5,negative,-0.281,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.724491616955233,3
+2,I spent a week in the old house,31,8,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.7215320892873796,0
+3,Almost there. Feeling all right?,32,5,positive,0.0571,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249630375916335,1
+4,Yes.,4,1,positive,0.4019,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6249343069041192,3
+5,The Secret World of,19,4,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.624837022940085,2
+6,Haru... How many times have I told her?,39,8,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.31878609115003337,4
+7,- Ill be right back.,20,4,negative,-0.4215,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.31344330825540284,4
+8,Haru!,5,1,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.624955589200095,3
+9,Youre blocking the driveway again.,34,5,negative,-0.3818,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249382434416509,1
+10,Sho?,4,1,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6249340159346826,0
+11,Where are you?,14,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+12,Dont touch!,11,2,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6869258041073074,1
+13,These arent for you.,20,4,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6247249658970815,0
+14,- Arrietty!,11,1,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6249823670879809,2
+15,"You went outside again, didnt you?",34,6,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.719289136059099,0
+16,"And you might clean up this room,",33,7,positive,0.4019,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6248754407855516,1
+17,Is my own little garden.,24,5,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.4225396541775222,5
+18,"If you ask me, it looks like a mess.",36,9,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6838394361545124,2
+19,Oh! Is that a bay leaf?,23,6,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6890118839910282,3
+20,"Oh well, I guess this means",27,6,positive,0.2732,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+21,Enough for a whole year.,24,5,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6180247857354921,0
+22,But the bay trees so far away.,30,7,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.5142255503130965,1
+23,If a human saw you...,21,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6882378489507844,3
+24,Im always careful.,18,3,positive,0.1531,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.408129951626131,4
+25,The world is full of,20,5,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.624837022940085,2
+26,Your great uncle...,19,3,positive,0.6249,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6129902384341185,0
+27,Was eaten by a frog. Right?,27,6,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249630375916335,1
+28,Doesnt that perilla smell lovely?,33,5,positive,0.5859,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.7098969647729113,3
+29,"Yes, it does.",13,3,positive,0.4019,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6249343069041192,3
+30,"With a bit of sugar,",20,5,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6890369802644749,0
+31,Wait till tonight.,18,3,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6882731932829282,1
+32,My first borrowing ever!,24,4,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.4266592682896652,6
+33,Papas home.,11,2,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6890620826792243,1
+34,Welcome back.,13,2,positive,0.4588,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6757004647850832,2
+35,"- Papa, about tonight...",24,3,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.4361270934790326,4
+36,I saw him.,10,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6249432639162714,3
+37,- No! Dear...,13,2,negative,-0.3595,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6247799641775832,1
+38,I hid behind the bay leaf.,26,6,negative,-0.1027,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6890118839910282,3
+39,I wont hear of it. Is too dangerous.,36,8,negative,-0.4767,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6835240062925022,2
+40,"But, hes just a child!",22,5,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6246613380084024,1
+41,"Papa, Ive been waiting",22,4,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6870495029801907,2
+42,The children can be more savage,31,6,negative,-0.5095,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+43,Ill be fine!,12,3,negative,-0.3164,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.41950680167441584,4
+44,Youngsters go to bed early.,27,5,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6246108127545811,0
+45,"Thank you, Papa!",16,3,positive,0.4199,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.42731433763298265,6
+46,But Pod...,10,2,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6248452770771729,2
+47,The boy is sick.,16,4,negative,-0.5106,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6247532640266188,1
+48,But still...,12,2,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6246101337937442,0
+49,"Stop worrying, Mother.",22,3,negative,-0.5574,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.4407899177525277,4
+50,Arrietty will be 14 soon.,25,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.42325534033724593,4
+51,Someday shell have to survive,29,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.689096703591153,3
+52,Sometimes I think,17,3,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6844581324401355,2
+53,"Whatever you need, just ask Haru.",33,6,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.7442048815078124,3
+54,All right.,10,2,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249630375916335,1
+55,"Haru, Im depending on you.",26,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.624955589200095,3
+56,"Yes, maam.",10,2,positive,0.4019,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.41084753857080264,5
+57,Les shut the screen.,20,4,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6884886824319132,2
+58,Shouldnt you wear something darker?,35,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+59,I already decided!,18,3,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6248064873611187,2
+60,I hope you can borrow,21,5,positive,0.4404,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6816090806826213,0
+61,"And a bit of sugar, perhaps?",28,6,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6890369802644749,0
+62,We could have perilla juice and sugar,37,7,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.5300865432992754,5
+63,But anythings just fine.,24,4,positive,0.296,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6248264702675609,1
+64,Well be back soon.,18,4,positive,0.2732,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6791202151729135,0
+65,Please be careful.,18,3,positive,0.4404,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6891279112202635,0
+66,We will.,8,2,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+67,Arrietty!,9,1,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6249823670879809,2
+68,Sorry!,6,1,negative,-0.1511,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6248184169818186,2
+69,- Hold these for me.,20,4,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6247297670956924,3
+70,Hold on tight!,14,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6247297670956924,3
+71,Arrietty?,9,1,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6249823670879809,2
+72,Ready?,6,1,positive,0.3612,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6245918800949379,2
+73,Everythings so huge!,20,3,positive,0.4376,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6167830631567568,1
+74,The world of humans.,20,4,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.40076461887524784,4
+75,The sugars over there.,22,4,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+76,Wait for me down there.,23,5,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249170525608093,1
+77,"Papa, youre great!",18,3,positive,0.6588,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.5291204158649073,1
+78,Now les get that tissue.,24,5,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6890976337415107,2
+79,"Papa, look.",11,2,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.4221879667862121,4
+80,Your first borrowing.,21,3,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.685769623240814,2
+81,"Be careful, is sharp.",21,4,positive,0.1531,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6248058914589565,0
+82,I will!,7,2,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+83,"Papa, borrowing is such fun!",28,5,positive,0.5562,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6846563912066652,2
+84,Look down there.,16,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.624881472787901,3
+85,Rats. Steer clear of them.,26,5,positive,0.3818,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+86,Im not afraid.,14,3,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.62472425530184,0
+87,Im ready for anything. Ive got this!,36,7,positive,0.4199,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.7241310694778471,2
+88,Sometimes is best not to,24,5,positive,0.6369,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6842007303393329,0
+89,What is this place?,19,4,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6171387646638055,0
+90,The humans made it for their dolls.,35,7,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.4138379003109879,5
+91,Is just perfect for us!,23,5,positive,0.6114,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+92,Im sure Mother would love,25,5,positive,0.7579,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.7485718660849603,1
+93,These things arent for borrowing.,33,5,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6839131736320828,0
+94,"If anything went missing,",25,4,negative,-0.296,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6810312449427606,2
+95,Oh...,5,1,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+96,Dont be afraid.,15,3,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.43286445304226534,4
+97,I saw you.,10,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6249432639162714,3
+98,"In the garden. It was you, wasnt it?",36,8,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6890105376815573,0
+99,My mother told me about you.,28,6,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6877859574260325,1
+100,She saw little people here,26,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.725301365467064,3
+101,Was it you that she saw?,24,6,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6249432639162714,3
+102,Was it?,7,2,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+103,"Im sorry, Papa.",15,3,negative,-0.0772,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6882040569434715,2
+104,"He saw me today, out in the garden.",35,8,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.42249377766781965,5
+105,I should have been more careful.,32,6,positive,0.2247,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6248058914589565,0
+106,I hope he didnt frighten you.,29,6,positive,0.6041,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6892697485255886,0
+107,"Best not tell your mother,",26,5,positive,0.6369,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.5519031256729711,0
+108,All right.,10,2,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249630375916335,1
+109,You dont always have to run.,28,6,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6888068154338354,1
+110,Were home.,10,2,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6246390177183779,1
+111,Safe and sound.,15,3,positive,0.4404,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6246470160865493,3
+112,And?,4,1,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+113,Things didnt go well this time.,31,6,negative,-0.2057,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6892373571747517,0
+114,This light gave out before we finished.,39,7,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+115,"Oh, dear.",9,2,positive,0.3818,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6247799641775832,1
+116,We had to give up on the sugar.,31,8,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6887840862500345,0
+117,Dont give it a thought.,23,5,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.32091115124114394,4
+118,"Arrietty, you found something.",30,4,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6873082992949859,2
+119,What a pretty pin.,18,4,positive,0.4939,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6246417480700858,2
+120,Time for bed.,13,3,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6884651601271398,0
+121,Good night.,11,2,positive,0.4404,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6229327438118027,3
+122,She looks worn out.,19,4,negative,-0.296,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6874318764884428,2
+123,Shall I make some tea?,22,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.681353042926571,3
+124,Sho!,4,1,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6249340159346826,0
+125,Come in the house.,18,4,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6887154537016748,0
+126,A cube of sugar? But whatever for?,34,7,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6847623755748291,0
+127,He left it by the grating.,26,6,negative,-0.1027,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6247371848002212,1
+128,Is probably the same one,24,5,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6879445923632926,1
+129,What?,5,1,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+130,"What do you mean, you dropped it?",33,7,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6248175586493503,2
+131,Dont touch it. Do you understand?,33,6,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.7211605877147853,1
+132,Is a trap.,10,3,negative,-0.3182,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6175870673786593,1
+133,Theyre trying to catch us!,26,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.624814654695193,3
+134,Well have to stop borrowing,27,5,neutral,-0.0258,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6837742824801729,0
+135,Maybe they already know where we are.,37,7,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6749482406494052,2
+136,"Pod, well have to move!",23,5,positive,0.3382,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6892165555490871,2
+137,This was such a lovely house.,29,6,positive,0.5859,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6874372544446447,0
+138,Now well have to start all over again.,38,8,positive,0.2732,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6191833028534963,1
+139,"Well, les see how things go.",28,6,positive,0.2732,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6890617057757371,2
+140,"Now eat, the soup is getting cold.",34,7,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6845293146872646,3
+141,Why did it have to be sugar?,28,7,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6248801424073278,0
+142,"Thank you, Arrietty.",20,3,positive,0.3612,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.4325412130677343,6
+143,I wanted to hang everything,27,5,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6877060094752323,2
+144,You know I love doing laundry.,30,6,positive,0.6369,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6872343868150687,1
+145,- Im going to nap for a bit.,28,7,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6865333552146478,0
+146,You forgot something,20,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+147,You came back.,14,3,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6873881897516825,0
+148,"Wait, dont go.",14,3,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.688958088185221,1
+149,Please leave us alone.,22,4,neutral,0.0258,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6891156302291622,0
+150,I wanted to tell you that.,26,6,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6704075043121908,0
+151,I want to talk to you.,22,6,positive,0.0772,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6182812919024835,3
+152,Humans are dangerous.,21,3,negative,-0.4767,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6850676063065079,3
+153,"If were seen, we have to leave.",31,7,negative,-0.0516,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6884895238469977,0
+154,You have a family? I envy you.,30,7,negative,-0.2732,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6248986649148522,1
+155,Dont you have one?,18,4,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.689266857918448,1
+156,"Yes, but I practically",22,4,positive,0.2144,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6249343069041192,3
+157,"Mother is so busy at work,",26,6,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249700619469731,1
+158,Really...,9,1,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+159,My names Sho. Whas your name?,29,6,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.5156479740622204,5
+160,Do you have one?,16,4,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249225573206364,1
+161,Of course I have a name!,24,6,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.624809590924715,3
+162,Is Arrietty.,12,2,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6249823670879809,2
+163,Arrietty. Arrietty.,19,2,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6249823670879809,2
+164,Thas pretty.,12,2,positive,0.4939,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6761628337386596,2
+165,Wont you let me see you?,24,6,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.7242099098766722,2
+166,Just a peek. Please?,20,4,positive,0.3182,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6247383293400524,0
+167,Whas happening?,15,2,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6243768052029207,3
+168,You cant come in here!,22,5,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.689183383515179,0
+169,What got into that bird?,24,5,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6248431270892045,2
+170,Maybe is nesting season,23,4,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6889630837859141,0
+171,Now I have to replace this screen.,34,7,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6246381857396404,2
+172,Are you all right?,18,4,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249630375916335,1
+173,Maybe you should take,21,4,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6249037974590216,2
+174,"Thanks, Haru.",13,2,positive,0.4404,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.4118123388622611,5
+175,I feel fine.,12,3,positive,0.2023,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6248264702675609,1
+176,Nesting season?,15,2,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6889630837859141,0
+177,Have yourself a nice long rest now.,35,7,positive,0.4215,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.685461117256748,3
+178,Papa...,7,1,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6249414988664691,2
+179,- I told you to stay away.,26,6,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.7253277875599938,1
+180,I wanted to do something to help.,33,7,positive,0.4019,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.687719330785108,2
+181,But he didnt see me.,20,5,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.407036149066715,6
+182,You put your family in danger.,30,6,negative,-0.5267,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6248986649148522,1
+183,I wont say it again. Understand?,32,6,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.7218145190023632,2
+184,Yes.,4,1,positive,0.4019,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6249343069041192,3
+185,Wed better start looking.,25,4,positive,0.4404,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.7453821725959763,2
+186,Wed better start looking.,25,4,positive,0.4404,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.7453821725959763,2
+187,Is time.,8,2,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6248905535621536,0
+188,Pod...,6,1,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6248452770771729,2
+189,Afternoon! Package for you.,27,4,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+190,Thanks again maam.,18,3,positive,0.4404,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6889738997976157,0
+191,Thanks again maam.,18,3,positive,0.4404,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6889738997976157,0
+192,"Listen, do you know any good",28,6,positive,0.4404,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6884248227462555,2
+193,Pest control?,13,2,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+194,Heres one. Squeaky Klean Service.,33,5,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6551478297027846,2
+195,Squeaky Klean Service?,22,3,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.7252249482572684,2
+196,Having problems with mice?,26,4,negative,-0.4019,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6248007008289495,0
+197,Maybe is mice.,14,3,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6248007008289495,0
+198,"Between us, is little people.",29,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6891268578775469,3
+199,Ive seen them myself.,21,4,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.4051754152830657,6
+200,A crow tried to fly into your room?,35,8,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6248754407855516,1
+201,I hope it didnt scare you.,26,6,positive,0.6734,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6892697485255886,0
+202,"Dont worry, Aunt Sadako.",24,4,positive,0.3412,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.7235507448985485,1
+203,I was so astonished!,20,4,positive,0.4914,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+204,I never saw such a huge...,26,6,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.7199960487321151,3
+205,Excitemens the worst thing,26,4,negative,-0.6249,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+206,He came here for peace and quiet.,33,7,positive,0.5423,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6247448858538783,0
+207,If anything were to happen,26,5,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6199985924540271,1
+208,"I know, I know.",15,4,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6205496409118546,1
+209,I realize his mothers,21,4,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6247905960755511,2
+210,But to go abroad on business,28,6,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+211,It must be terribly hard for you,32,7,negative,-0.6124,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6247827419325914,0
+212,I dont mind.,12,3,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249399888210244,1
+213,I suppose the divorce,21,4,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.624681085242972,3
+214,But why cant she be here,24,6,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6248689023642688,0
+215,"Aunt Sadako,",12,2,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6889806577366616,1
+216,Is amazing.,11,2,positive,0.5859,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6247245599977402,1
+217,You mean the dollhouse?,23,4,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.3962734806054397,6
+218,That dollhouse belongs to your mother.,38,6,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6608564984331712,1
+219,She left it here when she moved out.,36,8,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.689014744554993,1
+220,It was hers?,12,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+221,My father had it,16,4,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6247938390012586,0
+222,It was for the little people.,29,6,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6891268578775469,3
+223,My father claimed hed seen them.,32,6,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6887935667536184,0
+224,He waited for so many years.,28,6,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.688782119533872,2
+225,He always said that house,25,5,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.5321127369842875,1
+226,But Im afraid they never,24,5,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.39988129497262864,5
+227,"Not in my fathers lifetime, nor in mine.",40,8,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6246918984268581,2
+228,"Young Master, did you happen to see",35,7,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.7442883437615253,2
+229,"Unfortunately, no.",18,2,negative,-0.5574,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+230,Is been in our family,21,5,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6248986649148522,1
+231,"If you like it, it will be yours someday.",41,9,positive,0.3612,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6246841295167168,3
+232,You mean it?,12,3,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6248175586493503,2
+233,Yes.,4,1,positive,0.4019,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6249343069041192,3
+234,Have you looked inside?,23,4,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+235,"- Haru, could you turn off the lights?",38,7,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.7240661022474839,3
+236,This is the living room.,24,5,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6248754407855516,1
+237,All the furnishings were handmade,33,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+238,Isnt it wonderful?,18,3,negative,-0.4585,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6190496175795837,2
+239,Heres the library on the first floor.,37,7,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6890852406824032,2
+240,But the next room,17,4,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6885448025636506,1
+241,"Haru, could you open that up?",29,6,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.49235757931429514,5
+242,"Les see, I think it opens this way.",35,8,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.5638783944367922,2
+243,Everything is so detailed!,26,4,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6841354006020947,2
+244,Detailed and just like the real thing.,38,7,positive,0.3612,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6626821604520202,1
+245,Thas a real oven.,17,4,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.685372404573693,3
+246,Beautiful. Just beautiful.,26,3,positive,0.8316,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6247483735493804,3
+247,What a pity Fathers dream,25,5,negative,-0.0516,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6246918984268581,2
+248,And is been so long...,22,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6247991049883451,3
+249,Maybe the little people are gone now.,37,7,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.7233343465167189,3
+250,"Mother,",7,1,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249700619469731,1
+251,Dont you want new ones?,23,5,negative,-0.0572,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.7196859538099888,1
+252,I love those pictures.,22,4,positive,0.6369,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6247507226956982,1
+253,Ive always dreamed,18,3,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.7182152424808173,1
+254,"Besides, theres no point in",27,5,negative,-0.296,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6825506215353492,3
+255,Papas later than usual.,23,4,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.62464851888345,1
+256,I hope he didnt get caught,26,6,positive,0.4404,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.5042343337506785,6
+257,- Papa?,7,1,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6249414988664691,2
+258,Papa! Welcome back...,21,3,positive,0.5093,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.7172907841524293,2
+259,Twisted my leg.,15,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6248415740010692,3
+260,Is lucky Spiller found me.,26,5,positive,0.4215,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.40535029083860635,4
+261,Pod?,4,1,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6248452770771729,2
+262,"Oh dear, youre hurt!",20,4,negative,-0.2714,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.7198706890828412,1
+263,Does it hurt?,13,3,negative,-0.5267,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6175941728002369,2
+264,Is not broken. Ill be fine in no time.,38,9,positive,0.5402,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.3196202161180573,4
+265,Ill get some cold water.,24,5,negative,-0.4215,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.5291702198851663,3
+266,"Heres a towel, better dry off.",30,6,positive,0.4404,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6890222846131856,2
+267,Whos this?,10,2,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6186475930823406,0
+268,Is not just the three of us after all.,38,9,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+269,Gotta go.,9,2,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6247194627685604,1
+270,"Wait, at least stay and have some tea.",38,8,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.713452962633342,1
+271,Ill see to your father.,23,5,negative,-0.4215,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.32649804835077056,4
+272,"Thank you, Spiller.",19,3,positive,0.3612,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.4016772578375347,5
+273,Were so grateful for your help.,31,6,positive,0.7178,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6247601595848967,2
+274,"Listen, have you seen other Borrowers?",38,6,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.5056635762252177,6
+275,"You see, we thought",19,4,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6880708247370827,2
+276,This many.,10,2,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6248231502044972,2
+277,Then Cousin Lupy must be okay!,30,6,positive,0.2942,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6891185189357926,0
+278,Can I see your bow?,19,5,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6249189688741914,2
+279,You use this for hunting.,25,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+280,Give that back. Is not a toy.,29,7,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6873799727803904,0
+281,Gotta go.,9,2,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6247194627685604,1
+282,Wont you stay and have a bite?,30,7,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.40801268816482666,4
+283,Got this.,9,2,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6248431270892045,2
+284,A crickes leg!,14,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6248415740010692,3
+285,Want some? Is real good.,24,5,positive,0.4939,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.7228074952330088,3
+286,No thanks!,10,2,positive,0.2481,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6249532229287867,0
+287,Take care.,10,2,positive,0.4939,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6889260705253042,2
+288,Thanks again.,13,2,positive,0.4404,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6249532229287867,0
+289,Ill see him out.,16,4,negative,-0.4215,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.3991432033532124,4
+290,You were looking for a new place.,33,7,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.7156650151611879,1
+291,I tripped and fell. Couldnt move.,33,6,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6248384825466635,2
+292,Really...,9,1,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+293,His territory reaches past the river.,37,6,positive,0.0516,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6247241286322178,3
+294,And he knows a few,18,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+295,Thas good I suppose.,20,4,positive,0.4404,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.7232240574738753,3
+296,Id hate to camp out.,20,5,negative,-0.5719,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+297,But I doubt well find anything,30,6,negative,-0.1531,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6247578994838586,3
+298,Im glad there are still others like us.,39,8,positive,0.6705,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.689136688680072,0
+299,"Do you have friends and family, Spiller?",40,7,positive,0.4767,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.4003354428847948,4
+300,"Family? No, just me.",20,4,negative,-0.296,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6248986649148522,1
+301,"Well, I hope you can come again.",32,7,positive,0.6124,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6889634765504953,0
+302,My mothers stew,15,3,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6247905960755511,2
+303,Haru?,5,1,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.624955589200095,3
+304,"Arrietty, your stitches",23,3,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6249823670879809,2
+305,Pull it apart and do it again.,30,7,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+306,"Why do we need such a big sack,",31,8,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6249124394978585,3
+307,Im going to check in on Papa.,29,7,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6579926728990392,2
+308,"Papa, can I come in?",20,5,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.42606928896262625,6
+309,Hows your leg?,14,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6248415740010692,3
+310,Ill be walking soon.,20,4,negative,-0.4215,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.685850552626084,3
+311,Papa?,5,1,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6249414988664691,2
+312,Are we going to move?,21,5,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6652680979398301,2
+313,We were seen.,13,3,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6247877801748273,0
+314,I dont think every human is dangerous.,38,7,negative,-0.4767,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.33650339923042116,4
+315,Arrietty...,11,1,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6249823670879809,2
+316,"Before you were born, there were",32,6,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+317,One family went missing.,24,4,negative,-0.296,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.7363849394590741,1
+318,The other one moved away.,25,5,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.7241559973774477,1
+319,They were seen by humans.,25,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.4102722440541854,5
+320,"No matter what happens,",23,4,negative,-0.2732,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6247034415117109,3
+321,Papa...,7,1,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6249414988664691,2
+322,What in heavens name!,21,4,positive,0.4574,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.624809590924715,3
+323,Mother!,7,1,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249700619469731,1
+324,It wont open.,13,3,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.414709327048588,6
+325,The doorframe buckled.,22,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+326,The wall!,9,2,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+327,Homily!,7,1,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.62482364214111,1
+328,Homily!,7,1,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.62482364214111,1
+329,I always dreamed,16,3,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6884464555343146,1
+330,Gather only what we need.,25,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6249124394978585,3
+331,We cant carry all that.,23,5,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6248689023642688,0
+332,"And, Homily,",12,2,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.62482364214111,1
+333,Ill make sure is safe.,22,5,positive,0.34,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.5599585269803854,3
+334,- Stay with your mother.,24,4,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6877790187394757,1
+335,You finally came.,17,3,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6890489591793673,0
+336,Do you like your new kitchen?,29,6,positive,0.3612,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6891282591484569,1
+337,Our house is a disaster.,24,5,negative,-0.6249,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6249084543242891,0
+338,But it doesnt matter.,21,4,neutral,-0.0286,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6890576198174908,3
+339,Can I look?,11,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.624881472787901,3
+340,Youre beautiful.,16,2,positive,0.5994,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.41918509876234206,4
+341,We have to move.,16,4,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6248384825466635,2
+342,We were seen.,13,3,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6247877801748273,0
+343,Borrowers arent meant to be seen.,33,6,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.7247898775802313,0
+344,Borrowers?,10,1,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6247135411492695,0
+345,We borrow from humans.,22,4,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6852778929897335,3
+346,Things we need.,15,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6249124394978585,3
+347,Soap and cookies and sugar.,27,5,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6248801424073278,0
+348,Even my great-grandfather,25,4,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6854862862055927,0
+349,No one ever saw them?,21,5,negative,-0.296,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.5272383762647375,3
+350,Probably.,9,1,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6247818321359474,1
+351,Is all my fault.,16,4,negative,-0.4019,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6246395996373778,2
+352,"Niya, dont be like that. Be nice to her.",40,9,positive,0.1754,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.7206119067042298,1
+353,Are there other little people,29,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6891268578775469,3
+354,"No, is just",11,3,negative,-0.296,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+355,What about in other houses?,27,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+356,Im sure there are some.,23,5,positive,0.3182,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6247189908659349,1
+358,Soon youll be the only one left.,32,7,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.4175255823695689,4
+359,"Every year theres fewer of you, right?",38,7,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.7444260697278459,1
+360,"Youre a doomed species, you know.",33,6,negative,-0.6369,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.7171148192031565,1
+361,Thas not true!,14,3,negative,-0.3867,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6761896853296971,2
+362,There are lots more of us.,26,6,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6226592282617812,1
+363,Spiller?,8,1,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6248693217753429,3
+364,Hes one of us.,14,4,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6873431980677863,1
+365,And he said there are lots more.,32,7,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6883462778484538,1
+366,Do you know how many people,27,6,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.5028750217490483,2
+367,There are 6.7 billion of us.,28,7,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6148581336652581,2
+368,Six point seven billion?,24,4,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6828155866585846,3
+369,What about you?,15,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+370,I dont know.,12,3,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6873010582717214,1
+371,Theres probably just a few of you.,34,7,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6863197178649795,1
+372,"Until my mom told me,",21,5,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6248052774251728,1
+373,Lots of species are already extinct.,36,6,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6954676189299506,2
+374,"Ive only seen them in books, though.",36,7,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.539259092938327,2
+375,So many beautiful species...,28,4,positive,0.6344,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.509729154172484,2
+376,"But the environment changed,",28,4,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6162056939026822,0
+377,"Is sad, but thas what fate",26,6,negative,-0.2617,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6822232102078639,3
+378,"Fate, you say?",14,3,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6827043983680723,2
+379,Youre the one who changed things.,33,6,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.7194536720626915,1
+380,We have to survive.,19,4,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6246921904573758,3
+381,"So were leaving,",16,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6249264212476194,3
+382,"Well make do, we always have.",29,6,positive,0.2732,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6707247880232418,1
+383,Were not going to die out that easily!,38,8,positive,0.7039,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.662304402583292,1
+384,Im sorry. Youre right.,22,4,negative,-0.0772,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.4931074667837678,1
+385,Im the one whos going to die.,29,7,negative,-0.5994,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.7345423144827055,1
+386,Is my heart.,12,3,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6247172393126469,2
+387,"Theyre going to operate next week,",34,6,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.5567283027669414,1
+388,Your heart?,11,2,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6247172393126469,2
+389,Ive always been sick.,21,4,negative,-0.5106,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.7183672670444055,1
+390,"From the moment I saw you,",26,6,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6249432639162714,3
+391,I cant even do that.,20,5,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6887966997782429,0
+392,I hope you can forgive me.,26,6,positive,0.6124,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6249432840698675,0
+393,I didnt know you were so sick.,30,7,negative,-0.6418,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.5242683509271372,1
+394,What in the world is this doing here?,37,8,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.624837022940085,2
+395,Is the kitchen from the doll house!,35,7,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.4224086500665532,4
+396,Found you!,10,2,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6247630863268738,2
+397,Whas wrong?,11,2,negative,-0.4767,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6243768052029207,3
+398,My mother... I heard her voice.,31,6,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249700619469731,1
+399,This really is a great kitchen.,31,6,positive,0.6573,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6841405889362431,1
+400,"Youre not the only little one here, I bet.",42,9,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.43541060310724566,4
+401,I have to go.,13,4,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+402,Let me out! Help me!,20,5,positive,0.508,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6890177162981311,2
+403,The ceilings tilted.,20,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+404,Hello? Squeaky Klean Service?,29,4,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.7252249482572684,2
+405,Can you make an urgent house call?,34,7,positive,0.2023,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6820862087256969,0
+406,Theres something small in the house.,36,6,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.4037901835737052,4
+407,Not mice?,9,2,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6248007008289495,0
+408,I dont want them killed.,24,5,positive,0.5216,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.678003763127139,1
+409,You need trapping services?,27,4,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6249124394978585,3
+410,"Yes, thas it. I want you to trap them.",38,9,positive,0.1779,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.7441683343429795,3
+411,Sho! Sho!,9,2,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6249340159346826,0
+412,Arrietty!,9,1,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6249823670879809,2
+413,Mothers gone!,13,2,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6823393954252319,2
+414,Someone took the roof off.,26,5,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6138209888642743,0
+415,Momma...,8,1,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+416,Well find her.,14,3,positive,0.2732,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6247578994838586,3
+417,Is locked.,10,2,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+418,Les try the room next door.,27,6,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.5233408011362151,1
+419,It wont budge.,14,3,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6248804823555638,2
+420,Wait!,5,1,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249170525608093,1
+421,I can fit.,10,3,positive,0.3612,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+422,Amazing!,8,1,positive,0.6239,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6247245599977402,1
+423,"No, thas not it.",16,4,negative,-0.296,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6204308770434619,3
+424,Theres a dirt road. Turn in there.,34,7,negative,-0.34,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6825470184095676,3
+425,- Before the bridge?,20,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+426,Haru opened this.,17,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.624955589200095,3
+427,Then she must have,18,4,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6247827419325914,0
+428,Are you okay?,13,3,positive,0.2263,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6249502058202449,0
+429,Whas taking them so long?,25,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6886801800729809,3
+430,Mother! Where are you?,22,4,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249700619469731,1
+431,But the lock...,15,3,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6247037952526521,0
+432,Lock?,5,1,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6247037952526521,0
+433,Could I have some hot milk?,27,6,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.624845406206089,3
+434,"Okay, wait just a minute.",25,5,positive,0.2263,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.5166216318765527,1
+435,Thanks.,7,1,positive,0.4404,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6249532229287867,0
+436,Im a little hungry.,19,4,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6249393422804421,3
+437,Mother!,7,1,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249700619469731,1
+438,Mother!,7,1,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249700619469731,1
+439,- Mother?,9,1,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249700619469731,1
+440,"Here I am, Arrietty!",20,4,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6249823670879809,2
+441,Mother!,7,1,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249700619469731,1
+442,Arrietty!,9,1,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6249823670879809,2
+443,There they are.,15,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+444,Another human!,14,2,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.686610023874773,3
+445,"Is all right, Mother.",21,4,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6892435803930707,1
+446,Wed like to take a look around first.,37,8,positive,0.3612,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.5880325949631958,2
+447,Take your time.,15,3,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.40416702544920363,6
+448,Now who can this be?,20,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+449,Haru? Haru!,11,2,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.624955589200095,3
+450,Whas going on here?,19,4,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.4054712279594057,5
+451,Is finally happened.,20,3,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6246433246530293,0
+452,Little people?,14,2,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6891268578775469,3
+453,Thas right.,11,2,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.3964274265465883,4
+454,And what little thieves they are!,33,6,negative,-0.5104,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6877415926639227,3
+455,Is really true.,15,3,positive,0.4754,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6246732046946888,2
+456,They steal from all over the house.,35,7,negative,-0.4939,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6249084543242891,0
+457,Thas why things were going missing.,35,6,negative,-0.296,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.7071601821190773,2
+458,"Haru, whas gotten into you?",27,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.7239051010924438,3
+459,All these years I thought,25,5,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.689007838938381,2
+460,"Well, it wasnt.",15,3,positive,0.2732,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6246300427414219,0
+461,You certainly didnt need,24,4,positive,0.34,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.40401718166984046,5
+462,Wed better hurry.,17,3,positive,0.4404,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.7250508532007736,2
+463,Youll believe me when you see this.,35,7,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.7118056763090552,2
+464,This is their nest.,19,4,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6247359055084649,1
+465,Nest?,5,1,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6247359055084649,1
+466,It looks like a pile of old junk to me.,39,10,positive,0.3612,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6748046977964526,0
+467,What? I swear I saw it.,23,6,negative,-0.0516,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6877092031629075,3
+468,"Haru, Im sending",16,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.624955589200095,3
+469,"Now, wait just a minute.",24,5,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6882778880753916,1
+470,The dollhouse!,14,2,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6207842187262562,0
+471,Young Master?,13,2,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6889393299588406,2
+472,All right.,10,2,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249630375916335,1
+473,You wont believe this.,22,4,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6884470263613716,2
+474,"Youll see, is gone.",19,4,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.7077616119563845,2
+475,Is not gone.,12,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6164148768094297,3
+476,Such a pleasure to look at.,27,6,positive,0.5719,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.624881472787901,3
+477,"Wait, I can prove it!",21,5,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249170525608093,1
+478,I wonder whas gotten into Haru.,31,6,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.7239051010924438,3
+480,"Fresh herbs, how lovely.",24,4,positive,0.7269,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6223984311174467,0
+481,Someone was making tea!,23,4,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.682012446914244,3
+482,Is just as my father said.,26,6,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.4011037554835786,4
+483,"Yes, there are.",15,3,positive,0.4019,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6249343069041192,3
+484,So Haru really saw them.,24,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6892489074375449,3
+485,Though she accused them of stealing.,36,6,negative,-0.7096,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6246362809169093,2
+486,Theyre not thieves at all!,26,5,positive,0.4577,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6889708650038194,3
+487,"I mean, I wish I could see them.",32,8,positive,0.4019,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.5078941509071787,2
+488,I bet theyre here somewhere.,28,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6889269955044481,3
+489,Im sure they are.,17,4,positive,0.3182,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6247189908659349,1
+490,"Excuse me, maam!",16,3,positive,0.1511,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6248094605462015,0
+491,Where would you like us to start?,33,7,positive,0.3612,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.687078347786258,1
+492,Are you all right?,18,4,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249630375916335,1
+493,It got away.,12,3,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.39652609774459335,4
+494,I had one and it got away!,26,7,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.5045233499574212,1
+495,Is not just my imagination.,27,5,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+496,Next time I swear Ill get them!,31,7,negative,-0.5093,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.4842727659321289,3
+497,How far is it to where,22,6,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6247300840072428,1
+498,Is just outside the forest.,27,5,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6247286424328422,0
+499,Im already worn out.,20,4,negative,-0.296,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6889231337963592,2
+500,Les hurry.,10,2,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6884588348682392,2
+501,I cant do it...,15,4,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6248689023642688,0
+502,Better have something to eat.,29,5,positive,0.4404,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6841504716174216,2
+503,What?,5,1,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+504,Im so sorry.,12,3,negative,-0.1513,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6248184169818186,2
+505,Is my fault we had to leave,27,7,negative,-0.4404,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.4032203414610161,6
+506,Thas in the past.,17,4,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6863338275070011,3
+507,"Well make another wonderful house,",34,5,positive,0.7003,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.7392674881377814,0
+508,Im going outside for a bit.,27,6,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.7236351487046917,0
+509,Dont go too far now.,20,5,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6876032541790127,1
+510,Niya!,5,1,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249183290765691,1
+511,Niya...,7,1,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6249183290765691,1
+512,Just a little further.,22,4,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6249393422804421,3
+513,Spiller!,8,1,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6248693217753429,3
+514,Thas everything.,16,2,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.676109638194753,2
+515,Now les get moving.,19,4,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6890976337415107,2
+516,Okay.,5,1,positive,0.2263,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6249502058202449,0
+517,"Mother, are you all right?",26,5,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.6892435803930707,1
+518,Arrietty!,9,1,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6249823670879809,2
+519,Sho!,4,1,neutral,0.0,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6249340159346826,0
+520,Arrietty...,11,1,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6249823670879809,2
+521,Were leaving now.,17,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.6249264212476194,3
+522,Im glad I made it.,18,5,positive,0.4588,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6892345631235044,0
+523,Niya showed me the way.,23,5,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.689088862207408,1
+524,Thanks. Take care of yourself.,30,5,positive,0.7269,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.5329818925713963,2
+525,I brought this.,15,3,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+526,I hope youll accept it this time.,33,7,positive,0.6705,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.7245849856729796,0
+527,Thank you.,10,2,positive,0.3612,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6249217890345132,0
+528,I have to go.,13,4,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+529,When is your operation?,23,4,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+530,The day after tomorrow.,23,4,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+531,Im going to be okay.,20,5,positive,0.2263,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.686767591889717,0
+532,For luck.,9,2,positive,0.4588,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+533,Thanks.,7,1,positive,0.4404,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6249532229287867,0
+534,You protected me after all.,27,5,positive,0.4404,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+535,Arrietty...,11,1,neutral,0.0,2,"arrietty, papa, les, see, take, get, wont, care, got, pod",0.6249823670879809,2
+536,I hope you have the best life ever.,35,8,positive,0.7964,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.7226202523057266,0
+537,Goodbye.,8,1,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+538,"Arrietty, youre a part of me now.",33,7,neutral,0.0,3,"mother, right, youre, dont, one, niya, wait, family, way, always",0.4141924326437638,4
+539,"Ill never forget you, ever.",27,5,negative,-0.281,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.7478692855476282,3
+540,The End,7,2,neutral,0.0,0,"haru, saw, ill, little, yes, leaving, need, whas, thas, people",0.25,4
+541,Best watched using Open Subtitles MKV Player,44,7,positive,0.6369,1,"thanks, okay, hope, sho, best, thank, time, house, seen, going",0.6892305409870823,0
